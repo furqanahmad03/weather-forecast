@@ -71,9 +71,9 @@ country.addEventListener('keypress', (e) => {
 $(document).ready(function () {
   console.log("JS is working properly!")
   let date = new Date();
-  if(screen.width<=768){
+  if (screen.width <= 768) {
     let hide = document.querySelectorAll('.hide');
-    hide.forEach((elm)=>{
+    hide.forEach((elm) => {
       elm.style.display = "none";
     })
   }
@@ -85,6 +85,13 @@ $(document).ready(function () {
     document.querySelector('#moon').style.display = "block";
     document.querySelector('#sun').style.display = "none";
   }
+
+  if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+    document.documentElement.classList.add('dark')
+  } else {
+    document.documentElement.classList.remove('dark')
+  }
+
   let url = `https://api.openweathermap.org/data/2.5/weather?q=Mian Channu&appid=6618b265c24f3e0e2f3821f553b1a57e`;
   populateData(url);
 })
