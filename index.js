@@ -57,14 +57,14 @@ let search = document.getElementById('search');
 search.addEventListener('click', (e) => {
   e.preventDefault();
   let country = document.getElementById('country').value;
-  url = `https://api.openweathermap.org/data/2.5/weather?q=${country}&appid=6618b265c24f3e0e2f3821f553b1a57e`;
+  let url = `https://api.openweathermap.org/data/2.5/weather?q=${country}&appid=6618b265c24f3e0e2f3821f553b1a57e`;
   populateData(url);
 })
 country.addEventListener('keypress', (e) => {
   if (e.key === "Enter") {
     e.preventDefault();
     let country = document.getElementById('country').value;
-    url = `https://api.openweathermap.org/data/2.5/weather?q=${country}&appid=6618b265c24f3e0e2f3821f553b1a57e`;
+    let url = `https://api.openweathermap.org/data/2.5/weather?q=${country}&appid=6618b265c24f3e0e2f3821f553b1a57e`;
     populateData(url);
   }
 })
@@ -85,7 +85,7 @@ $(document).ready(function () {
     document.querySelector('#moon').style.display = "block";
     document.querySelector('#sun').style.display = "none";
   }
-  url = `https://api.openweathermap.org/data/2.5/weather?q=Mian Channu&appid=6618b265c24f3e0e2f3821f553b1a57e`;
+  let url = `https://api.openweathermap.org/data/2.5/weather?q=Mian Channu&appid=6618b265c24f3e0e2f3821f553b1a57e`;
   populateData(url);
 })
 
