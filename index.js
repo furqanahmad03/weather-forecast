@@ -69,7 +69,7 @@ country.addEventListener('keypress', (e) => {
   }
 })
 $(document).ready(function () {
-  // document.getElementById('checkbox').click()
+  console.log("JS is working properly!")
   let date = new Date();
   if(screen.width<=768){
     let hide = document.querySelectorAll('.hide');
