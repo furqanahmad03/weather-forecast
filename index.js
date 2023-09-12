@@ -8,6 +8,9 @@ let populateData = function (url) {
         try {
           if (response["cod"] === "404") {
             alert(response["message"]);
+            document.getElementById('country').value = "";
+            document.getElementById('country').blur();
+            document.getElementById('preloader').style.display = "none";
             throw new Error("Error: Wrong City Entered");
           }
         } catch (error) {
@@ -19,10 +22,10 @@ let populateData = function (url) {
         document.querySelector(".longitude").innerHTML = response["coord"]["lon"]
         document.querySelector(".latitude").innerHTML = response["coord"]["lat"]
         document.querySelector(".description").innerHTML = response["weather"]["0"]["main"] + ", " + response["weather"]["0"]["description"]
-        document.querySelector(".temp-deg").innerHTML = (parseFloat(response["main"]["temp"]) - 273.15).toFixed(1);
+        document.querySelector(".temp-deg").innerHTML = (parseFloat(response["main"]["temp"]) - 273.15).toFixed(1) + `<sup class="font-medium dark:text-white">&deg;</sup>`;
         document.querySelector(".temp-fh").innerHTML = ((parseFloat(response["main"]["temp"]) - 273.15) * 9 / 5 + 32).toFixed(1) + "&deg;F";
-        document.querySelector(".min-temp").innerHTML = ((parseFloat(response["main"]["temp_min"]) - 273.15)).toFixed(1);
-        document.querySelector(".max-temp").innerHTML = ((parseFloat(response["main"]["temp_max"]) - 273.15)).toFixed(1);
+        document.querySelector(".min-temp").innerHTML = ((parseFloat(response["main"]["temp_min"]) - 273.15)).toFixed(1) + `<span class="font-medium">&deg;</span>`;
+        document.querySelector(".max-temp").innerHTML = ((parseFloat(response["main"]["temp_max"]) - 273.15)).toFixed(1) + `<span class="font-medium">&deg;</span>`;
         document.querySelector(".feels-like").innerHTML = parseInt(response["main"]["feels_like"]) - 273 + "&deg;";
 
         document.querySelector(".wind-speed").innerHTML = response["wind"]["speed"] + " mph"
@@ -49,6 +52,9 @@ let populateData = function (url) {
           document.querySelector(".GUST").style.visibility = "visible";
           document.querySelector(".gusts").innerHTML = response["wind"]["gust"] + " mph"
         }
+        document.getElementById('country').value = "";
+        document.getElementById('country').blur();
+        document.getElementById('preloader').style.display = "none";
       }
     })
 }
@@ -56,6 +62,7 @@ let populateData = function (url) {
 let search = document.getElementById('search');
 search.addEventListener('click', (e) => {
   e.preventDefault();
+  document.getElementById('preloader').style.display = "block";
   let country = document.getElementById('country').value;
   let url = `https://api.openweathermap.org/data/2.5/weather?q=${country}&appid=6618b265c24f3e0e2f3821f553b1a57e`;
   populateData(url);
@@ -63,6 +70,7 @@ search.addEventListener('click', (e) => {
 country.addEventListener('keypress', (e) => {
   if (e.key === "Enter") {
     e.preventDefault();
+    document.getElementById('preloader').style.display = "block";
     let country = document.getElementById('country').value;
     let url = `https://api.openweathermap.org/data/2.5/weather?q=${country}&appid=6618b265c24f3e0e2f3821f553b1a57e`;
     populateData(url);
@@ -102,6 +110,11 @@ $(document).ready(function () {
           .then(response => response.json())
           .then((response) => {
             let url = `https://api.openweathermap.org/data/2.5/weather?q=${response["name"]}&appid=6618b265c24f3e0e2f3821f553b1a57e`;
+            populateData(url);
+          })
+          .catch((error) => {
+            console.log("Error Occured: " + error);
+            let url = `https://api.openweathermap.org/data/2.5/weather?q=Islamabad&appid=6618b265c24f3e0e2f3821f553b1a57e`;
             populateData(url);
           })
       },
