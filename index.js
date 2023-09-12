@@ -104,7 +104,7 @@ $(document).ready(function () {
         })
     }, (error) => {
       console.log("Error Occured: " + error);
-      let url = `https://api.openweathermap.org/data/2.5/weather?q=Lahore&appid=6618b265c24f3e0e2f3821f553b1a57e`;
+      let url = `https://api.openweathermap.org/data/2.5/weather?q=Islamabad&appid=6618b265c24f3e0e2f3821f553b1a57e`;
       populateData(url);
     })
   })()
