@@ -93,20 +93,23 @@ $(document).ready(function () {
   }
 
   (function () {
-    navigator.geolocation.getCurrentPosition((position) => {
-      let longitude = position.coords.longitude;
-      let latitude = position.coords.latitude;
-      let url = `https://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&appid=6618b265c24f3e0e2f3821f553b1a57e`;
-      fetch(url)
-        .then(response => response.json())
-        .then((response) => {
-          let url = `https://api.openweathermap.org/data/2.5/weather?q=${response["name"]}&appid=6618b265c24f3e0e2f3821f553b1a57e`
-        })
-    }, (error) => {
-      console.log("Error Occured: " + error);
-      let url = `https://api.openweathermap.org/data/2.5/weather?q=Islamabad&appid=6618b265c24f3e0e2f3821f553b1a57e`;
-      populateData(url);
-    })
+    navigator.geolocation.getCurrentPosition(
+      (position) => {
+        let longitude = position.coords.longitude;
+        let latitude = position.coords.latitude;
+        let url = `https://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&appid=6618b265c24f3e0e2f3821f553b1a57e`;
+        fetch(url)
+          .then(response => response.json())
+          .then((response) => {
+            let url = `https://api.openweathermap.org/data/2.5/weather?q=${response["name"]}&appid=6618b265c24f3e0e2f3821f553b1a57e`;
+            populateData(url);
+          })
+      },
+      (error) => {
+        console.log("Error Occured: " + error);
+        let url = `https://api.openweathermap.org/data/2.5/weather?q=Islamabad&appid=6618b265c24f3e0e2f3821f553b1a57e`;
+        populateData(url);
+      })
   })()
 })
 
