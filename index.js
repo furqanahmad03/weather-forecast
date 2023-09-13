@@ -140,6 +140,12 @@ checkbox.addEventListener('click', (e) => {
   document.getElementsByTagName('html')[0].classList.toggle('dark');
 })
 
+window.addEventListener('keypress',(e)=>{
+  if(e.key === 'I' || e.key === 'i'){
+    document.getElementById('country').focus();
+  }
+})
+
 
 const states = [
   "Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut",
