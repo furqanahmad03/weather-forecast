@@ -168,7 +168,7 @@ inputElement.addEventListener('input', ()=>{
   if(filteredStates.length > 0) {
     filteredStates.forEach((state)=>{
       const litElement = document.createElement('li');
-      litElement.classList.add("py-2","px-3","cursor-pointer","border-transparent","rounded-md","transition","hover:bg-[#2d2d2d]");
+      litElement.classList.add("py-2","px-3","cursor-pointer","border-transparent","rounded-md","transition","dark:hover:bg-[#2d2d2d]","hover:bg-gray-400");
       litElement.textContent = state;
       litElement.addEventListener('click', ()=>{
         inputElement.value = state;

@@ -10,7 +10,9 @@
 </head>
 
 <body class="h-screen dark:bg-dark">
-  <div id="preloader" class="bg-black bg-[url('/images/loader.gif')] bg-no-repeat bg-center h-screen w-screen md:bg-[length:15%_auto] xsm:bg-[length:30%_auto] fixed z-50"></div>
+  <div id="preloader"
+    class="bg-black bg-[url('/images/loader.gif')] bg-no-repeat bg-center h-screen w-screen md:bg-[length:15%_auto] xsm:bg-[length:30%_auto] fixed z-50">
+  </div>
   <div class="sm:container sm:px-7 xsm:px-5 m-auto">
     <header class="py-4 flex">
       <div class="grow-[1] relative">
@@ -18,13 +20,16 @@
         <input
           class="bg-gray-300 dark:bg-gray-700 text-black rounded-3xl px-6 py-2 w-full placeholder-gray-500 dark:placeholder-gray-400 dark:text-white"
           type="text" id="country" placeholder="Search here">
-        <button class="absolute px-3.5 py-2 right-1 top-1/2 transform -translate-y-1/2" type="button" id="search"><img class="h-4"
-            src="images/glass.png" alt="search"></button>
-        <ul class="bg-gray-700 mt-1 p-1 rounded-lg absolute w-full z-10 max-h-[40vh] text-white font-semibold overflow-scroll hidden" id="suggestions-list">
+        <button class="absolute px-3.5 py-2 right-1 top-1/2 transform -translate-y-1/2" type="button" id="search"><img
+            class="h-4" src="images/glass.png" alt="search"></button>
+        <ul
+          class="dark:bg-gray-700 bg-gray-300 mt-1 p-1 rounded-lg absolute w-full z-10 max-h-[40vh] text-black dark:text-white font-semibold overflow-scroll hidden"
+          id="suggestions-list">
         </ul>
       </div>
       <div class="ml-2 px-3.5 py-2 bg-gray-300 dark:bg-gray-700 rounded-full">
-        <a href="https://linktr.ee/furqanahmad03" target="_blank"><i class="fa fa-cog h-3 w-3 dark:text-white" aria-hidden="true"></i></a>
+        <a href="https://linktr.ee/furqanahmad03" target="_blank"><i class="fa fa-cog h-3 w-3 dark:text-white"
+            aria-hidden="true"></i></a>
       </div>
       <div class="sm:ml-3 mt-2 sm:w-fit  xsm:w-[90px] xsm:text-center xsm:ml-0">
         <input type="checkbox" class="checkbox absolute opacity-0" id="checkbox">
@@ -59,14 +64,15 @@
           <div class="flex items-end">
             <h1 class="text-black font-extrabold sm:text-9xl xsm:text-8xl"><span class="temp-deg dark:text-white">
                 <!-- 26 -->
-                </span></h1>
+              </span></h1>
             <p class="font-semibold sm:mb-3 -ml-5 text-gray-500 dark:text-gray-300"><span class="temp-fh">
                 <!-- 123 -->
-                </span><!--&deg;F--></p>
+              </span><!--&deg;F--></p>
           </div>
           <p class="capitalize description dark:text-white lg:text-start md:text-start  xsm:text-center">
             <!-- Clear Skies, possible
-            cyclone --> </p>
+            cyclone -->
+          </p>
         </div>
       </div>
       <div class="flex flex-col items-end">
@@ -77,7 +83,7 @@
               <h4 class="text-base text-gray-500 dark:text-gray-300 -mb-2 sm:mb-0">Min</h4>
               <p class="font-extrabold md:text-5xl dark:text-white sm:text-xl"><span class="min-temp">
                   <!-- 23 -->
-                  </span></p>
+                </span></p>
             </div>
           </div>
           <div class="flex items-center">
@@ -86,13 +92,13 @@
               <h4 class="text-base text-gray-500 dark:text-gray-300 -mb-2 sm:mb-0">Max</h4>
               <p class="font-extrabold md:text-5xl dark:text-white sm:text-xl"><span class="max-temp">
                   <!-- 30 -->
-                  </span></p>
+                </span></p>
             </div>
           </div>
         </div>
         <h3 class="text-red-500 font-semibold xsm:mt-3">Feels Like <span class="feels-like">
             <!-- 25&deg; -->
-            </span></h3>
+          </span></h3>
       </div>
     </div>
     <div
