@@ -10,6 +10,7 @@ let populateData = function (url) {
             alert(response["message"]);
             document.getElementById('country').value = "";
             document.getElementById('country').blur();
+            document.getElementById('suggestions-list').style.display = "none";
             document.getElementById('preloader').style.display = "none";
             throw new Error("Error: Wrong City Entered");
           }
@@ -54,6 +55,7 @@ let populateData = function (url) {
         }
         document.getElementById('country').value = "";
         document.getElementById('country').blur();
+        document.getElementById('suggestions-list').style.display = "none";
         document.getElementById('preloader').style.display = "none";
       }
     })
