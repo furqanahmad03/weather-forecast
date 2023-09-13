@@ -13,13 +13,15 @@
   <div id="preloader" class="bg-black bg-[url('/images/loader.gif')] bg-no-repeat bg-center h-screen w-screen md:bg-[length:15%_auto] xsm:bg-[length:30%_auto] fixed z-10"></div>
   <div class="sm:container sm:px-7 xsm:px-5 m-auto">
     <header class="py-4 flex">
-      <div class="grow-[1]">
+      <div class="grow-[1] relative">
         <label for="country"></label>
         <input
           class="bg-gray-300 dark:bg-gray-700 text-black rounded-3xl px-6 py-2 w-full placeholder-gray-500 dark:placeholder-gray-400 dark:text-white"
           type="text" id="country" placeholder="Search here">
-        <button class="absolute px-3.5 py-2 -translate-x-11 translate-y-1" type="button" id="search"><img class="h-4"
+        <button class="absolute px-3.5 py-2 right-2 top-1/2 transform -translate-y-1/2" type="button" id="search"><img class="h-4"
             src="images/glass.png" alt="search"></button>
+        <ul class="bg-gray-700 mt-1 p-1 rounded-lg absolute w-full z-10 max-h-[40vh] text-white font-semibold overflow-scroll hidden" id="suggestions-list">
+        </ul>
       </div>
       <div class="ml-2 px-3.5 py-2 bg-gray-300 dark:bg-gray-700 rounded-full">
         <a href="https://linktr.ee/furqanahmad03" target="_blank"><i class="fa fa-cog h-3 w-3 dark:text-white" aria-hidden="true"></i></a>

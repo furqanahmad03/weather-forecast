@@ -137,3 +137,47 @@ let checkbox = document.getElementById('checkbox');
 checkbox.addEventListener('click', (e) => {
   document.getElementsByTagName('html')[0].classList.toggle('dark');
 })
+
+
+const states = [
+  "Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut",
+  "Delaware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa",
+  "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan",
+  "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire",
+  "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma",
+  "Oregon", "Pennsylvania", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas",
+  "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming"
+];
+const inputElement = document.getElementById('country');
+const suggestionsList = document.getElementById('suggestions-list');
+
+inputElement.addEventListener('input', ()=>{
+  const inputText = inputElement.value.trim().toLowerCase();
+  const filteredStates = states.filter((state)=>{
+    return state.toLowerCase().includes(inputText);
+  });
+  suggestionsList.innerHTML = "";
+  if(filteredStates.length > 0) {
+    filteredStates.forEach((state)=>{
+      const litElement = document.createElement('li');
+      litElement.classList.add("py-2","px-3","cursor-pointer","border-transparent","rounded-md","transition","hover:bg-[#2d2d2d]");
+      litElement.textContent = state;
+      litElement.addEventListener('click', ()=>{
+        inputElement.value = state;
+        suggestionsList.innerHTML = "";
+        document.getElementById('search').click();
+      })
+      suggestionsList.appendChild(litElement);
+    })
+    suggestionsList.style.display = "block";
+  }
+  else{
+    suggestionsList.style.display = "none";
+  }
+})
+
+document.addEventListener("click", function (e) {
+  if (!suggestionsList.contains(e.target) && e.target !== inputElement) {
+    suggestionsList.style.display = "none";
+  }
+});
