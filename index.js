@@ -1,4 +1,4 @@
-let populateData = function (url) {
+let populateData = function (url, city_name) {
   let response = fetch(url)
     .then((response) => {
       return response.json();
@@ -19,7 +19,7 @@ let populateData = function (url) {
           return;
         }
 
-        document.querySelector(".location-name").innerHTML = response["name"]
+        document.querySelector(".location-name").innerHTML = city_name;
         document.querySelector(".longitude").innerHTML = response["coord"]["lon"]
         document.querySelector(".latitude").innerHTML = response["coord"]["lat"]
         document.querySelector(".description").innerHTML = response["weather"]["0"]["main"] + ", " + response["weather"]["0"]["description"]
@@ -53,18 +53,21 @@ let populateData = function (url) {
           document.querySelector(".GUST").style.visibility = "visible";
           document.querySelector(".gusts").innerHTML = response["wind"]["gust"] + " mph"
         }
-        document.getElementById('country').value = "";
-        document.getElementById('country').blur();
-        document.getElementById('suggestions-list').style.display = "none";
-        document.getElementById('preloader').style.display = "none";
       }
+      if (city_name === undefined) {
+        document.querySelector(".location-name").innerHTML = document.getElementById('country').value.charAt(0).toUpperCase() + document.getElementById('country').value.slice(1).toLowerCase();
+      }
+
+      document.getElementById('country').value = "";
+      document.getElementById('country').blur();
+      suggestionsList.style.display = "none";
+      document.getElementById('preloader').style.display = "none";
     })
 }
 
 let search = document.getElementById('search');
 search.addEventListener('click', (e) => {
   e.preventDefault();
-  document.getElementById('preloader').style.display = "block";
   let country = document.getElementById('country').value;
   let url = `https://api.openweathermap.org/data/2.5/weather?q=${country}&appid=6618b265c24f3e0e2f3821f553b1a57e`;
   populateData(url);
@@ -72,7 +75,6 @@ search.addEventListener('click', (e) => {
 country.addEventListener('keypress', (e) => {
   if (e.key === "Enter") {
     e.preventDefault();
-    document.getElementById('preloader').style.display = "block";
     let country = document.getElementById('country').value;
     let url = `https://api.openweathermap.org/data/2.5/weather?q=${country}&appid=6618b265c24f3e0e2f3821f553b1a57e`;
     populateData(url);
@@ -113,24 +115,24 @@ $(document).ready(function () {
           .then((response) => {
             if (response["cod"] !== "400") {
               let url = `https://api.openweathermap.org/data/2.5/weather?q=${response["name"]}&appid=6618b265c24f3e0e2f3821f553b1a57e`;
-              populateData(url);
+              populateData(url, response["name"]);
             }
             else {
               console.log("Error Occured: " + error);
               let url = `https://api.openweathermap.org/data/2.5/weather?q=Islamabad&appid=6618b265c24f3e0e2f3821f553b1a57e`;
-              populateData(url);
+              populateData(url, "Islamabad");
             }
           })
           .catch((error) => {
             console.log("Error Occured: " + error);
             let url = `https://api.openweathermap.org/data/2.5/weather?q=Islamabad&appid=6618b265c24f3e0e2f3821f553b1a57e`;
-            populateData(url);
+            populateData(url, "Islamabad");
           })
       },
       (error) => {
         console.log("Error Occured: " + error);
         let url = `https://api.openweathermap.org/data/2.5/weather?q=Islamabad&appid=6618b265c24f3e0e2f3821f553b1a57e`;
-        populateData(url);
+        populateData(url, "Islamabad");
       })
   })()
 })
