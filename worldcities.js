@@ -24,9 +24,9 @@ const states = [
 		"geonameid": "291074"
 	},
 	{
-		"name": "Khawr Fakkān",
+		"name": "Khawr Fakkan",
 		"country": "United Arab Emirates",
-		"subcountry": "Ash Shāriqah",
+		"subcountry": "Ash Shariqah",
 		"geonameid": "291696"
 	},
 	{
@@ -50,7 +50,7 @@ const states = [
 	{
 		"name": "Sharjah",
 		"country": "United Arab Emirates",
-		"subcountry": "Ash Shāriqah",
+		"subcountry": "Ash Shariqah",
 		"geonameid": "292672"
 	},
 	{
@@ -80,7 +80,7 @@ const states = [
 	{
 		"name": "Adh Dhayd",
 		"country": "United Arab Emirates",
-		"subcountry": "Ash Shāriqah",
+		"subcountry": "Ash Shariqah",
 		"geonameid": "292953"
 	},
 	{
@@ -92,13 +92,13 @@ const states = [
 	{
 		"name": "Zaranj",
 		"country": "Afghanistan",
-		"subcountry": "Nīmrūz",
+		"subcountry": "Nīmruz",
 		"geonameid": "1120985"
 	},
 	{
 		"name": "Taloqan",
 		"country": "Afghanistan",
-		"subcountry": "Takhār",
+		"subcountry": "Takhar",
 		"geonameid": "1123004"
 	},
 	{
@@ -108,9 +108,9 @@ const states = [
 		"geonameid": "1125155"
 	},
 	{
-		"name": "Shibirghān",
+		"name": "Shibirghan",
 		"country": "Afghanistan",
-		"subcountry": "Jowzjān",
+		"subcountry": "Jowzjan",
 		"geonameid": "1125444"
 	},
 	{
@@ -126,7 +126,7 @@ const states = [
 		"geonameid": "1127110"
 	},
 	{
-		"name": "Sang-e Chārak",
+		"name": "Sang-e Charak",
 		"country": "Afghanistan",
 		"subcountry": "Sar-e Pol",
 		"geonameid": "1127628"
@@ -134,23 +134,23 @@ const states = [
 	{
 		"name": "Aībak",
 		"country": "Afghanistan",
-		"subcountry": "Samangān",
+		"subcountry": "Samangan",
 		"geonameid": "1127768"
 	},
 	{
-		"name": "Rustāq",
+		"name": "Rustaq",
 		"country": "Afghanistan",
-		"subcountry": "Takhār",
+		"subcountry": "Takhar",
 		"geonameid": "1128265"
 	},
 	{
 		"name": "Qarqīn",
 		"country": "Afghanistan",
-		"subcountry": "Jowzjān",
+		"subcountry": "Jowzjan",
 		"geonameid": "1129516"
 	},
 	{
-		"name": "Qarāwul",
+		"name": "Qarawul",
 		"country": "Afghanistan",
 		"subcountry": "Kunduz",
 		"geonameid": "1129648"
@@ -158,11 +158,11 @@ const states = [
 	{
 		"name": "Pul-e Khumrī",
 		"country": "Afghanistan",
-		"subcountry": "Wilāyat-e Baghlān",
+		"subcountry": "Wilayat-e Baghlan",
 		"geonameid": "1130490"
 	},
 	{
-		"name": "Paghmān",
+		"name": "Paghman",
 		"country": "Afghanistan",
 		"subcountry": "Kabul",
 		"geonameid": "1131316"
@@ -170,7 +170,7 @@ const states = [
 	{
 		"name": "Nahrīn",
 		"country": "Afghanistan",
-		"subcountry": "Wilāyat-e Baghlān",
+		"subcountry": "Wilayat-e Baghlan",
 		"geonameid": "1132495"
 	},
 	{
@@ -180,19 +180,19 @@ const states = [
 		"geonameid": "1133453"
 	},
 	{
-		"name": "Mehtar Lām",
+		"name": "Mehtar Lam",
 		"country": "Afghanistan",
-		"subcountry": "Laghmān",
+		"subcountry": "Laghman",
 		"geonameid": "1133574"
 	},
 	{
-		"name": "Mazār-e Sharīf",
+		"name": "Mazar-e Sharīf",
 		"country": "Afghanistan",
 		"subcountry": "Balkh",
 		"geonameid": "1133616"
 	},
 	{
-		"name": "Lashkar Gāh",
+		"name": "Lashkar Gah",
 		"country": "Afghanistan",
 		"subcountry": "Helmand",
 		"geonameid": "1134720"
@@ -222,9 +222,9 @@ const states = [
 		"geonameid": "1136575"
 	},
 	{
-		"name": "Khāsh",
+		"name": "Khash",
 		"country": "Afghanistan",
-		"subcountry": "Nīmrūz",
+		"subcountry": "Nīmruz",
 		"geonameid": "1136863"
 	},
 	{
@@ -240,9 +240,9 @@ const states = [
 		"geonameid": "1137807"
 	},
 	{
-		"name": "Kandahār",
+		"name": "Kandahar",
 		"country": "Afghanistan",
-		"subcountry": "Kandahār",
+		"subcountry": "Kandahar",
 		"geonameid": "1138336"
 	},
 	{
@@ -252,19 +252,19 @@ const states = [
 		"geonameid": "1138958"
 	},
 	{
-		"name": "Jalālābād",
+		"name": "Jalalabad",
 		"country": "Afghanistan",
-		"subcountry": "Nangarhār",
+		"subcountry": "Nangarhar",
 		"geonameid": "1139715"
 	},
 	{
 		"name": "Jabal os Saraj",
 		"country": "Afghanistan",
-		"subcountry": "Parvān",
+		"subcountry": "Parvan",
 		"geonameid": "1139807"
 	},
 	{
-		"name": "Herāt",
+		"name": "Herat",
 		"country": "Afghanistan",
 		"subcountry": "Herat",
 		"geonameid": "1140026"
@@ -314,7 +314,7 @@ const states = [
 	{
 		"name": "Charikar",
 		"country": "Afghanistan",
-		"subcountry": "Parvān",
+		"subcountry": "Parvan",
 		"geonameid": "1145352"
 	},
 	{
@@ -324,9 +324,9 @@ const states = [
 		"geonameid": "1147066"
 	},
 	{
-		"name": "Bāmyān",
+		"name": "Bamyan",
 		"country": "Afghanistan",
-		"subcountry": "Bāmīān",
+		"subcountry": "Bamīan",
 		"geonameid": "1147242"
 	},
 	{
@@ -336,25 +336,25 @@ const states = [
 		"geonameid": "1147290"
 	},
 	{
-		"name": "Baghlān",
+		"name": "Baghlan",
 		"country": "Afghanistan",
-		"subcountry": "Wilāyat-e Baghlān",
+		"subcountry": "Wilayat-e Baghlan",
 		"geonameid": "1147540"
 	},
 	{
-		"name": "Ārt Khwājah",
+		"name": "Art Khwajah",
 		"country": "Afghanistan",
-		"subcountry": "Takhār",
+		"subcountry": "Takhar",
 		"geonameid": "1148106"
 	},
 	{
-		"name": "Āsmār",
+		"name": "Asmar",
 		"country": "Afghanistan",
 		"subcountry": "Konar",
 		"geonameid": "1148205"
 	},
 	{
-		"name": "Asadābād",
+		"name": "Asadabad",
 		"country": "Afghanistan",
 		"subcountry": "Konar",
 		"geonameid": "1148311"
@@ -366,15 +366,15 @@ const states = [
 		"geonameid": "1148658"
 	},
 	{
-		"name": "Bāzārak",
+		"name": "Bazarak",
 		"country": "Afghanistan",
 		"subcountry": "Panjshir",
 		"geonameid": "1429434"
 	},
 	{
-		"name": "Markaz-e Woluswalī-ye Āchīn",
+		"name": "Markaz-e Woluswalī-ye Achīn",
 		"country": "Afghanistan",
-		"subcountry": "Nangarhār",
+		"subcountry": "Nangarhar",
 		"geonameid": "1469706"
 	},
 	{
@@ -390,27 +390,27 @@ const states = [
 		"geonameid": "3573374"
 	},
 	{
-		"name": "Sarandë",
+		"name": "Sarande",
 		"country": "Albania",
-		"subcountry": "Vlorë",
+		"subcountry": "Vlore",
 		"geonameid": "363243"
 	},
 	{
-		"name": "Kukës",
+		"name": "Kukes",
 		"country": "Albania",
-		"subcountry": "Kukës",
+		"subcountry": "Kukes",
 		"geonameid": "782661"
 	},
 	{
-		"name": "Korçë",
+		"name": "Korce",
 		"country": "Albania",
-		"subcountry": "Korçë",
+		"subcountry": "Korce",
 		"geonameid": "782756"
 	},
 	{
-		"name": "Gjirokastër",
+		"name": "Gjirokaster",
 		"country": "Albania",
-		"subcountry": "Gjirokastër",
+		"subcountry": "Gjirokaster",
 		"geonameid": "783148"
 	},
 	{
@@ -422,25 +422,25 @@ const states = [
 	{
 		"name": "Burrel",
 		"country": "Albania",
-		"subcountry": "Dibër",
+		"subcountry": "Diber",
 		"geonameid": "783493"
 	},
 	{
-		"name": "Vlorë",
+		"name": "Vlore",
 		"country": "Albania",
-		"subcountry": "Vlorë",
+		"subcountry": "Vlore",
 		"geonameid": "3183719"
 	},
 	{
 		"name": "Tirana",
 		"country": "Albania",
-		"subcountry": "Tiranë",
+		"subcountry": "Tirane",
 		"geonameid": "3183875"
 	},
 	{
-		"name": "Shkodër",
+		"name": "Shkoder",
 		"country": "Albania",
-		"subcountry": "Shkodër",
+		"subcountry": "Shkoder",
 		"geonameid": "3184081"
 	},
 	{
@@ -450,43 +450,43 @@ const states = [
 		"geonameid": "3184517"
 	},
 	{
-		"name": "Lushnjë",
+		"name": "Lushnje",
 		"country": "Albania",
 		"subcountry": "Fier",
 		"geonameid": "3184862"
 	},
 	{
-		"name": "Lezhë",
+		"name": "Lezhe",
 		"country": "Albania",
-		"subcountry": "Lezhë",
+		"subcountry": "Lezhe",
 		"geonameid": "3184935"
 	},
 	{
-		"name": "Laç",
+		"name": "Lac",
 		"country": "Albania",
-		"subcountry": "Lezhë",
+		"subcountry": "Lezhe",
 		"geonameid": "3185012"
 	},
 	{
-		"name": "Kuçovë",
+		"name": "Kucove",
 		"country": "Albania",
 		"subcountry": "Berat",
 		"geonameid": "3185060"
 	},
 	{
-		"name": "Krujë",
+		"name": "Kruje",
 		"country": "Albania",
-		"subcountry": "Durrës",
+		"subcountry": "Durres",
 		"geonameid": "3185082"
 	},
 	{
-		"name": "Kavajë",
+		"name": "Kavaje",
 		"country": "Albania",
-		"subcountry": "Tiranë",
+		"subcountry": "Tirane",
 		"geonameid": "3185211"
 	},
 	{
-		"name": "Fier-Çifçi",
+		"name": "Fier-Cifci",
 		"country": "Albania",
 		"subcountry": "Fier",
 		"geonameid": "3185670"
@@ -498,9 +498,9 @@ const states = [
 		"geonameid": "3185672"
 	},
 	{
-		"name": "Durrës",
+		"name": "Durres",
 		"country": "Albania",
-		"subcountry": "Durrës",
+		"subcountry": "Durres",
 		"geonameid": "3185728"
 	},
 	{
@@ -2070,7 +2070,7 @@ const states = [
 		"geonameid": "2765388"
 	},
 	{
-		"name": "Sankt Pölten",
+		"name": "Sankt Polten",
 		"country": "Austria",
 		"subcountry": "Lower Austria",
 		"geonameid": "2766429"
@@ -2088,7 +2088,7 @@ const states = [
 		"geonameid": "2766922"
 	},
 	{
-		"name": "Mödling",
+		"name": "Modling",
 		"country": "Austria",
 		"subcountry": "Lower Austria",
 		"geonameid": "2771335"
@@ -2136,7 +2136,7 @@ const states = [
 		"geonameid": "2773913"
 	},
 	{
-		"name": "Klagenfurt am Wörthersee",
+		"name": "Klagenfurt am Worthersee",
 		"country": "Austria",
 		"subcountry": "Carinthia",
 		"geonameid": "2774326"
@@ -3486,9 +3486,9 @@ const states = [
 		"geonameid": "147288"
 	},
 	{
-		"name": "Neftçala",
+		"name": "Neftcala",
 		"country": "Azerbaijan",
-		"subcountry": "Neftçala",
+		"subcountry": "Neftcala",
 		"geonameid": "147425"
 	},
 	{
@@ -3576,9 +3576,9 @@ const states = [
 		"geonameid": "584716"
 	},
 	{
-		"name": "Xaçmaz",
+		"name": "Xacmaz",
 		"country": "Azerbaijan",
-		"subcountry": "Xaçmaz",
+		"subcountry": "Xacmaz",
 		"geonameid": "584717"
 	},
 	{
@@ -3600,7 +3600,7 @@ const states = [
 		"geonameid": "584923"
 	},
 	{
-		"name": "Qaraçuxur",
+		"name": "Qaracuxur",
 		"country": "Azerbaijan",
 		"subcountry": "Baki",
 		"geonameid": "585103"
@@ -3624,7 +3624,7 @@ const states = [
 		"geonameid": "585170"
 	},
 	{
-		"name": "Sabunçu",
+		"name": "Sabuncu",
 		"country": "Azerbaijan",
 		"subcountry": "Baki",
 		"geonameid": "585184"
@@ -3684,7 +3684,7 @@ const states = [
 		"geonameid": "585568"
 	},
 	{
-		"name": "Lökbatan",
+		"name": "Lokbatan",
 		"country": "Azerbaijan",
 		"subcountry": "Baki",
 		"geonameid": "585630"
@@ -3710,11 +3710,11 @@ const states = [
 	{
 		"name": "Geoktschai",
 		"country": "Azerbaijan",
-		"subcountry": "Göyçay",
+		"subcountry": "Goycay",
 		"geonameid": "586427"
 	},
 	{
-		"name": "Hövsan",
+		"name": "Hovsan",
 		"country": "Azerbaijan",
 		"subcountry": "Baki",
 		"geonameid": "586429"
@@ -3924,13 +3924,13 @@ const states = [
 		"geonameid": "3374036"
 	},
 	{
-		"name": "Thākurgaon",
+		"name": "Thakurgaon",
 		"country": "Bangladesh",
 		"subcountry": "Rangpur Division",
 		"geonameid": "1185092"
 	},
 	{
-		"name": "Teknāf",
+		"name": "Teknaf",
 		"country": "Bangladesh",
 		"subcountry": "Chittagong",
 		"geonameid": "1185095"
@@ -3948,13 +3948,13 @@ const states = [
 		"geonameid": "1185099"
 	},
 	{
-		"name": "Dohār",
+		"name": "Dohar",
 		"country": "Bangladesh",
 		"subcountry": "Dhaka",
 		"geonameid": "1185100"
 	},
 	{
-		"name": "Jamālpur",
+		"name": "Jamalpur",
 		"country": "Bangladesh",
 		"subcountry": "Dhaka",
 		"geonameid": "1185106"
@@ -3962,19 +3962,19 @@ const states = [
 	{
 		"name": "Shibganj",
 		"country": "Bangladesh",
-		"subcountry": "Rājshāhi",
+		"subcountry": "Rajshahi",
 		"geonameid": "1185108"
 	},
 	{
-		"name": "Sātkhira",
+		"name": "Satkhira",
 		"country": "Bangladesh",
 		"subcountry": "Khulna",
 		"geonameid": "1185111"
 	},
 	{
-		"name": "Sirājganj",
+		"name": "Sirajganj",
 		"country": "Bangladesh",
-		"subcountry": "Rājshāhi",
+		"subcountry": "Rajshahi",
 		"geonameid": "1185115"
 	},
 	{
@@ -3996,27 +3996,27 @@ const states = [
 		"geonameid": "1185120"
 	},
 	{
-		"name": "Shāhzādpur",
+		"name": "Shahzadpur",
 		"country": "Bangladesh",
-		"subcountry": "Rājshāhi",
+		"subcountry": "Rajshahi",
 		"geonameid": "1185121"
 	},
 	{
-		"name": "Rāmganj",
+		"name": "Ramganj",
 		"country": "Bangladesh",
 		"subcountry": "Chittagong",
 		"geonameid": "1185127"
 	},
 	{
-		"name": "Rājshāhi",
+		"name": "Rajshahi",
 		"country": "Bangladesh",
-		"subcountry": "Rājshāhi",
+		"subcountry": "Rajshahi",
 		"geonameid": "1185128"
 	},
 	{
 		"name": "Pirojpur",
 		"country": "Bangladesh",
-		"subcountry": "Barisāl",
+		"subcountry": "Barisal",
 		"geonameid": "1185138"
 	},
 	{
@@ -4038,19 +4038,19 @@ const states = [
 		"geonameid": "1185149"
 	},
 	{
-		"name": "Nārāyanganj",
+		"name": "Narayanganj",
 		"country": "Bangladesh",
 		"subcountry": "Dhaka",
 		"geonameid": "1185155"
 	},
 	{
-		"name": "Nālchiti",
+		"name": "Nalchiti",
 		"country": "Bangladesh",
-		"subcountry": "Barisāl",
+		"subcountry": "Barisal",
 		"geonameid": "1185156"
 	},
 	{
-		"name": "Nāgarpur",
+		"name": "Nagarpur",
 		"country": "Bangladesh",
 		"subcountry": "Dhaka",
 		"geonameid": "1185159"
@@ -4068,19 +4068,19 @@ const states = [
 		"geonameid": "1185162"
 	},
 	{
-		"name": "Muktāgācha",
+		"name": "Muktagacha",
 		"country": "Bangladesh",
 		"subcountry": "Dhaka",
 		"geonameid": "1185164"
 	},
 	{
-		"name": "Mirzāpur",
+		"name": "Mirzapur",
 		"country": "Bangladesh",
 		"subcountry": "Dhaka",
 		"geonameid": "1185165"
 	},
 	{
-		"name": "Maulavi Bāzār",
+		"name": "Maulavi Bazar",
 		"country": "Bangladesh",
 		"subcountry": "Sylhet",
 		"geonameid": "1185166"
@@ -4094,13 +4094,13 @@ const states = [
 	{
 		"name": "Mehendiganj",
 		"country": "Bangladesh",
-		"subcountry": "Barisāl",
+		"subcountry": "Barisal",
 		"geonameid": "1185171"
 	},
 	{
 		"name": "Mathba",
 		"country": "Bangladesh",
-		"subcountry": "Barisāl",
+		"subcountry": "Barisal",
 		"geonameid": "1185173"
 	},
 	{
@@ -4110,7 +4110,7 @@ const states = [
 		"geonameid": "1185181"
 	},
 	{
-		"name": "Lākshām",
+		"name": "Laksham",
 		"country": "Bangladesh",
 		"subcountry": "Chittagong",
 		"geonameid": "1185183"
@@ -4134,27 +4134,27 @@ const states = [
 		"geonameid": "1185191"
 	},
 	{
-		"name": "Kālīganj",
+		"name": "Kalīganj",
 		"country": "Bangladesh",
 		"subcountry": "Khulna",
 		"geonameid": "1185199"
 	},
 	{
-		"name": "Jhingergācha",
+		"name": "Jhingergacha",
 		"country": "Bangladesh",
 		"subcountry": "Khulna",
 		"geonameid": "1185204"
 	},
 	{
-		"name": "Joypur Hāt",
+		"name": "Joypur Hat",
 		"country": "Bangladesh",
-		"subcountry": "Rājshāhi",
+		"subcountry": "Rajshahi",
 		"geonameid": "1185206"
 	},
 	{
 		"name": "Ishurdi",
 		"country": "Bangladesh",
-		"subcountry": "Rājshāhi",
+		"subcountry": "Rajshahi",
 		"geonameid": "1185207"
 	},
 	{
@@ -4166,7 +4166,7 @@ const states = [
 	{
 		"name": "Gaurnadi",
 		"country": "Bangladesh",
-		"subcountry": "Barisāl",
+		"subcountry": "Barisal",
 		"geonameid": "1185210"
 	},
 	{
@@ -4182,7 +4182,7 @@ const states = [
 		"geonameid": "1185224"
 	},
 	{
-		"name": "Rāipur",
+		"name": "Raipur",
 		"country": "Bangladesh",
 		"subcountry": "Chittagong",
 		"geonameid": "1185236"
@@ -4200,21 +4200,21 @@ const states = [
 		"geonameid": "1185241"
 	},
 	{
-		"name": "Chilmāri",
+		"name": "Chilmari",
 		"country": "Bangladesh",
 		"subcountry": "Rangpur Division",
 		"geonameid": "1185247"
 	},
 	{
-		"name": "Chhāgalnāiya",
+		"name": "Chhagalnaiya",
 		"country": "Bangladesh",
 		"subcountry": "Chittagong",
 		"geonameid": "1185249"
 	},
 	{
-		"name": "Lālmohan",
+		"name": "Lalmohan",
 		"country": "Bangladesh",
-		"subcountry": "Barisāl",
+		"subcountry": "Barisal",
 		"geonameid": "1185251"
 	},
 	{
@@ -4224,37 +4224,37 @@ const states = [
 		"geonameid": "1185252"
 	},
 	{
-		"name": "Chhātak",
+		"name": "Chhatak",
 		"country": "Bangladesh",
 		"subcountry": "Sylhet",
 		"geonameid": "1185254"
 	},
 	{
-		"name": "Bhātpāra Abhaynagar",
+		"name": "Bhatpara Abhaynagar",
 		"country": "Bangladesh",
 		"subcountry": "Khulna",
 		"geonameid": "1185260"
 	},
 	{
-		"name": "Bherāmāra",
+		"name": "Bheramara",
 		"country": "Bangladesh",
 		"subcountry": "Khulna",
 		"geonameid": "1185262"
 	},
 	{
-		"name": "Bhairab Bāzār",
+		"name": "Bhairab Bazar",
 		"country": "Bangladesh",
 		"subcountry": "Dhaka",
 		"geonameid": "1185263"
 	},
 	{
-		"name": "Bāndarban",
+		"name": "Bandarban",
 		"country": "Bangladesh",
 		"subcountry": "Chittagong",
 		"geonameid": "1185270"
 	},
 	{
-		"name": "Kālia",
+		"name": "Kalia",
 		"country": "Bangladesh",
 		"subcountry": "Khulna",
 		"geonameid": "1185272"
@@ -4266,7 +4266,7 @@ const states = [
 		"geonameid": "1185274"
 	},
 	{
-		"name": "Bājitpur",
+		"name": "Bajitpur",
 		"country": "Bangladesh",
 		"subcountry": "Dhaka",
 		"geonameid": "1185276"
@@ -4284,13 +4284,13 @@ const states = [
 		"geonameid": "1185293"
 	},
 	{
-		"name": "Tungipāra",
+		"name": "Tungipara",
 		"country": "Bangladesh",
 		"subcountry": "Dhaka",
 		"geonameid": "1185920"
 	},
 	{
-		"name": "Sarishābāri",
+		"name": "Sarishabari",
 		"country": "Bangladesh",
 		"subcountry": "Dhaka",
 		"geonameid": "1188569"
@@ -4302,7 +4302,7 @@ const states = [
 		"geonameid": "1189056"
 	},
 	{
-		"name": "Raojān",
+		"name": "Raojan",
 		"country": "Bangladesh",
 		"subcountry": "Chittagong",
 		"geonameid": "1189638"
@@ -4314,15 +4314,15 @@ const states = [
 		"geonameid": "1191139"
 	},
 	{
-		"name": "Pālang",
+		"name": "Palang",
 		"country": "Bangladesh",
 		"subcountry": "Dhaka",
 		"geonameid": "1191368"
 	},
 	{
-		"name": "Pār Naogaon",
+		"name": "Par Naogaon",
 		"country": "Bangladesh",
-		"subcountry": "Rājshāhi",
+		"subcountry": "Rajshahi",
 		"geonameid": "1192366"
 	},
 	{
@@ -4344,7 +4344,7 @@ const states = [
 		"geonameid": "1197895"
 	},
 	{
-		"name": "Hājīganj",
+		"name": "Hajīganj",
 		"country": "Bangladesh",
 		"subcountry": "Chittagong",
 		"geonameid": "1201753"
@@ -4356,7 +4356,7 @@ const states = [
 		"geonameid": "1203344"
 	},
 	{
-		"name": "Dinājpur",
+		"name": "Dinajpur",
 		"country": "Bangladesh",
 		"subcountry": "Rangpur Division",
 		"geonameid": "1203891"
@@ -4374,7 +4374,7 @@ const states = [
 		"geonameid": "1205733"
 	},
 	{
-		"name": "Char Bhadrāsan",
+		"name": "Char Bhadrasan",
 		"country": "Bangladesh",
 		"subcountry": "Dhaka",
 		"geonameid": "1207047"
@@ -4382,23 +4382,23 @@ const states = [
 	{
 		"name": "Bera",
 		"country": "Bangladesh",
-		"subcountry": "Rājshāhi",
+		"subcountry": "Rajshahi",
 		"geonameid": "1209562"
 	},
 	{
-		"name": "Burhānuddin",
+		"name": "Burhanuddin",
 		"country": "Bangladesh",
-		"subcountry": "Barisāl",
+		"subcountry": "Barisal",
 		"geonameid": "1210565"
 	},
 	{
-		"name": "Sātkania",
+		"name": "Satkania",
 		"country": "Bangladesh",
 		"subcountry": "Chittagong",
 		"geonameid": "1336133"
 	},
 	{
-		"name": "Cox’s Bāzār",
+		"name": "Cox’s Bazar",
 		"country": "Bangladesh",
 		"subcountry": "Chittagong",
 		"geonameid": "1336134"
@@ -4412,13 +4412,13 @@ const states = [
 	{
 		"name": "Bhola",
 		"country": "Bangladesh",
-		"subcountry": "Barisāl",
+		"subcountry": "Barisal",
 		"geonameid": "1336136"
 	},
 	{
-		"name": "Barisāl",
+		"name": "Barisal",
 		"country": "Bangladesh",
-		"subcountry": "Barisāl",
+		"subcountry": "Barisal",
 		"geonameid": "1336137"
 	},
 	{
@@ -4428,13 +4428,13 @@ const states = [
 		"geonameid": "1336140"
 	},
 	{
-		"name": "Pābna",
+		"name": "Pabna",
 		"country": "Bangladesh",
-		"subcountry": "Rājshāhi",
+		"subcountry": "Rajshahi",
 		"geonameid": "1336143"
 	},
 	{
-		"name": "Tāngāil",
+		"name": "Tangail",
 		"country": "Bangladesh",
 		"subcountry": "Dhaka",
 		"geonameid": "1336144"
@@ -4442,7 +4442,7 @@ const states = [
 	{
 		"name": "Bogra",
 		"country": "Bangladesh",
-		"subcountry": "Rājshāhi",
+		"subcountry": "Rajshahi",
 		"geonameid": "1337233"
 	},
 	{
@@ -4452,13 +4452,13 @@ const states = [
 		"geonameid": "1337239"
 	},
 	{
-		"name": "Nawābganj",
+		"name": "Nawabganj",
 		"country": "Bangladesh",
-		"subcountry": "Rājshāhi",
+		"subcountry": "Rajshahi",
 		"geonameid": "1337240"
 	},
 	{
-		"name": "Mādārīpur",
+		"name": "Madarīpur",
 		"country": "Bangladesh",
 		"subcountry": "Dhaka",
 		"geonameid": "1337245"
@@ -4482,9 +4482,9 @@ const states = [
 		"geonameid": "1462681"
 	},
 	{
-		"name": "Bhāndāria",
+		"name": "Bhandaria",
 		"country": "Bangladesh",
-		"subcountry": "Barisāl",
+		"subcountry": "Barisal",
 		"geonameid": "1477498"
 	},
 	{
@@ -4496,7 +4496,7 @@ const states = [
 	{
 		"name": "Saidpur",
 		"country": "Bangladesh",
-		"subcountry": "Rājshāhi",
+		"subcountry": "Rajshahi",
 		"geonameid": "6545349"
 	},
 	{
@@ -6162,7 +6162,7 @@ const states = [
 		"geonameid": "290247"
 	},
 	{
-		"name": "Dār Kulayb",
+		"name": "Dar Kulayb",
 		"country": "Bahrain",
 		"subcountry": "Southern Governorate",
 		"geonameid": "290269"
@@ -6180,7 +6180,7 @@ const states = [
 		"geonameid": "290340"
 	},
 	{
-		"name": "Ar Rifā‘",
+		"name": "Ar Rifa‘",
 		"country": "Bahrain",
 		"subcountry": "Southern Governorate",
 		"geonameid": "385038"
@@ -6654,13 +6654,13 @@ const states = [
 		"geonameid": "3385088"
 	},
 	{
-		"name": "Viçosa do Ceará",
+		"name": "Vicosa do Ceará",
 		"country": "Brazil",
 		"subcountry": "Ceará",
 		"geonameid": "3385106"
 	},
 	{
-		"name": "Viçosa",
+		"name": "Vicosa",
 		"country": "Brazil",
 		"subcountry": "Alagoas",
 		"geonameid": "3385109"
@@ -6690,7 +6690,7 @@ const states = [
 		"geonameid": "3385538"
 	},
 	{
-		"name": "Valença do Piauí",
+		"name": "Valenca do Piauí",
 		"country": "Brazil",
 		"subcountry": "Piauí",
 		"geonameid": "3385592"
@@ -6744,7 +6744,7 @@ const states = [
 		"geonameid": "3386264"
 	},
 	{
-		"name": "Tomé Açu",
+		"name": "Tomé Acu",
 		"country": "Brazil",
 		"subcountry": "Pará",
 		"geonameid": "3386279"
@@ -6894,7 +6894,7 @@ const states = [
 		"geonameid": "3388368"
 	},
 	{
-		"name": "São Lourenço da Mata",
+		"name": "São Lourenco da Mata",
 		"country": "Brazil",
 		"subcountry": "Pernambuco",
 		"geonameid": "3388376"
@@ -6924,7 +6924,7 @@ const states = [
 		"geonameid": "3388615"
 	},
 	{
-		"name": "São Gonçalo do Amarante",
+		"name": "São Goncalo do Amarante",
 		"country": "Brazil",
 		"subcountry": "Ceará",
 		"geonameid": "3388714"
@@ -7350,7 +7350,7 @@ const states = [
 		"geonameid": "3394605"
 	},
 	{
-		"name": "Mombaça",
+		"name": "Mombaca",
 		"country": "Brazil",
 		"subcountry": "Ceará",
 		"geonameid": "3394649"
@@ -7626,7 +7626,7 @@ const states = [
 		"geonameid": "3398343"
 	},
 	{
-		"name": "Igarapé Açu",
+		"name": "Igarapé Acu",
 		"country": "Brazil",
 		"subcountry": "Pará",
 		"geonameid": "3398350"
@@ -7752,7 +7752,7 @@ const states = [
 		"geonameid": "3400740"
 	},
 	{
-		"name": "Esperança",
+		"name": "Esperanca",
 		"country": "Brazil",
 		"subcountry": "Paraíba",
 		"geonameid": "3400752"
@@ -7830,7 +7830,7 @@ const states = [
 		"geonameid": "3401830"
 	},
 	{
-		"name": "Conceição do Araguaia",
+		"name": "Conceicão do Araguaia",
 		"country": "Brazil",
 		"subcountry": "Pará",
 		"geonameid": "3401845"
@@ -7926,7 +7926,7 @@ const states = [
 		"geonameid": "3402724"
 	},
 	{
-		"name": "Capitão Poço",
+		"name": "Capitão Poco",
 		"country": "Brazil",
 		"subcountry": "Pará",
 		"geonameid": "3403127"
@@ -8052,7 +8052,7 @@ const states = [
 		"geonameid": "3404862"
 	},
 	{
-		"name": "Bragança",
+		"name": "Braganca",
 		"country": "Brazil",
 		"subcountry": "Pará",
 		"geonameid": "3405006"
@@ -8292,7 +8292,7 @@ const states = [
 		"geonameid": "3408274"
 	},
 	{
-		"name": "Açu",
+		"name": "Acu",
 		"country": "Brazil",
 		"subcountry": "Rio Grande do Norte",
 		"geonameid": "3408337"
@@ -8394,7 +8394,7 @@ const states = [
 		"geonameid": "3445126"
 	},
 	{
-		"name": "Viçosa",
+		"name": "Vicosa",
 		"country": "Brazil",
 		"subcountry": "Minas Gerais",
 		"geonameid": "3445133"
@@ -8496,13 +8496,13 @@ const states = [
 		"geonameid": "3445578"
 	},
 	{
-		"name": "Valença",
+		"name": "Valenca",
 		"country": "Brazil",
 		"subcountry": "Rio de Janeiro",
 		"geonameid": "3445596"
 	},
 	{
-		"name": "Valença",
+		"name": "Valenca",
 		"country": "Brazil",
 		"subcountry": "Bahia",
 		"geonameid": "3445597"
@@ -8520,13 +8520,13 @@ const states = [
 		"geonameid": "3445679"
 	},
 	{
-		"name": "Uruçuca",
+		"name": "Urucuca",
 		"country": "Brazil",
 		"subcountry": "Bahia",
 		"geonameid": "3445690"
 	},
 	{
-		"name": "Uruaçu",
+		"name": "Uruacu",
 		"country": "Brazil",
 		"subcountry": "Goiás",
 		"geonameid": "3445713"
@@ -8664,7 +8664,7 @@ const states = [
 		"geonameid": "3446137"
 	},
 	{
-		"name": "Três Corações",
+		"name": "Três Coracões",
 		"country": "Brazil",
 		"subcountry": "Minas Gerais",
 		"geonameid": "3446138"
@@ -9054,7 +9054,7 @@ const states = [
 		"geonameid": "3448439"
 	},
 	{
-		"name": "São Miguel do Iguaçu",
+		"name": "São Miguel do Iguacu",
 		"country": "Brazil",
 		"subcountry": "Paraná",
 		"geonameid": "3448453"
@@ -9102,13 +9102,13 @@ const states = [
 		"geonameid": "3448558"
 	},
 	{
-		"name": "São Lourenço do Sul",
+		"name": "São Lourenco do Sul",
 		"country": "Brazil",
 		"subcountry": "Rio Grande do Sul",
 		"geonameid": "3448596"
 	},
 	{
-		"name": "São Lourenço",
+		"name": "São Lourenco",
 		"country": "Brazil",
 		"subcountry": "Minas Gerais",
 		"geonameid": "3448616"
@@ -9204,7 +9204,7 @@ const states = [
 		"geonameid": "3449053"
 	},
 	{
-		"name": "São Gonçalo do Sapucaí",
+		"name": "São Goncalo do Sapucaí",
 		"country": "Brazil",
 		"subcountry": "Minas Gerais",
 		"geonameid": "3449056"
@@ -9900,7 +9900,7 @@ const states = [
 		"geonameid": "3453245"
 	},
 	{
-		"name": "Poços de Caldas",
+		"name": "Pocos de Caldas",
 		"country": "Brazil",
 		"subcountry": "Minas Gerais",
 		"geonameid": "3453303"
@@ -9912,7 +9912,7 @@ const states = [
 		"geonameid": "3453315"
 	},
 	{
-		"name": "Poções",
+		"name": "Pocões",
 		"country": "Brazil",
 		"subcountry": "Bahia",
 		"geonameid": "3453337"
@@ -10056,7 +10056,7 @@ const states = [
 		"geonameid": "3453807"
 	},
 	{
-		"name": "Pindobaçu",
+		"name": "Pindobacu",
 		"country": "Brazil",
 		"subcountry": "Bahia",
 		"geonameid": "3453827"
@@ -10236,13 +10236,13 @@ const states = [
 		"geonameid": "3455141"
 	},
 	{
-		"name": "Paraguaçu Paulista",
+		"name": "Paraguacu Paulista",
 		"country": "Brazil",
 		"subcountry": "São Paulo",
 		"geonameid": "3455152"
 	},
 	{
-		"name": "Paraguaçu",
+		"name": "Paraguacu",
 		"country": "Brazil",
 		"subcountry": "Minas Gerais",
 		"geonameid": "3455155"
@@ -10302,13 +10302,13 @@ const states = [
 		"geonameid": "3455459"
 	},
 	{
-		"name": "Palhoça",
+		"name": "Palhoca",
 		"country": "Brazil",
 		"subcountry": "Santa Catarina",
 		"geonameid": "3455478"
 	},
 	{
-		"name": "Paiçandu",
+		"name": "Paicandu",
 		"country": "Brazil",
 		"subcountry": "Paraná",
 		"geonameid": "3455553"
@@ -10392,7 +10392,7 @@ const states = [
 		"geonameid": "3456068"
 	},
 	{
-		"name": "Nova Viçosa",
+		"name": "Nova Vicosa",
 		"country": "Brazil",
 		"subcountry": "Bahia",
 		"geonameid": "3456102"
@@ -10434,7 +10434,7 @@ const states = [
 		"geonameid": "3456147"
 	},
 	{
-		"name": "Nova Iguaçu",
+		"name": "Nova Iguacu",
 		"country": "Brazil",
 		"subcountry": "Rio de Janeiro",
 		"geonameid": "3456160"
@@ -10806,7 +10806,7 @@ const states = [
 		"geonameid": "3457950"
 	},
 	{
-		"name": "Manhuaçu",
+		"name": "Manhuacu",
 		"country": "Brazil",
 		"subcountry": "Minas Gerais",
 		"geonameid": "3457952"
@@ -10926,7 +10926,7 @@ const states = [
 		"geonameid": "3458632"
 	},
 	{
-		"name": "Lençóis Paulista",
+		"name": "Lencóis Paulista",
 		"country": "Brazil",
 		"subcountry": "São Paulo",
 		"geonameid": "3458645"
@@ -11070,7 +11070,7 @@ const states = [
 		"geonameid": "3459796"
 	},
 	{
-		"name": "Joaçaba",
+		"name": "Joacaba",
 		"country": "Brazil",
 		"subcountry": "Santa Catarina",
 		"geonameid": "3459869"
@@ -11376,7 +11376,7 @@ const states = [
 		"geonameid": "3460733"
 	},
 	{
-		"name": "Itaperuçu",
+		"name": "Itaperucu",
 		"country": "Brazil",
 		"subcountry": "Paraná",
 		"geonameid": "3460734"
@@ -11664,13 +11664,13 @@ const states = [
 		"geonameid": "3461499"
 	},
 	{
-		"name": "Igaraçu do Tietê",
+		"name": "Igaracu do Tietê",
 		"country": "Brazil",
 		"subcountry": "São Paulo",
 		"geonameid": "3461501"
 	},
 	{
-		"name": "Içara",
+		"name": "Icara",
 		"country": "Brazil",
 		"subcountry": "Santa Catarina",
 		"geonameid": "3461519"
@@ -11742,7 +11742,7 @@ const states = [
 		"geonameid": "3461628"
 	},
 	{
-		"name": "Iaçu",
+		"name": "Iacu",
 		"country": "Brazil",
 		"subcountry": "Bahia",
 		"geonameid": "3461638"
@@ -11874,7 +11874,7 @@ const states = [
 		"geonameid": "3461995"
 	},
 	{
-		"name": "Guaçuí",
+		"name": "Guacuí",
 		"country": "Brazil",
 		"subcountry": "Espírito Santo",
 		"geonameid": "3462022"
@@ -11934,7 +11934,7 @@ const states = [
 		"geonameid": "3462557"
 	},
 	{
-		"name": "Garça",
+		"name": "Garca",
 		"country": "Brazil",
 		"subcountry": "São Paulo",
 		"geonameid": "3462580"
@@ -11982,7 +11982,7 @@ const states = [
 		"geonameid": "3463011"
 	},
 	{
-		"name": "Foz do Iguaçu",
+		"name": "Foz do Iguacu",
 		"country": "Brazil",
 		"subcountry": "Paraná",
 		"geonameid": "3463030"
@@ -12114,7 +12114,7 @@ const states = [
 		"geonameid": "3464274"
 	},
 	{
-		"name": "Embu Guaçu",
+		"name": "Embu Guacu",
 		"country": "Brazil",
 		"subcountry": "São Paulo",
 		"geonameid": "3464304"
@@ -12372,31 +12372,31 @@ const states = [
 		"geonameid": "3465731"
 	},
 	{
-		"name": "Conceição do Coité",
+		"name": "Conceicão do Coité",
 		"country": "Brazil",
 		"subcountry": "Bahia",
 		"geonameid": "3465748"
 	},
 	{
-		"name": "Conceição do Jacuípe",
+		"name": "Conceicão do Jacuípe",
 		"country": "Brazil",
 		"subcountry": "Bahia",
 		"geonameid": "3465758"
 	},
 	{
-		"name": "Conceição das Alagoas",
+		"name": "Conceicão das Alagoas",
 		"country": "Brazil",
 		"subcountry": "Minas Gerais",
 		"geonameid": "3465764"
 	},
 	{
-		"name": "Conceição da Feira",
+		"name": "Conceicão da Feira",
 		"country": "Brazil",
 		"subcountry": "Bahia",
 		"geonameid": "3465767"
 	},
 	{
-		"name": "Conceição da Barra",
+		"name": "Conceicão da Barra",
 		"country": "Brazil",
 		"subcountry": "Espírito Santo",
 		"geonameid": "3465769"
@@ -12654,7 +12654,7 @@ const states = [
 		"geonameid": "3467467"
 	},
 	{
-		"name": "Canguçu",
+		"name": "Cangucu",
 		"country": "Brazil",
 		"subcountry": "Rio Grande do Sul",
 		"geonameid": "3467512"
@@ -12792,7 +12792,7 @@ const states = [
 		"geonameid": "3468023"
 	},
 	{
-		"name": "Camaçari",
+		"name": "Camacari",
 		"country": "Brazil",
 		"subcountry": "Bahia",
 		"geonameid": "3468031"
@@ -12870,19 +12870,19 @@ const states = [
 		"geonameid": "3468535"
 	},
 	{
-		"name": "Caçapava do Sul",
+		"name": "Cacapava do Sul",
 		"country": "Brazil",
 		"subcountry": "Rio Grande do Sul",
 		"geonameid": "3468560"
 	},
 	{
-		"name": "Caçapava",
+		"name": "Cacapava",
 		"country": "Brazil",
 		"subcountry": "São Paulo",
 		"geonameid": "3468562"
 	},
 	{
-		"name": "Caçador",
+		"name": "Cacador",
 		"country": "Brazil",
 		"subcountry": "Santa Catarina",
 		"geonameid": "3468570"
@@ -12966,13 +12966,13 @@ const states = [
 		"geonameid": "3469058"
 	},
 	{
-		"name": "Bragança Paulista",
+		"name": "Braganca Paulista",
 		"country": "Brazil",
 		"subcountry": "São Paulo",
 		"geonameid": "3469092"
 	},
 	{
-		"name": "Braço do Norte",
+		"name": "Braco do Norte",
 		"country": "Brazil",
 		"subcountry": "Santa Catarina",
 		"geonameid": "3469115"
@@ -13014,7 +13014,7 @@ const states = [
 		"geonameid": "3469601"
 	},
 	{
-		"name": "Boa Esperança",
+		"name": "Boa Esperanca",
 		"country": "Brazil",
 		"subcountry": "Minas Gerais",
 		"geonameid": "3469932"
@@ -13038,7 +13038,7 @@ const states = [
 		"geonameid": "3469989"
 	},
 	{
-		"name": "Biguaçu",
+		"name": "Biguacu",
 		"country": "Brazil",
 		"subcountry": "Santa Catarina",
 		"geonameid": "3470003"
@@ -13056,7 +13056,7 @@ const states = [
 		"geonameid": "3470052"
 	},
 	{
-		"name": "Bento Gonçalves",
+		"name": "Bento Goncalves",
 		"country": "Brazil",
 		"subcountry": "Rio Grande do Sul",
 		"geonameid": "3470073"
@@ -13170,7 +13170,7 @@ const states = [
 		"geonameid": "3470691"
 	},
 	{
-		"name": "Barra do Garças",
+		"name": "Barra do Garcas",
 		"country": "Brazil",
 		"subcountry": "Mato Grosso",
 		"geonameid": "3470709"
@@ -13302,7 +13302,7 @@ const states = [
 		"geonameid": "3471451"
 	},
 	{
-		"name": "Armação de Búzios",
+		"name": "Armacão de Búzios",
 		"country": "Brazil",
 		"subcountry": "Rio de Janeiro",
 		"geonameid": "3471487"
@@ -13362,13 +13362,13 @@ const states = [
 		"geonameid": "3471830"
 	},
 	{
-		"name": "Aragarças",
+		"name": "Aragarcas",
 		"country": "Brazil",
 		"subcountry": "Goiás",
 		"geonameid": "3471840"
 	},
 	{
-		"name": "Araçuaí",
+		"name": "Aracuaí",
 		"country": "Brazil",
 		"subcountry": "Minas Gerais",
 		"geonameid": "3471846"
@@ -13380,7 +13380,7 @@ const states = [
 		"geonameid": "3471848"
 	},
 	{
-		"name": "Araçoiaba da Serra",
+		"name": "Aracoiaba da Serra",
 		"country": "Brazil",
 		"subcountry": "São Paulo",
 		"geonameid": "3471849"
@@ -13392,7 +13392,7 @@ const states = [
 		"geonameid": "3471854"
 	},
 	{
-		"name": "Araçatuba",
+		"name": "Aracatuba",
 		"country": "Brazil",
 		"subcountry": "São Paulo",
 		"geonameid": "3471859"
@@ -13848,7 +13848,7 @@ const states = [
 		"geonameid": "1252416"
 	},
 	{
-		"name": "Punākha",
+		"name": "Punakha",
 		"country": "Bhutan",
 		"subcountry": "Punakha",
 		"geonameid": "1252479"
@@ -15258,7 +15258,7 @@ const states = [
 		"geonameid": "6141439"
 	},
 	{
-		"name": "Sept-Îles",
+		"name": "Sept-Iles",
 		"country": "Canada",
 		"subcountry": "Quebec",
 		"geonameid": "6144312"
@@ -15710,7 +15710,7 @@ const states = [
 	{
 		"name": "Lisala",
 		"country": "Democratic Republic of the Congo",
-		"subcountry": "Équateur",
+		"subcountry": "Equateur",
 		"geonameid": "211734"
 	},
 	{
@@ -15800,7 +15800,7 @@ const states = [
 	{
 		"name": "Gbadolite",
 		"country": "Democratic Republic of the Congo",
-		"subcountry": "Équateur",
+		"subcountry": "Equateur",
 		"geonameid": "216404"
 	},
 	{
@@ -15830,7 +15830,7 @@ const states = [
 	{
 		"name": "Businga",
 		"country": "Democratic Republic of the Congo",
-		"subcountry": "Équateur",
+		"subcountry": "Equateur",
 		"geonameid": "217637"
 	},
 	{
@@ -15842,7 +15842,7 @@ const states = [
 	{
 		"name": "Bumba",
 		"country": "Democratic Republic of the Congo",
-		"subcountry": "Équateur",
+		"subcountry": "Equateur",
 		"geonameid": "217745"
 	},
 	{
@@ -15866,7 +15866,7 @@ const states = [
 	{
 		"name": "Boende",
 		"country": "Democratic Republic of the Congo",
-		"subcountry": "Équateur",
+		"subcountry": "Equateur",
 		"geonameid": "218680"
 	},
 	{
@@ -15944,7 +15944,7 @@ const states = [
 	{
 		"name": "Mbandaka",
 		"country": "Democratic Republic of the Congo",
-		"subcountry": "Équateur",
+		"subcountry": "Equateur",
 		"geonameid": "2312895"
 	},
 	{
@@ -15962,7 +15962,7 @@ const states = [
 	{
 		"name": "Libenge",
 		"country": "Democratic Republic of the Congo",
-		"subcountry": "Équateur",
+		"subcountry": "Equateur",
 		"geonameid": "2313762"
 	},
 	{
@@ -15998,7 +15998,7 @@ const states = [
 	{
 		"name": "Gemena",
 		"country": "Democratic Republic of the Congo",
-		"subcountry": "Équateur",
+		"subcountry": "Equateur",
 		"geonameid": "2315728"
 	},
 	{
@@ -16434,7 +16434,7 @@ const states = [
 		"geonameid": "2660108"
 	},
 	{
-		"name": "Köniz",
+		"name": "Koniz",
 		"country": "Switzerland",
 		"subcountry": "Bern",
 		"geonameid": "2660119"
@@ -16458,7 +16458,7 @@ const states = [
 		"geonameid": "2660305"
 	},
 	{
-		"name": "Zürich (Kreis 10) / Höngg",
+		"name": "Zürich (Kreis 10) / Hongg",
 		"country": "Switzerland",
 		"subcountry": "Zurich",
 		"geonameid": "2660306"
@@ -17916,7 +17916,7 @@ const states = [
 		"geonameid": "2232239"
 	},
 	{
-		"name": "Ébolowa",
+		"name": "Ebolowa",
 		"country": "Cameroon",
 		"subcountry": "South Province",
 		"geonameid": "2232283"
@@ -25914,7 +25914,7 @@ const states = [
 		"geonameid": "2805910"
 	},
 	{
-		"name": "Wörth am Rhein",
+		"name": "Worth am Rhein",
 		"country": "Germany",
 		"subcountry": "Rheinland-Pfalz",
 		"geonameid": "2806081"
@@ -26322,7 +26322,7 @@ const states = [
 		"geonameid": "2814153"
 	},
 	{
-		"name": "Wangen im Allgäu",
+		"name": "Wangen im Allgau",
 		"country": "Germany",
 		"subcountry": "Baden-Württemberg",
 		"geonameid": "2814270"
@@ -26370,7 +26370,7 @@ const states = [
 		"geonameid": "2814883"
 	},
 	{
-		"name": "Waldbröl",
+		"name": "Waldbrol",
 		"country": "Germany",
 		"subcountry": "North Rhine-Westphalia",
 		"geonameid": "2815137"
@@ -26382,7 +26382,7 @@ const states = [
 		"geonameid": "2815330"
 	},
 	{
-		"name": "Waghäusel",
+		"name": "Waghausel",
 		"country": "Germany",
 		"subcountry": "Baden-Württemberg",
 		"geonameid": "2815487"
@@ -26412,7 +26412,7 @@ const states = [
 		"geonameid": "2815824"
 	},
 	{
-		"name": "Völklingen",
+		"name": "Volklingen",
 		"country": "Germany",
 		"subcountry": "Saarland",
 		"geonameid": "2816630"
@@ -26616,7 +26616,7 @@ const states = [
 		"geonameid": "2821807"
 	},
 	{
-		"name": "Tönisvorst",
+		"name": "Tonisvorst",
 		"country": "Germany",
 		"subcountry": "North Rhine-Westphalia",
 		"geonameid": "2821899"
@@ -26832,7 +26832,7 @@ const states = [
 		"geonameid": "2829962"
 	},
 	{
-		"name": "Sprockhövel",
+		"name": "Sprockhovel",
 		"country": "Germany",
 		"subcountry": "North Rhine-Westphalia",
 		"geonameid": "2829998"
@@ -26874,7 +26874,7 @@ const states = [
 		"geonameid": "2831276"
 	},
 	{
-		"name": "Sömmerda",
+		"name": "Sommerda",
 		"country": "Germany",
 		"subcountry": "Thuringia",
 		"geonameid": "2831403"
@@ -27078,13 +27078,13 @@ const states = [
 		"geonameid": "2835382"
 	},
 	{
-		"name": "Schwäbisch Hall",
+		"name": "Schwabisch Hall",
 		"country": "Germany",
 		"subcountry": "Baden-Württemberg",
 		"geonameid": "2835481"
 	},
 	{
-		"name": "Schwäbisch Gmünd",
+		"name": "Schwabisch Gmünd",
 		"country": "Germany",
 		"subcountry": "Baden-Württemberg",
 		"geonameid": "2835482"
@@ -27126,13 +27126,13 @@ const states = [
 		"geonameid": "2836413"
 	},
 	{
-		"name": "Schöneberg",
+		"name": "Schoneberg",
 		"country": "Germany",
 		"subcountry": "Berlin",
 		"geonameid": "2836788"
 	},
 	{
-		"name": "Schönebeck",
+		"name": "Schonebeck",
 		"country": "Germany",
 		"subcountry": "Saxony-Anhalt",
 		"geonameid": "2836809"
@@ -27330,7 +27330,7 @@ const states = [
 		"geonameid": "2844588"
 	},
 	{
-		"name": "Rösrath",
+		"name": "Rosrath",
 		"country": "Germany",
 		"subcountry": "North Rhine-Westphalia",
 		"geonameid": "2844862"
@@ -27810,7 +27810,7 @@ const states = [
 		"geonameid": "2857472"
 	},
 	{
-		"name": "Öhringen",
+		"name": "Ohringen",
 		"country": "Germany",
 		"subcountry": "Baden-Württemberg",
 		"geonameid": "2857565"
@@ -27870,7 +27870,7 @@ const states = [
 		"geonameid": "2858763"
 	},
 	{
-		"name": "Oberschöneweide",
+		"name": "Oberschoneweide",
 		"country": "Germany",
 		"subcountry": "Berlin",
 		"geonameid": "2859103"
@@ -27930,7 +27930,7 @@ const states = [
 		"geonameid": "2861814"
 	},
 	{
-		"name": "Nördlingen",
+		"name": "Nordlingen",
 		"country": "Germany",
 		"subcountry": "Bavaria",
 		"geonameid": "2861914"
@@ -27984,7 +27984,7 @@ const states = [
 		"geonameid": "2862620"
 	},
 	{
-		"name": "Niederschönhausen",
+		"name": "Niederschonhausen",
 		"country": "Germany",
 		"subcountry": "Berlin",
 		"geonameid": "2862888"
@@ -28254,7 +28254,7 @@ const states = [
 		"geonameid": "2868936"
 	},
 	{
-		"name": "Mössingen",
+		"name": "Mossingen",
 		"country": "Germany",
 		"subcountry": "Baden-Württemberg",
 		"geonameid": "2869019"
@@ -28278,13 +28278,13 @@ const states = [
 		"geonameid": "2869791"
 	},
 	{
-		"name": "Mönchengladbach",
+		"name": "Monchengladbach",
 		"country": "Germany",
 		"subcountry": "North Rhine-Westphalia",
 		"geonameid": "2869894"
 	},
 	{
-		"name": "Mölln",
+		"name": "Molln",
 		"country": "Germany",
 		"subcountry": "Schleswig-Holstein",
 		"geonameid": "2869994"
@@ -28464,7 +28464,7 @@ const states = [
 		"geonameid": "2873352"
 	},
 	{
-		"name": "Märkisches Viertel",
+		"name": "Markisches Viertel",
 		"country": "Germany",
 		"subcountry": "Berlin",
 		"geonameid": "2873356"
@@ -28602,7 +28602,7 @@ const states = [
 		"geonameid": "2875831"
 	},
 	{
-		"name": "Lörrach",
+		"name": "Lorrach",
 		"country": "Germany",
 		"subcountry": "Baden-Württemberg",
 		"geonameid": "2875881"
@@ -28620,7 +28620,7 @@ const states = [
 		"geonameid": "2876185"
 	},
 	{
-		"name": "Löhne",
+		"name": "Lohne",
 		"country": "Germany",
 		"subcountry": "North Rhine-Westphalia",
 		"geonameid": "2876187"
@@ -28632,7 +28632,7 @@ const states = [
 		"geonameid": "2876218"
 	},
 	{
-		"name": "Löbau",
+		"name": "Lobau",
 		"country": "Germany",
 		"subcountry": "Saxony",
 		"geonameid": "2876755"
@@ -28710,13 +28710,13 @@ const states = [
 		"geonameid": "2878234"
 	},
 	{
-		"name": "Leutkirch im Allgäu",
+		"name": "Leutkirch im Allgau",
 		"country": "Germany",
 		"subcountry": "Baden-Württemberg",
 		"geonameid": "2878270"
 	},
 	{
-		"name": "Leopoldshöhe",
+		"name": "Leopoldshohe",
 		"country": "Germany",
 		"subcountry": "North Rhine-Westphalia",
 		"geonameid": "2878673"
@@ -28956,7 +28956,7 @@ const states = [
 		"geonameid": "2884509"
 	},
 	{
-		"name": "Köthen",
+		"name": "Kothen",
 		"country": "Germany",
 		"subcountry": "Saxony-Anhalt",
 		"geonameid": "2885237"
@@ -28986,13 +28986,13 @@ const states = [
 		"geonameid": "2885536"
 	},
 	{
-		"name": "Köpenick",
+		"name": "Kopenick",
 		"country": "Germany",
 		"subcountry": "Berlin",
 		"geonameid": "2885656"
 	},
 	{
-		"name": "Berlin Köpenick",
+		"name": "Berlin Kopenick",
 		"country": "Germany",
 		"subcountry": "Berlin",
 		"geonameid": "2885657"
@@ -29010,37 +29010,37 @@ const states = [
 		"geonameid": "2885679"
 	},
 	{
-		"name": "Königs Wusterhausen",
+		"name": "Konigs Wusterhausen",
 		"country": "Germany",
 		"subcountry": "Brandenburg",
 		"geonameid": "2885732"
 	},
 	{
-		"name": "Königswinter",
+		"name": "Konigswinter",
 		"country": "Germany",
 		"subcountry": "North Rhine-Westphalia",
 		"geonameid": "2885734"
 	},
 	{
-		"name": "Königstein im Taunus",
+		"name": "Konigstein im Taunus",
 		"country": "Germany",
 		"subcountry": "Hesse",
 		"geonameid": "2885760"
 	},
 	{
-		"name": "Königslutter am Elm",
+		"name": "Konigslutter am Elm",
 		"country": "Germany",
 		"subcountry": "Lower Saxony",
 		"geonameid": "2885800"
 	},
 	{
-		"name": "Königsbrunn",
+		"name": "Konigsbrunn",
 		"country": "Germany",
 		"subcountry": "Bavaria",
 		"geonameid": "2885908"
 	},
 	{
-		"name": "Köln",
+		"name": "Koln",
 		"country": "Germany",
 		"subcountry": "North Rhine-Westphalia",
 		"geonameid": "2886242"
@@ -29118,7 +29118,7 @@ const states = [
 		"geonameid": "2891524"
 	},
 	{
-		"name": "Kempten (Allgäu)",
+		"name": "Kempten (Allgau)",
 		"country": "Germany",
 		"subcountry": "Bavaria",
 		"geonameid": "2891621"
@@ -29376,19 +29376,19 @@ const states = [
 		"geonameid": "2898304"
 	},
 	{
-		"name": "Höxter",
+		"name": "Hoxter",
 		"country": "Germany",
 		"subcountry": "North Rhine-Westphalia",
 		"geonameid": "2898321"
 	},
 	{
-		"name": "Hövelhof",
+		"name": "Hovelhof",
 		"country": "Germany",
 		"subcountry": "North Rhine-Westphalia",
 		"geonameid": "2898364"
 	},
 	{
-		"name": "Hörstel",
+		"name": "Horstel",
 		"country": "Germany",
 		"subcountry": "North Rhine-Westphalia",
 		"geonameid": "2898603"
@@ -29922,7 +29922,7 @@ const states = [
 		"geonameid": "2917138"
 	},
 	{
-		"name": "Gröbenzell",
+		"name": "Grobenzell",
 		"country": "Germany",
 		"subcountry": "Bavaria",
 		"geonameid": "2917221"
@@ -29970,7 +29970,7 @@ const states = [
 		"geonameid": "2917816"
 	},
 	{
-		"name": "Göttingen",
+		"name": "Gottingen",
 		"country": "Germany",
 		"subcountry": "Lower Saxony",
 		"geonameid": "2918632"
@@ -29988,13 +29988,13 @@ const states = [
 		"geonameid": "2918840"
 	},
 	{
-		"name": "Görlitz",
+		"name": "Gorlitz",
 		"country": "Germany",
 		"subcountry": "Saxony",
 		"geonameid": "2918987"
 	},
 	{
-		"name": "Göppingen",
+		"name": "Goppingen",
 		"country": "Germany",
 		"subcountry": "Baden-Württemberg",
 		"geonameid": "2919054"
@@ -30216,7 +30216,7 @@ const states = [
 		"geonameid": "2923822"
 	},
 	{
-		"name": "Fröndenberg",
+		"name": "Frondenberg",
 		"country": "Germany",
 		"subcountry": "North Rhine-Westphalia",
 		"geonameid": "2924206"
@@ -30378,7 +30378,7 @@ const states = [
 		"geonameid": "2925910"
 	},
 	{
-		"name": "Flörsheim",
+		"name": "Florsheim",
 		"country": "Germany",
 		"subcountry": "Hesse",
 		"geonameid": "2926120"
@@ -30654,7 +30654,7 @@ const states = [
 		"geonameid": "2933364"
 	},
 	{
-		"name": "Eckernförde",
+		"name": "Eckernforde",
 		"country": "Germany",
 		"subcountry": "Schleswig-Holstein",
 		"geonameid": "2933627"
@@ -30744,7 +30744,7 @@ const states = [
 		"geonameid": "2935825"
 	},
 	{
-		"name": "Donauwörth",
+		"name": "Donauworth",
 		"country": "Germany",
 		"subcountry": "Bavaria",
 		"geonameid": "2936253"
@@ -30756,7 +30756,7 @@ const states = [
 		"geonameid": "2936267"
 	},
 	{
-		"name": "Döbeln",
+		"name": "Dobeln",
 		"country": "Germany",
 		"subcountry": "Saxony",
 		"geonameid": "2936658"
@@ -31062,7 +31062,7 @@ const states = [
 		"geonameid": "2942323"
 	},
 	{
-		"name": "Französisch Buchholz",
+		"name": "Franzosisch Buchholz",
 		"country": "Germany",
 		"subcountry": "Berlin",
 		"geonameid": "2942341"
@@ -31098,7 +31098,7 @@ const states = [
 		"geonameid": "2943560"
 	},
 	{
-		"name": "Bruchköbel",
+		"name": "Bruchkobel",
 		"country": "Germany",
 		"subcountry": "Hesse",
 		"geonameid": "2943573"
@@ -31122,7 +31122,7 @@ const states = [
 		"geonameid": "2944200"
 	},
 	{
-		"name": "Bremervörde",
+		"name": "Bremervorde",
 		"country": "Germany",
 		"subcountry": "Lower Saxony",
 		"geonameid": "2944354"
@@ -31212,7 +31212,7 @@ const states = [
 		"geonameid": "2946447"
 	},
 	{
-		"name": "Bönen",
+		"name": "Bonen",
 		"country": "Germany",
 		"subcountry": "North Rhine-Westphalia",
 		"geonameid": "2946478"
@@ -31236,7 +31236,7 @@ const states = [
 		"geonameid": "2947421"
 	},
 	{
-		"name": "Böblingen",
+		"name": "Boblingen",
 		"country": "Germany",
 		"subcountry": "Baden-Württemberg",
 		"geonameid": "2947444"
@@ -31464,7 +31464,7 @@ const states = [
 		"geonameid": "2953321"
 	},
 	{
-		"name": "Bad Tölz",
+		"name": "Bad Tolz",
 		"country": "Germany",
 		"subcountry": "Bavaria",
 		"geonameid": "2953324"
@@ -31500,7 +31500,7 @@ const states = [
 		"geonameid": "2953358"
 	},
 	{
-		"name": "Bad Säckingen",
+		"name": "Bad Sackingen",
 		"country": "Germany",
 		"subcountry": "Baden-Württemberg",
 		"geonameid": "2953363"
@@ -31602,7 +31602,7 @@ const states = [
 		"geonameid": "2953435"
 	},
 	{
-		"name": "Bad Homburg vor der Höhe",
+		"name": "Bad Homburg vor der Hohe",
 		"country": "Germany",
 		"subcountry": "Hesse",
 		"geonameid": "2953436"
@@ -31908,7 +31908,7 @@ const states = [
 		"geonameid": "3247449"
 	},
 	{
-		"name": "Mörfelden-Walldorf",
+		"name": "Morfelden-Walldorf",
 		"country": "Germany",
 		"subcountry": "Hesse",
 		"geonameid": "3272460"
@@ -31920,7 +31920,7 @@ const states = [
 		"geonameid": "3272941"
 	},
 	{
-		"name": "Lauda-Königshofen",
+		"name": "Lauda-Konigshofen",
 		"country": "Germany",
 		"subcountry": "Baden-Württemberg",
 		"geonameid": "3274966"
@@ -32046,7 +32046,7 @@ const states = [
 		"geonameid": "7290252"
 	},
 	{
-		"name": "Berlin Schöneberg",
+		"name": "Berlin Schoneberg",
 		"country": "Germany",
 		"subcountry": "Berlin",
 		"geonameid": "7290254"
@@ -32088,13 +32088,13 @@ const states = [
 		"geonameid": "8334621"
 	},
 	{
-		"name": "Neu-Hohenschönhausen",
+		"name": "Neu-Hohenschonhausen",
 		"country": "Germany",
 		"subcountry": "Berlin",
 		"geonameid": "8334622"
 	},
 	{
-		"name": "Alt-Hohenschönhausen",
+		"name": "Alt-Hohenschonhausen",
 		"country": "Germany",
 		"subcountry": "Berlin",
 		"geonameid": "8334624"
@@ -32454,7 +32454,7 @@ const states = [
 		"geonameid": "2624341"
 	},
 	{
-		"name": "Århus",
+		"name": "Arhus",
 		"country": "Denmark",
 		"subcountry": "Central Jutland",
 		"geonameid": "2624652"
@@ -34656,7 +34656,7 @@ const states = [
 		"geonameid": "588409"
 	},
 	{
-		"name": "Sillamäe",
+		"name": "Sillamae",
 		"country": "Estonia",
 		"subcountry": "Ida-Virumaa",
 		"geonameid": "588686"
@@ -34664,13 +34664,13 @@ const states = [
 	{
 		"name": "Rakvere",
 		"country": "Estonia",
-		"subcountry": "Lääne-Virumaa",
+		"subcountry": "Laane-Virumaa",
 		"geonameid": "589165"
 	},
 	{
-		"name": "Pärnu",
+		"name": "Parnu",
 		"country": "Estonia",
-		"subcountry": "Pärnumaa",
+		"subcountry": "Parnumaa",
 		"geonameid": "589580"
 	},
 	{
@@ -34686,7 +34686,7 @@ const states = [
 		"geonameid": "590447"
 	},
 	{
-		"name": "Kohtla-Järve",
+		"name": "Kohtla-Jarve",
 		"country": "Estonia",
 		"subcountry": "Ida-Virumaa",
 		"geonameid": "591260"
@@ -34694,59 +34694,59 @@ const states = [
 	{
 		"name": "Ziftá",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at al Gharbīyah",
+		"subcountry": "Muḩafaz̧at al Gharbīyah",
 		"geonameid": "346030"
 	},
 	{
 		"name": "Toukh",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at al Qalyūbīyah",
+		"subcountry": "Muḩafaz̧at al Qalyubīyah",
 		"geonameid": "347236"
 	},
 	{
 		"name": "Tanda",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at al Gharbīyah",
+		"subcountry": "Muḩafaz̧at al Gharbīyah",
 		"geonameid": "347497"
 	},
 	{
-		"name": "Ţāmiyah",
+		"name": "Ţamiyah",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at al Fayyūm",
+		"subcountry": "Muḩafaz̧at al Fayyum",
 		"geonameid": "347542"
 	},
 	{
-		"name": "Ţalkhā",
+		"name": "Ţalkha",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at ad Daqahlīyah",
+		"subcountry": "Muḩafaz̧at ad Daqahlīyah",
 		"geonameid": "347591"
 	},
 	{
-		"name": "Talā",
+		"name": "Tala",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at al Minūfīyah",
+		"subcountry": "Muḩafaz̧at al Minufīyah",
 		"geonameid": "347612"
 	},
 	{
-		"name": "Ţahţā",
+		"name": "Ţahţa",
 		"country": "Egypt",
-		"subcountry": "Sūhāj",
+		"subcountry": "Suhaj",
 		"geonameid": "347634"
 	},
 	{
-		"name": "Sumusţā as Sulţānī",
+		"name": "Sumusţa as Sulţanī",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at Banī Suwayf",
+		"subcountry": "Muḩafaz̧at Banī Suwayf",
 		"geonameid": "347749"
 	},
 	{
 		"name": "Sohag",
 		"country": "Egypt",
-		"subcountry": "Sūhāj",
+		"subcountry": "Suhaj",
 		"geonameid": "347796"
 	},
 	{
-		"name": "Sīdī Sālim",
+		"name": "Sīdī Salim",
 		"country": "Egypt",
 		"subcountry": "Kafr ash Shaykh",
 		"geonameid": "348112"
@@ -34754,31 +34754,31 @@ const states = [
 	{
 		"name": "Shirbīn",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at ad Daqahlīyah",
+		"subcountry": "Muḩafaz̧at ad Daqahlīyah",
 		"geonameid": "349114"
 	},
 	{
-		"name": "Shibīn al Qanāţir",
+		"name": "Shibīn al Qanaţir",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at al Qalyūbīyah",
+		"subcountry": "Muḩafaz̧at al Qalyubīyah",
 		"geonameid": "349156"
 	},
 	{
 		"name": "Shibīn al Kawm",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at al Minūfīyah",
+		"subcountry": "Muḩafaz̧at al Minufīyah",
 		"geonameid": "349158"
 	},
 	{
-		"name": "Samannūd",
+		"name": "Samannud",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at al Gharbīyah",
+		"subcountry": "Muḩafaz̧at al Gharbīyah",
 		"geonameid": "349715"
 	},
 	{
-		"name": "Samālūţ",
+		"name": "Samaluţ",
 		"country": "Egypt",
-		"subcountry": "Al Minyā",
+		"subcountry": "Al Minya",
 		"geonameid": "349717"
 	},
 	{
@@ -34794,61 +34794,61 @@ const states = [
 		"geonameid": "350207"
 	},
 	{
-		"name": "Quwaysinā",
+		"name": "Quwaysina",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at al Minūfīyah",
+		"subcountry": "Muḩafaz̧at al Minufīyah",
 		"geonameid": "350370"
 	},
 	{
-		"name": "Quţūr",
+		"name": "Quţur",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at al Gharbīyah",
+		"subcountry": "Muḩafaz̧at al Gharbīyah",
 		"geonameid": "350376"
 	},
 	{
 		"name": "Kousa",
 		"country": "Egypt",
-		"subcountry": "Qinā",
+		"subcountry": "Qina",
 		"geonameid": "350422"
 	},
 	{
-		"name": "Qinā",
+		"name": "Qina",
 		"country": "Egypt",
-		"subcountry": "Qinā",
+		"subcountry": "Qina",
 		"geonameid": "350550"
 	},
 	{
-		"name": "Qalyūb",
+		"name": "Qalyub",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at al Qalyūbīyah",
+		"subcountry": "Muḩafaz̧at al Qalyubīyah",
 		"geonameid": "350789"
 	},
 	{
-		"name": "Naj‘ Ḩammādī",
+		"name": "Naj‘ Ḩammadī",
 		"country": "Egypt",
-		"subcountry": "Qinā",
+		"subcountry": "Qina",
 		"geonameid": "351434"
 	},
 	{
 		"name": "Minyat an Naşr",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at ad Daqahlīyah",
+		"subcountry": "Muḩafaz̧at ad Daqahlīyah",
 		"geonameid": "352344"
 	},
 	{
-		"name": "Minūf",
+		"name": "Minuf",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at al Minūfīyah",
+		"subcountry": "Muḩafaz̧at al Minufīyah",
 		"geonameid": "352354"
 	},
 	{
-		"name": "Maţāy",
+		"name": "Maţay",
 		"country": "Egypt",
-		"subcountry": "Al Minyā",
+		"subcountry": "Al Minya",
 		"geonameid": "352628"
 	},
 	{
-		"name": "Mashtūl as Sūq",
+		"name": "Mashtul as Suq",
 		"country": "Egypt",
 		"subcountry": "Eastern Province",
 		"geonameid": "352679"
@@ -34856,35 +34856,35 @@ const states = [
 	{
 		"name": "Mersa Matruh",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at Maţrūḩ",
+		"subcountry": "Muḩafaz̧at Maţruḩ",
 		"geonameid": "352733"
 	},
 	{
-		"name": "Manfalūţ",
+		"name": "Manfaluţ",
 		"country": "Egypt",
-		"subcountry": "Asyūţ",
+		"subcountry": "Asyuţ",
 		"geonameid": "352913"
 	},
 	{
 		"name": "Mallawī",
 		"country": "Egypt",
-		"subcountry": "Al Minyā",
+		"subcountry": "Al Minya",
 		"geonameid": "352951"
 	},
 	{
-		"name": "Madīnat Sittah Uktūbar",
+		"name": "Madīnat Sittah Uktubar",
 		"country": "Egypt",
 		"subcountry": "Al Jīzah",
 		"geonameid": "353219"
 	},
 	{
-		"name": "Kawm Umbū",
+		"name": "Kawm Umbu",
 		"country": "Egypt",
-		"subcountry": "Aswān",
+		"subcountry": "Aswan",
 		"geonameid": "353802"
 	},
 	{
-		"name": "Kawm Ḩamādah",
+		"name": "Kawm Ḩamadah",
 		"country": "Egypt",
 		"subcountry": "Al Buḩayrah",
 		"geonameid": "353828"
@@ -34896,9 +34896,9 @@ const states = [
 		"geonameid": "354105"
 	},
 	{
-		"name": "Kafr az Zayyāt",
+		"name": "Kafr az Zayyat",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at al Gharbīyah",
+		"subcountry": "Muḩafaz̧at al Gharbīyah",
 		"geonameid": "354365"
 	},
 	{
@@ -34908,7 +34908,7 @@ const states = [
 		"geonameid": "354502"
 	},
 	{
-		"name": "Kafr ad Dawwār",
+		"name": "Kafr ad Dawwar",
 		"country": "Egypt",
 		"subcountry": "Al Buḩayrah",
 		"geonameid": "354775"
@@ -34916,59 +34916,59 @@ const states = [
 	{
 		"name": "Juhaynah",
 		"country": "Egypt",
-		"subcountry": "Sūhāj",
+		"subcountry": "Suhaj",
 		"geonameid": "354981"
 	},
 	{
-		"name": "Jirjā",
+		"name": "Jirja",
 		"country": "Egypt",
-		"subcountry": "Sūhāj",
+		"subcountry": "Suhaj",
 		"geonameid": "355026"
 	},
 	{
 		"name": "‘Izbat al Burj",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at ad Daqahlīyah",
+		"subcountry": "Muḩafaz̧at ad Daqahlīyah",
 		"geonameid": "355392"
 	},
 	{
-		"name": "Iţsā",
+		"name": "Iţsa",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at al Fayyūm",
+		"subcountry": "Muḩafaz̧at al Fayyum",
 		"geonameid": "355420"
 	},
 	{
-		"name": "Isnā",
+		"name": "Isna",
 		"country": "Egypt",
-		"subcountry": "Qinā",
+		"subcountry": "Qina",
 		"geonameid": "355449"
 	},
 	{
-		"name": "Idkū",
+		"name": "Idku",
 		"country": "Egypt",
 		"subcountry": "Al Buḩayrah",
 		"geonameid": "355628"
 	},
 	{
-		"name": "Idfū",
+		"name": "Idfu",
 		"country": "Egypt",
-		"subcountry": "Aswān",
+		"subcountry": "Aswan",
 		"geonameid": "355635"
 	},
 	{
-		"name": "Ibshawāy",
+		"name": "Ibshaway",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at al Fayyūm",
+		"subcountry": "Muḩafaz̧at al Fayyum",
 		"geonameid": "355648"
 	},
 	{
-		"name": "Ḩalwān",
+		"name": "Ḩalwan",
 		"country": "Egypt",
 		"subcountry": "Cairo Governorate",
 		"geonameid": "355795"
 	},
 	{
-		"name": "Hihyā",
+		"name": "Hihya",
 		"country": "Egypt",
 		"subcountry": "Eastern Province",
 		"geonameid": "355939"
@@ -34986,19 +34986,19 @@ const states = [
 		"geonameid": "356806"
 	},
 	{
-		"name": "Farshūţ",
+		"name": "Farshuţ",
 		"country": "Egypt",
-		"subcountry": "Qinā",
+		"subcountry": "Qina",
 		"geonameid": "356933"
 	},
 	{
-		"name": "Fāraskūr",
+		"name": "Faraskur",
 		"country": "Egypt",
-		"subcountry": "Dumyāţ",
+		"subcountry": "Dumyaţ",
 		"geonameid": "356945"
 	},
 	{
-		"name": "Fāqūs",
+		"name": "Faqus",
 		"country": "Egypt",
 		"subcountry": "Eastern Province",
 		"geonameid": "356989"
@@ -35006,7 +35006,7 @@ const states = [
 	{
 		"name": "Damietta",
 		"country": "Egypt",
-		"subcountry": "Dumyāţ",
+		"subcountry": "Dumyaţ",
 		"geonameid": "358048"
 	},
 	{
@@ -35016,63 +35016,63 @@ const states = [
 		"geonameid": "358095"
 	},
 	{
-		"name": "Disūq",
+		"name": "Disuq",
 		"country": "Egypt",
 		"subcountry": "Kafr ash Shaykh",
 		"geonameid": "358108"
 	},
 	{
-		"name": "Dishnā",
+		"name": "Dishna",
 		"country": "Egypt",
-		"subcountry": "Qinā",
+		"subcountry": "Qina",
 		"geonameid": "358115"
 	},
 	{
 		"name": "Dikirnis",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at ad Daqahlīyah",
+		"subcountry": "Muḩafaz̧at ad Daqahlīyah",
 		"geonameid": "358172"
 	},
 	{
-		"name": "Dayrūţ",
+		"name": "Dayruţ",
 		"country": "Egypt",
-		"subcountry": "Asyūţ",
+		"subcountry": "Asyuţ",
 		"geonameid": "358269"
 	},
 	{
-		"name": "Dayr Mawās",
+		"name": "Dayr Mawas",
 		"country": "Egypt",
-		"subcountry": "Al Minyā",
+		"subcountry": "Al Minya",
 		"geonameid": "358274"
 	},
 	{
-		"name": "Damanhūr",
+		"name": "Damanhur",
 		"country": "Egypt",
 		"subcountry": "Al Buḩayrah",
 		"geonameid": "358448"
 	},
 	{
-		"name": "Būsh",
+		"name": "Bush",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at Banī Suwayf",
+		"subcountry": "Muḩafaz̧at Banī Suwayf",
 		"geonameid": "358600"
 	},
 	{
 		"name": "Port Said",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at Būr Sa‘īd",
+		"subcountry": "Muḩafaz̧at Bur Sa‘īd",
 		"geonameid": "358619"
 	},
 	{
-		"name": "Būr Safājah",
+		"name": "Bur Safajah",
 		"country": "Egypt",
 		"subcountry": "Red Sea",
 		"geonameid": "358620"
 	},
 	{
-		"name": "Bilqās",
+		"name": "Bilqas",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at ad Daqahlīyah",
+		"subcountry": "Muḩafaz̧at ad Daqahlīyah",
 		"geonameid": "358821"
 	},
 	{
@@ -35082,27 +35082,27 @@ const states = [
 		"geonameid": "358840"
 	},
 	{
-		"name": "Basyūn",
+		"name": "Basyun",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at al Gharbīyah",
+		"subcountry": "Muḩafaz̧at al Gharbīyah",
 		"geonameid": "358970"
 	},
 	{
 		"name": "Banī Suwayf",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at Banī Suwayf",
+		"subcountry": "Muḩafaz̧at Banī Suwayf",
 		"geonameid": "359173"
 	},
 	{
-		"name": "Banī Mazār",
+		"name": "Banī Mazar",
 		"country": "Egypt",
-		"subcountry": "Al Minyā",
+		"subcountry": "Al Minya",
 		"geonameid": "359212"
 	},
 	{
-		"name": "Banhā",
+		"name": "Banha",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at al Qalyūbīyah",
+		"subcountry": "Muḩafaz̧at al Qalyubīyah",
 		"geonameid": "359280"
 	},
 	{
@@ -35120,19 +35120,19 @@ const states = [
 	{
 		"name": "At Tall al Kabīr",
 		"country": "Egypt",
-		"subcountry": "Al Ismā‘īlīyah",
+		"subcountry": "Al Isma‘īlīyah",
 		"geonameid": "359710"
 	},
 	{
-		"name": "Asyūţ",
+		"name": "Asyuţ",
 		"country": "Egypt",
-		"subcountry": "Asyūţ",
+		"subcountry": "Asyuţ",
 		"geonameid": "359783"
 	},
 	{
 		"name": "Aswan",
 		"country": "Egypt",
-		"subcountry": "Aswān",
+		"subcountry": "Aswan",
 		"geonameid": "359792"
 	},
 	{
@@ -35148,21 +35148,21 @@ const states = [
 		"geonameid": "359900"
 	},
 	{
-		"name": "Ash Shuhadā’",
+		"name": "Ash Shuhada’",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at al Minūfīyah",
+		"subcountry": "Muḩafaz̧at al Minufīyah",
 		"geonameid": "359953"
 	},
 	{
-		"name": "Ashmūn",
+		"name": "Ashmun",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at al Minūfīyah",
+		"subcountry": "Muḩafaz̧at al Minufīyah",
 		"geonameid": "360048"
 	},
 	{
-		"name": "Al Wāsiţah",
+		"name": "Al Wasiţah",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at al Fayyūm",
+		"subcountry": "Muḩafaz̧at al Fayyum",
 		"geonameid": "360464"
 	},
 	{
@@ -35172,9 +35172,9 @@ const states = [
 		"geonameid": "360502"
 	},
 	{
-		"name": "Al Qūşīyah",
+		"name": "Al Quşīyah",
 		"country": "Egypt",
-		"subcountry": "Asyūţ",
+		"subcountry": "Asyuţ",
 		"geonameid": "360526"
 	},
 	{
@@ -35190,15 +35190,15 @@ const states = [
 		"geonameid": "360542"
 	},
 	{
-		"name": "Al Qanāyāt",
+		"name": "Al Qanayat",
 		"country": "Egypt",
 		"subcountry": "Eastern Province",
 		"geonameid": "360612"
 	},
 	{
-		"name": "Al Qanāţir al Khayrīyah",
+		"name": "Al Qanaţir al Khayrīyah",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at al Qalyūbīyah",
+		"subcountry": "Muḩafaz̧at al Qalyubīyah",
 		"geonameid": "360615"
 	},
 	{
@@ -35208,51 +35208,51 @@ const states = [
 		"geonameid": "360630"
 	},
 	{
-		"name": "Al Minyā",
+		"name": "Al Minya",
 		"country": "Egypt",
-		"subcountry": "Al Minyā",
+		"subcountry": "Al Minya",
 		"geonameid": "360686"
 	},
 	{
 		"name": "Al Maţarīyah",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at ad Daqahlīyah",
+		"subcountry": "Muḩafaz̧at ad Daqahlīyah",
 		"geonameid": "360716"
 	},
 	{
 		"name": "Al Manzilah",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at ad Daqahlīyah",
+		"subcountry": "Muḩafaz̧at ad Daqahlīyah",
 		"geonameid": "360754"
 	},
 	{
-		"name": "Al Manşūrah",
+		"name": "Al Manşurah",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at ad Daqahlīyah",
+		"subcountry": "Muḩafaz̧at ad Daqahlīyah",
 		"geonameid": "360761"
 	},
 	{
-		"name": "Al Manshāh",
+		"name": "Al Manshah",
 		"country": "Egypt",
-		"subcountry": "Sūhāj",
+		"subcountry": "Suhaj",
 		"geonameid": "360773"
 	},
 	{
 		"name": "Al Maḩallah al Kubrá",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at al Gharbīyah",
+		"subcountry": "Muḩafaz̧at al Gharbīyah",
 		"geonameid": "360829"
 	},
 	{
-		"name": "Al Khārijah",
+		"name": "Al Kharijah",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at al Wādī al Jadīd",
+		"subcountry": "Muḩafaz̧at al Wadī al Jadīd",
 		"geonameid": "360923"
 	},
 	{
-		"name": "Al Khānkah",
+		"name": "Al Khankah",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at al Qalyūbīyah",
+		"subcountry": "Muḩafaz̧at al Qalyubīyah",
 		"geonameid": "360928"
 	},
 	{
@@ -35262,15 +35262,15 @@ const states = [
 		"geonameid": "360995"
 	},
 	{
-		"name": "Al Jamālīyah",
+		"name": "Al Jamalīyah",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at ad Daqahlīyah",
+		"subcountry": "Muḩafaz̧at ad Daqahlīyah",
 		"geonameid": "361029"
 	},
 	{
 		"name": "Ismailia",
 		"country": "Egypt",
-		"subcountry": "Al Ismā‘īlīyah",
+		"subcountry": "Al Isma‘īlīyah",
 		"geonameid": "361055"
 	},
 	{
@@ -35280,19 +35280,19 @@ const states = [
 		"geonameid": "361058"
 	},
 	{
-		"name": "Al Ibrāhīmīyah",
+		"name": "Al Ibrahīmīyah",
 		"country": "Egypt",
 		"subcountry": "Eastern Province",
 		"geonameid": "361103"
 	},
 	{
-		"name": "Al Ḩawāmidīyah",
+		"name": "Al Ḩawamidīyah",
 		"country": "Egypt",
 		"subcountry": "Al Jīzah",
 		"geonameid": "361179"
 	},
 	{
-		"name": "Al Ḩāmūl",
+		"name": "Al Ḩamul",
 		"country": "Egypt",
 		"subcountry": "Kafr ash Shaykh",
 		"geonameid": "361213"
@@ -35304,15 +35304,15 @@ const states = [
 		"geonameid": "361291"
 	},
 	{
-		"name": "Al Fayyūm",
+		"name": "Al Fayyum",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at al Fayyūm",
+		"subcountry": "Muḩafaz̧at al Fayyum",
 		"geonameid": "361320"
 	},
 	{
 		"name": "Al Fashn",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at Banī Suwayf",
+		"subcountry": "Muḩafaz̧at Banī Suwayf",
 		"geonameid": "361329"
 	},
 	{
@@ -35322,25 +35322,25 @@ const states = [
 		"geonameid": "361394"
 	},
 	{
-		"name": "Al Balyanā",
+		"name": "Al Balyana",
 		"country": "Egypt",
-		"subcountry": "Sūhāj",
+		"subcountry": "Suhaj",
 		"geonameid": "361435"
 	},
 	{
-		"name": "Al Bājūr",
+		"name": "Al Bajur",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at al Minūfīyah",
+		"subcountry": "Muḩafaz̧at al Minufīyah",
 		"geonameid": "361457"
 	},
 	{
-		"name": "Al Badārī",
+		"name": "Al Badarī",
 		"country": "Egypt",
-		"subcountry": "Asyūţ",
+		"subcountry": "Asyuţ",
 		"geonameid": "361478"
 	},
 	{
-		"name": "Al ‘Ayyāţ",
+		"name": "Al ‘Ayyaţ",
 		"country": "Egypt",
 		"subcountry": "Al Jīzah",
 		"geonameid": "361495"
@@ -35348,61 +35348,61 @@ const states = [
 	{
 		"name": "Arish",
 		"country": "Egypt",
-		"subcountry": "Shamāl Sīnāʼ",
+		"subcountry": "Shamal Sīnaʼ",
 		"geonameid": "361546"
 	},
 	{
 		"name": "Akhmīm",
 		"country": "Egypt",
-		"subcountry": "Sūhāj",
+		"subcountry": "Suhaj",
 		"geonameid": "361661"
 	},
 	{
-		"name": "Ajā",
+		"name": "Aja",
 		"country": "Egypt",
-		"subcountry": "Muḩāfaz̧at ad Daqahlīyah",
+		"subcountry": "Muḩafaz̧at ad Daqahlīyah",
 		"geonameid": "361702"
 	},
 	{
-		"name": "Ad Dilinjāt",
+		"name": "Ad Dilinjat",
 		"country": "Egypt",
 		"subcountry": "Al Buḩayrah",
 		"geonameid": "361827"
 	},
 	{
-		"name": "Abū Tīj",
+		"name": "Abu Tīj",
 		"country": "Egypt",
-		"subcountry": "Asyūţ",
+		"subcountry": "Asyuţ",
 		"geonameid": "362004"
 	},
 	{
-		"name": "Abū Qurqāş",
+		"name": "Abu Qurqaş",
 		"country": "Egypt",
-		"subcountry": "Al Minyā",
+		"subcountry": "Al Minya",
 		"geonameid": "362277"
 	},
 	{
-		"name": "Abū Kabīr",
+		"name": "Abu Kabīr",
 		"country": "Egypt",
 		"subcountry": "Eastern Province",
 		"geonameid": "362485"
 	},
 	{
-		"name": "Abū al Maţāmīr",
+		"name": "Abu al Maţamīr",
 		"country": "Egypt",
 		"subcountry": "Al Buḩayrah",
 		"geonameid": "362882"
 	},
 	{
-		"name": "Abnūb",
+		"name": "Abnub",
 		"country": "Egypt",
-		"subcountry": "Asyūţ",
+		"subcountry": "Asyuţ",
 		"geonameid": "362973"
 	},
 	{
-		"name": "Az Zarqā",
+		"name": "Az Zarqa",
 		"country": "Egypt",
-		"subcountry": "Dumyāţ",
+		"subcountry": "Dumyaţ",
 		"geonameid": "419435"
 	},
 	{
@@ -35438,7 +35438,7 @@ const states = [
 	{
 		"name": "Keren",
 		"country": "Eritrea",
-		"subcountry": "Ānseba",
+		"subcountry": "Anseba",
 		"geonameid": "333287"
 	},
 	{
@@ -35450,7 +35450,7 @@ const states = [
 	{
 		"name": "Asmara",
 		"country": "Eritrea",
-		"subcountry": "Maʼākel",
+		"subcountry": "Maʼakel",
 		"geonameid": "343300"
 	},
 	{
@@ -35862,7 +35862,7 @@ const states = [
 		"geonameid": "2511994"
 	},
 	{
-		"name": "Puçol",
+		"name": "Pucol",
 		"country": "Spain",
 		"subcountry": "Valencia",
 		"geonameid": "2512127"
@@ -35916,7 +35916,7 @@ const states = [
 		"geonameid": "2512340"
 	},
 	{
-		"name": "Pollença",
+		"name": "Pollenca",
 		"country": "Spain",
 		"subcountry": "Balearic Islands",
 		"geonameid": "2512432"
@@ -36540,7 +36540,7 @@ const states = [
 		"geonameid": "2518729"
 	},
 	{
-		"name": "Écija",
+		"name": "Ecija",
 		"country": "Spain",
 		"subcountry": "Andalusia",
 		"geonameid": "2518770"
@@ -37428,7 +37428,7 @@ const states = [
 		"geonameid": "3109402"
 	},
 	{
-		"name": "Sant Vicenç dels Horts",
+		"name": "Sant Vicenc dels Horts",
 		"country": "Spain",
 		"subcountry": "Catalonia",
 		"geonameid": "3109442"
@@ -38970,7 +38970,7 @@ const states = [
 		"geonameid": "330764"
 	},
 	{
-		"name": "Metahāra",
+		"name": "Metahara",
 		"country": "Ethiopia",
 		"subcountry": "Oromiya",
 		"geonameid": "330811"
@@ -39054,7 +39054,7 @@ const states = [
 		"geonameid": "335035"
 	},
 	{
-		"name": "Hāgere Hiywet",
+		"name": "Hagere Hiywet",
 		"country": "Ethiopia",
 		"subcountry": "Oromiya",
 		"geonameid": "335288"
@@ -39134,7 +39134,7 @@ const states = [
 	{
 		"name": "Dubti",
 		"country": "Ethiopia",
-		"subcountry": "Āfar",
+		"subcountry": "Afar",
 		"geonameid": "338554"
 	},
 	{
@@ -39264,13 +39264,13 @@ const states = [
 		"geonameid": "343137"
 	},
 	{
-		"name": "Āsosa",
+		"name": "Asosa",
 		"country": "Ethiopia",
 		"subcountry": "Bīnshangul Gumuz",
 		"geonameid": "343292"
 	},
 	{
-		"name": "Āsbe Teferī",
+		"name": "Asbe Teferī",
 		"country": "Ethiopia",
 		"subcountry": "Oromiya",
 		"geonameid": "343402"
@@ -39278,23 +39278,23 @@ const states = [
 	{
 		"name": "Asaita",
 		"country": "Ethiopia",
-		"subcountry": "Āfar",
+		"subcountry": "Afar",
 		"geonameid": "343409"
 	},
 	{
-		"name": "Āsasa",
+		"name": "Asasa",
 		"country": "Ethiopia",
 		"subcountry": "Oromiya",
 		"geonameid": "343413"
 	},
 	{
-		"name": "Āreka",
+		"name": "Areka",
 		"country": "Ethiopia",
 		"subcountry": "\"Southern Nations, Nationalities, and People's Region\"",
 		"geonameid": "343593"
 	},
 	{
-		"name": "Ārba Minch’",
+		"name": "Arba Minch’",
 		"country": "Ethiopia",
 		"subcountry": "\"Southern Nations, Nationalities, and People's Region\"",
 		"geonameid": "343663"
@@ -39312,13 +39312,13 @@ const states = [
 		"geonameid": "344620"
 	},
 	{
-		"name": "Āgaro",
+		"name": "Agaro",
 		"country": "Ethiopia",
 		"subcountry": "Oromiya",
 		"geonameid": "344661"
 	},
 	{
-		"name": "Ādīs Zemen",
+		"name": "Adīs Zemen",
 		"country": "Ethiopia",
 		"subcountry": "Amhara",
 		"geonameid": "344923"
@@ -39326,11 +39326,11 @@ const states = [
 	{
 		"name": "Addis Ababa",
 		"country": "Ethiopia",
-		"subcountry": "Ādīs Ābeba",
+		"subcountry": "Adīs Abeba",
 		"geonameid": "344979"
 	},
 	{
-		"name": "Ādīgrat",
+		"name": "Adīgrat",
 		"country": "Ethiopia",
 		"subcountry": "Tigray",
 		"geonameid": "345149"
@@ -39348,7 +39348,7 @@ const states = [
 		"geonameid": "345704"
 	},
 	{
-		"name": "Ylöjärvi",
+		"name": "Ylojarvi",
 		"country": "Finland",
 		"subcountry": "Pirkanmaa",
 		"geonameid": "630752"
@@ -39414,7 +39414,7 @@ const states = [
 		"geonameid": "634963"
 	},
 	{
-		"name": "Siilinjärvi",
+		"name": "Siilinjarvi",
 		"country": "Finland",
 		"subcountry": "Northern Savo",
 		"geonameid": "636947"
@@ -39426,7 +39426,7 @@ const states = [
 		"geonameid": "637067"
 	},
 	{
-		"name": "Seinäjoki",
+		"name": "Seinajoki",
 		"country": "Finland",
 		"subcountry": "Southern Ostrobothnia",
 		"geonameid": "637219"
@@ -39450,9 +39450,9 @@ const states = [
 		"geonameid": "638936"
 	},
 	{
-		"name": "Riihimäki",
+		"name": "Riihimaki",
 		"country": "Finland",
-		"subcountry": "Häme",
+		"subcountry": "Hame",
 		"geonameid": "639406"
 	},
 	{
@@ -39492,7 +39492,7 @@ const states = [
 		"geonameid": "643492"
 	},
 	{
-		"name": "Nurmijärvi",
+		"name": "Nurmijarvi",
 		"country": "Finland",
 		"subcountry": "Uusimaa",
 		"geonameid": "644171"
@@ -39510,7 +39510,7 @@ const states = [
 		"geonameid": "646005"
 	},
 	{
-		"name": "Mäntsälä",
+		"name": "Mantsala",
 		"country": "Finland",
 		"subcountry": "Uusimaa",
 		"geonameid": "646723"
@@ -39534,7 +39534,7 @@ const states = [
 		"geonameid": "648056"
 	},
 	{
-		"name": "Lempäälä",
+		"name": "Lempaala",
 		"country": "Finland",
 		"subcountry": "Pirkanmaa",
 		"geonameid": "648366"
@@ -39554,7 +39554,7 @@ const states = [
 	{
 		"name": "Lahti",
 		"country": "Finland",
-		"subcountry": "Päijänne Tavastia",
+		"subcountry": "Paijanne Tavastia",
 		"geonameid": "649360"
 	},
 	{
@@ -39636,7 +39636,7 @@ const states = [
 		"geonameid": "655130"
 	},
 	{
-		"name": "Jyväskylä",
+		"name": "Jyvaskyla",
 		"country": "Finland",
 		"subcountry": "Central Finland",
 		"geonameid": "655194"
@@ -39648,7 +39648,7 @@ const states = [
 		"geonameid": "655808"
 	},
 	{
-		"name": "Järvenpää",
+		"name": "Jarvenpaa",
 		"country": "Finland",
 		"subcountry": "Uusimaa",
 		"geonameid": "655958"
@@ -39656,11 +39656,11 @@ const states = [
 	{
 		"name": "Janakkala",
 		"country": "Finland",
-		"subcountry": "Häme",
+		"subcountry": "Hame",
 		"geonameid": "656073"
 	},
 	{
-		"name": "Jämsä",
+		"name": "Jamsa",
 		"country": "Finland",
 		"subcountry": "Central Finland",
 		"geonameid": "656083"
@@ -39692,7 +39692,7 @@ const states = [
 	{
 		"name": "Hollola",
 		"country": "Finland",
-		"subcountry": "Päijänne Tavastia",
+		"subcountry": "Paijanne Tavastia",
 		"geonameid": "657530"
 	},
 	{
@@ -39704,7 +39704,7 @@ const states = [
 	{
 		"name": "Heinola",
 		"country": "Finland",
-		"subcountry": "Päijänne Tavastia",
+		"subcountry": "Paijanne Tavastia",
 		"geonameid": "658288"
 	},
 	{
@@ -39720,15 +39720,15 @@ const states = [
 		"geonameid": "659169"
 	},
 	{
-		"name": "Hämeenlinna",
+		"name": "Hameenlinna",
 		"country": "Finland",
-		"subcountry": "Häme",
+		"subcountry": "Hame",
 		"geonameid": "659180"
 	},
 	{
 		"name": "Forssa",
 		"country": "Finland",
-		"subcountry": "Häme",
+		"subcountry": "Hame",
 		"geonameid": "659935"
 	},
 	{
@@ -39750,7 +39750,7 @@ const states = [
 		"geonameid": "661164"
 	},
 	{
-		"name": "Länsi-Turunmaa",
+		"name": "Lansi-Turunmaa",
 		"country": "Finland",
 		"subcountry": "Southwest Finland",
 		"geonameid": "7911309"
@@ -39800,7 +39800,7 @@ const states = [
 	{
 		"name": "Yerres",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2967245"
 	},
 	{
@@ -39830,11 +39830,11 @@ const states = [
 	{
 		"name": "Vitry-sur-Seine",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2967849"
 	},
 	{
-		"name": "Vitry-le-François",
+		"name": "Vitry-le-Francois",
 		"country": "France",
 		"subcountry": "Alsace-Champagne-Ardenne-Lorraine",
 		"geonameid": "2967856"
@@ -39854,31 +39854,31 @@ const states = [
 	{
 		"name": "Viry-Châtillon",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2967917"
 	},
 	{
 		"name": "Viroflay",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2967934"
 	},
 	{
 		"name": "Vincennes",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2968054"
 	},
 	{
 		"name": "Villiers-sur-Marne",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2968142"
 	},
 	{
 		"name": "Villiers-le-Bel",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2968176"
 	},
 	{
@@ -39896,13 +39896,13 @@ const states = [
 	{
 		"name": "Villepinte",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2968482"
 	},
 	{
 		"name": "Villeparisis",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2968496"
 	},
 	{
@@ -39914,19 +39914,19 @@ const states = [
 	{
 		"name": "Villeneuve-Saint-Georges",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2968529"
 	},
 	{
 		"name": "Villeneuve-le-Roi",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2968546"
 	},
 	{
 		"name": "Villeneuve-la-Garenne",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2968555"
 	},
 	{
@@ -39938,13 +39938,13 @@ const states = [
 	{
 		"name": "Villemomble",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2968653"
 	},
 	{
 		"name": "Villejuif",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2968705"
 	},
 	{
@@ -39962,7 +39962,7 @@ const states = [
 	{
 		"name": "Vigneux-sur-Seine",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2969109"
 	},
 	{
@@ -39998,13 +39998,13 @@ const states = [
 	{
 		"name": "Versailles",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2969679"
 	},
 	{
 		"name": "Verrières-le-Buisson",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2969692"
 	},
 	{
@@ -40016,7 +40016,7 @@ const states = [
 	{
 		"name": "Verneuil-sur-Seine",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2969796"
 	},
 	{
@@ -40046,13 +40046,13 @@ const states = [
 	{
 		"name": "Vélizy-Villacoublay",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2970203"
 	},
 	{
 		"name": "Vauréal",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2970432"
 	},
 	{
@@ -40064,7 +40064,7 @@ const states = [
 	{
 		"name": "Vanves",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2970761"
 	},
 	{
@@ -40112,13 +40112,13 @@ const states = [
 	{
 		"name": "Tremblay-en-France",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2971874"
 	},
 	{
 		"name": "Trappes",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2972049"
 	},
 	{
@@ -40166,7 +40166,7 @@ const states = [
 	{
 		"name": "Torcy",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2972444"
 	},
 	{
@@ -40184,7 +40184,7 @@ const states = [
 	{
 		"name": "Thiais",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2972893"
 	},
 	{
@@ -40196,7 +40196,7 @@ const states = [
 	{
 		"name": "Taverny",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2973258"
 	},
 	{
@@ -40220,13 +40220,13 @@ const states = [
 	{
 		"name": "Suresnes",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2973675"
 	},
 	{
 		"name": "Sucy-en-Brie",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2973745"
 	},
 	{
@@ -40238,7 +40238,7 @@ const states = [
 	{
 		"name": "Stains",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2973841"
 	},
 	{
@@ -40256,7 +40256,7 @@ const states = [
 	{
 		"name": "Soisy-sous-Montmorency",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2974385"
 	},
 	{
@@ -40286,13 +40286,13 @@ const states = [
 	{
 		"name": "Sèvres",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2974678"
 	},
 	{
 		"name": "Sevran",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2974681"
 	},
 	{
@@ -40334,19 +40334,19 @@ const states = [
 	{
 		"name": "Sceaux",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2975469"
 	},
 	{
 		"name": "Savigny-sur-Orge",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2975525"
 	},
 	{
 		"name": "Savigny-le-Temple",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2975536"
 	},
 	{
@@ -40358,7 +40358,7 @@ const states = [
 	{
 		"name": "Sartrouville",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2975921"
 	},
 	{
@@ -40370,7 +40370,7 @@ const states = [
 	{
 		"name": "Sarcelles",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2976043"
 	},
 	{
@@ -40382,7 +40382,7 @@ const states = [
 	{
 		"name": "Sannois",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2976179"
 	},
 	{
@@ -40410,7 +40410,7 @@ const states = [
 		"geonameid": "2976984"
 	},
 	{
-		"name": "Saint-Raphaël",
+		"name": "Saint-Raphael",
 		"country": "France",
 		"subcountry": "Provence-Alpes-Côte d'Azur",
 		"geonameid": "2977246"
@@ -40442,13 +40442,13 @@ const states = [
 	{
 		"name": "Saint-Ouen-l’Aumône",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2977800"
 	},
 	{
 		"name": "Saint-Ouen",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2977824"
 	},
 	{
@@ -40466,7 +40466,7 @@ const states = [
 	{
 		"name": "Saint-Michel-sur-Orge",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2977952"
 	},
 	{
@@ -40484,7 +40484,7 @@ const states = [
 	{
 		"name": "Saint-Maur-des-Fossés",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2978179"
 	},
 	{
@@ -40496,7 +40496,7 @@ const states = [
 	{
 		"name": "Saint-Mandé",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2978621"
 	},
 	{
@@ -40520,7 +40520,7 @@ const states = [
 	{
 		"name": "Saint-Leu-la-Forêt",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2978768"
 	},
 	{
@@ -40556,13 +40556,13 @@ const states = [
 	{
 		"name": "Saint-Gratien",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2979627"
 	},
 	{
 		"name": "Saint-Germain-en-Laye",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2979783"
 	},
 	{
@@ -40578,13 +40578,13 @@ const states = [
 		"geonameid": "2980097"
 	},
 	{
-		"name": "Saint-Étienne-du-Rouvray",
+		"name": "Saint-Etienne-du-Rouvray",
 		"country": "France",
 		"subcountry": "Normandy",
 		"geonameid": "2980236"
 	},
 	{
-		"name": "Saint-Étienne",
+		"name": "Saint-Etienne",
 		"country": "France",
 		"subcountry": "Auvergne-Rhône-Alpes",
 		"geonameid": "2980291"
@@ -40598,7 +40598,7 @@ const states = [
 	{
 		"name": "Sainte-Geneviève-des-Bois",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2980558"
 	},
 	{
@@ -40608,7 +40608,7 @@ const states = [
 		"geonameid": "2980586"
 	},
 	{
-		"name": "Saint-Égrève",
+		"name": "Saint-Egrève",
 		"country": "France",
 		"subcountry": "Auvergne-Rhône-Alpes",
 		"geonameid": "2980636"
@@ -40628,7 +40628,7 @@ const states = [
 	{
 		"name": "Saint-Denis",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2980916"
 	},
 	{
@@ -40638,15 +40638,15 @@ const states = [
 		"geonameid": "2980935"
 	},
 	{
-		"name": "Saint-Cyr-l’École",
+		"name": "Saint-Cyr-l’Ecole",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2980942"
 	},
 	{
 		"name": "Saint-Cloud",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2981041"
 	},
 	{
@@ -40682,7 +40682,7 @@ const states = [
 	{
 		"name": "Rueil-Malmaison",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2982235"
 	},
 	{
@@ -40706,7 +40706,7 @@ const states = [
 	{
 		"name": "Rosny-sous-Bois",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2982757"
 	},
 	{
@@ -40730,13 +40730,13 @@ const states = [
 	{
 		"name": "Romainville",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2983026"
 	},
 	{
 		"name": "Roissy-en-Brie",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2983074"
 	},
 	{
@@ -40760,7 +40760,7 @@ const states = [
 	{
 		"name": "Ris-Orangis",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2983440"
 	},
 	{
@@ -40796,7 +40796,7 @@ const states = [
 	{
 		"name": "Rambouillet",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2984513"
 	},
 	{
@@ -40808,7 +40808,7 @@ const states = [
 	{
 		"name": "Puteaux",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2985034"
 	},
 	{
@@ -40820,7 +40820,7 @@ const states = [
 	{
 		"name": "Pontoise",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2986140"
 	},
 	{
@@ -40850,7 +40850,7 @@ const states = [
 	{
 		"name": "Poissy",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2986501"
 	},
 	{
@@ -40862,7 +40862,7 @@ const states = [
 	{
 		"name": "Plaisir",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2986930"
 	},
 	{
@@ -40874,7 +40874,7 @@ const states = [
 	{
 		"name": "Pierrefitte-sur-Seine",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2987271"
 	},
 	{
@@ -40910,13 +40910,13 @@ const states = [
 	{
 		"name": "Paris",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2988507"
 	},
 	{
 		"name": "Pantin",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2988621"
 	},
 	{
@@ -40928,13 +40928,13 @@ const states = [
 	{
 		"name": "Palaiseau",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2988758"
 	},
 	{
 		"name": "Ozoir-la-Ferrière",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2988867"
 	},
 	{
@@ -40958,7 +40958,7 @@ const states = [
 	{
 		"name": "Osny",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2989130"
 	},
 	{
@@ -40970,13 +40970,13 @@ const states = [
 	{
 		"name": "Orsay",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2989204"
 	},
 	{
 		"name": "Orly",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2989297"
 	},
 	{
@@ -41012,19 +41012,19 @@ const states = [
 	{
 		"name": "Noisy-le-Sec",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2990187"
 	},
 	{
 		"name": "Noisy-le-Grand",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2990189"
 	},
 	{
 		"name": "Noisiel",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2990192"
 	},
 	{
@@ -41036,7 +41036,7 @@ const states = [
 	{
 		"name": "Nogent-sur-Marne",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2990265"
 	},
 	{
@@ -41046,7 +41046,7 @@ const states = [
 		"geonameid": "2990355"
 	},
 	{
-		"name": "Nîmes",
+		"name": "Nimes",
 		"country": "France",
 		"subcountry": "Languedoc-Roussillon-Midi-Pyrénées",
 		"geonameid": "2990363"
@@ -41066,19 +41066,19 @@ const states = [
 	{
 		"name": "Neuilly-sur-Seine",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2990611"
 	},
 	{
 		"name": "Neuilly-sur-Marne",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2990612"
 	},
 	{
 		"name": "Neuilly-Plaisance",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2990616"
 	},
 	{
@@ -41096,7 +41096,7 @@ const states = [
 	{
 		"name": "Nanterre",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2990970"
 	},
 	{
@@ -41132,7 +41132,7 @@ const states = [
 	{
 		"name": "Morsang-sur-Orge",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2991719"
 	},
 	{
@@ -41150,13 +41150,13 @@ const states = [
 	{
 		"name": "Montrouge",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2992017"
 	},
 	{
 		"name": "Montreuil",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2992090"
 	},
 	{
@@ -41168,11 +41168,11 @@ const states = [
 	{
 		"name": "Montmorency",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2992229"
 	},
 	{
-		"name": "Montluçon",
+		"name": "Montlucon",
 		"country": "France",
 		"subcountry": "Auvergne-Rhône-Alpes",
 		"geonameid": "2992292"
@@ -41192,37 +41192,37 @@ const states = [
 	{
 		"name": "Montigny-lès-Cormeilles",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2992404"
 	},
 	{
 		"name": "Montigny-le-Bretonneux",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2992415"
 	},
 	{
 		"name": "Montgeron",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2992536"
 	},
 	{
 		"name": "Montfermeil",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2992616"
 	},
 	{
 		"name": "Montesson",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2992650"
 	},
 	{
 		"name": "Montereau-Fault-Yonne",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2992671"
 	},
 	{
@@ -41276,13 +41276,13 @@ const states = [
 	{
 		"name": "Moissy-Cramayel",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2993572"
 	},
 	{
 		"name": "Mitry-Mory",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2993679"
 	},
 	{
@@ -41312,7 +41312,7 @@ const states = [
 	{
 		"name": "Meudon",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2994144"
 	},
 	{
@@ -41336,13 +41336,13 @@ const states = [
 	{
 		"name": "Melun",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2994651"
 	},
 	{
 		"name": "Meaux",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2994798"
 	},
 	{
@@ -41354,7 +41354,7 @@ const states = [
 	{
 		"name": "Maurepas",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2995041"
 	},
 	{
@@ -41372,7 +41372,7 @@ const states = [
 	{
 		"name": "Massy",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2995206"
 	},
 	{
@@ -41396,7 +41396,7 @@ const states = [
 	{
 		"name": "Marly-le-Roi",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2995652"
 	},
 	{
@@ -41414,13 +41414,13 @@ const states = [
 	{
 		"name": "Mantes-la-Ville",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2996146"
 	},
 	{
 		"name": "Mantes-la-Jolie",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2996148"
 	},
 	{
@@ -41438,19 +41438,19 @@ const states = [
 	{
 		"name": "Malakoff",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2996514"
 	},
 	{
 		"name": "Maisons-Laffitte",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2996564"
 	},
 	{
 		"name": "Maisons-Alfort",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2996568"
 	},
 	{
@@ -41522,7 +41522,7 @@ const states = [
 	{
 		"name": "Longjumeau",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2997712"
 	},
 	{
@@ -41534,13 +41534,13 @@ const states = [
 	{
 		"name": "Lognes",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2997904"
 	},
 	{
 		"name": "Livry-Gargan",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2998056"
 	},
 	{
@@ -41570,13 +41570,13 @@ const states = [
 	{
 		"name": "Limeil-Brévannes",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2998305"
 	},
 	{
 		"name": "Limay",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2998311"
 	},
 	{
@@ -41598,21 +41598,21 @@ const states = [
 		"geonameid": "2998517"
 	},
 	{
-		"name": "L'Haÿ-les-Roses",
+		"name": "L'Hay-les-Roses",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2998632"
 	},
 	{
 		"name": "Le Vésinet",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2998854"
 	},
 	{
 		"name": "Levallois-Perret",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "2998975"
 	},
 	{
@@ -41630,19 +41630,19 @@ const states = [
 	{
 		"name": "Les Pavillons-sous-Bois",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3000060"
 	},
 	{
 		"name": "Les Mureaux",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3000192"
 	},
 	{
 		"name": "Les Lilas",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3000491"
 	},
 	{
@@ -41654,7 +41654,7 @@ const states = [
 	{
 		"name": "Les Clayes-sous-Bois",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3001402"
 	},
 	{
@@ -41666,7 +41666,7 @@ const states = [
 	{
 		"name": "Le Pré-Saint-Gervais",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3002499"
 	},
 	{
@@ -41678,13 +41678,13 @@ const states = [
 	{
 		"name": "Le Plessis-Trévise",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3002647"
 	},
 	{
 		"name": "Le Plessis-Robinson",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3002650"
 	},
 	{
@@ -41696,13 +41696,13 @@ const states = [
 	{
 		"name": "Le Perreux-sur-Marne",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3002965"
 	},
 	{
 		"name": "Le Pecq",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3002984"
 	},
 	{
@@ -41714,7 +41714,7 @@ const states = [
 	{
 		"name": "Le Mée-sur-Seine",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3003481"
 	},
 	{
@@ -41726,7 +41726,7 @@ const states = [
 	{
 		"name": "Le Kremlin-Bicêtre",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3003737"
 	},
 	{
@@ -41750,7 +41750,7 @@ const states = [
 	{
 		"name": "Le Chesnay",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3004630"
 	},
 	{
@@ -41768,7 +41768,7 @@ const states = [
 	{
 		"name": "Le Blanc-Mesnil",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3005269"
 	},
 	{
@@ -41858,13 +41858,13 @@ const states = [
 	{
 		"name": "Lagny-sur-Marne",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3009071"
 	},
 	{
 		"name": "La Garenne-Colombes",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3009169"
 	},
 	{
@@ -41888,7 +41888,7 @@ const states = [
 	{
 		"name": "La Courneuve",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3009824"
 	},
 	{
@@ -41906,13 +41906,13 @@ const states = [
 	{
 		"name": "La Celle-Saint-Cloud",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3010529"
 	},
 	{
 		"name": "Jouy-le-Moutier",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3012162"
 	},
 	{
@@ -41924,13 +41924,13 @@ const states = [
 	{
 		"name": "Joinville-le-Pont",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3012313"
 	},
 	{
 		"name": "Ivry-sur-Seine",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3012621"
 	},
 	{
@@ -41942,7 +41942,7 @@ const states = [
 	{
 		"name": "Issy-les-Moulineaux",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3012649"
 	},
 	{
@@ -41972,7 +41972,7 @@ const states = [
 	{
 		"name": "Houilles",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3013097"
 	},
 	{
@@ -41984,7 +41984,7 @@ const states = [
 	{
 		"name": "Herblay",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3013477"
 	},
 	{
@@ -42044,7 +42044,7 @@ const states = [
 	{
 		"name": "Guyancourt",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3014143"
 	},
 	{
@@ -42068,7 +42068,7 @@ const states = [
 	{
 		"name": "Grigny",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3014646"
 	},
 	{
@@ -42098,13 +42098,13 @@ const states = [
 	{
 		"name": "Goussainville",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3015490"
 	},
 	{
 		"name": "Gonesse",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3015689"
 	},
 	{
@@ -42116,7 +42116,7 @@ const states = [
 	{
 		"name": "Gif-sur-Yvette",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3016078"
 	},
 	{
@@ -42128,19 +42128,19 @@ const states = [
 	{
 		"name": "Gentilly",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3016292"
 	},
 	{
 		"name": "Gennevilliers",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3016321"
 	},
 	{
 		"name": "Garges-lès-Gonesse",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3016621"
 	},
 	{
@@ -42152,7 +42152,7 @@ const states = [
 	{
 		"name": "Garches",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3016675"
 	},
 	{
@@ -42164,7 +42164,7 @@ const states = [
 	{
 		"name": "Gagny",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3016830"
 	},
 	{
@@ -42176,7 +42176,7 @@ const states = [
 	{
 		"name": "Fresnes",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3017178"
 	},
 	{
@@ -42188,7 +42188,7 @@ const states = [
 	{
 		"name": "Franconville",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3017341"
 	},
 	{
@@ -42212,7 +42212,7 @@ const states = [
 	{
 		"name": "Fontenay-sous-Bois",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3017910"
 	},
 	{
@@ -42224,13 +42224,13 @@ const states = [
 	{
 		"name": "Fontenay-aux-Roses",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3017924"
 	},
 	{
 		"name": "Fontainebleau",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3018074"
 	},
 	{
@@ -42282,21 +42282,21 @@ const states = [
 		"geonameid": "3019193"
 	},
 	{
-		"name": "Évry",
+		"name": "Evry",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3019256"
 	},
 	{
-		"name": "Évreux",
+		"name": "Evreux",
 		"country": "France",
 		"subcountry": "Normandy",
 		"geonameid": "3019265"
 	},
 	{
-		"name": "Étampes",
+		"name": "Etampes",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3019459"
 	},
 	{
@@ -42308,35 +42308,35 @@ const states = [
 	{
 		"name": "Ermont",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3019897"
 	},
 	{
-		"name": "Éragny",
+		"name": "Eragny",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3019952"
 	},
 	{
-		"name": "Équeurdreville-Hainneville",
+		"name": "Equeurdreville-Hainneville",
 		"country": "France",
 		"subcountry": "Normandy",
 		"geonameid": "3019960"
 	},
 	{
-		"name": "Épinay-sur-Seine",
+		"name": "Epinay-sur-Seine",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3020020"
 	},
 	{
-		"name": "Épinal",
+		"name": "Epinal",
 		"country": "France",
 		"subcountry": "Alsace-Champagne-Ardenne-Lorraine",
 		"geonameid": "3020035"
 	},
 	{
-		"name": "Épernay",
+		"name": "Epernay",
 		"country": "France",
 		"subcountry": "Alsace-Champagne-Ardenne-Lorraine",
 		"geonameid": "3020062"
@@ -42348,19 +42348,19 @@ const states = [
 		"geonameid": "3020307"
 	},
 	{
-		"name": "Élancourt",
+		"name": "Elancourt",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3020310"
 	},
 	{
-		"name": "Écully",
+		"name": "Ecully",
 		"country": "France",
 		"subcountry": "Auvergne-Rhône-Alpes",
 		"geonameid": "3020392"
 	},
 	{
-		"name": "Échirolles",
+		"name": "Echirolles",
 		"country": "France",
 		"subcountry": "Auvergne-Rhône-Alpes",
 		"geonameid": "3020495"
@@ -42368,7 +42368,7 @@ const states = [
 	{
 		"name": "Eaubonne",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3020601"
 	},
 	{
@@ -42386,13 +42386,13 @@ const states = [
 	{
 		"name": "Draveil",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3020832"
 	},
 	{
 		"name": "Drancy",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3020839"
 	},
 	{
@@ -42416,7 +42416,7 @@ const states = [
 	{
 		"name": "Domont",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3021150"
 	},
 	{
@@ -42446,7 +42446,7 @@ const states = [
 	{
 		"name": "Deuil-la-Barre",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3021516"
 	},
 	{
@@ -42470,7 +42470,7 @@ const states = [
 	{
 		"name": "Dammarie-les-Lys",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3021852"
 	},
 	{
@@ -42488,7 +42488,7 @@ const states = [
 	{
 		"name": "Créteil",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3022530"
 	},
 	{
@@ -42518,17 +42518,17 @@ const states = [
 	{
 		"name": "Courbevoie",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3023141"
 	},
 	{
 		"name": "Coulommiers",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3023240"
 	},
 	{
-		"name": "Couëron",
+		"name": "Coueron",
 		"country": "France",
 		"subcountry": "Pays de la Loire",
 		"geonameid": "3023324"
@@ -42542,19 +42542,19 @@ const states = [
 	{
 		"name": "Cormeilles-en-Parisis",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3023645"
 	},
 	{
 		"name": "Corbeil-Essonnes",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3023763"
 	},
 	{
 		"name": "Conflans-Sainte-Honorine",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3023924"
 	},
 	{
@@ -42572,13 +42572,13 @@ const states = [
 	{
 		"name": "Combs-la-Ville",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3024107"
 	},
 	{
 		"name": "Pontault-Combault",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3024195"
 	},
 	{
@@ -42590,7 +42590,7 @@ const states = [
 	{
 		"name": "Colombes",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3024266"
 	},
 	{
@@ -42614,13 +42614,13 @@ const states = [
 	{
 		"name": "Clichy-sous-Bois",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3024596"
 	},
 	{
 		"name": "Clichy",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3024597"
 	},
 	{
@@ -42632,7 +42632,7 @@ const states = [
 	{
 		"name": "Clamart",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3024783"
 	},
 	{
@@ -42644,19 +42644,19 @@ const states = [
 	{
 		"name": "Choisy-le-Roi",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3025055"
 	},
 	{
 		"name": "Chilly-Mazarin",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3025144"
 	},
 	{
 		"name": "Chevilly-Larue",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3025314"
 	},
 	{
@@ -42674,19 +42674,19 @@ const states = [
 	{
 		"name": "Chennevières-sur-Marne",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3025509"
 	},
 	{
 		"name": "Chelles",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3025622"
 	},
 	{
 		"name": "Chaville",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3025715"
 	},
 	{
@@ -42698,19 +42698,19 @@ const states = [
 	{
 		"name": "Chatou",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3026033"
 	},
 	{
 		"name": "Châtillon",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3026083"
 	},
 	{
 		"name": "Châtenay-Malabry",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3026108"
 	},
 	{
@@ -42752,19 +42752,19 @@ const states = [
 	{
 		"name": "Charenton-le-Pont",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3026637"
 	},
 	{
 		"name": "Champs-sur-Marne",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3027014"
 	},
 	{
 		"name": "Champigny-sur-Marne",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3027105"
 	},
 	{
@@ -42812,7 +42812,7 @@ const states = [
 	{
 		"name": "Cergy",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3027883"
 	},
 	{
@@ -42848,7 +42848,7 @@ const states = [
 	{
 		"name": "Carrières-sous-Poissy",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3028521"
 	},
 	{
@@ -42920,19 +42920,19 @@ const states = [
 	{
 		"name": "Cachan",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3029276"
 	},
 	{
 		"name": "Bry-sur-Marne",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3029706"
 	},
 	{
 		"name": "Brunoy",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3029748"
 	},
 	{
@@ -42962,13 +42962,13 @@ const states = [
 	{
 		"name": "Brie-Comte-Robert",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3030101"
 	},
 	{
 		"name": "Brétigny-sur-Orge",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3030257"
 	},
 	{
@@ -42998,7 +42998,7 @@ const states = [
 	{
 		"name": "Bourg-la-Reine",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3030990"
 	},
 	{
@@ -43022,7 +43022,7 @@ const states = [
 	{
 		"name": "Boulogne-Billancourt",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3031137"
 	},
 	{
@@ -43040,31 +43040,31 @@ const states = [
 	{
 		"name": "Bonneuil-sur-Marne",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3031709"
 	},
 	{
 		"name": "Bondy",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3031815"
 	},
 	{
 		"name": "Boissy-Saint-Léger",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3031898"
 	},
 	{
 		"name": "Bois-Colombes",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3032070"
 	},
 	{
 		"name": "Bobigny",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3032179"
 	},
 	{
@@ -43100,7 +43100,7 @@ const states = [
 	{
 		"name": "Bezons",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3032824"
 	},
 	{
@@ -43116,7 +43116,7 @@ const states = [
 		"geonameid": "3033002"
 	},
 	{
-		"name": "Besançon",
+		"name": "Besancon",
 		"country": "France",
 		"subcountry": "Bourgogne-Franche-Comté",
 		"geonameid": "3033123"
@@ -43202,19 +43202,19 @@ const states = [
 	{
 		"name": "Bagnolet",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3035403"
 	},
 	{
 		"name": "Bagneux",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3035409"
 	},
 	{
 		"name": "Avon",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3035654"
 	},
 	{
@@ -43250,7 +43250,7 @@ const states = [
 	{
 		"name": "Aulnay-sous-Bois",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3036145"
 	},
 	{
@@ -43268,7 +43268,7 @@ const states = [
 	{
 		"name": "Aubervilliers",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3036386"
 	},
 	{
@@ -43280,13 +43280,13 @@ const states = [
 	{
 		"name": "Athis-Mons",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3036460"
 	},
 	{
 		"name": "Asnières-sur-Seine",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3036572"
 	},
 	{
@@ -43310,7 +43310,7 @@ const states = [
 	{
 		"name": "Argenteuil",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3037044"
 	},
 	{
@@ -43322,13 +43322,13 @@ const states = [
 	{
 		"name": "Arcueil",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3037157"
 	},
 	{
 		"name": "Antony",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3037423"
 	},
 	{
@@ -43394,7 +43394,7 @@ const states = [
 	{
 		"name": "Alfortville",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3038213"
 	},
 	{
@@ -43404,7 +43404,7 @@ const states = [
 		"geonameid": "3038224"
 	},
 	{
-		"name": "Alençon",
+		"name": "Alencon",
 		"country": "France",
 		"subcountry": "Normandy",
 		"geonameid": "3038230"
@@ -43454,7 +43454,7 @@ const states = [
 	{
 		"name": "Achères",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "3038712"
 	},
 	{
@@ -43472,7 +43472,7 @@ const states = [
 	{
 		"name": "Les Ulis",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "6615536"
 	},
 	{
@@ -43580,19 +43580,19 @@ const states = [
 	{
 		"name": "La Defense",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "8504417"
 	},
 	{
 		"name": "Saint-Quentin-en-Yvelines",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "8533870"
 	},
 	{
 		"name": "Cergy-Pontoise",
 		"country": "France",
-		"subcountry": "Île-de-France",
+		"subcountry": "Ile-de-France",
 		"geonameid": "8555643"
 	},
 	{
@@ -48066,7 +48066,7 @@ const states = [
 		"geonameid": "736229"
 	},
 	{
-		"name": "Édessa",
+		"name": "Edessa",
 		"country": "Greece",
 		"subcountry": "Central Macedonia",
 		"geonameid": "736357"
@@ -48660,7 +48660,7 @@ const states = [
 		"geonameid": "4043909"
 	},
 	{
-		"name": "Hagåtña",
+		"name": "Hagatña",
 		"country": "Guam",
 		"subcountry": "Hagatna",
 		"geonameid": "4044012"
@@ -49056,7 +49056,7 @@ const states = [
 		"geonameid": "3716667"
 	},
 	{
-		"name": "Saint-Raphaël",
+		"name": "Saint-Raphael",
 		"country": "Haiti",
 		"subcountry": "Nord",
 		"geonameid": "3717546"
@@ -49200,7 +49200,7 @@ const states = [
 		"geonameid": "3740016"
 	},
 	{
-		"name": "Törökszentmiklós",
+		"name": "Torokszentmiklós",
 		"country": "Hungary",
 		"subcountry": "Jász-Nagykun-Szolnok",
 		"geonameid": "714581"
@@ -49242,7 +49242,7 @@ const states = [
 		"geonameid": "715839"
 	},
 	{
-		"name": "Püspökladány",
+		"name": "Püspokladány",
 		"country": "Hungary",
 		"subcountry": "Hajdú-Bihar",
 		"geonameid": "716301"
@@ -49278,7 +49278,7 @@ const states = [
 		"geonameid": "717635"
 	},
 	{
-		"name": "Mezőkövesd",
+		"name": "Mezőkovesd",
 		"country": "Hungary",
 		"subcountry": "Borsod-Abaúj-Zemplén",
 		"geonameid": "717652"
@@ -49332,7 +49332,7 @@ const states = [
 		"geonameid": "720284"
 	},
 	{
-		"name": "Hajdúböszörmény",
+		"name": "Hajdúboszormény",
 		"country": "Hungary",
 		"subcountry": "Hajdú-Bihar",
 		"geonameid": "720292"
@@ -49536,7 +49536,7 @@ const states = [
 		"geonameid": "3046888"
 	},
 	{
-		"name": "Nagykőrös",
+		"name": "Nagykőros",
 		"country": "Hungary",
 		"subcountry": "Pest",
 		"geonameid": "3047651"
@@ -49590,7 +49590,7 @@ const states = [
 		"geonameid": "3049885"
 	},
 	{
-		"name": "Kiskőrös",
+		"name": "Kiskőros",
 		"country": "Hungary",
 		"subcountry": "Bács-Kiskun",
 		"geonameid": "3049896"
@@ -49638,7 +49638,7 @@ const states = [
 		"geonameid": "3052009"
 	},
 	{
-		"name": "Gyöngyös",
+		"name": "Gyongyos",
 		"country": "Hungary",
 		"subcountry": "Heves",
 		"geonameid": "3052040"
@@ -49650,13 +49650,13 @@ const states = [
 		"geonameid": "3052101"
 	},
 	{
-		"name": "Gödöllő",
+		"name": "Godollő",
 		"country": "Hungary",
 		"subcountry": "Pest",
 		"geonameid": "3052236"
 	},
 	{
-		"name": "Göd",
+		"name": "God",
 		"country": "Hungary",
 		"subcountry": "Pest",
 		"geonameid": "3052241"
@@ -49674,7 +49674,7 @@ const states = [
 		"geonameid": "3053163"
 	},
 	{
-		"name": "Érd",
+		"name": "Erd",
 		"country": "Hungary",
 		"subcountry": "Pest",
 		"geonameid": "3053281"
@@ -49722,7 +49722,7 @@ const states = [
 		"geonameid": "3054643"
 	},
 	{
-		"name": "Budaörs",
+		"name": "Budaors",
 		"country": "Hungary",
 		"subcountry": "Pest",
 		"geonameid": "3054646"
@@ -52356,7 +52356,7 @@ const states = [
 		"geonameid": "293397"
 	},
 	{
-		"name": "maalot Tarshīhā",
+		"name": "maalot Tarshīha",
 		"country": "Israel",
 		"subcountry": "Northern District",
 		"geonameid": "293420"
@@ -52524,7 +52524,7 @@ const states = [
 		"geonameid": "294244"
 	},
 	{
-		"name": "Maghār",
+		"name": "Maghar",
 		"country": "Israel",
 		"subcountry": "Northern District",
 		"geonameid": "294387"
@@ -52548,19 +52548,19 @@ const states = [
 		"geonameid": "294577"
 	},
 	{
-		"name": "Kafr Qāsim",
+		"name": "Kafr Qasim",
 		"country": "Israel",
 		"subcountry": "Central District",
 		"geonameid": "294604"
 	},
 	{
-		"name": "Kafr Mandā",
+		"name": "Kafr Manda",
 		"country": "Israel",
 		"subcountry": "Northern District",
 		"geonameid": "294608"
 	},
 	{
-		"name": "Kafr Kannā",
+		"name": "Kafr Kanna",
 		"country": "Israel",
 		"subcountry": "Northern District",
 		"geonameid": "294610"
@@ -52644,7 +52644,7 @@ const states = [
 		"geonameid": "295328"
 	},
 	{
-		"name": "Dāliyat el Karmil",
+		"name": "Daliyat el Karmil",
 		"country": "Israel",
 		"subcountry": "Haifa",
 		"geonameid": "295365"
@@ -52740,7 +52740,7 @@ const states = [
 		"geonameid": "3042237"
 	},
 	{
-		"name": "Pūnch",
+		"name": "Punch",
 		"country": "India",
 		"subcountry": "Kashmir",
 		"geonameid": "1167718"
@@ -52758,7 +52758,7 @@ const states = [
 		"geonameid": "1252653"
 	},
 	{
-		"name": "Zamānia",
+		"name": "Zamania",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1252692"
@@ -52770,7 +52770,7 @@ const states = [
 		"geonameid": "1252698"
 	},
 	{
-		"name": "Zahirābād",
+		"name": "Zahirabad",
 		"country": "India",
 		"subcountry": "Telangana",
 		"geonameid": "1252699"
@@ -52782,7 +52782,7 @@ const states = [
 		"geonameid": "1252738"
 	},
 	{
-		"name": "Yellāpur",
+		"name": "Yellapur",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1252744"
@@ -52800,13 +52800,13 @@ const states = [
 		"geonameid": "1252758"
 	},
 	{
-		"name": "Yavatmāl",
+		"name": "Yavatmal",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1252770"
 	},
 	{
-		"name": "Yāval",
+		"name": "Yaval",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1252773"
@@ -52818,13 +52818,13 @@ const states = [
 		"geonameid": "1252795"
 	},
 	{
-		"name": "Yamunānagar",
+		"name": "Yamunanagar",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1252797"
 	},
 	{
-		"name": "Yādgīr",
+		"name": "Yadgīr",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1252822"
@@ -52854,7 +52854,7 @@ const states = [
 		"geonameid": "1252892"
 	},
 	{
-		"name": "Wāshīm",
+		"name": "Washīm",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1252908"
@@ -52872,7 +52872,7 @@ const states = [
 		"geonameid": "1252925"
 	},
 	{
-		"name": "Wāris Alīganj",
+		"name": "Waris Alīganj",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1252930"
@@ -52884,7 +52884,7 @@ const states = [
 		"geonameid": "1252942"
 	},
 	{
-		"name": "Wārāseonī",
+		"name": "Waraseonī",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1252946"
@@ -52902,7 +52902,7 @@ const states = [
 		"geonameid": "1252956"
 	},
 	{
-		"name": "Wānkāner",
+		"name": "Wankaner",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1252958"
@@ -52926,31 +52926,31 @@ const states = [
 		"geonameid": "1253013"
 	},
 	{
-		"name": "Wādi",
+		"name": "Wadi",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1253041"
 	},
 	{
-		"name": "Vyāra",
+		"name": "Vyara",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1253074"
 	},
 	{
-		"name": "Vuyyūru",
+		"name": "Vuyyuru",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1253077"
 	},
 	{
-		"name": "Vrindāvan",
+		"name": "Vrindavan",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1253079"
 	},
 	{
-		"name": "Vriddhāchalam",
+		"name": "Vriddhachalam",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1253080"
@@ -52980,7 +52980,7 @@ const states = [
 		"geonameid": "1253102"
 	},
 	{
-		"name": "Vīsāvadar",
+		"name": "Vīsavadar",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1253105"
@@ -52992,19 +52992,19 @@ const states = [
 		"geonameid": "1253113"
 	},
 	{
-		"name": "Viravanallūr",
+		"name": "Viravanallur",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1253127"
 	},
 	{
-		"name": "Vīrarājendrapet",
+		"name": "Vīrarajendrapet",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1253132"
 	},
 	{
-		"name": "Virār",
+		"name": "Virar",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1253133"
@@ -53022,7 +53022,7 @@ const states = [
 		"geonameid": "1253166"
 	},
 	{
-		"name": "Vikārābād",
+		"name": "Vikarabad",
 		"country": "India",
 		"subcountry": "Telangana",
 		"geonameid": "1253182"
@@ -53034,7 +53034,7 @@ const states = [
 		"geonameid": "1253184"
 	},
 	{
-		"name": "Vijāpur",
+		"name": "Vijapur",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1253193"
@@ -53046,7 +53046,7 @@ const states = [
 		"geonameid": "1253200"
 	},
 	{
-		"name": "Vettūr",
+		"name": "Vettur",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1253216"
@@ -53058,13 +53058,13 @@ const states = [
 		"geonameid": "1253219"
 	},
 	{
-		"name": "Vetapālem",
+		"name": "Vetapalem",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1253220"
 	},
 	{
-		"name": "Verāval",
+		"name": "Veraval",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1253237"
@@ -53082,7 +53082,7 @@ const states = [
 		"geonameid": "1253251"
 	},
 	{
-		"name": "Vemalwāda",
+		"name": "Vemalwada",
 		"country": "India",
 		"subcountry": "Telangana",
 		"geonameid": "1253275"
@@ -53112,7 +53112,7 @@ const states = [
 		"geonameid": "1253330"
 	},
 	{
-		"name": "Vayalār",
+		"name": "Vayalar",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1253340"
@@ -53124,7 +53124,7 @@ const states = [
 		"geonameid": "1253352"
 	},
 	{
-		"name": "Vāsudevanallūr",
+		"name": "Vasudevanallur",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1253357"
@@ -53136,7 +53136,7 @@ const states = [
 		"geonameid": "1253363"
 	},
 	{
-		"name": "Vāsco Da Gāma",
+		"name": "Vasco Da Gama",
 		"country": "India",
 		"subcountry": "Goa",
 		"geonameid": "1253367"
@@ -53172,13 +53172,13 @@ const states = [
 		"geonameid": "1253437"
 	},
 	{
-		"name": "Vandavāsi",
+		"name": "Vandavasi",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1253452"
 	},
 	{
-		"name": "Valsād",
+		"name": "Valsad",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1253468"
@@ -53208,7 +53208,7 @@ const states = [
 		"geonameid": "1253544"
 	},
 	{
-		"name": "Vaijāpur",
+		"name": "Vaijapur",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1253545"
@@ -53226,13 +53226,13 @@ const states = [
 		"geonameid": "1253577"
 	},
 	{
-		"name": "Vadlapūdi",
+		"name": "Vadlapudi",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1253578"
 	},
 	{
-		"name": "Vādippatti",
+		"name": "Vadippatti",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1253579"
@@ -53244,31 +53244,31 @@ const states = [
 		"geonameid": "1253595"
 	},
 	{
-		"name": "Vadakku Valliyūr",
+		"name": "Vadakku Valliyur",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1253605"
 	},
 	{
-		"name": "Vāda",
+		"name": "Vada",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1253610"
 	},
 	{
-		"name": "Uttiramerūr",
+		"name": "Uttiramerur",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1253623"
 	},
 	{
-		"name": "Uttarkāshi",
+		"name": "Uttarkashi",
 		"country": "India",
 		"subcountry": "Uttarakhand",
 		"geonameid": "1253628"
 	},
 	{
-		"name": "Uttamapālaiyam",
+		"name": "Uttamapalaiyam",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1253635"
@@ -53316,7 +53316,7 @@ const states = [
 		"geonameid": "1253744"
 	},
 	{
-		"name": "Unnāo",
+		"name": "Unnao",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1253747"
@@ -53346,7 +53346,7 @@ const states = [
 		"geonameid": "1253783"
 	},
 	{
-		"name": "Ūn",
+		"name": "Un",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1253785"
@@ -53412,7 +53412,7 @@ const states = [
 		"geonameid": "1253914"
 	},
 	{
-		"name": "Ujhāni",
+		"name": "Ujhani",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1253918"
@@ -53484,13 +53484,13 @@ const states = [
 		"geonameid": "1253993"
 	},
 	{
-		"name": "Bara Uchāna",
+		"name": "Bara Uchana",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1254000"
 	},
 	{
-		"name": "Turaiyūr",
+		"name": "Turaiyur",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1254043"
@@ -53508,7 +53508,7 @@ const states = [
 		"geonameid": "1254054"
 	},
 	{
-		"name": "Tūndla",
+		"name": "Tundla",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1254069"
@@ -53520,7 +53520,7 @@ const states = [
 		"geonameid": "1254080"
 	},
 	{
-		"name": "Tumkūr",
+		"name": "Tumkur",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1254089"
@@ -53532,13 +53532,13 @@ const states = [
 		"geonameid": "1254102"
 	},
 	{
-		"name": "Tuljāpur",
+		"name": "Tuljapur",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1254111"
 	},
 	{
-		"name": "Tufānganj",
+		"name": "Tufanganj",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1254131"
@@ -53556,7 +53556,7 @@ const states = [
 		"geonameid": "1254163"
 	},
 	{
-		"name": "Trichūr",
+		"name": "Trichur",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1254187"
@@ -53574,7 +53574,7 @@ const states = [
 		"geonameid": "1254249"
 	},
 	{
-		"name": "Tohāna",
+		"name": "Tohana",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1254274"
@@ -53592,13 +53592,13 @@ const states = [
 		"geonameid": "1254283"
 	},
 	{
-		"name": "Titlāgarh",
+		"name": "Titlagarh",
 		"country": "India",
 		"subcountry": "Odisha",
 		"geonameid": "1254304"
 	},
 	{
-		"name": "Titāgarh",
+		"name": "Titagarh",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1254309"
@@ -53610,7 +53610,7 @@ const states = [
 		"geonameid": "1254317"
 	},
 	{
-		"name": "Tiruvottiyūr",
+		"name": "Tiruvottiyur",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1254320"
@@ -53622,7 +53622,7 @@ const states = [
 		"geonameid": "1254322"
 	},
 	{
-		"name": "Tiruvannāmalai",
+		"name": "Tiruvannamalai",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1254327"
@@ -53724,7 +53724,7 @@ const states = [
 		"geonameid": "1254396"
 	},
 	{
-		"name": "Tiptūr",
+		"name": "Tiptur",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1254420"
@@ -53736,7 +53736,7 @@ const states = [
 		"geonameid": "1254432"
 	},
 	{
-		"name": "Tinnanūr",
+		"name": "Tinnanur",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1254436"
@@ -53760,13 +53760,13 @@ const states = [
 		"geonameid": "1254534"
 	},
 	{
-		"name": "Tijāra",
+		"name": "Tijara",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1254538"
 	},
 	{
-		"name": "Thoubāl",
+		"name": "Thoubal",
 		"country": "India",
 		"subcountry": "Manipur",
 		"geonameid": "1254570"
@@ -53778,49 +53778,49 @@ const states = [
 		"geonameid": "1254589"
 	},
 	{
-		"name": "Thāsra",
+		"name": "Thasra",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1254624"
 	},
 	{
-		"name": "Tharād",
+		"name": "Tharad",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1254638"
 	},
 	{
-		"name": "Thanjāvūr",
+		"name": "Thanjavur",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1254649"
 	},
 	{
-		"name": "Thānesar",
+		"name": "Thanesar",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1254657"
 	},
 	{
-		"name": "Thāne",
+		"name": "Thane",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1254661"
 	},
 	{
-		"name": "Thāna Bhawan",
+		"name": "Thana Bhawan",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1254673"
 	},
 	{
-		"name": "Thān",
+		"name": "Than",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1254675"
 	},
 	{
-		"name": "Thākurganj",
+		"name": "Thakurganj",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1254694"
@@ -53838,7 +53838,7 @@ const states = [
 		"geonameid": "1254710"
 	},
 	{
-		"name": "Terdāl",
+		"name": "Terdal",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1254727"
@@ -53868,7 +53868,7 @@ const states = [
 		"geonameid": "1254780"
 	},
 	{
-		"name": "Telhāra",
+		"name": "Telhara",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1254787"
@@ -53886,7 +53886,7 @@ const states = [
 		"geonameid": "1254795"
 	},
 	{
-		"name": "Tekāri",
+		"name": "Tekari",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1254797"
@@ -53904,13 +53904,13 @@ const states = [
 		"geonameid": "1254813"
 	},
 	{
-		"name": "Tāsgaon",
+		"name": "Tasgaon",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1254858"
 	},
 	{
-		"name": "Tarn Tāran",
+		"name": "Tarn Taran",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1254868"
@@ -53928,19 +53928,19 @@ const states = [
 		"geonameid": "1254904"
 	},
 	{
-		"name": "Tārānagar",
+		"name": "Taranagar",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1254908"
 	},
 	{
-		"name": "Tarāna",
+		"name": "Tarana",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1254909"
 	},
 	{
-		"name": "Tāramangalam",
+		"name": "Taramangalam",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1254910"
@@ -53952,7 +53952,7 @@ const states = [
 		"geonameid": "1254912"
 	},
 	{
-		"name": "Tāoru",
+		"name": "Taoru",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1254948"
@@ -53964,19 +53964,19 @@ const states = [
 		"geonameid": "1254953"
 	},
 	{
-		"name": "Tāndūr",
+		"name": "Tandur",
 		"country": "India",
 		"subcountry": "Telangana",
 		"geonameid": "1255004"
 	},
 	{
-		"name": "Tānda",
+		"name": "Tanda",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1255023"
 	},
 	{
-		"name": "Tāndā",
+		"name": "Tanda",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1255024"
@@ -53988,13 +53988,13 @@ const states = [
 		"geonameid": "1255027"
 	},
 	{
-		"name": "Tamlūk",
+		"name": "Tamluk",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1255046"
 	},
 	{
-		"name": "Talwāra",
+		"name": "Talwara",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1255076"
@@ -54018,7 +54018,7 @@ const states = [
 		"geonameid": "1255121"
 	},
 	{
-		"name": "Tālīkota",
+		"name": "Talīkota",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1255122"
@@ -54030,25 +54030,25 @@ const states = [
 		"geonameid": "1255131"
 	},
 	{
-		"name": "Talegaon Dābhāde",
+		"name": "Talegaon Dabhade",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1255134"
 	},
 	{
-		"name": "Tālcher",
+		"name": "Talcher",
 		"country": "India",
 		"subcountry": "Odisha",
 		"geonameid": "1255143"
 	},
 	{
-		"name": "Talāja",
+		"name": "Talaja",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1255175"
 	},
 	{
-		"name": "Tāki",
+		"name": "Taki",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1255211"
@@ -54066,37 +54066,37 @@ const states = [
 		"geonameid": "1255213"
 	},
 	{
-		"name": "Tājpur",
+		"name": "Tajpur",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1255224"
 	},
 	{
-		"name": "Tādpatri",
+		"name": "Tadpatri",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1255254"
 	},
 	{
-		"name": "Tādepallegūdem",
+		"name": "Tadepallegudem",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1255264"
 	},
 	{
-		"name": "Tādepalle",
+		"name": "Tadepalle",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1255265"
 	},
 	{
-		"name": "Suriāpet",
+		"name": "Suriapet",
 		"country": "India",
 		"subcountry": "Telangana",
 		"geonameid": "1255344"
 	},
 	{
-		"name": "Suriānwān",
+		"name": "Surianwan",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1255346"
@@ -54108,25 +54108,25 @@ const states = [
 		"geonameid": "1255349"
 	},
 	{
-		"name": "Sūratgarh",
+		"name": "Suratgarh",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1255361"
 	},
 	{
-		"name": "Sūrat",
+		"name": "Surat",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1255364"
 	},
 	{
-		"name": "Sūrandai",
+		"name": "Surandai",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1255372"
 	},
 	{
-		"name": "Sūrajgarh",
+		"name": "Surajgarh",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1255383"
@@ -54156,7 +54156,7 @@ const states = [
 		"geonameid": "1255437"
 	},
 	{
-		"name": "Sunām",
+		"name": "Sunam",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1255449"
@@ -54168,7 +54168,7 @@ const states = [
 		"geonameid": "1255482"
 	},
 	{
-		"name": "Sūlūru",
+		"name": "Suluru",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1255483"
@@ -54186,7 +54186,7 @@ const states = [
 		"geonameid": "1255488"
 	},
 	{
-		"name": "Sultānpur",
+		"name": "Sultanpur",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1255491"
@@ -54198,13 +54198,13 @@ const states = [
 		"geonameid": "1255551"
 	},
 	{
-		"name": "Sūjāngarh",
+		"name": "Sujangarh",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1255560"
 	},
 	{
-		"name": "Suār",
+		"name": "Suar",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1255597"
@@ -54234,19 +54234,19 @@ const states = [
 		"geonameid": "1255621"
 	},
 	{
-		"name": "Srīrāmnagar",
+		"name": "Srīramnagar",
 		"country": "India",
 		"subcountry": "Telangana",
 		"geonameid": "1255625"
 	},
 	{
-		"name": "Srīperumbūdūr",
+		"name": "Srīperumbudur",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1255630"
 	},
 	{
-		"name": "Srīnivāspur",
+		"name": "Srīnivaspur",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1255631"
@@ -54264,7 +54264,7 @@ const states = [
 		"geonameid": "1255635"
 	},
 	{
-		"name": "Sri Mādhopur",
+		"name": "Sri Madhopur",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1255643"
@@ -54282,7 +54282,7 @@ const states = [
 		"geonameid": "1255647"
 	},
 	{
-		"name": "Sri Dūngargarh",
+		"name": "Sri Dungargarh",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1255654"
@@ -54336,13 +54336,13 @@ const states = [
 		"geonameid": "1255763"
 	},
 	{
-		"name": "Sonāri",
+		"name": "Sonari",
 		"country": "India",
 		"subcountry": "Assam",
 		"geonameid": "1255788"
 	},
 	{
-		"name": "Sonāmukhi",
+		"name": "Sonamukhi",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1255792"
@@ -54384,19 +54384,19 @@ const states = [
 		"geonameid": "1255870"
 	},
 	{
-		"name": "Sohāgpur",
+		"name": "Sohagpur",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1255884"
 	},
 	{
-		"name": "Siwāna",
+		"name": "Siwana",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1255925"
 	},
 	{
-		"name": "Siwān",
+		"name": "Siwan",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1255927"
@@ -54432,25 +54432,25 @@ const states = [
 		"geonameid": "1255955"
 	},
 	{
-		"name": "Sitārganj",
+		"name": "Sitarganj",
 		"country": "India",
 		"subcountry": "Uttarakhand",
 		"geonameid": "1255963"
 	},
 	{
-		"name": "Sītāpur",
+		"name": "Sītapur",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1255969"
 	},
 	{
-		"name": "Sītāmarhi",
+		"name": "Sītamarhi",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1255983"
 	},
 	{
-		"name": "Siswā Bāzār",
+		"name": "Siswa Bazar",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1255995"
@@ -54462,7 +54462,7 @@ const states = [
 		"geonameid": "1256003"
 	},
 	{
-		"name": "Sirūr",
+		"name": "Sirur",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1256025"
@@ -54498,7 +54498,7 @@ const states = [
 		"geonameid": "1256047"
 	},
 	{
-		"name": "Sirsāganj",
+		"name": "Sirsaganj",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1256050"
@@ -54522,7 +54522,7 @@ const states = [
 		"geonameid": "1256067"
 	},
 	{
-		"name": "Sīrkāzhi",
+		"name": "Sīrkazhi",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1256075"
@@ -54552,19 +54552,19 @@ const states = [
 		"geonameid": "1256124"
 	},
 	{
-		"name": "Singarāyakonda",
+		"name": "Singarayakonda",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1256176"
 	},
 	{
-		"name": "Singānallūr",
+		"name": "Singanallur",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1256184"
 	},
 	{
-		"name": "Sindhnūr",
+		"name": "Sindhnur",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1256207"
@@ -54630,7 +54630,7 @@ const states = [
 		"geonameid": "1256328"
 	},
 	{
-		"name": "Sikandarābād",
+		"name": "Sikandarabad",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1256329"
@@ -54648,7 +54648,7 @@ const states = [
 		"geonameid": "1256335"
 	},
 	{
-		"name": "Sihorā",
+		"name": "Sihora",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1256340"
@@ -54690,7 +54690,7 @@ const states = [
 		"geonameid": "1256382"
 	},
 	{
-		"name": "Sibsāgar",
+		"name": "Sibsagar",
 		"country": "India",
 		"subcountry": "Assam",
 		"geonameid": "1256388"
@@ -54702,7 +54702,7 @@ const states = [
 		"geonameid": "1256409"
 	},
 	{
-		"name": "Shujālpur",
+		"name": "Shujalpur",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1256418"
@@ -54714,7 +54714,7 @@ const states = [
 		"geonameid": "1256421"
 	},
 	{
-		"name": "Shrīrāmpur",
+		"name": "Shrīrampur",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1256422"
@@ -54726,13 +54726,13 @@ const states = [
 		"geonameid": "1256426"
 	},
 	{
-		"name": "Shorāpur",
+		"name": "Shorapur",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1256431"
 	},
 	{
-		"name": "Shoranūr",
+		"name": "Shoranur",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1256432"
@@ -54744,7 +54744,7 @@ const states = [
 		"geonameid": "1256435"
 	},
 	{
-		"name": "Solāpur",
+		"name": "Solapur",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1256436"
@@ -54798,19 +54798,19 @@ const states = [
 		"geonameid": "1256525"
 	},
 	{
-		"name": "Shikohābād",
+		"name": "Shikohabad",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1256529"
 	},
 	{
-		"name": "Shikārpūr",
+		"name": "Shikarpur",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1256532"
 	},
 	{
-		"name": "Shikārpur",
+		"name": "Shikarpur",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1256537"
@@ -54834,7 +54834,7 @@ const states = [
 		"geonameid": "1256569"
 	},
 	{
-		"name": "Sherghāti",
+		"name": "Sherghati",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1256572"
@@ -54864,37 +54864,37 @@ const states = [
 		"geonameid": "1256620"
 	},
 	{
-		"name": "Shāntipur",
+		"name": "Shantipur",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1256639"
 	},
 	{
-		"name": "Shamsābād",
+		"name": "Shamsabad",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1256659"
 	},
 	{
-		"name": "Shamsābād",
+		"name": "Shamsabad",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1256660"
 	},
 	{
-		"name": "Shāmli",
+		"name": "Shamli",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1256671"
 	},
 	{
-		"name": "Shāmgarh",
+		"name": "Shamgarh",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1256673"
 	},
 	{
-		"name": "Shājāpur",
+		"name": "Shajapur",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1256693"
@@ -54906,55 +54906,55 @@ const states = [
 		"geonameid": "1256698"
 	},
 	{
-		"name": "Shāhpura",
+		"name": "Shahpura",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1256705"
 	},
 	{
-		"name": "Shāhpura",
+		"name": "Shahpura",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1256706"
 	},
 	{
-		"name": "Shāhpur",
+		"name": "Shahpur",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1256713"
 	},
 	{
-		"name": "Shāhpur",
+		"name": "Shahpur",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1256715"
 	},
 	{
-		"name": "Shāhpur",
+		"name": "Shahpur",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1256720"
 	},
 	{
-		"name": "Shāhpur",
+		"name": "Shahpur",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1256722"
 	},
 	{
-		"name": "Shāhjānpur",
+		"name": "Shahjanpur",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1256728"
 	},
 	{
-		"name": "Shāhi",
+		"name": "Shahi",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1256731"
 	},
 	{
-		"name": "Shāhganj",
+		"name": "Shahganj",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1256735"
@@ -54966,31 +54966,31 @@ const states = [
 		"geonameid": "1256739"
 	},
 	{
-		"name": "Shāhāda",
+		"name": "Shahada",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1256750"
 	},
 	{
-		"name": "Shāhābād",
+		"name": "Shahabad",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1256752"
 	},
 	{
-		"name": "Shāhābād",
+		"name": "Shahabad",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1256753"
 	},
 	{
-		"name": "Shāhābād",
+		"name": "Shahabad",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1256755"
 	},
 	{
-		"name": "Shāhābād",
+		"name": "Shahabad",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1256759"
@@ -55008,7 +55008,7 @@ const states = [
 		"geonameid": "1256814"
 	},
 	{
-		"name": "Seoni Mālwa",
+		"name": "Seoni Malwa",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1256823"
@@ -55026,7 +55026,7 @@ const states = [
 		"geonameid": "1256828"
 	},
 	{
-		"name": "Seohāra",
+		"name": "Seohara",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1256832"
@@ -55050,31 +55050,31 @@ const states = [
 		"geonameid": "1256922"
 	},
 	{
-		"name": "Sāyla",
+		"name": "Sayla",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1256929"
 	},
 	{
-		"name": "Sawāi Mādhopur",
+		"name": "Sawai Madhopur",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1256949"
 	},
 	{
-		"name": "Sāvda",
+		"name": "Savda",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1256959"
 	},
 	{
-		"name": "Savanūr",
+		"name": "Savanur",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1256967"
 	},
 	{
-		"name": "Sāvantvādi",
+		"name": "Savantvadi",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1256968"
@@ -55116,25 +55116,25 @@ const states = [
 		"geonameid": "1257022"
 	},
 	{
-		"name": "Sātāra",
+		"name": "Satara",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1257055"
 	},
 	{
-		"name": "Satānā",
+		"name": "Satana",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1257060"
 	},
 	{
-		"name": "Sāsvad",
+		"name": "Sasvad",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1257066"
 	},
 	{
-		"name": "Sarwār",
+		"name": "Sarwar",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1257093"
@@ -55158,7 +55158,7 @@ const states = [
 		"geonameid": "1257196"
 	},
 	{
-		"name": "Sardārshahr",
+		"name": "Sardarshahr",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1257198"
@@ -55170,7 +55170,7 @@ const states = [
 		"geonameid": "1257219"
 	},
 	{
-		"name": "Sārangpur",
+		"name": "Sarangpur",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1257237"
@@ -55182,13 +55182,13 @@ const states = [
 		"geonameid": "1257259"
 	},
 	{
-		"name": "Sarāi Mīr",
+		"name": "Sarai Mīr",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1257260"
 	},
 	{
-		"name": "Sarāi Ākil",
+		"name": "Sarai Akil",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1257268"
@@ -55200,7 +55200,7 @@ const states = [
 		"geonameid": "1257307"
 	},
 	{
-		"name": "Sānkrāil",
+		"name": "Sankrail",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1257354"
@@ -55212,13 +55212,13 @@ const states = [
 		"geonameid": "1257369"
 	},
 	{
-		"name": "Sangrūr",
+		"name": "Sangrur",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1257402"
 	},
 	{
-		"name": "Sāngola",
+		"name": "Sangola",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1257409"
@@ -55230,19 +55230,19 @@ const states = [
 		"geonameid": "1257410"
 	},
 	{
-		"name": "Sāngli",
+		"name": "Sangli",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1257416"
 	},
 	{
-		"name": "Sangariā",
+		"name": "Sangaria",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1257429"
 	},
 	{
-		"name": "Sangāreddi",
+		"name": "Sangareddi",
 		"country": "India",
 		"subcountry": "Telangana",
 		"geonameid": "1257431"
@@ -55254,7 +55254,7 @@ const states = [
 		"geonameid": "1257436"
 	},
 	{
-		"name": "Sandūr",
+		"name": "Sandur",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1257456"
@@ -55266,7 +55266,7 @@ const states = [
 		"geonameid": "1257459"
 	},
 	{
-		"name": "Sāndi",
+		"name": "Sandi",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1257461"
@@ -55278,13 +55278,13 @@ const states = [
 		"geonameid": "1257476"
 	},
 	{
-		"name": "Sānchor",
+		"name": "Sanchor",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1257477"
 	},
 	{
-		"name": "Sanāwad",
+		"name": "Sanawad",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1257481"
@@ -55296,7 +55296,7 @@ const states = [
 		"geonameid": "1257482"
 	},
 	{
-		"name": "Sānand",
+		"name": "Sanand",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1257486"
@@ -55308,7 +55308,7 @@ const states = [
 		"geonameid": "1257498"
 	},
 	{
-		"name": "Samrāla",
+		"name": "Samrala",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1257503"
@@ -55320,7 +55320,7 @@ const states = [
 		"geonameid": "1257528"
 	},
 	{
-		"name": "Sāmbhar",
+		"name": "Sambhar",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1257539"
@@ -55338,37 +55338,37 @@ const states = [
 		"geonameid": "1257542"
 	},
 	{
-		"name": "Sāmba",
+		"name": "Samba",
 		"country": "India",
 		"subcountry": "Kashmir",
 		"geonameid": "1257545"
 	},
 	{
-		"name": "Samāstipur",
+		"name": "Samastipur",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1257551"
 	},
 	{
-		"name": "Sāmalkot",
+		"name": "Samalkot",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1257565"
 	},
 	{
-		"name": "Samālkha",
+		"name": "Samalkha",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1257566"
 	},
 	{
-		"name": "Sālūr",
+		"name": "Salur",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1257587"
 	},
 	{
-		"name": "Sālūmbar",
+		"name": "Salumbar",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1257588"
@@ -55380,7 +55380,7 @@ const states = [
 		"geonameid": "1257629"
 	},
 	{
-		"name": "Salāya",
+		"name": "Salaya",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1257638"
@@ -55428,19 +55428,19 @@ const states = [
 		"geonameid": "1257776"
 	},
 	{
-		"name": "Sāhibganj",
+		"name": "Sahibganj",
 		"country": "India",
 		"subcountry": "Jharkhand",
 		"geonameid": "1257794"
 	},
 	{
-		"name": "Sahāwar",
+		"name": "Sahawar",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1257799"
 	},
 	{
-		"name": "Sahaswān",
+		"name": "Sahaswan",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1257800"
@@ -55458,7 +55458,7 @@ const states = [
 		"geonameid": "1257804"
 	},
 	{
-		"name": "Sahāranpur",
+		"name": "Saharanpur",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1257806"
@@ -55476,7 +55476,7 @@ const states = [
 		"geonameid": "1257845"
 	},
 	{
-		"name": "Sāgar",
+		"name": "Sagar",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1257851"
@@ -55494,13 +55494,13 @@ const states = [
 		"geonameid": "1257855"
 	},
 	{
-		"name": "Sādri",
+		"name": "Sadri",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1257865"
 	},
 	{
-		"name": "Sadāseopet",
+		"name": "Sadaseopet",
 		"country": "India",
 		"subcountry": "Telangana",
 		"geonameid": "1257890"
@@ -55512,7 +55512,7 @@ const states = [
 		"geonameid": "1257895"
 	},
 	{
-		"name": "Sadābād",
+		"name": "Sadabad",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1257896"
@@ -55542,7 +55542,7 @@ const states = [
 		"geonameid": "1257951"
 	},
 	{
-		"name": "Rūdarpur",
+		"name": "Rudarpur",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1258012"
@@ -55614,7 +55614,7 @@ const states = [
 		"geonameid": "1258164"
 	},
 	{
-		"name": "Rewāri",
+		"name": "Rewari",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1258178"
@@ -55644,7 +55644,7 @@ const states = [
 		"geonameid": "1258203"
 	},
 	{
-		"name": "Renukūt",
+		"name": "Renukut",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1258207"
@@ -55668,31 +55668,31 @@ const states = [
 		"geonameid": "1258247"
 	},
 	{
-		"name": "Rāzām",
+		"name": "Razam",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1258270"
 	},
 	{
-		"name": "Rāybāg",
+		"name": "Raybag",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1258278"
 	},
 	{
-		"name": "Rāyadrug",
+		"name": "Rayadrug",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1258290"
 	},
 	{
-		"name": "Rāyachoti",
+		"name": "Rayachoti",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1258291"
 	},
 	{
-		"name": "Rāya",
+		"name": "Raya",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1258292"
@@ -55704,19 +55704,19 @@ const states = [
 		"geonameid": "1258294"
 	},
 	{
-		"name": "Rāwatsār",
+		"name": "Rawatsar",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1258295"
 	},
 	{
-		"name": "Rāwatbhāta",
+		"name": "Rawatbhata",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1258297"
 	},
 	{
-		"name": "Rāver",
+		"name": "Raver",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1258307"
@@ -55728,7 +55728,7 @@ const states = [
 		"geonameid": "1258338"
 	},
 	{
-		"name": "Ratlām",
+		"name": "Ratlam",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1258342"
@@ -55740,7 +55740,7 @@ const states = [
 		"geonameid": "1258347"
 	},
 	{
-		"name": "Rāth",
+		"name": "Rath",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1258352"
@@ -55758,7 +55758,7 @@ const states = [
 		"geonameid": "1258366"
 	},
 	{
-		"name": "Rasrā",
+		"name": "Rasra",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1258380"
@@ -55770,37 +55770,37 @@ const states = [
 		"geonameid": "1258386"
 	},
 	{
-		"name": "Rāpar",
+		"name": "Rapar",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1258406"
 	},
 	{
-		"name": "Rānīpur",
+		"name": "Ranīpur",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1258449"
 	},
 	{
-		"name": "Rānikhet",
+		"name": "Ranikhet",
 		"country": "India",
 		"subcountry": "Uttarakhand",
 		"geonameid": "1258455"
 	},
 	{
-		"name": "Rānīganj",
+		"name": "Ranīganj",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1258470"
 	},
 	{
-		"name": "Rānībennur",
+		"name": "Ranībennur",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1258474"
 	},
 	{
-		"name": "Rānia",
+		"name": "Rania",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1258477"
@@ -55812,7 +55812,7 @@ const states = [
 		"geonameid": "1258492"
 	},
 	{
-		"name": "Rangāpāra",
+		"name": "Rangapara",
 		"country": "India",
 		"subcountry": "Assam",
 		"geonameid": "1258501"
@@ -55824,19 +55824,19 @@ const states = [
 		"geonameid": "1258526"
 	},
 	{
-		"name": "Rānāvāv",
+		"name": "Ranavav",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1258534"
 	},
 	{
-		"name": "Rānāghāt",
+		"name": "Ranaghat",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1258546"
 	},
 	{
-		"name": "Rāmtek",
+		"name": "Ramtek",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1258553"
@@ -55848,73 +55848,73 @@ const states = [
 		"geonameid": "1258581"
 	},
 	{
-		"name": "Rāmpura",
+		"name": "Rampura",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1258584"
 	},
 	{
-		"name": "Rāmpura",
+		"name": "Rampura",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1258592"
 	},
 	{
-		"name": "Rāmpur",
+		"name": "Rampur",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1258598"
 	},
 	{
-		"name": "Rāmpur",
+		"name": "Rampur",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1258599"
 	},
 	{
-		"name": "Rāmnagar",
+		"name": "Ramnagar",
 		"country": "India",
 		"subcountry": "Uttarakhand",
 		"geonameid": "1258637"
 	},
 	{
-		"name": "Rāmnagar",
+		"name": "Ramnagar",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1258639"
 	},
 	{
-		"name": "Rāmnagar",
+		"name": "Ramnagar",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1258642"
 	},
 	{
-		"name": "Rāmjībanpur",
+		"name": "Ramjībanpur",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1258658"
 	},
 	{
-		"name": "Rāmgundam",
+		"name": "Ramgundam",
 		"country": "India",
 		"subcountry": "Telangana",
 		"geonameid": "1258662"
 	},
 	{
-		"name": "Rāmgarh",
+		"name": "Ramgarh",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1258677"
 	},
 	{
-		"name": "Rāmgarh",
+		"name": "Ramgarh",
 		"country": "India",
 		"subcountry": "Jharkhand",
 		"geonameid": "1258686"
 	},
 	{
-		"name": "Rāmganj Mandi",
+		"name": "Ramganj Mandi",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1258692"
@@ -55926,7 +55926,7 @@ const states = [
 		"geonameid": "1258698"
 	},
 	{
-		"name": "Rāmāpuram",
+		"name": "Ramapuram",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1258726"
@@ -55938,37 +55938,37 @@ const states = [
 		"geonameid": "1258740"
 	},
 	{
-		"name": "Rāmanagaram",
+		"name": "Ramanagaram",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1258744"
 	},
 	{
-		"name": "Rāmachandrapuram",
+		"name": "Ramachandrapuram",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1258756"
 	},
 	{
-		"name": "Rājūra",
+		"name": "Rajura",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1258786"
 	},
 	{
-		"name": "Rājula",
+		"name": "Rajula",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1258795"
 	},
 	{
-		"name": "Rājsamand",
+		"name": "Rajsamand",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1258797"
 	},
 	{
-		"name": "Rājpura",
+		"name": "Rajpura",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1258803"
@@ -55986,61 +55986,61 @@ const states = [
 		"geonameid": "1258816"
 	},
 	{
-		"name": "Rājpīpla",
+		"name": "Rajpīpla",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1258819"
 	},
 	{
-		"name": "Rāj-Nāndgaon",
+		"name": "Raj-Nandgaon",
 		"country": "India",
 		"subcountry": "Chhattisgarh",
 		"geonameid": "1258831"
 	},
 	{
-		"name": "Rājmahal",
+		"name": "Rajmahal",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1258843"
 	},
 	{
-		"name": "Rājkot",
+		"name": "Rajkot",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1258847"
 	},
 	{
-		"name": "Rājgurunagar",
+		"name": "Rajgurunagar",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1258859"
 	},
 	{
-		"name": "Rājgīr",
+		"name": "Rajgīr",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1258864"
 	},
 	{
-		"name": "Rājgarh",
+		"name": "Rajgarh",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1258868"
 	},
 	{
-		"name": "Rājgarh",
+		"name": "Rajgarh",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1258869"
 	},
 	{
-		"name": "Rājgarh",
+		"name": "Rajgarh",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1258875"
 	},
 	{
-		"name": "Rājgarh",
+		"name": "Rajgarh",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1258876"
@@ -56058,31 +56058,31 @@ const states = [
 		"geonameid": "1258916"
 	},
 	{
-		"name": "Rājampet",
+		"name": "Rajampet",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1258922"
 	},
 	{
-		"name": "Rājaldesar",
+		"name": "Rajaldesar",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1258928"
 	},
 	{
-		"name": "Rājākhera",
+		"name": "Rajakhera",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1258930"
 	},
 	{
-		"name": "Rājahmundry",
+		"name": "Rajahmundry",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1258932"
 	},
 	{
-		"name": "Rāisinghnagar",
+		"name": "Raisinghnagar",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1258950"
@@ -56094,7 +56094,7 @@ const states = [
 		"geonameid": "1258952"
 	},
 	{
-		"name": "Rāipur",
+		"name": "Raipur",
 		"country": "India",
 		"subcountry": "Uttarakhand",
 		"geonameid": "1258967"
@@ -56112,7 +56112,7 @@ const states = [
 		"geonameid": "1258980"
 	},
 	{
-		"name": "Rāikot",
+		"name": "Raikot",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1258993"
@@ -56124,19 +56124,19 @@ const states = [
 		"geonameid": "1259005"
 	},
 	{
-		"name": "Rāiganj",
+		"name": "Raiganj",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1259009"
 	},
 	{
-		"name": "Rāichūr",
+		"name": "Raichur",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1259012"
 	},
 	{
-		"name": "Rāhuri",
+		"name": "Rahuri",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1259019"
@@ -56148,7 +56148,7 @@ const states = [
 		"geonameid": "1259026"
 	},
 	{
-		"name": "Rāhatgarh",
+		"name": "Rahatgarh",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1259034"
@@ -56160,7 +56160,7 @@ const states = [
 		"geonameid": "1259049"
 	},
 	{
-		"name": "Rāghogarh",
+		"name": "Raghogarh",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1259056"
@@ -56178,7 +56178,7 @@ const states = [
 		"geonameid": "1259064"
 	},
 	{
-		"name": "Rādhanpur",
+		"name": "Radhanpur",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1259069"
@@ -56202,19 +56202,19 @@ const states = [
 		"geonameid": "1259108"
 	},
 	{
-		"name": "Qādiān",
+		"name": "Qadian",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1259110"
 	},
 	{
-		"name": "Puttūr",
+		"name": "Puttur",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1259123"
 	},
 	{
-		"name": "Puttūr",
+		"name": "Puttur",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1259124"
@@ -56232,7 +56232,7 @@ const states = [
 		"geonameid": "1259154"
 	},
 	{
-		"name": "Purwā",
+		"name": "Purwa",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1259157"
@@ -56250,7 +56250,7 @@ const states = [
 		"geonameid": "1259166"
 	},
 	{
-		"name": "Pūrna",
+		"name": "Purna",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1259177"
@@ -56262,7 +56262,7 @@ const states = [
 		"geonameid": "1259184"
 	},
 	{
-		"name": "Pūranpur",
+		"name": "Puranpur",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1259190"
@@ -56280,7 +56280,7 @@ const states = [
 		"geonameid": "1259222"
 	},
 	{
-		"name": "Punganūru",
+		"name": "Punganuru",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1259228"
@@ -56292,25 +56292,25 @@ const states = [
 		"geonameid": "1259229"
 	},
 	{
-		"name": "Pūndri",
+		"name": "Pundri",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1259231"
 	},
 	{
-		"name": "Punāsa",
+		"name": "Punasa",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1259239"
 	},
 	{
-		"name": "Punalūr",
+		"name": "Punalur",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1259243"
 	},
 	{
-		"name": "Pūnāhāna",
+		"name": "Punahana",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1259244"
@@ -56340,7 +56340,7 @@ const states = [
 		"geonameid": "1259272"
 	},
 	{
-		"name": "Pukhrāyān",
+		"name": "Pukhrayan",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1259283"
@@ -56352,13 +56352,13 @@ const states = [
 		"geonameid": "1259297"
 	},
 	{
-		"name": "Proddatūr",
+		"name": "Proddatur",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1259312"
 	},
 	{
-		"name": "Pratāpgarh",
+		"name": "Pratapgarh",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1259338"
@@ -56388,7 +56388,7 @@ const states = [
 		"geonameid": "1259400"
 	},
 	{
-		"name": "Ponnūru",
+		"name": "Ponnuru",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1259408"
@@ -56400,7 +56400,7 @@ const states = [
 		"geonameid": "1259409"
 	},
 	{
-		"name": "Ponnāni",
+		"name": "Ponnani",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1259411"
@@ -56418,7 +56418,7 @@ const states = [
 		"geonameid": "1259429"
 	},
 	{
-		"name": "Polūr",
+		"name": "Polur",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1259434"
@@ -56448,13 +56448,13 @@ const states = [
 		"geonameid": "1259460"
 	},
 	{
-		"name": "Pithorāgarh",
+		"name": "Pithoragarh",
 		"country": "India",
 		"subcountry": "Uttarakhand",
 		"geonameid": "1259503"
 	},
 	{
-		"name": "Pithāpuram",
+		"name": "Pithapuram",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1259508"
@@ -56466,7 +56466,7 @@ const states = [
 		"geonameid": "1259530"
 	},
 	{
-		"name": "Piriyāpatna",
+		"name": "Piriyapatna",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1259535"
@@ -56496,7 +56496,7 @@ const states = [
 		"geonameid": "1259592"
 	},
 	{
-		"name": "Pīpār",
+		"name": "Pīpar",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1259608"
@@ -56508,13 +56508,13 @@ const states = [
 		"geonameid": "1259630"
 	},
 	{
-		"name": "Pindwāra",
+		"name": "Pindwara",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1259638"
 	},
 	{
-		"name": "Pināhat",
+		"name": "Pinahat",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1259647"
@@ -56544,13 +56544,13 @@ const states = [
 		"geonameid": "1259688"
 	},
 	{
-		"name": "Pilāni",
+		"name": "Pilani",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1259693"
 	},
 	{
-		"name": "Pihānī",
+		"name": "Pihanī",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1259701"
@@ -56568,7 +56568,7 @@ const states = [
 		"geonameid": "1259744"
 	},
 	{
-		"name": "Phulabāni",
+		"name": "Phulabani",
 		"country": "India",
 		"subcountry": "Odisha",
 		"geonameid": "1259756"
@@ -56592,7 +56592,7 @@ const states = [
 		"geonameid": "1259784"
 	},
 	{
-		"name": "Phaphūnd",
+		"name": "Phaphund",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1259801"
@@ -56616,13 +56616,13 @@ const states = [
 		"geonameid": "1259818"
 	},
 	{
-		"name": "Phagwāra",
+		"name": "Phagwara",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1259827"
 	},
 	{
-		"name": "Petlād",
+		"name": "Petlad",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1259841"
@@ -56634,7 +56634,7 @@ const states = [
 		"geonameid": "1259855"
 	},
 	{
-		"name": "Perumpāvūr",
+		"name": "Perumpavur",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1259857"
@@ -56658,7 +56658,7 @@ const states = [
 		"geonameid": "1259890"
 	},
 	{
-		"name": "Peranāmpattu",
+		"name": "Peranampattu",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1259892"
@@ -56682,13 +56682,13 @@ const states = [
 		"geonameid": "1259907"
 	},
 	{
-		"name": "Pennāgaram",
+		"name": "Pennagaram",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1259916"
 	},
 	{
-		"name": "Pennādam",
+		"name": "Pennadam",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1259917"
@@ -56706,7 +56706,7 @@ const states = [
 		"geonameid": "1259939"
 	},
 	{
-		"name": "Peddāpuram",
+		"name": "Peddapuram",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1259954"
@@ -56724,19 +56724,19 @@ const states = [
 		"geonameid": "1259986"
 	},
 	{
-		"name": "Payyannūr",
+		"name": "Payyannur",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1259994"
 	},
 	{
-		"name": "Pawāyan",
+		"name": "Pawayan",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1260003"
 	},
 	{
-		"name": "Pāvugada",
+		"name": "Pavugada",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1260014"
@@ -56754,7 +56754,7 @@ const states = [
 		"geonameid": "1260022"
 	},
 	{
-		"name": "Pātūr",
+		"name": "Patur",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1260035"
@@ -56772,7 +56772,7 @@ const states = [
 		"geonameid": "1260045"
 	},
 	{
-		"name": "Patnāgarh",
+		"name": "Patnagarh",
 		"country": "India",
 		"subcountry": "Odisha",
 		"geonameid": "1260082"
@@ -56784,13 +56784,13 @@ const states = [
 		"geonameid": "1260086"
 	},
 	{
-		"name": "Patiāla",
+		"name": "Patiala",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1260107"
 	},
 	{
-		"name": "Pāthri",
+		"name": "Pathri",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1260120"
@@ -56802,25 +56802,25 @@ const states = [
 		"geonameid": "1260129"
 	},
 	{
-		"name": "Pāthardih",
+		"name": "Pathardih",
 		"country": "India",
 		"subcountry": "Jharkhand",
 		"geonameid": "1260134"
 	},
 	{
-		"name": "Pāthardi",
+		"name": "Pathardi",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1260135"
 	},
 	{
-		"name": "Pathānkot",
+		"name": "Pathankot",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1260137"
 	},
 	{
-		"name": "Pathanāmthitta",
+		"name": "Pathanamthitta",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1260138"
@@ -56844,25 +56844,25 @@ const states = [
 		"geonameid": "1260168"
 	},
 	{
-		"name": "Pātan",
+		"name": "Patan",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1260173"
 	},
 	{
-		"name": "Patāmundai",
+		"name": "Patamundai",
 		"country": "India",
 		"subcountry": "Odisha",
 		"geonameid": "1260178"
 	},
 	{
-		"name": "Pāsighāt",
+		"name": "Pasighat",
 		"country": "India",
 		"subcountry": "Arunachal Pradesh",
 		"geonameid": "1260206"
 	},
 	{
-		"name": "Pasān",
+		"name": "Pasan",
 		"country": "India",
 		"subcountry": "Chhattisgarh",
 		"geonameid": "1260210"
@@ -56874,13 +56874,13 @@ const states = [
 		"geonameid": "1260221"
 	},
 	{
-		"name": "Pārvatipuram",
+		"name": "Parvatipuram",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1260222"
 	},
 	{
-		"name": "Partūr",
+		"name": "Partur",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1260228"
@@ -56892,19 +56892,19 @@ const states = [
 		"geonameid": "1260274"
 	},
 	{
-		"name": "Parli Vaijnāth",
+		"name": "Parli Vaijnath",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1260290"
 	},
 	{
-		"name": "Parlākimidi",
+		"name": "Parlakimidi",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1260296"
 	},
 	{
-		"name": "Pariyāpuram",
+		"name": "Pariyapuram",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1260304"
@@ -56916,7 +56916,7 @@ const states = [
 		"geonameid": "1260313"
 	},
 	{
-		"name": "Pārdi",
+		"name": "Pardi",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1260335"
@@ -56928,13 +56928,13 @@ const states = [
 		"geonameid": "1260341"
 	},
 	{
-		"name": "Paravūr",
+		"name": "Paravur",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1260354"
 	},
 	{
-		"name": "Parāsia",
+		"name": "Parasia",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1260368"
@@ -56946,13 +56946,13 @@ const states = [
 		"geonameid": "1260387"
 	},
 	{
-		"name": "Parādīp Garh",
+		"name": "Paradīp Garh",
 		"country": "India",
 		"subcountry": "Odisha",
 		"geonameid": "1260393"
 	},
 	{
-		"name": "Pāppinisshēri",
+		"name": "Pappinisshēri",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1260406"
@@ -56964,7 +56964,7 @@ const states = [
 		"geonameid": "1260417"
 	},
 	{
-		"name": "Pāonta Sāhib",
+		"name": "Paonta Sahib",
 		"country": "India",
 		"subcountry": "Himachal Pradesh",
 		"geonameid": "1260421"
@@ -56994,13 +56994,13 @@ const states = [
 		"geonameid": "1260456"
 	},
 	{
-		"name": "Pānīpat",
+		"name": "Panīpat",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1260476"
 	},
 	{
-		"name": "Pānihāti",
+		"name": "Panihati",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1260482"
@@ -57012,7 +57012,7 @@ const states = [
 		"geonameid": "1260527"
 	},
 	{
-		"name": "Pāndhurnā",
+		"name": "Pandhurna",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1260543"
@@ -57036,7 +57036,7 @@ const states = [
 		"geonameid": "1260607"
 	},
 	{
-		"name": "Panāgar",
+		"name": "Panagar",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1260612"
@@ -57048,7 +57048,7 @@ const states = [
 		"geonameid": "1260637"
 	},
 	{
-		"name": "Pāloncha",
+		"name": "Paloncha",
 		"country": "India",
 		"subcountry": "Telangana",
 		"geonameid": "1260667"
@@ -57078,7 +57078,7 @@ const states = [
 		"geonameid": "1260685"
 	},
 	{
-		"name": "Pallāvaram",
+		"name": "Pallavaram",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1260692"
@@ -57096,31 +57096,31 @@ const states = [
 		"geonameid": "1260697"
 	},
 	{
-		"name": "Pālkonda",
+		"name": "Palkonda",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1260702"
 	},
 	{
-		"name": "Pālitāna",
+		"name": "Palitana",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1260707"
 	},
 	{
-		"name": "Paliā Kalān",
+		"name": "Palia Kalan",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1260713"
 	},
 	{
-		"name": "Pāli",
+		"name": "Pali",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1260716"
 	},
 	{
-		"name": "Pāli",
+		"name": "Pali",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1260718"
@@ -57132,7 +57132,7 @@ const states = [
 		"geonameid": "1260728"
 	},
 	{
-		"name": "Pālghar",
+		"name": "Palghar",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1260730"
@@ -57144,37 +57144,37 @@ const states = [
 		"geonameid": "1260734"
 	},
 	{
-		"name": "Palāsa",
+		"name": "Palasa",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1260771"
 	},
 	{
-		"name": "Pālanpur",
+		"name": "Palanpur",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1260777"
 	},
 	{
-		"name": "Pālakollu",
+		"name": "Palakollu",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1260792"
 	},
 	{
-		"name": "Pālakkodu",
+		"name": "Palakkodu",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1260793"
 	},
 	{
-		"name": "Pākaur",
+		"name": "Pakaur",
 		"country": "India",
 		"subcountry": "Jharkhand",
 		"geonameid": "1260824"
 	},
 	{
-		"name": "Pākāla",
+		"name": "Pakala",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1260830"
@@ -57186,7 +57186,7 @@ const states = [
 		"geonameid": "1260833"
 	},
 	{
-		"name": "Pahāsu",
+		"name": "Pahasu",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1260868"
@@ -57204,7 +57204,7 @@ const states = [
 		"geonameid": "1260911"
 	},
 	{
-		"name": "Padmanābhapuram",
+		"name": "Padmanabhapuram",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1260918"
@@ -57234,13 +57234,13 @@ const states = [
 		"geonameid": "1260954"
 	},
 	{
-		"name": "Pāchora",
+		"name": "Pachora",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1260959"
 	},
 	{
-		"name": "Ottappālam",
+		"name": "Ottappalam",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1261008"
@@ -57282,13 +57282,13 @@ const states = [
 		"geonameid": "1261086"
 	},
 	{
-		"name": "Nūzvīd",
+		"name": "Nuzvīd",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1261110"
 	},
 	{
-		"name": "Nūrpur",
+		"name": "Nurpur",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1261122"
@@ -57306,7 +57306,7 @@ const states = [
 		"geonameid": "1261181"
 	},
 	{
-		"name": "North Guwāhāti",
+		"name": "North Guwahati",
 		"country": "India",
 		"subcountry": "Assam",
 		"geonameid": "1261186"
@@ -57330,19 +57330,19 @@ const states = [
 		"geonameid": "1261234"
 	},
 	{
-		"name": "Noāmundi",
+		"name": "Noamundi",
 		"country": "India",
 		"subcountry": "Jharkhand",
 		"geonameid": "1261242"
 	},
 	{
-		"name": "Nizāmābād",
+		"name": "Nizamabad",
 		"country": "India",
 		"subcountry": "Telangana",
 		"geonameid": "1261258"
 	},
 	{
-		"name": "Nirmāli",
+		"name": "Nirmali",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1261285"
@@ -57354,7 +57354,7 @@ const states = [
 		"geonameid": "1261288"
 	},
 	{
-		"name": "Nipāni",
+		"name": "Nipani",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1261309"
@@ -57366,19 +57366,19 @@ const states = [
 		"geonameid": "1261342"
 	},
 	{
-		"name": "Nīmbāhera",
+		"name": "Nīmbahera",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1261369"
 	},
 	{
-		"name": "Nimāparha",
+		"name": "Nimaparha",
 		"country": "India",
 		"subcountry": "Odisha",
 		"geonameid": "1261375"
 	},
 	{
-		"name": "Nīmāj",
+		"name": "Nīmaj",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1261378"
@@ -57432,7 +57432,7 @@ const states = [
 		"geonameid": "1261451"
 	},
 	{
-		"name": "Neyyāttinkara",
+		"name": "Neyyattinkara",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1261470"
@@ -57450,7 +57450,7 @@ const states = [
 		"geonameid": "1261512"
 	},
 	{
-		"name": "Nepānagar",
+		"name": "Nepanagar",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1261517"
@@ -57474,25 +57474,25 @@ const states = [
 		"geonameid": "1261539"
 	},
 	{
-		"name": "Nedumangād",
+		"name": "Nedumangad",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1261553"
 	},
 	{
-		"name": "Nāyudupeta",
+		"name": "Nayudupeta",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1261567"
 	},
 	{
-		"name": "Nayāgarh",
+		"name": "Nayagarh",
 		"country": "India",
 		"subcountry": "Odisha",
 		"geonameid": "1261580"
 	},
 	{
-		"name": "Nawāshahr",
+		"name": "Nawashahr",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1261598"
@@ -57510,31 +57510,31 @@ const states = [
 		"geonameid": "1261614"
 	},
 	{
-		"name": "Nawāda",
+		"name": "Nawada",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1261631"
 	},
 	{
-		"name": "Nawābganj",
+		"name": "Nawabganj",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1261639"
 	},
 	{
-		"name": "Nawābganj",
+		"name": "Nawabganj",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1261641"
 	},
 	{
-		"name": "Nawābganj",
+		"name": "Nawabganj",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1261642"
 	},
 	{
-		"name": "Nāwa",
+		"name": "Nawa",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1261647"
@@ -57570,31 +57570,31 @@ const states = [
 		"geonameid": "1261705"
 	},
 	{
-		"name": "Nāthdwāra",
+		"name": "Nathdwara",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1261711"
 	},
 	{
-		"name": "Nasrullāhganj",
+		"name": "Nasrullahganj",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1261721"
 	},
 	{
-		"name": "Nāsriganj",
+		"name": "Nasriganj",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1261722"
 	},
 	{
-		"name": "Nāspur",
+		"name": "Naspur",
 		"country": "India",
 		"subcountry": "Telangana",
 		"geonameid": "1261726"
 	},
 	{
-		"name": "Nasīrābād",
+		"name": "Nasīrabad",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1261727"
@@ -57612,7 +57612,7 @@ const states = [
 		"geonameid": "1261736"
 	},
 	{
-		"name": "Narwāna",
+		"name": "Narwana",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1261739"
@@ -57636,13 +57636,13 @@ const states = [
 		"geonameid": "1261754"
 	},
 	{
-		"name": "Nārnaund",
+		"name": "Narnaund",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1261771"
 	},
 	{
-		"name": "Nārnaul",
+		"name": "Narnaul",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1261772"
@@ -57660,19 +57660,19 @@ const states = [
 		"geonameid": "1261810"
 	},
 	{
-		"name": "Nārāyanpet",
+		"name": "Narayanpet",
 		"country": "India",
 		"subcountry": "Telangana",
 		"geonameid": "1261823"
 	},
 	{
-		"name": "Narāyangarh",
+		"name": "Narayangarh",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1261828"
 	},
 	{
-		"name": "Nāravārikuppam",
+		"name": "Naravarikuppam",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1261835"
@@ -57720,37 +57720,37 @@ const states = [
 		"geonameid": "1261872"
 	},
 	{
-		"name": "Napāsar",
+		"name": "Napasar",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1261882"
 	},
 	{
-		"name": "Nānpāra",
+		"name": "Nanpara",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1261901"
 	},
 	{
-		"name": "Nanjangūd",
+		"name": "Nanjangud",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1261910"
 	},
 	{
-		"name": "Nāngloi Jāt",
+		"name": "Nangloi Jat",
 		"country": "India",
 		"subcountry": "NCT",
 		"geonameid": "1261913"
 	},
 	{
-		"name": "Nāngal Township",
+		"name": "Nangal Township",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1261922"
 	},
 	{
-		"name": "Nandyāl",
+		"name": "Nandyal",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1261927"
@@ -57762,25 +57762,25 @@ const states = [
 		"geonameid": "1261931"
 	},
 	{
-		"name": "Nāndūra Buzurg",
+		"name": "Nandura Buzurg",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1261932"
 	},
 	{
-		"name": "Nandikotkūr",
+		"name": "Nandikotkur",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1261957"
 	},
 	{
-		"name": "Nandigāma",
+		"name": "Nandigama",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1261960"
 	},
 	{
-		"name": "Nāndgaon",
+		"name": "Nandgaon",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1261971"
@@ -57798,31 +57798,31 @@ const states = [
 		"geonameid": "1261998"
 	},
 	{
-		"name": "Nāmrup",
+		"name": "Namrup",
 		"country": "India",
 		"subcountry": "Assam",
 		"geonameid": "1262013"
 	},
 	{
-		"name": "Nambiyūr",
+		"name": "Nambiyur",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1262034"
 	},
 	{
-		"name": "Nāmakkal",
+		"name": "Namakkal",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1262039"
 	},
 	{
-		"name": "Nāmagiripettai",
+		"name": "Namagiripettai",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1262040"
 	},
 	{
-		"name": "Nalhāti",
+		"name": "Nalhati",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1262065"
@@ -57840,13 +57840,13 @@ const states = [
 		"geonameid": "1262073"
 	},
 	{
-		"name": "Nakūr",
+		"name": "Nakur",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1262089"
 	},
 	{
-		"name": "Naksalbāri",
+		"name": "Naksalbari",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1262092"
@@ -57858,7 +57858,7 @@ const states = [
 		"geonameid": "1262097"
 	},
 	{
-		"name": "Najībābād",
+		"name": "Najībabad",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1262109"
@@ -57876,13 +57876,13 @@ const states = [
 		"geonameid": "1262116"
 	},
 	{
-		"name": "Naini Tāl",
+		"name": "Naini Tal",
 		"country": "India",
 		"subcountry": "Uttarakhand",
 		"geonameid": "1262117"
 	},
 	{
-		"name": "Naihāti",
+		"name": "Naihati",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1262131"
@@ -57894,7 +57894,7 @@ const states = [
 		"geonameid": "1262140"
 	},
 	{
-		"name": "Nāhan",
+		"name": "Nahan",
 		"country": "India",
 		"subcountry": "Himachal Pradesh",
 		"geonameid": "1262151"
@@ -57906,7 +57906,7 @@ const states = [
 		"geonameid": "1262180"
 	},
 	{
-		"name": "Nāgod",
+		"name": "Nagod",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1262187"
@@ -57918,7 +57918,7 @@ const states = [
 		"geonameid": "1262200"
 	},
 	{
-		"name": "Nāgercoil",
+		"name": "Nagercoil",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1262204"
@@ -57930,13 +57930,13 @@ const states = [
 		"geonameid": "1262209"
 	},
 	{
-		"name": "Nāgaur",
+		"name": "Nagaur",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1262216"
 	},
 	{
-		"name": "Nāgar Karnūl",
+		"name": "Nagar Karnul",
 		"country": "India",
 		"subcountry": "Telangana",
 		"geonameid": "1262230"
@@ -57954,37 +57954,37 @@ const states = [
 		"geonameid": "1262253"
 	},
 	{
-		"name": "Nāgappattinam",
+		"name": "Nagappattinam",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1262260"
 	},
 	{
-		"name": "Nāgamangala",
+		"name": "Nagamangala",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1262266"
 	},
 	{
-		"name": "Naduvannūr",
+		"name": "Naduvannur",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1262285"
 	},
 	{
-		"name": "Nadiād",
+		"name": "Nadiad",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1262292"
 	},
 	{
-		"name": "Nādbai",
+		"name": "Nadbai",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1262296"
 	},
 	{
-		"name": "Nādāpuram",
+		"name": "Nadapuram",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1262302"
@@ -57996,7 +57996,7 @@ const states = [
 		"geonameid": "1262318"
 	},
 	{
-		"name": "Nābha",
+		"name": "Nabha",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1262319"
@@ -58020,7 +58020,7 @@ const states = [
 		"geonameid": "1262332"
 	},
 	{
-		"name": "Mūvattupula",
+		"name": "Muvattupula",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1262338"
@@ -58044,25 +58044,25 @@ const states = [
 		"geonameid": "1262380"
 	},
 	{
-		"name": "Mushābani",
+		"name": "Mushabani",
 		"country": "India",
 		"subcountry": "Jharkhand",
 		"geonameid": "1262382"
 	},
 	{
-		"name": "Murwāra",
+		"name": "Murwara",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1262395"
 	},
 	{
-		"name": "Murtajāpur",
+		"name": "Murtajapur",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1262410"
 	},
 	{
-		"name": "Murshidābād",
+		"name": "Murshidabad",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1262412"
@@ -58080,13 +58080,13 @@ const states = [
 		"geonameid": "1262426"
 	},
 	{
-		"name": "Murbād",
+		"name": "Murbad",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1262444"
 	},
 	{
-		"name": "Murādnagar",
+		"name": "Muradnagar",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1262453"
@@ -58116,7 +58116,7 @@ const states = [
 		"geonameid": "1262485"
 	},
 	{
-		"name": "Mūndwa",
+		"name": "Mundwa",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1262491"
@@ -58146,7 +58146,7 @@ const states = [
 		"geonameid": "1262534"
 	},
 	{
-		"name": "Mūlki",
+		"name": "Mulki",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1262546"
@@ -58158,7 +58158,7 @@ const states = [
 		"geonameid": "1262553"
 	},
 	{
-		"name": "Mulbāgal",
+		"name": "Mulbagal",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1262562"
@@ -58170,7 +58170,7 @@ const states = [
 		"geonameid": "1262566"
 	},
 	{
-		"name": "Mūl",
+		"name": "Mul",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1262574"
@@ -58188,31 +58188,31 @@ const states = [
 		"geonameid": "1262591"
 	},
 	{
-		"name": "Mukeriān",
+		"name": "Mukerian",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1262596"
 	},
 	{
-		"name": "Muhammadābād",
+		"name": "Muhammadabad",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1262624"
 	},
 	{
-		"name": "Muhammadābād",
+		"name": "Muhammadabad",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1262625"
 	},
 	{
-		"name": "Muhammadābād",
+		"name": "Muhammadabad",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1262626"
 	},
 	{
-		"name": "Mughal Sarāi",
+		"name": "Mughal Sarai",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1262634"
@@ -58236,25 +58236,25 @@ const states = [
 		"geonameid": "1262664"
 	},
 	{
-		"name": "Muddebihāl",
+		"name": "Muddebihal",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1262669"
 	},
 	{
-		"name": "Mūdbidri",
+		"name": "Mudbidri",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1262672"
 	},
 	{
-		"name": "Mubārakpur",
+		"name": "Mubarakpur",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1262678"
 	},
 	{
-		"name": "Mothīhāri",
+		"name": "Mothīhari",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1262710"
@@ -58284,7 +58284,7 @@ const states = [
 		"geonameid": "1262775"
 	},
 	{
-		"name": "Morār",
+		"name": "Morar",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1262783"
@@ -58296,7 +58296,7 @@ const states = [
 		"geonameid": "1262794"
 	},
 	{
-		"name": "Morādābād",
+		"name": "Moradabad",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1262801"
@@ -58308,7 +58308,7 @@ const states = [
 		"geonameid": "1262824"
 	},
 	{
-		"name": "Mokokchūng",
+		"name": "Mokokchung",
 		"country": "India",
 		"subcountry": "Nagaland",
 		"geonameid": "1262843"
@@ -58320,7 +58320,7 @@ const states = [
 		"geonameid": "1262852"
 	},
 	{
-		"name": "Moirāng",
+		"name": "Moirang",
 		"country": "India",
 		"subcountry": "Manipur",
 		"geonameid": "1262863"
@@ -58332,7 +58332,7 @@ const states = [
 		"geonameid": "1262951"
 	},
 	{
-		"name": "Modāsa",
+		"name": "Modasa",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1262958"
@@ -58344,13 +58344,13 @@ const states = [
 		"geonameid": "1262988"
 	},
 	{
-		"name": "Mirzāpur",
+		"name": "Mirzapur",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1262995"
 	},
 	{
-		"name": "Miriālgūda",
+		"name": "Mirialguda",
 		"country": "India",
 		"subcountry": "Telangana",
 		"geonameid": "1263012"
@@ -58362,19 +58362,19 @@ const states = [
 		"geonameid": "1263015"
 	},
 	{
-		"name": "Mīrānpur Katra",
+		"name": "Mīranpur Katra",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1263021"
 	},
 	{
-		"name": "Mīrānpur",
+		"name": "Mīranpur",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1263022"
 	},
 	{
-		"name": "Mīnjūr",
+		"name": "Mīnjur",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1263034"
@@ -58392,7 +58392,7 @@ const states = [
 		"geonameid": "1263057"
 	},
 	{
-		"name": "Mhāsvād",
+		"name": "Mhasvad",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1263083"
@@ -58422,7 +58422,7 @@ const states = [
 		"geonameid": "1263142"
 	},
 	{
-		"name": "Memāri",
+		"name": "Memari",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1263148"
@@ -58434,7 +58434,7 @@ const states = [
 		"geonameid": "1263151"
 	},
 	{
-		"name": "Mehndāwal",
+		"name": "Mehndawal",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1263185"
@@ -58470,13 +58470,13 @@ const states = [
 		"geonameid": "1263247"
 	},
 	{
-		"name": "Mayāng Imphāl",
+		"name": "Mayang Imphal",
 		"country": "India",
 		"subcountry": "Manipur",
 		"geonameid": "1263255"
 	},
 	{
-		"name": "Mawāna",
+		"name": "Mawana",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1263275"
@@ -58488,7 +58488,7 @@ const states = [
 		"geonameid": "1263280"
 	},
 	{
-		"name": "Māvelikara",
+		"name": "Mavelikara",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1263285"
@@ -58530,7 +58530,7 @@ const states = [
 		"geonameid": "1263311"
 	},
 	{
-		"name": "Mattanūr",
+		"name": "Mattanur",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1263331"
@@ -58542,7 +58542,7 @@ const states = [
 		"geonameid": "1263364"
 	},
 	{
-		"name": "Mātābhānga",
+		"name": "Matabhanga",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1263395"
@@ -58560,19 +58560,19 @@ const states = [
 		"geonameid": "1263494"
 	},
 	{
-		"name": "Mārkāpur",
+		"name": "Markapur",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1263504"
 	},
 	{
-		"name": "Mariāni",
+		"name": "Mariani",
 		"country": "India",
 		"subcountry": "Assam",
 		"geonameid": "1263522"
 	},
 	{
-		"name": "Mariāhu",
+		"name": "Mariahu",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1263523"
@@ -58596,25 +58596,25 @@ const states = [
 		"geonameid": "1263564"
 	},
 	{
-		"name": "Mārahra",
+		"name": "Marahra",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1263567"
 	},
 	{
-		"name": "Māpuca",
+		"name": "Mapuca",
 		"country": "India",
 		"subcountry": "Goa",
 		"geonameid": "1263580"
 	},
 	{
-		"name": "Mānwat",
+		"name": "Manwat",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1263591"
 	},
 	{
-		"name": "Mānvi",
+		"name": "Manvi",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1263594"
@@ -58626,13 +58626,13 @@ const states = [
 		"geonameid": "1263610"
 	},
 	{
-		"name": "Mānsa",
+		"name": "Mansa",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1263622"
 	},
 	{
-		"name": "Mānsa",
+		"name": "Mansa",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1263623"
@@ -58650,25 +58650,25 @@ const states = [
 		"geonameid": "1263659"
 	},
 	{
-		"name": "Mannārakkāt",
+		"name": "Mannarakkat",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1263661"
 	},
 	{
-		"name": "Manmād",
+		"name": "Manmad",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1263664"
 	},
 	{
-		"name": "Mankāchar",
+		"name": "Mankachar",
 		"country": "India",
 		"subcountry": "Meghalaya",
 		"geonameid": "1263678"
 	},
 	{
-		"name": "Mājalgaon",
+		"name": "Majalgaon",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1263684"
@@ -58686,7 +58686,7 @@ const states = [
 		"geonameid": "1263694"
 	},
 	{
-		"name": "Manihāri",
+		"name": "Manihari",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1263723"
@@ -58698,19 +58698,19 @@ const states = [
 		"geonameid": "1263730"
 	},
 	{
-		"name": "Mangrūl Pīr",
+		"name": "Mangrul Pīr",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1263744"
 	},
 	{
-		"name": "Māngrol",
+		"name": "Mangrol",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1263751"
 	},
 	{
-		"name": "Māngrol",
+		"name": "Mangrol",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1263752"
@@ -58752,19 +58752,19 @@ const states = [
 		"geonameid": "1263814"
 	},
 	{
-		"name": "Māndvi",
+		"name": "Mandvi",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1263824"
 	},
 	{
-		"name": "Māndvi",
+		"name": "Mandvi",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1263826"
 	},
 	{
-		"name": "Māndu",
+		"name": "Mandu",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1263833"
@@ -58776,7 +58776,7 @@ const states = [
 		"geonameid": "1263834"
 	},
 	{
-		"name": "Mandlā",
+		"name": "Mandla",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1263852"
@@ -58788,7 +58788,7 @@ const states = [
 		"geonameid": "1263862"
 	},
 	{
-		"name": "Mandāwar",
+		"name": "Mandawar",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1263879"
@@ -58806,37 +58806,37 @@ const states = [
 		"geonameid": "1263900"
 	},
 	{
-		"name": "Māndalgarh",
+		"name": "Mandalgarh",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1263911"
 	},
 	{
-		"name": "Māndal",
+		"name": "Mandal",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1263917"
 	},
 	{
-		"name": "Mancherāl",
+		"name": "Mancheral",
 		"country": "India",
 		"subcountry": "Telangana",
 		"geonameid": "1263936"
 	},
 	{
-		"name": "Manāwar",
+		"name": "Manawar",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1263940"
 	},
 	{
-		"name": "Mānāvadar",
+		"name": "Manavadar",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1263943"
 	},
 	{
-		"name": "Manāsa",
+		"name": "Manasa",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1263949"
@@ -58860,19 +58860,19 @@ const states = [
 		"geonameid": "1263968"
 	},
 	{
-		"name": "Mālvan",
+		"name": "Malvan",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1264007"
 	},
 	{
-		"name": "Mālūr",
+		"name": "Malur",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1264010"
 	},
 	{
-		"name": "Mālpura",
+		"name": "Malpura",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1264032"
@@ -58890,7 +58890,7 @@ const states = [
 		"geonameid": "1264047"
 	},
 	{
-		"name": "Malkāpur",
+		"name": "Malkapur",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1264071"
@@ -58902,19 +58902,19 @@ const states = [
 		"geonameid": "1264075"
 	},
 	{
-		"name": "Malīhābād",
+		"name": "Malīhabad",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1264085"
 	},
 	{
-		"name": "Māler Kotla",
+		"name": "Maler Kotla",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1264111"
 	},
 	{
-		"name": "Mālegaon",
+		"name": "Malegaon",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1264115"
@@ -58938,7 +58938,7 @@ const states = [
 		"geonameid": "1264154"
 	},
 	{
-		"name": "Mākum",
+		"name": "Makum",
 		"country": "India",
 		"subcountry": "Assam",
 		"geonameid": "1264196"
@@ -58950,7 +58950,7 @@ const states = [
 		"geonameid": "1264198"
 	},
 	{
-		"name": "Makrāna",
+		"name": "Makrana",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1264206"
@@ -58968,7 +58968,7 @@ const states = [
 		"geonameid": "1264292"
 	},
 	{
-		"name": "Maināguri",
+		"name": "Mainaguri",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1264301"
@@ -58998,25 +58998,25 @@ const states = [
 		"geonameid": "1264356"
 	},
 	{
-		"name": "Mahobā",
+		"name": "Mahoba",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1264359"
 	},
 	{
-		"name": "Mahmudābād",
+		"name": "Mahmudabad",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1264363"
 	},
 	{
-		"name": "Mahīshādal",
+		"name": "Mahīshadal",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1264368"
 	},
 	{
-		"name": "Mahgawān",
+		"name": "Mahgawan",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1264383"
@@ -59034,7 +59034,7 @@ const states = [
 		"geonameid": "1264395"
 	},
 	{
-		"name": "Mahemdāvād",
+		"name": "Mahemdavad",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1264398"
@@ -59046,31 +59046,31 @@ const states = [
 		"geonameid": "1264403"
 	},
 	{
-		"name": "Mahbūbnagar",
+		"name": "Mahbubnagar",
 		"country": "India",
 		"subcountry": "Telangana",
 		"geonameid": "1264407"
 	},
 	{
-		"name": "Mahbūbābād",
+		"name": "Mahbubabad",
 		"country": "India",
 		"subcountry": "Telangana",
 		"geonameid": "1264409"
 	},
 	{
-		"name": "Mahāsamund",
+		"name": "Mahasamund",
 		"country": "India",
 		"subcountry": "Chhattisgarh",
 		"geonameid": "1264414"
 	},
 	{
-		"name": "Mahārāganj",
+		"name": "Maharaganj",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1264433"
 	},
 	{
-		"name": "Mahārājgani",
+		"name": "Maharajgani",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1264436"
@@ -59082,13 +59082,13 @@ const states = [
 		"geonameid": "1264455"
 	},
 	{
-		"name": "Mahālingpur",
+		"name": "Mahalingpur",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1264457"
 	},
 	{
-		"name": "Mahād",
+		"name": "Mahad",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1264489"
@@ -59100,13 +59100,13 @@ const states = [
 		"geonameid": "1264504"
 	},
 	{
-		"name": "Māgadi",
+		"name": "Magadi",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1264514"
 	},
 	{
-		"name": "Madurāntakam",
+		"name": "Madurantakam",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1264520"
@@ -59118,7 +59118,7 @@ const states = [
 		"geonameid": "1264521"
 	},
 	{
-		"name": "Madukkūr",
+		"name": "Madukkur",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1264523"
@@ -59178,7 +59178,7 @@ const states = [
 		"geonameid": "1264588"
 	},
 	{
-		"name": "Maddūr",
+		"name": "Maddur",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1264592"
@@ -59202,13 +59202,13 @@ const states = [
 		"geonameid": "1264643"
 	},
 	{
-		"name": "Māchhīwāra",
+		"name": "Machhīwara",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1264644"
 	},
 	{
-		"name": "Mācherla",
+		"name": "Macherla",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1264647"
@@ -59220,13 +59220,13 @@ const states = [
 		"geonameid": "1264688"
 	},
 	{
-		"name": "Lūnāvāda",
+		"name": "Lunavada",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1264700"
 	},
 	{
-		"name": "Ludhiāna",
+		"name": "Ludhiana",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1264728"
@@ -59262,19 +59262,19 @@ const states = [
 		"geonameid": "1264793"
 	},
 	{
-		"name": "Lonār",
+		"name": "Lonar",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1264794"
 	},
 	{
-		"name": "Lohārdaga",
+		"name": "Lohardaga",
 		"country": "India",
 		"subcountry": "Jharkhand",
 		"geonameid": "1264839"
 	},
 	{
-		"name": "Lingsugūr",
+		"name": "Lingsugur",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1264890"
@@ -59298,13 +59298,13 @@ const states = [
 		"geonameid": "1264976"
 	},
 	{
-		"name": "Lāwar Khās",
+		"name": "Lawar Khas",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1264989"
 	},
 	{
-		"name": "Laungowāl",
+		"name": "Laungowal",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1265007"
@@ -59316,13 +59316,13 @@ const states = [
 		"geonameid": "1265014"
 	},
 	{
-		"name": "Lāthi",
+		"name": "Lathi",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1265022"
 	},
 	{
-		"name": "Lātehār",
+		"name": "Latehar",
 		"country": "India",
 		"subcountry": "Jharkhand",
 		"geonameid": "1265025"
@@ -59334,13 +59334,13 @@ const states = [
 		"geonameid": "1265053"
 	},
 	{
-		"name": "Lālsot",
+		"name": "Lalsot",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1265143"
 	},
 	{
-		"name": "Lālpur",
+		"name": "Lalpur",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1265150"
@@ -59358,19 +59358,19 @@ const states = [
 		"geonameid": "1265163"
 	},
 	{
-		"name": "Lālgola",
+		"name": "Lalgola",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1265166"
 	},
 	{
-		"name": "Lālganj",
+		"name": "Lalganj",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1265169"
 	},
 	{
-		"name": "Lālganj",
+		"name": "Lalganj",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1265170"
@@ -59394,7 +59394,7 @@ const states = [
 		"geonameid": "1265220"
 	},
 	{
-		"name": "Lakhnādon",
+		"name": "Lakhnadon",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1265233"
@@ -59406,31 +59406,31 @@ const states = [
 		"geonameid": "1265242"
 	},
 	{
-		"name": "Lākheri",
+		"name": "Lakheri",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1265246"
 	},
 	{
-		"name": "Lāharpur",
+		"name": "Laharpur",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1265310"
 	},
 	{
-		"name": "Lahār",
+		"name": "Lahar",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1265311"
 	},
 	{
-		"name": "Lādwa",
+		"name": "Ladwa",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1265323"
 	},
 	{
-		"name": "Lādnūn",
+		"name": "Ladnun",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1265331"
@@ -59460,7 +59460,7 @@ const states = [
 		"geonameid": "1265401"
 	},
 	{
-		"name": "Kutiyāna",
+		"name": "Kutiyana",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1265415"
@@ -59478,19 +59478,19 @@ const states = [
 		"geonameid": "1265446"
 	},
 	{
-		"name": "Kurinjippādi",
+		"name": "Kurinjippadi",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1265504"
 	},
 	{
-		"name": "Kurduvādi",
+		"name": "Kurduvadi",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1265521"
 	},
 	{
-		"name": "Kurandvād",
+		"name": "Kurandvad",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1265539"
@@ -59550,19 +59550,19 @@ const states = [
 		"geonameid": "1265645"
 	},
 	{
-		"name": "Kūmher",
+		"name": "Kumher",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1265655"
 	},
 	{
-		"name": "Kumhāri",
+		"name": "Kumhari",
 		"country": "India",
 		"subcountry": "Chhattisgarh",
 		"geonameid": "1265660"
 	},
 	{
-		"name": "Kumbhrāj",
+		"name": "Kumbhraj",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1265670"
@@ -59586,7 +59586,7 @@ const states = [
 		"geonameid": "1265711"
 	},
 	{
-		"name": "Kulpahār",
+		"name": "Kulpahar",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1265716"
@@ -59610,7 +59610,7 @@ const states = [
 		"geonameid": "1265752"
 	},
 	{
-		"name": "Kūkatpalli",
+		"name": "Kukatpalli",
 		"country": "India",
 		"subcountry": "Telangana",
 		"geonameid": "1265767"
@@ -59622,7 +59622,7 @@ const states = [
 		"geonameid": "1265773"
 	},
 	{
-		"name": "Kūdligi",
+		"name": "Kudligi",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1265795"
@@ -59640,7 +59640,7 @@ const states = [
 		"geonameid": "1265821"
 	},
 	{
-		"name": "Kuchāman",
+		"name": "Kuchaman",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1265828"
@@ -59652,7 +59652,7 @@ const states = [
 		"geonameid": "1265830"
 	},
 	{
-		"name": "Krishnarājpet",
+		"name": "Krishnarajpet",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1265852"
@@ -59682,13 +59682,13 @@ const states = [
 		"geonameid": "1265881"
 	},
 	{
-		"name": "Kovvūr",
+		"name": "Kovvur",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1265886"
 	},
 	{
-		"name": "Kovūr",
+		"name": "Kovur",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1265888"
@@ -59700,7 +59700,7 @@ const states = [
 		"geonameid": "1265891"
 	},
 	{
-		"name": "Kottūru",
+		"name": "Kotturu",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1265905"
@@ -59712,7 +59712,7 @@ const states = [
 		"geonameid": "1265911"
 	},
 	{
-		"name": "Kottagūdem",
+		"name": "Kottagudem",
 		"country": "India",
 		"subcountry": "Telangana",
 		"geonameid": "1265938"
@@ -59730,13 +59730,13 @@ const states = [
 		"geonameid": "1265964"
 	},
 	{
-		"name": "Kotdwāra",
+		"name": "Kotdwara",
 		"country": "India",
 		"subcountry": "Uttarakhand",
 		"geonameid": "1266014"
 	},
 	{
-		"name": "Kotapārh",
+		"name": "Kotaparh",
 		"country": "India",
 		"subcountry": "Chhattisgarh",
 		"geonameid": "1266029"
@@ -59760,7 +59760,7 @@ const states = [
 		"geonameid": "1266049"
 	},
 	{
-		"name": "Kotā",
+		"name": "Kota",
 		"country": "India",
 		"subcountry": "Chhattisgarh",
 		"geonameid": "1266051"
@@ -59808,7 +59808,7 @@ const states = [
 		"geonameid": "1266124"
 	},
 	{
-		"name": "Korāput",
+		"name": "Koraput",
 		"country": "India",
 		"subcountry": "Odisha",
 		"geonameid": "1266128"
@@ -59826,13 +59826,13 @@ const states = [
 		"geonameid": "1266162"
 	},
 	{
-		"name": "Kopāganj",
+		"name": "Kopaganj",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1266164"
 	},
 	{
-		"name": "Konnūr",
+		"name": "Konnur",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1266178"
@@ -59862,7 +59862,7 @@ const states = [
 		"geonameid": "1266217"
 	},
 	{
-		"name": "Konārka",
+		"name": "Konarka",
 		"country": "India",
 		"subcountry": "Odisha",
 		"geonameid": "1266220"
@@ -59874,25 +59874,25 @@ const states = [
 		"geonameid": "1266258"
 	},
 	{
-		"name": "Kollegāl",
+		"name": "Kollegal",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1266267"
 	},
 	{
-		"name": "Kolhāpur",
+		"name": "Kolhapur",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1266285"
 	},
 	{
-		"name": "Kolāras",
+		"name": "Kolaras",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1266302"
 	},
 	{
-		"name": "Kolār",
+		"name": "Kolar",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1266305"
@@ -59916,13 +59916,13 @@ const states = [
 		"geonameid": "1266366"
 	},
 	{
-		"name": "Koelwār",
+		"name": "Koelwar",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1266372"
 	},
 	{
-		"name": "Kodungallūr",
+		"name": "Kodungallur",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1266385"
@@ -59940,37 +59940,37 @@ const states = [
 		"geonameid": "1266397"
 	},
 	{
-		"name": "Kodarmā",
+		"name": "Kodarma",
 		"country": "India",
 		"subcountry": "Jharkhand",
 		"geonameid": "1266414"
 	},
 	{
-		"name": "Kodār",
+		"name": "Kodar",
 		"country": "India",
 		"subcountry": "Telangana",
 		"geonameid": "1266416"
 	},
 	{
-		"name": "Kodaikānāl",
+		"name": "Kodaikanal",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1266425"
 	},
 	{
-		"name": "Koch Bihār",
+		"name": "Koch Bihar",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1266436"
 	},
 	{
-		"name": "Koāth",
+		"name": "Koath",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1266448"
 	},
 	{
-		"name": "Kizhake Chālakudi",
+		"name": "Kizhake Chalakudi",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1266452"
@@ -59982,7 +59982,7 @@ const states = [
 		"geonameid": "1266461"
 	},
 	{
-		"name": "Kishtwār",
+		"name": "Kishtwar",
 		"country": "India",
 		"subcountry": "Kashmir",
 		"geonameid": "1266475"
@@ -60024,7 +60024,7 @@ const states = [
 		"geonameid": "1266575"
 	},
 	{
-		"name": "Khūtār",
+		"name": "Khutar",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1266596"
@@ -60054,7 +60054,7 @@ const states = [
 		"geonameid": "1266622"
 	},
 	{
-		"name": "Khuldābād",
+		"name": "Khuldabad",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1266631"
@@ -60072,7 +60072,7 @@ const states = [
 		"geonameid": "1266666"
 	},
 	{
-		"name": "Khirkiyān",
+		"name": "Khirkiyan",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1266710"
@@ -60102,7 +60102,7 @@ const states = [
 		"geonameid": "1266762"
 	},
 	{
-		"name": "Kherālu",
+		"name": "Kheralu",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1266774"
@@ -60126,7 +60126,7 @@ const states = [
 		"geonameid": "1266809"
 	},
 	{
-		"name": "Khātra",
+		"name": "Khatra",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1266838"
@@ -60138,7 +60138,7 @@ const states = [
 		"geonameid": "1266843"
 	},
 	{
-		"name": "Khātegaon",
+		"name": "Khategaon",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1266847"
@@ -60150,7 +60150,7 @@ const states = [
 		"geonameid": "1266849"
 	},
 	{
-		"name": "Khārupatia",
+		"name": "Kharupatia",
 		"country": "India",
 		"subcountry": "Assam",
 		"geonameid": "1266862"
@@ -60204,7 +60204,7 @@ const states = [
 		"geonameid": "1266976"
 	},
 	{
-		"name": "Khāpa",
+		"name": "Khapa",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1267006"
@@ -60228,7 +60228,7 @@ const states = [
 		"geonameid": "1267044"
 	},
 	{
-		"name": "Khānāpur",
+		"name": "Khanapur",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1267065"
@@ -60240,19 +60240,19 @@ const states = [
 		"geonameid": "1267076"
 	},
 	{
-		"name": "Khāmgaon",
+		"name": "Khamgaon",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1267084"
 	},
 	{
-		"name": "Khambhāt",
+		"name": "Khambhat",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1267090"
 	},
 	{
-		"name": "Khambhāliya",
+		"name": "Khambhaliya",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1267091"
@@ -60264,31 +60264,31 @@ const states = [
 		"geonameid": "1267097"
 	},
 	{
-		"name": "Khalīlābād",
+		"name": "Khalīlabad",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1267115"
 	},
 	{
-		"name": "Khajurāho",
+		"name": "Khajuraho",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1267154"
 	},
 	{
-		"name": "Khairāgarh",
+		"name": "Khairagarh",
 		"country": "India",
 		"subcountry": "Chhattisgarh",
 		"geonameid": "1267173"
 	},
 	{
-		"name": "Khairāgarh",
+		"name": "Khairagarh",
 		"country": "India",
 		"subcountry": "Chhattisgarh",
 		"geonameid": "1267174"
 	},
 	{
-		"name": "Khairābād",
+		"name": "Khairabad",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1267175"
@@ -60324,7 +60324,7 @@ const states = [
 		"geonameid": "1267202"
 	},
 	{
-		"name": "Khāchrod",
+		"name": "Khachrod",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1267203"
@@ -60336,7 +60336,7 @@ const states = [
 		"geonameid": "1267222"
 	},
 	{
-		"name": "Keshorai Pātan",
+		"name": "Keshorai Patan",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1267226"
@@ -60348,13 +60348,13 @@ const states = [
 		"geonameid": "1267227"
 	},
 	{
-		"name": "Kerūr",
+		"name": "Kerur",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1267239"
 	},
 	{
-		"name": "Kendrāparha",
+		"name": "Kendraparha",
 		"country": "India",
 		"subcountry": "Odisha",
 		"geonameid": "1267283"
@@ -60378,7 +60378,7 @@ const states = [
 		"geonameid": "1267336"
 	},
 	{
-		"name": "Kāyankulam",
+		"name": "Kayankulam",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1267360"
@@ -60396,13 +60396,13 @@ const states = [
 		"geonameid": "1267369"
 	},
 	{
-		"name": "Kāvali",
+		"name": "Kavali",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1267394"
 	},
 	{
-		"name": "Kattivākkam",
+		"name": "Kattivakkam",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1267433"
@@ -60414,25 +60414,25 @@ const states = [
 		"geonameid": "1267435"
 	},
 	{
-		"name": "Kātrās",
+		"name": "Katras",
 		"country": "India",
 		"subcountry": "Jharkhand",
 		"geonameid": "1267439"
 	},
 	{
-		"name": "Kātpādi",
+		"name": "Katpadi",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1267456"
 	},
 	{
-		"name": "Kātoya",
+		"name": "Katoya",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1267457"
 	},
 	{
-		"name": "Kātol",
+		"name": "Katol",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1267461"
@@ -60450,7 +60450,7 @@ const states = [
 		"geonameid": "1267486"
 	},
 	{
-		"name": "Kāthor",
+		"name": "Kathor",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1267492"
@@ -60474,7 +60474,7 @@ const states = [
 		"geonameid": "1267538"
 	},
 	{
-		"name": "Kasrāwad",
+		"name": "Kasrawad",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1267558"
@@ -60486,13 +60486,13 @@ const states = [
 		"geonameid": "1267579"
 	},
 	{
-		"name": "Kāsganj",
+		"name": "Kasganj",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1267588"
 	},
 	{
-		"name": "Kāsaragod",
+		"name": "Kasaragod",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1267616"
@@ -60510,37 +60510,37 @@ const states = [
 		"geonameid": "1267648"
 	},
 	{
-		"name": "Kartārpur",
+		"name": "Kartarpur",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1267669"
 	},
 	{
-		"name": "Kārsiyāng",
+		"name": "Karsiyang",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1267675"
 	},
 	{
-		"name": "Karol Bāgh",
+		"name": "Karol Bagh",
 		"country": "India",
 		"subcountry": "NCT",
 		"geonameid": "1267696"
 	},
 	{
-		"name": "Karnāl",
+		"name": "Karnal",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1267708"
 	},
 	{
-		"name": "Karmāla",
+		"name": "Karmala",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1267716"
 	},
 	{
-		"name": "Kārkala",
+		"name": "Karkala",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1267739"
@@ -60588,7 +60588,7 @@ const states = [
 		"geonameid": "1267819"
 	},
 	{
-		"name": "Kāranja",
+		"name": "Karanja",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1267853"
@@ -60600,37 +60600,37 @@ const states = [
 		"geonameid": "1267862"
 	},
 	{
-		"name": "Kāramadai",
+		"name": "Karamadai",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1267869"
 	},
 	{
-		"name": "Kāraikkudi",
+		"name": "Karaikkudi",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1267885"
 	},
 	{
-		"name": "Kāraikāl",
+		"name": "Karaikal",
 		"country": "India",
 		"subcountry": "Pondicherry",
 		"geonameid": "1267887"
 	},
 	{
-		"name": "Karād",
+		"name": "Karad",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1267904"
 	},
 	{
-		"name": "Kapūrthala",
+		"name": "Kapurthala",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1267911"
 	},
 	{
-		"name": "Kāpren",
+		"name": "Kapren",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1267923"
@@ -60642,19 +60642,19 @@ const states = [
 		"geonameid": "1267939"
 	},
 	{
-		"name": "Kānth",
+		"name": "Kanth",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1267972"
 	},
 	{
-		"name": "Kantābānji",
+		"name": "Kantabanji",
 		"country": "India",
 		"subcountry": "Odisha",
 		"geonameid": "1267978"
 	},
 	{
-		"name": "Kānt",
+		"name": "Kant",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1267979"
@@ -60672,7 +60672,7 @@ const states = [
 		"geonameid": "1268007"
 	},
 	{
-		"name": "Kanniyākumāri",
+		"name": "Kanniyakumari",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1268008"
@@ -60684,7 +60684,7 @@ const states = [
 		"geonameid": "1268011"
 	},
 	{
-		"name": "Kānnangād",
+		"name": "Kannangad",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1268015"
@@ -60696,13 +60696,13 @@ const states = [
 		"geonameid": "1268020"
 	},
 	{
-		"name": "Kānker",
+		"name": "Kanker",
 		"country": "India",
 		"subcountry": "Chhattisgarh",
 		"geonameid": "1268031"
 	},
 	{
-		"name": "Kānke",
+		"name": "Kanke",
 		"country": "India",
 		"subcountry": "Jharkhand",
 		"geonameid": "1268032"
@@ -60726,31 +60726,31 @@ const states = [
 		"geonameid": "1268095"
 	},
 	{
-		"name": "Kandukūr",
+		"name": "Kandukur",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1268111"
 	},
 	{
-		"name": "Kāndla",
+		"name": "Kandla",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1268124"
 	},
 	{
-		"name": "Kāndi",
+		"name": "Kandi",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1268135"
 	},
 	{
-		"name": "Kāndhla",
+		"name": "Kandhla",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1268138"
 	},
 	{
-		"name": "Kānchipuram",
+		"name": "Kanchipuram",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1268159"
@@ -60762,7 +60762,7 @@ const states = [
 		"geonameid": "1268189"
 	},
 	{
-		"name": "Kāmthi",
+		"name": "Kamthi",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1268205"
@@ -60780,19 +60780,19 @@ const states = [
 		"geonameid": "1268246"
 	},
 	{
-		"name": "Kāmārhāti",
+		"name": "Kamarhati",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1268257"
 	},
 	{
-		"name": "Kāmāreddi",
+		"name": "Kamareddi",
 		"country": "India",
 		"subcountry": "Telangana",
 		"geonameid": "1268259"
 	},
 	{
-		"name": "Kāman",
+		"name": "Kaman",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1268266"
@@ -60804,7 +60804,7 @@ const states = [
 		"geonameid": "1268276"
 	},
 	{
-		"name": "Kāmākhyānagar",
+		"name": "Kamakhyanagar",
 		"country": "India",
 		"subcountry": "Odisha",
 		"geonameid": "1268279"
@@ -60816,7 +60816,7 @@ const states = [
 		"geonameid": "1268293"
 	},
 	{
-		"name": "Kalyān",
+		"name": "Kalyan",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1268295"
@@ -60828,7 +60828,7 @@ const states = [
 		"geonameid": "1268310"
 	},
 	{
-		"name": "Kālpi",
+		"name": "Kalpi",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1268325"
@@ -60840,13 +60840,13 @@ const states = [
 		"geonameid": "1268327"
 	},
 	{
-		"name": "Kālol",
+		"name": "Kalol",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1268339"
 	},
 	{
-		"name": "Kālna",
+		"name": "Kalna",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1268341"
@@ -60870,19 +60870,19 @@ const states = [
 		"geonameid": "1268376"
 	},
 	{
-		"name": "Kālka",
+		"name": "Kalka",
 		"country": "India",
 		"subcountry": "Himachal Pradesh",
 		"geonameid": "1268381"
 	},
 	{
-		"name": "Kāliyāganj",
+		"name": "Kaliyaganj",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1268383"
 	},
 	{
-		"name": "Kālimpong",
+		"name": "Kalimpong",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1268403"
@@ -60894,25 +60894,25 @@ const states = [
 		"geonameid": "1268434"
 	},
 	{
-		"name": "Kālāvad",
+		"name": "Kalavad",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1268450"
 	},
 	{
-		"name": "Kālānwāli",
+		"name": "Kalanwali",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1268469"
 	},
 	{
-		"name": "Kalānaur",
+		"name": "Kalanaur",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1268476"
 	},
 	{
-		"name": "Kalamnūri",
+		"name": "Kalamnuri",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1268480"
@@ -60924,25 +60924,25 @@ const states = [
 		"geonameid": "1268484"
 	},
 	{
-		"name": "Kalakkādu",
+		"name": "Kalakkadu",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1268495"
 	},
 	{
-		"name": "Kakrāla",
+		"name": "Kakrala",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1268540"
 	},
 	{
-		"name": "Kākori",
+		"name": "Kakori",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1268545"
 	},
 	{
-		"name": "Kākināda",
+		"name": "Kakinada",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1268561"
@@ -60960,7 +60960,7 @@ const states = [
 		"geonameid": "1268593"
 	},
 	{
-		"name": "Kairāna",
+		"name": "Kairana",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1268601"
@@ -60978,31 +60978,31 @@ const states = [
 		"geonameid": "1268616"
 	},
 	{
-		"name": "Kailāshahar",
+		"name": "Kailashahar",
 		"country": "India",
 		"subcountry": "Tripura",
 		"geonameid": "1268622"
 	},
 	{
-		"name": "Kailāras",
+		"name": "Kailaras",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1268624"
 	},
 	{
-		"name": "Kaikalūr",
+		"name": "Kaikalur",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1268627"
 	},
 	{
-		"name": "Kāgal",
+		"name": "Kagal",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1268651"
 	},
 	{
-		"name": "Kadūr",
+		"name": "Kadur",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1268662"
@@ -61032,7 +61032,7 @@ const states = [
 		"geonameid": "1268707"
 	},
 	{
-		"name": "Kānchrāpāra",
+		"name": "Kanchrapara",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1268715"
@@ -61044,7 +61044,7 @@ const states = [
 		"geonameid": "1268722"
 	},
 	{
-		"name": "Kabrāi",
+		"name": "Kabrai",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1268739"
@@ -61056,19 +61056,19 @@ const states = [
 		"geonameid": "1268761"
 	},
 	{
-		"name": "Jūnāgarh",
+		"name": "Junagarh",
 		"country": "India",
 		"subcountry": "Chhattisgarh",
 		"geonameid": "1268772"
 	},
 	{
-		"name": "Jūnāgadh",
+		"name": "Junagadh",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1268773"
 	},
 	{
-		"name": "Jumri Tilaiyā",
+		"name": "Jumri Tilaiya",
 		"country": "India",
 		"subcountry": "Jharkhand",
 		"geonameid": "1268775"
@@ -61080,13 +61080,13 @@ const states = [
 		"geonameid": "1268782"
 	},
 	{
-		"name": "Jugsālai",
+		"name": "Jugsalai",
 		"country": "India",
 		"subcountry": "Jharkhand",
 		"geonameid": "1268799"
 	},
 	{
-		"name": "Jorhāt",
+		"name": "Jorhat",
 		"country": "India",
 		"subcountry": "Assam",
 		"geonameid": "1268820"
@@ -61098,7 +61098,7 @@ const states = [
 		"geonameid": "1268823"
 	},
 	{
-		"name": "Jolārpettai",
+		"name": "Jolarpettai",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1268834"
@@ -61128,7 +61128,7 @@ const states = [
 		"geonameid": "1268866"
 	},
 	{
-		"name": "Jintūr",
+		"name": "Jintur",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1268896"
@@ -61140,19 +61140,19 @@ const states = [
 		"geonameid": "1268907"
 	},
 	{
-		"name": "Jhūsi",
+		"name": "Jhusi",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1268929"
 	},
 	{
-		"name": "Jhunjhunūn",
+		"name": "Jhunjhunun",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1268936"
 	},
 	{
-		"name": "Jhinjhāna",
+		"name": "Jhinjhana",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1268961"
@@ -61164,7 +61164,7 @@ const states = [
 		"geonameid": "1268962"
 	},
 	{
-		"name": "Jhārsuguda",
+		"name": "Jharsuguda",
 		"country": "India",
 		"subcountry": "Odisha",
 		"geonameid": "1268977"
@@ -61176,31 +61176,31 @@ const states = [
 		"geonameid": "1268988"
 	},
 	{
-		"name": "Jhārgrām",
+		"name": "Jhargram",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1268990"
 	},
 	{
-		"name": "Jhānsi",
+		"name": "Jhansi",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1269006"
 	},
 	{
-		"name": "Jhanjhārpur",
+		"name": "Jhanjharpur",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1269012"
 	},
 	{
-		"name": "Jhālu",
+		"name": "Jhalu",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1269019"
 	},
 	{
-		"name": "Jhālrapātan",
+		"name": "Jhalrapatan",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1269020"
@@ -61212,7 +61212,7 @@ const states = [
 		"geonameid": "1269026"
 	},
 	{
-		"name": "Jhālāwār",
+		"name": "Jhalawar",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1269027"
@@ -61224,13 +61224,13 @@ const states = [
 		"geonameid": "1269042"
 	},
 	{
-		"name": "Jhā Jhā",
+		"name": "Jha Jha",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1269046"
 	},
 	{
-		"name": "Jhābua",
+		"name": "Jhabua",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1269053"
@@ -61278,7 +61278,7 @@ const states = [
 		"geonameid": "1269102"
 	},
 	{
-		"name": "Jāwad",
+		"name": "Jawad",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1269126"
@@ -61290,7 +61290,7 @@ const states = [
 		"geonameid": "1269135"
 	},
 	{
-		"name": "Jatāra",
+		"name": "Jatara",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1269153"
@@ -61338,19 +61338,19 @@ const states = [
 		"geonameid": "1269183"
 	},
 	{
-		"name": "Jaorā",
+		"name": "Jaora",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1269217"
 	},
 	{
-		"name": "Jānsath",
+		"name": "Jansath",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1269227"
 	},
 	{
-		"name": "Jānjgīr",
+		"name": "Janjgīr",
 		"country": "India",
 		"subcountry": "Chhattisgarh",
 		"geonameid": "1269239"
@@ -61368,25 +61368,25 @@ const states = [
 		"geonameid": "1269256"
 	},
 	{
-		"name": "Jandiāla",
+		"name": "Jandiala",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1269269"
 	},
 	{
-		"name": "Jāmuria",
+		"name": "Jamuria",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1269280"
 	},
 	{
-		"name": "Jamūī",
+		"name": "Jamuī",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1269291"
 	},
 	{
-		"name": "Jāmtāra",
+		"name": "Jamtara",
 		"country": "India",
 		"subcountry": "Jharkhand",
 		"geonameid": "1269298"
@@ -61398,7 +61398,7 @@ const states = [
 		"geonameid": "1269300"
 	},
 	{
-		"name": "Jāmnagar",
+		"name": "Jamnagar",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1269317"
@@ -61428,25 +61428,25 @@ const states = [
 		"geonameid": "1269350"
 	},
 	{
-		"name": "Jamālpur",
+		"name": "Jamalpur",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1269374"
 	},
 	{
-		"name": "Jāmai",
+		"name": "Jamai",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1269377"
 	},
 	{
-		"name": "Jāmadoba",
+		"name": "Jamadoba",
 		"country": "India",
 		"subcountry": "Jharkhand",
 		"geonameid": "1269379"
 	},
 	{
-		"name": "Jalpāiguri",
+		"name": "Jalpaiguri",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1269388"
@@ -61458,7 +61458,7 @@ const states = [
 		"geonameid": "1269392"
 	},
 	{
-		"name": "Jālna",
+		"name": "Jalna",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1269395"
@@ -61488,49 +61488,49 @@ const states = [
 		"geonameid": "1269415"
 	},
 	{
-		"name": "Jālaun",
+		"name": "Jalaun",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1269422"
 	},
 	{
-		"name": "Jalālpur",
+		"name": "Jalalpur",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1269435"
 	},
 	{
-		"name": "Jalālpur",
+		"name": "Jalalpur",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1269439"
 	},
 	{
-		"name": "Jalālī",
+		"name": "Jalalī",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1269441"
 	},
 	{
-		"name": "Jalālābād",
+		"name": "Jalalabad",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1269445"
 	},
 	{
-		"name": "Jalālābad",
+		"name": "Jalalabad",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1269446"
 	},
 	{
-		"name": "Jalālābād",
+		"name": "Jalalabad",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1269447"
 	},
 	{
-		"name": "Jājpur",
+		"name": "Jajpur",
 		"country": "India",
 		"subcountry": "Odisha",
 		"geonameid": "1269477"
@@ -61542,7 +61542,7 @@ const states = [
 		"geonameid": "1269488"
 	},
 	{
-		"name": "Jaitāran",
+		"name": "Jaitaran",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1269498"
@@ -61572,25 +61572,25 @@ const states = [
 		"geonameid": "1269515"
 	},
 	{
-		"name": "Jahāzpur",
+		"name": "Jahazpur",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1269545"
 	},
 	{
-		"name": "Jahāngīrābād",
+		"name": "Jahangīrabad",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1269551"
 	},
 	{
-		"name": "Jahānābād",
+		"name": "Jahanabad",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1269557"
 	},
 	{
-		"name": "Jagtiāl",
+		"name": "Jagtial",
 		"country": "India",
 		"subcountry": "Telangana",
 		"geonameid": "1269562"
@@ -61632,13 +61632,13 @@ const states = [
 		"geonameid": "1269581"
 	},
 	{
-		"name": "Jagalūr",
+		"name": "Jagalur",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1269602"
 	},
 	{
-		"name": "Jagādhri",
+		"name": "Jagadhri",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1269605"
@@ -61650,49 +61650,49 @@ const states = [
 		"geonameid": "1269633"
 	},
 	{
-		"name": "Itimādpur",
+		"name": "Itimadpur",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1269646"
 	},
 	{
-		"name": "Itārsi",
+		"name": "Itarsi",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1269653"
 	},
 	{
-		"name": "Itānagar",
+		"name": "Itanagar",
 		"country": "India",
 		"subcountry": "Arunachal Pradesh",
 		"geonameid": "1269655"
 	},
 	{
-		"name": "Islāmpur",
+		"name": "Islampur",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1269665"
 	},
 	{
-		"name": "Islāmpur",
+		"name": "Islampur",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1269666"
 	},
 	{
-		"name": "Islāmnagar",
+		"name": "Islamnagar",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1269670"
 	},
 	{
-		"name": "Irugūr",
+		"name": "Irugur",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1269690"
 	},
 	{
-		"name": "Irinjālakuda",
+		"name": "Irinjalakuda",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1269693"
@@ -61704,7 +61704,7 @@ const states = [
 		"geonameid": "1269694"
 	},
 	{
-		"name": "Ingrāj Bāzār",
+		"name": "Ingraj Bazar",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1269723"
@@ -61734,7 +61734,7 @@ const states = [
 		"geonameid": "1269752"
 	},
 	{
-		"name": "Indāpur",
+		"name": "Indapur",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1269761"
@@ -61764,7 +61764,7 @@ const states = [
 		"geonameid": "1269819"
 	},
 	{
-		"name": "Ichchāpuram",
+		"name": "Ichchapuram",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1269827"
@@ -61788,13 +61788,13 @@ const states = [
 		"geonameid": "1269849"
 	},
 	{
-		"name": "Husainābād",
+		"name": "Husainabad",
 		"country": "India",
 		"subcountry": "Jharkhand",
 		"geonameid": "1269862"
 	},
 	{
-		"name": "Hunsūr",
+		"name": "Hunsur",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1269873"
@@ -61830,7 +61830,7 @@ const states = [
 		"geonameid": "1269927"
 	},
 	{
-		"name": "Hosūr",
+		"name": "Hosur",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1269934"
@@ -61848,7 +61848,7 @@ const states = [
 		"geonameid": "1269936"
 	},
 	{
-		"name": "Hoshangābād",
+		"name": "Hoshangabad",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1269939"
@@ -61860,19 +61860,19 @@ const states = [
 		"geonameid": "1269943"
 	},
 	{
-		"name": "Honnāli",
+		"name": "Honnali",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1269970"
 	},
 	{
-		"name": "Honāvar",
+		"name": "Honavar",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1269976"
 	},
 	{
-		"name": "Homnābād",
+		"name": "Homnabad",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1269979"
@@ -61890,7 +61890,7 @@ const states = [
 		"geonameid": "1269990"
 	},
 	{
-		"name": "Hojāi",
+		"name": "Hojai",
 		"country": "India",
 		"subcountry": "Assam",
 		"geonameid": "1269993"
@@ -61902,7 +61902,7 @@ const states = [
 		"geonameid": "1270000"
 	},
 	{
-		"name": "Hisuā",
+		"name": "Hisua",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1270021"
@@ -61914,19 +61914,19 @@ const states = [
 		"geonameid": "1270022"
 	},
 	{
-		"name": "Hiriyūr",
+		"name": "Hiriyur",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1270032"
 	},
 	{
-		"name": "Hirekerūr",
+		"name": "Hirekerur",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1270036"
 	},
 	{
-		"name": "Hīrākud",
+		"name": "Hīrakud",
 		"country": "India",
 		"subcountry": "Odisha",
 		"geonameid": "1270059"
@@ -61944,7 +61944,7 @@ const states = [
 		"geonameid": "1270072"
 	},
 	{
-		"name": "Hinganghāt",
+		"name": "Hinganghat",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1270077"
@@ -61980,13 +61980,13 @@ const states = [
 		"geonameid": "1270102"
 	},
 	{
-		"name": "Hazārībāg",
+		"name": "Hazarībag",
 		"country": "India",
 		"subcountry": "Jharkhand",
 		"geonameid": "1270164"
 	},
 	{
-		"name": "Hāveri",
+		"name": "Haveri",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1270171"
@@ -61998,13 +61998,13 @@ const states = [
 		"geonameid": "1270185"
 	},
 	{
-		"name": "Hāthras",
+		"name": "Hathras",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1270216"
 	},
 	{
-		"name": "Hastināpur",
+		"name": "Hastinapur",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1270237"
@@ -62016,7 +62016,7 @@ const states = [
 		"geonameid": "1270239"
 	},
 	{
-		"name": "Hāsimāra",
+		"name": "Hasimara",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1270245"
@@ -62028,13 +62028,13 @@ const states = [
 		"geonameid": "1270251"
 	},
 	{
-		"name": "Harūr",
+		"name": "Harur",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1270265"
 	},
 	{
-		"name": "Harsūd",
+		"name": "Harsud",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1270271"
@@ -62046,13 +62046,13 @@ const states = [
 		"geonameid": "1270287"
 	},
 	{
-		"name": "Harpālpur",
+		"name": "Harpalpur",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1270291"
 	},
 	{
-		"name": "Hārij",
+		"name": "Harij",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1270343"
@@ -62076,43 +62076,43 @@ const states = [
 		"geonameid": "1270370"
 	},
 	{
-		"name": "Harda Khās",
+		"name": "Harda Khas",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1270375"
 	},
 	{
-		"name": "Hāpur",
+		"name": "Hapur",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1270393"
 	},
 	{
-		"name": "Hāora",
+		"name": "Haora",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1270396"
 	},
 	{
-		"name": "Hanumāngarh",
+		"name": "Hanumangarh",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1270407"
 	},
 	{
-		"name": "Hānsi",
+		"name": "Hansi",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1270417"
 	},
 	{
-		"name": "Hāngal",
+		"name": "Hangal",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1270435"
 	},
 	{
-		"name": "Handiā",
+		"name": "Handia",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1270437"
@@ -62136,7 +62136,7 @@ const states = [
 		"geonameid": "1270466"
 	},
 	{
-		"name": "Hālol",
+		"name": "Halol",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1270474"
@@ -62148,7 +62148,7 @@ const states = [
 		"geonameid": "1270482"
 	},
 	{
-		"name": "Hālīsahar",
+		"name": "Halīsahar",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1270484"
@@ -62166,37 +62166,37 @@ const states = [
 		"geonameid": "1270509"
 	},
 	{
-		"name": "Hājo",
+		"name": "Hajo",
 		"country": "India",
 		"subcountry": "Assam",
 		"geonameid": "1270522"
 	},
 	{
-		"name": "Hājīpur",
+		"name": "Hajīpur",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1270525"
 	},
 	{
-		"name": "Hailākāndi",
+		"name": "Hailakandi",
 		"country": "India",
 		"subcountry": "Assam",
 		"geonameid": "1270530"
 	},
 	{
-		"name": "Hāflong",
+		"name": "Haflong",
 		"country": "India",
 		"subcountry": "Assam",
 		"geonameid": "1270543"
 	},
 	{
-		"name": "Hadgāon",
+		"name": "Hadgaon",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1270554"
 	},
 	{
-		"name": "Hābra",
+		"name": "Habra",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1270568"
@@ -62214,31 +62214,31 @@ const states = [
 		"geonameid": "1270598"
 	},
 	{
-		"name": "Guruvāyūr",
+		"name": "Guruvayur",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1270603"
 	},
 	{
-		"name": "Guru Har Sahāi",
+		"name": "Guru Har Sahai",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1270612"
 	},
 	{
-		"name": "Gursarāi",
+		"name": "Gursarai",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1270618"
 	},
 	{
-		"name": "Gursahāiganj",
+		"name": "Gursahaiganj",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1270619"
 	},
 	{
-		"name": "Gurmatkāl",
+		"name": "Gurmatkal",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1270627"
@@ -62256,7 +62256,7 @@ const states = [
 		"geonameid": "1270667"
 	},
 	{
-		"name": "Guntūr",
+		"name": "Guntur",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1270668"
@@ -62316,25 +62316,25 @@ const states = [
 		"geonameid": "1270752"
 	},
 	{
-		"name": "Gulāothi",
+		"name": "Gulaothi",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1270759"
 	},
 	{
-		"name": "Gulābpura",
+		"name": "Gulabpura",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1270763"
 	},
 	{
-		"name": "Gūduvāncheri",
+		"name": "Guduvancheri",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1270787"
 	},
 	{
-		"name": "Gūdūr",
+		"name": "Gudur",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1270791"
@@ -62346,7 +62346,7 @@ const states = [
 		"geonameid": "1270800"
 	},
 	{
-		"name": "Gudivāda",
+		"name": "Gudivada",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1270801"
@@ -62364,7 +62364,7 @@ const states = [
 		"geonameid": "1270824"
 	},
 	{
-		"name": "Goyerkāta",
+		"name": "Goyerkata",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1270845"
@@ -62376,7 +62376,7 @@ const states = [
 		"geonameid": "1270863"
 	},
 	{
-		"name": "Gosāba",
+		"name": "Gosaba",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1270896"
@@ -62400,13 +62400,13 @@ const states = [
 		"geonameid": "1270947"
 	},
 	{
-		"name": "Gopālganj",
+		"name": "Gopalganj",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1270965"
 	},
 	{
-		"name": "Gondiā",
+		"name": "Gondia",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1270990"
@@ -62418,7 +62418,7 @@ const states = [
 		"geonameid": "1270994"
 	},
 	{
-		"name": "Gondā City",
+		"name": "Gonda City",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1270996"
@@ -62430,13 +62430,13 @@ const states = [
 		"geonameid": "1271005"
 	},
 	{
-		"name": "Gola Gokarannāth",
+		"name": "Gola Gokarannath",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1271049"
 	},
 	{
-		"name": "Golāghāt",
+		"name": "Golaghat",
 		"country": "India",
 		"subcountry": "Assam",
 		"geonameid": "1271050"
@@ -62454,7 +62454,7 @@ const states = [
 		"geonameid": "1271067"
 	},
 	{
-		"name": "Gohāna",
+		"name": "Gohana",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1271079"
@@ -62484,13 +62484,13 @@ const states = [
 		"geonameid": "1271131"
 	},
 	{
-		"name": "Gobārdānga",
+		"name": "Gobardanga",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1271142"
 	},
 	{
-		"name": "Goālpāra",
+		"name": "Goalpara",
 		"country": "India",
 		"subcountry": "Assam",
 		"geonameid": "1271151"
@@ -62508,13 +62508,13 @@ const states = [
 		"geonameid": "1271199"
 	},
 	{
-		"name": "Giddarbāha",
+		"name": "Giddarbaha",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1271212"
 	},
 	{
-		"name": "Giddalūr",
+		"name": "Giddalur",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1271213"
@@ -62544,31 +62544,31 @@ const states = [
 		"geonameid": "1271306"
 	},
 	{
-		"name": "Ghāziābād",
+		"name": "Ghaziabad",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1271308"
 	},
 	{
-		"name": "Ghātsīla",
+		"name": "Ghatsīla",
 		"country": "India",
 		"subcountry": "Jharkhand",
 		"geonameid": "1271319"
 	},
 	{
-		"name": "Ghātanji",
+		"name": "Ghatanji",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1271343"
 	},
 	{
-		"name": "Ghātampur",
+		"name": "Ghatampur",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1271345"
 	},
 	{
-		"name": "Ghātāl",
+		"name": "Ghatal",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1271346"
@@ -62598,7 +62598,7 @@ const states = [
 		"geonameid": "1271453"
 	},
 	{
-		"name": "Goribidnūr",
+		"name": "Goribidnur",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1271459"
@@ -62640,7 +62640,7 @@ const states = [
 		"geonameid": "1271543"
 	},
 	{
-		"name": "Garhākota",
+		"name": "Garhakota",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1271563"
@@ -62670,43 +62670,43 @@ const states = [
 		"geonameid": "1271644"
 	},
 	{
-		"name": "Gangāwati",
+		"name": "Gangawati",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1271662"
 	},
 	{
-		"name": "Gangārāmpur",
+		"name": "Gangarampur",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1271670"
 	},
 	{
-		"name": "Gangāpur",
+		"name": "Gangapur",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1271675"
 	},
 	{
-		"name": "Gangāpur",
+		"name": "Gangapur",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1271676"
 	},
 	{
-		"name": "Gangāpur",
+		"name": "Gangapur",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1271680"
 	},
 	{
-		"name": "Gangānagar",
+		"name": "Ganganagar",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1271685"
 	},
 	{
-		"name": "Gangākher",
+		"name": "Gangakher",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1271688"
@@ -62718,7 +62718,7 @@ const states = [
 		"geonameid": "1271715"
 	},
 	{
-		"name": "Gāndhīdhām",
+		"name": "Gandhīdham",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1271717"
@@ -62730,7 +62730,7 @@ const states = [
 		"geonameid": "1271722"
 	},
 	{
-		"name": "Gāndarbal",
+		"name": "Gandarbal",
 		"country": "India",
 		"subcountry": "Kashmir",
 		"geonameid": "1271729"
@@ -62748,7 +62748,7 @@ const states = [
 		"geonameid": "1271789"
 	},
 	{
-		"name": "Gadwāl",
+		"name": "Gadwal",
 		"country": "India",
 		"subcountry": "Telangana",
 		"geonameid": "1271819"
@@ -62766,7 +62766,7 @@ const states = [
 		"geonameid": "1271839"
 	},
 	{
-		"name": "Gādarwāra",
+		"name": "Gadarwara",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1271847"
@@ -62802,7 +62802,7 @@ const states = [
 		"geonameid": "1271883"
 	},
 	{
-		"name": "Fīrozābād",
+		"name": "Fīrozabad",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1271885"
@@ -62814,7 +62814,7 @@ const states = [
 		"geonameid": "1271888"
 	},
 	{
-		"name": "Fāzilka",
+		"name": "Fazilka",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1271891"
@@ -62850,7 +62850,7 @@ const states = [
 		"geonameid": "1271912"
 	},
 	{
-		"name": "Fatehgarh Chūriān",
+		"name": "Fatehgarh Churian",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1271923"
@@ -62862,13 +62862,13 @@ const states = [
 		"geonameid": "1271929"
 	},
 	{
-		"name": "Fatehābād",
+		"name": "Fatehabad",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1271934"
 	},
 	{
-		"name": "Fatehābād",
+		"name": "Fatehabad",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1271936"
@@ -62880,7 +62880,7 @@ const states = [
 		"geonameid": "1271940"
 	},
 	{
-		"name": "Farrukhābād",
+		"name": "Farrukhabad",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1271942"
@@ -62898,7 +62898,7 @@ const states = [
 		"geonameid": "1271949"
 	},
 	{
-		"name": "Farīdābād",
+		"name": "Farīdabad",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1271951"
@@ -62910,7 +62910,7 @@ const states = [
 		"geonameid": "1271954"
 	},
 	{
-		"name": "Fālākāta",
+		"name": "Falakata",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1271965"
@@ -62922,13 +62922,13 @@ const states = [
 		"geonameid": "1271975"
 	},
 	{
-		"name": "Fyzābād",
+		"name": "Fyzabad",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1271976"
 	},
 	{
-		"name": "Etāwah",
+		"name": "Etawah",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1271987"
@@ -62946,7 +62946,7 @@ const states = [
 		"geonameid": "1272013"
 	},
 	{
-		"name": "Erāttupetta",
+		"name": "Erattupetta",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1272022"
@@ -62958,7 +62958,7 @@ const states = [
 		"geonameid": "1272025"
 	},
 	{
-		"name": "Emmiganūr",
+		"name": "Emmiganur",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1272045"
@@ -62970,7 +62970,7 @@ const states = [
 		"geonameid": "1272051"
 	},
 	{
-		"name": "Elūr",
+		"name": "Elur",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1272052"
@@ -62994,7 +62994,7 @@ const states = [
 		"geonameid": "1272101"
 	},
 	{
-		"name": "Dwārka",
+		"name": "Dwarka",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1272140"
@@ -63006,7 +63006,7 @@ const states = [
 		"geonameid": "1272175"
 	},
 	{
-		"name": "Durgāpur",
+		"name": "Durgapur",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1272177"
@@ -63018,13 +63018,13 @@ const states = [
 		"geonameid": "1272181"
 	},
 	{
-		"name": "Dūngarpur",
+		"name": "Dungarpur",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1272201"
 	},
 	{
-		"name": "Ganj Dundwāra",
+		"name": "Ganj Dundwara",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1272207"
@@ -63060,7 +63060,7 @@ const states = [
 		"geonameid": "1272243"
 	},
 	{
-		"name": "Duliāgaon",
+		"name": "Duliagaon",
 		"country": "India",
 		"subcountry": "Assam",
 		"geonameid": "1272259"
@@ -63072,7 +63072,7 @@ const states = [
 		"geonameid": "1272277"
 	},
 	{
-		"name": "Dubrājpur",
+		"name": "Dubrajpur",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1272320"
@@ -63084,7 +63084,7 @@ const states = [
 		"geonameid": "1272367"
 	},
 	{
-		"name": "Dorāha",
+		"name": "Doraha",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1272375"
@@ -63108,7 +63108,7 @@ const states = [
 		"geonameid": "1272423"
 	},
 	{
-		"name": "Dod Ballāpur",
+		"name": "Dod Ballapur",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1272473"
@@ -63138,7 +63138,7 @@ const states = [
 		"geonameid": "1272525"
 	},
 	{
-		"name": "Dīnhāta",
+		"name": "Dīnhata",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1272532"
@@ -63156,13 +63156,13 @@ const states = [
 		"geonameid": "1272543"
 	},
 	{
-		"name": "Dīnānagar",
+		"name": "Dīnanagar",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1272546"
 	},
 	{
-		"name": "Dimāpur",
+		"name": "Dimapur",
 		"country": "India",
 		"subcountry": "Nagaland",
 		"geonameid": "1272552"
@@ -63174,13 +63174,13 @@ const states = [
 		"geonameid": "1272596"
 	},
 	{
-		"name": "Dīglūr",
+		"name": "Dīglur",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1272606"
 	},
 	{
-		"name": "Dighwāra",
+		"name": "Dighwara",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1272610"
@@ -63198,7 +63198,7 @@ const states = [
 		"geonameid": "1272639"
 	},
 	{
-		"name": "Dīdwāna",
+		"name": "Dīdwana",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1272640"
@@ -63228,25 +63228,25 @@ const states = [
 		"geonameid": "1272657"
 	},
 	{
-		"name": "Dhūri",
+		"name": "Dhuri",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1272670"
 	},
 	{
-		"name": "Dhupgāri",
+		"name": "Dhupgari",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1272674"
 	},
 	{
-		"name": "Dhuliān",
+		"name": "Dhulian",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1272689"
 	},
 	{
-		"name": "Dhūlia",
+		"name": "Dhulia",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1272691"
@@ -63264,13 +63264,13 @@ const states = [
 		"geonameid": "1272699"
 	},
 	{
-		"name": "Dhrāngadhra",
+		"name": "Dhrangadhra",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1272701"
 	},
 	{
-		"name": "Dhorāji",
+		"name": "Dhoraji",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1272720"
@@ -63294,7 +63294,7 @@ const states = [
 		"geonameid": "1272768"
 	},
 	{
-		"name": "Dhenkānāl",
+		"name": "Dhenkanal",
 		"country": "India",
 		"subcountry": "Odisha",
 		"geonameid": "1272780"
@@ -63318,19 +63318,19 @@ const states = [
 		"geonameid": "1272805"
 	},
 	{
-		"name": "Dhārūr",
+		"name": "Dharur",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1272819"
 	},
 	{
-		"name": "Dhāruhera",
+		"name": "Dharuhera",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1272822"
 	},
 	{
-		"name": "Dharmsāla",
+		"name": "Dharmsala",
 		"country": "India",
 		"subcountry": "Himachal Pradesh",
 		"geonameid": "1272832"
@@ -63360,19 +63360,19 @@ const states = [
 		"geonameid": "1272856"
 	},
 	{
-		"name": "Dharmābād",
+		"name": "Dharmabad",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1272857"
 	},
 	{
-		"name": "Dhāriwāl",
+		"name": "Dhariwal",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1272860"
 	},
 	{
-		"name": "Dhāri",
+		"name": "Dhari",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1272861"
@@ -63396,7 +63396,7 @@ const states = [
 		"geonameid": "1272881"
 	},
 	{
-		"name": "Dhār",
+		"name": "Dhar",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1272892"
@@ -63414,7 +63414,7 @@ const states = [
 		"geonameid": "1272970"
 	},
 	{
-		"name": "Dhanbād",
+		"name": "Dhanbad",
 		"country": "India",
 		"subcountry": "Jharkhand",
 		"geonameid": "1272979"
@@ -63438,19 +63438,19 @@ const states = [
 		"geonameid": "1272997"
 	},
 	{
-		"name": "Dhāmpur",
+		"name": "Dhampur",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1273002"
 	},
 	{
-		"name": "Dhāmnod",
+		"name": "Dhamnod",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1273006"
 	},
 	{
-		"name": "Dhāka",
+		"name": "Dhaka",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1273043"
@@ -63474,7 +63474,7 @@ const states = [
 		"geonameid": "1273098"
 	},
 	{
-		"name": "Devgadh Bāriya",
+		"name": "Devgadh Bariya",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1273104"
@@ -63498,7 +63498,7 @@ const states = [
 		"geonameid": "1273128"
 	},
 	{
-		"name": "Deūlgaon Rāja",
+		"name": "Deulgaon Raja",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1273136"
@@ -63510,13 +63510,13 @@ const states = [
 		"geonameid": "1273153"
 	},
 	{
-		"name": "Depālpur",
+		"name": "Depalpur",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1273181"
 	},
 	{
-		"name": "Deori Khās",
+		"name": "Deori Khas",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1273191"
@@ -63528,7 +63528,7 @@ const states = [
 		"geonameid": "1273193"
 	},
 	{
-		"name": "Deoraniān",
+		"name": "Deoranian",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1273206"
@@ -63540,7 +63540,7 @@ const states = [
 		"geonameid": "1273228"
 	},
 	{
-		"name": "Deolāli",
+		"name": "Deolali",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1273232"
@@ -63576,7 +63576,7 @@ const states = [
 		"geonameid": "1273309"
 	},
 	{
-		"name": "Dehra Dūn",
+		"name": "Dehra Dun",
 		"country": "India",
 		"subcountry": "Uttarakhand",
 		"geonameid": "1273313"
@@ -63600,7 +63600,7 @@ const states = [
 		"geonameid": "1273390"
 	},
 	{
-		"name": "Dattāpur",
+		"name": "Dattapur",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1273397"
@@ -63612,37 +63612,37 @@ const states = [
 		"geonameid": "1273403"
 	},
 	{
-		"name": "Dātāganj",
+		"name": "Dataganj",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1273409"
 	},
 	{
-		"name": "Dasūya",
+		"name": "Dasuya",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1273410"
 	},
 	{
-		"name": "Dāsna",
+		"name": "Dasna",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1273416"
 	},
 	{
-		"name": "Daryāpur",
+		"name": "Daryapur",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1273434"
 	},
 	{
-		"name": "Dārwha",
+		"name": "Darwha",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1273440"
 	},
 	{
-		"name": "Dārjiling",
+		"name": "Darjiling",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1273467"
@@ -63672,7 +63672,7 @@ const states = [
 		"geonameid": "1273587"
 	},
 	{
-		"name": "Dāmnagar",
+		"name": "Damnagar",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1273593"
@@ -63702,7 +63702,7 @@ const states = [
 		"geonameid": "1273642"
 	},
 	{
-		"name": "Dākor",
+		"name": "Dakor",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1273665"
@@ -63714,25 +63714,25 @@ const states = [
 		"geonameid": "1273687"
 	},
 	{
-		"name": "Dahegām",
+		"name": "Dahegam",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1273704"
 	},
 	{
-		"name": "Dāhānu",
+		"name": "Dahanu",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1273708"
 	},
 	{
-		"name": "Dādri",
+		"name": "Dadri",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1273724"
 	},
 	{
-		"name": "Dabwāli",
+		"name": "Dabwali",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1273745"
@@ -63834,19 +63834,19 @@ const states = [
 		"geonameid": "1273880"
 	},
 	{
-		"name": "Chūru",
+		"name": "Churu",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1273892"
 	},
 	{
-		"name": "Churāchāndpur",
+		"name": "Churachandpur",
 		"country": "India",
 		"subcountry": "Manipur",
 		"geonameid": "1273909"
 	},
 	{
-		"name": "Chunār",
+		"name": "Chunar",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1273923"
@@ -63876,7 +63876,7 @@ const states = [
 		"geonameid": "1274021"
 	},
 	{
-		"name": "Chittūr",
+		"name": "Chittur",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1274032"
@@ -63900,7 +63900,7 @@ const states = [
 		"geonameid": "1274056"
 	},
 	{
-		"name": "Chītāpur",
+		"name": "Chītapur",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1274077"
@@ -63912,7 +63912,7 @@ const states = [
 		"geonameid": "1274102"
 	},
 	{
-		"name": "Chīrāla",
+		"name": "Chīrala",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1274106"
@@ -63924,13 +63924,13 @@ const states = [
 		"geonameid": "1274116"
 	},
 	{
-		"name": "Chiplūn",
+		"name": "Chiplun",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1274119"
 	},
 	{
-		"name": "Chintāmani",
+		"name": "Chintamani",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1274129"
@@ -63942,7 +63942,7 @@ const states = [
 		"geonameid": "1274146"
 	},
 	{
-		"name": "Chinnamanūr",
+		"name": "Chinnamanur",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1274151"
@@ -63954,13 +63954,13 @@ const states = [
 		"geonameid": "1274169"
 	},
 	{
-		"name": "Chillupār",
+		"name": "Chillupar",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1274195"
 	},
 	{
-		"name": "Chilakalūrupet",
+		"name": "Chilakalurupet",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1274213"
@@ -63972,13 +63972,13 @@ const states = [
 		"geonameid": "1274218"
 	},
 	{
-		"name": "Chiknāyakanhalli",
+		"name": "Chiknayakanhalli",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1274219"
 	},
 	{
-		"name": "Chikmagalūr",
+		"name": "Chikmagalur",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1274220"
@@ -63990,7 +63990,7 @@ const states = [
 		"geonameid": "1274237"
 	},
 	{
-		"name": "Chik Ballāpur",
+		"name": "Chik Ballapur",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1274243"
@@ -64008,7 +64008,7 @@ const states = [
 		"geonameid": "1274265"
 	},
 	{
-		"name": "Chhoti Sādri",
+		"name": "Chhoti Sadri",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1274284"
@@ -64020,13 +64020,13 @@ const states = [
 		"geonameid": "1274285"
 	},
 	{
-		"name": "Chhindwāra",
+		"name": "Chhindwara",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1274304"
 	},
 	{
-		"name": "Chhibrāmau",
+		"name": "Chhibramau",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1274315"
@@ -64038,13 +64038,13 @@ const states = [
 		"geonameid": "1274337"
 	},
 	{
-		"name": "Chhātāpur",
+		"name": "Chhatapur",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1274342"
 	},
 	{
-		"name": "Chhāta",
+		"name": "Chhata",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1274343"
@@ -64062,13 +64062,13 @@ const states = [
 		"geonameid": "1274351"
 	},
 	{
-		"name": "Chāpra",
+		"name": "Chapra",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1274353"
 	},
 	{
-		"name": "Chhāpar",
+		"name": "Chhapar",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1274359"
@@ -64086,7 +64086,7 @@ const states = [
 		"geonameid": "1274381"
 	},
 	{
-		"name": "Chettipālaiyam",
+		"name": "Chettipalaiyam",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1274389"
@@ -64104,7 +64104,7 @@ const states = [
 		"geonameid": "1274422"
 	},
 	{
-		"name": "Chengannūr",
+		"name": "Chengannur",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1274428"
@@ -64122,7 +64122,7 @@ const states = [
 		"geonameid": "1274430"
 	},
 	{
-		"name": "Chāvakkād",
+		"name": "Chavakkad",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1274468"
@@ -64146,37 +64146,37 @@ const states = [
 		"geonameid": "1274536"
 	},
 	{
-		"name": "Chās",
+		"name": "Chas",
 		"country": "India",
 		"subcountry": "Jharkhand",
 		"geonameid": "1274553"
 	},
 	{
-		"name": "Charthāwal",
+		"name": "Charthawal",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1274560"
 	},
 	{
-		"name": "Charkhi Dādri",
+		"name": "Charkhi Dadri",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1274571"
 	},
 	{
-		"name": "Charkhāri",
+		"name": "Charkhari",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1274574"
 	},
 	{
-		"name": "Chāpar",
+		"name": "Chapar",
 		"country": "India",
 		"subcountry": "Assam",
 		"geonameid": "1274618"
 	},
 	{
-		"name": "Channarāyapatna",
+		"name": "Channarayapatna",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1274640"
@@ -64194,37 +64194,37 @@ const states = [
 		"geonameid": "1274642"
 	},
 	{
-		"name": "Changanācheri",
+		"name": "Changanacheri",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1274664"
 	},
 	{
-		"name": "Chāndor",
+		"name": "Chandor",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1274673"
 	},
 	{
-		"name": "Chāndūr Bāzār",
+		"name": "Chandur Bazar",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1274674"
 	},
 	{
-		"name": "Chāndūr",
+		"name": "Chandur",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1274675"
 	},
 	{
-		"name": "Chāndur",
+		"name": "Chandur",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1274676"
 	},
 	{
-		"name": "Chānda",
+		"name": "Chanda",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1274693"
@@ -64236,7 +64236,7 @@ const states = [
 		"geonameid": "1274699"
 	},
 	{
-		"name": "Chāndpur",
+		"name": "Chandpur",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1274714"
@@ -64272,7 +64272,7 @@ const states = [
 		"geonameid": "1274784"
 	},
 	{
-		"name": "Chānasma",
+		"name": "Chanasma",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1274807"
@@ -64284,7 +64284,7 @@ const states = [
 		"geonameid": "1274821"
 	},
 	{
-		"name": "Chāmpa",
+		"name": "Champa",
 		"country": "India",
 		"subcountry": "Chhattisgarh",
 		"geonameid": "1274837"
@@ -64308,13 +64308,13 @@ const states = [
 		"geonameid": "1274862"
 	},
 	{
-		"name": "Chālisgaon",
+		"name": "Chalisgaon",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1274868"
 	},
 	{
-		"name": "Chalāla",
+		"name": "Chalala",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1274874"
@@ -64326,25 +64326,25 @@ const states = [
 		"geonameid": "1274890"
 	},
 	{
-		"name": "Chaklāsi",
+		"name": "Chaklasi",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1274896"
 	},
 	{
-		"name": "Chākia",
+		"name": "Chakia",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1274899"
 	},
 	{
-		"name": "Chākan",
+		"name": "Chakan",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1274914"
 	},
 	{
-		"name": "Chāībāsa",
+		"name": "Chaībasa",
 		"country": "India",
 		"subcountry": "Jharkhand",
 		"geonameid": "1274928"
@@ -64368,7 +64368,7 @@ const states = [
 		"geonameid": "1275004"
 	},
 	{
-		"name": "Byādgi",
+		"name": "Byadgi",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1275016"
@@ -64392,25 +64392,25 @@ const states = [
 		"geonameid": "1275066"
 	},
 	{
-		"name": "Burhānpur",
+		"name": "Burhanpur",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1275068"
 	},
 	{
-		"name": "Būndu",
+		"name": "Bundu",
 		"country": "India",
 		"subcountry": "Jharkhand",
 		"geonameid": "1275097"
 	},
 	{
-		"name": "Būndi",
+		"name": "Bundi",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1275103"
 	},
 	{
-		"name": "Buldāna",
+		"name": "Buldana",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1275117"
@@ -64422,13 +64422,13 @@ const states = [
 		"geonameid": "1275120"
 	},
 	{
-		"name": "Budhlāda",
+		"name": "Budhlada",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1275147"
 	},
 	{
-		"name": "Budhāna",
+		"name": "Budhana",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1275152"
@@ -64440,7 +64440,7 @@ const states = [
 		"geonameid": "1275163"
 	},
 	{
-		"name": "Brājarājnagar",
+		"name": "Brajarajnagar",
 		"country": "India",
 		"subcountry": "Odisha",
 		"geonameid": "1275194"
@@ -64452,7 +64452,7 @@ const states = [
 		"geonameid": "1275198"
 	},
 	{
-		"name": "Botād",
+		"name": "Botad",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1275218"
@@ -64488,13 +64488,13 @@ const states = [
 		"geonameid": "1275346"
 	},
 	{
-		"name": "Bokāro",
+		"name": "Bokaro",
 		"country": "India",
 		"subcountry": "Jharkhand",
 		"geonameid": "1275362"
 	},
 	{
-		"name": "Bokajān",
+		"name": "Bokajan",
 		"country": "India",
 		"subcountry": "Assam",
 		"geonameid": "1275364"
@@ -64506,7 +64506,7 @@ const states = [
 		"geonameid": "1275368"
 	},
 	{
-		"name": "Bodināyakkanūr",
+		"name": "Bodinayakkanur",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1275388"
@@ -64530,13 +64530,13 @@ const states = [
 		"geonameid": "1275406"
 	},
 	{
-		"name": "Biswān",
+		"name": "Biswan",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1275435"
 	},
 	{
-		"name": "Bissāu",
+		"name": "Bissau",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1275441"
@@ -64560,7 +64560,7 @@ const states = [
 		"geonameid": "1275481"
 	},
 	{
-		"name": "Birūr",
+		"name": "Birur",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1275488"
@@ -64590,7 +64590,7 @@ const states = [
 		"geonameid": "1275572"
 	},
 	{
-		"name": "Etāwa",
+		"name": "Etawa",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1275582"
@@ -64626,7 +64626,7 @@ const states = [
 		"geonameid": "1275614"
 	},
 	{
-		"name": "Bilgrām",
+		"name": "Bilgram",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1275618"
@@ -64638,31 +64638,31 @@ const states = [
 		"geonameid": "1275619"
 	},
 	{
-		"name": "Bīlāspur",
+		"name": "Bīlaspur",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1275634"
 	},
 	{
-		"name": "Bilāspur",
+		"name": "Bilaspur",
 		"country": "India",
 		"subcountry": "Chhattisgarh",
 		"geonameid": "1275637"
 	},
 	{
-		"name": "Bilāsipāra",
+		"name": "Bilasipara",
 		"country": "India",
 		"subcountry": "Assam",
 		"geonameid": "1275641"
 	},
 	{
-		"name": "Bilāri",
+		"name": "Bilari",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1275646"
 	},
 	{
-		"name": "Bilāra",
+		"name": "Bilara",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1275647"
@@ -64686,13 +64686,13 @@ const states = [
 		"geonameid": "1275679"
 	},
 	{
-		"name": "Bijbiāra",
+		"name": "Bijbiara",
 		"country": "India",
 		"subcountry": "Kashmir",
 		"geonameid": "1275692"
 	},
 	{
-		"name": "Bijāwar",
+		"name": "Bijawar",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1275694"
@@ -64704,19 +64704,19 @@ const states = [
 		"geonameid": "1275701"
 	},
 	{
-		"name": "Bihār",
+		"name": "Bihar",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1275716"
 	},
 	{
-		"name": "Bihārīganj",
+		"name": "Biharīganj",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1275719"
 	},
 	{
-		"name": "Bidhūna",
+		"name": "Bidhuna",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1275732"
@@ -64740,13 +64740,13 @@ const states = [
 		"geonameid": "1275768"
 	},
 	{
-		"name": "Bhusāval",
+		"name": "Bhusaval",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1275778"
 	},
 	{
-		"name": "Bhūm",
+		"name": "Bhum",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1275804"
@@ -64806,7 +64806,7 @@ const states = [
 		"geonameid": "1275882"
 	},
 	{
-		"name": "Bhiwāni",
+		"name": "Bhiwani",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1275899"
@@ -64818,13 +64818,13 @@ const states = [
 		"geonameid": "1275901"
 	},
 	{
-		"name": "Bhitarwār",
+		"name": "Bhitarwar",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1275905"
 	},
 	{
-		"name": "Bhīnmāl",
+		"name": "Bhīnmal",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1275920"
@@ -64836,7 +64836,7 @@ const states = [
 		"geonameid": "1275921"
 	},
 	{
-		"name": "Bhindār",
+		"name": "Bhindar",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1275925"
@@ -64860,7 +64860,7 @@ const states = [
 		"geonameid": "1275947"
 	},
 	{
-		"name": "Bhīlwāra",
+		"name": "Bhīlwara",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1275960"
@@ -64884,7 +64884,7 @@ const states = [
 		"geonameid": "1275978"
 	},
 	{
-		"name": "Bhāyāvadar",
+		"name": "Bhayavadar",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1276013"
@@ -64896,31 +64896,31 @@ const states = [
 		"geonameid": "1276014"
 	},
 	{
-		"name": "Bhawānipatna",
+		"name": "Bhawanipatna",
 		"country": "India",
 		"subcountry": "Odisha",
 		"geonameid": "1276023"
 	},
 	{
-		"name": "Bhawānīgarh",
+		"name": "Bhawanīgarh",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1276026"
 	},
 	{
-		"name": "Bhawāniganj",
+		"name": "Bhawaniganj",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1276027"
 	},
 	{
-		"name": "Bhāvnagar",
+		"name": "Bhavnagar",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1276032"
 	},
 	{
-		"name": "Bhavāni",
+		"name": "Bhavani",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1276037"
@@ -64932,7 +64932,7 @@ const states = [
 		"geonameid": "1276054"
 	},
 	{
-		"name": "Bhātpāra",
+		"name": "Bhatpara",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1276058"
@@ -64950,25 +64950,25 @@ const states = [
 		"geonameid": "1276070"
 	},
 	{
-		"name": "Bhātāpāra",
+		"name": "Bhatapara",
 		"country": "India",
 		"subcountry": "Chhattisgarh",
 		"geonameid": "1276084"
 	},
 	{
-		"name": "Bhasāwar",
+		"name": "Bhasawar",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1276092"
 	},
 	{
-		"name": "Bharwāri",
+		"name": "Bharwari",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1276095"
 	},
 	{
-		"name": "Bharūch",
+		"name": "Bharuch",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1276100"
@@ -64986,19 +64986,19 @@ const states = [
 		"geonameid": "1276128"
 	},
 	{
-		"name": "Bhānvad",
+		"name": "Bhanvad",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1276147"
 	},
 	{
-		"name": "Bhānpurī",
+		"name": "Bhanpurī",
 		"country": "India",
 		"subcountry": "Chhattisgarh",
 		"geonameid": "1276151"
 	},
 	{
-		"name": "Bhānpura",
+		"name": "Bhanpura",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1276152"
@@ -65010,19 +65010,19 @@ const states = [
 		"geonameid": "1276159"
 	},
 	{
-		"name": "Bhānder",
+		"name": "Bhander",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1276178"
 	},
 	{
-		"name": "Bhandāra",
+		"name": "Bhandara",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1276191"
 	},
 	{
-		"name": "Bhālki",
+		"name": "Bhalki",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1276219"
@@ -65040,7 +65040,7 @@ const states = [
 		"geonameid": "1276265"
 	},
 	{
-		"name": "Bhāgalpur",
+		"name": "Bhagalpur",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1276300"
@@ -65052,7 +65052,7 @@ const states = [
 		"geonameid": "1276320"
 	},
 	{
-		"name": "Bhadrāvati",
+		"name": "Bhadravati",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1276321"
@@ -65064,13 +65064,13 @@ const states = [
 		"geonameid": "1276325"
 	},
 	{
-		"name": "Bhadrāchalam",
+		"name": "Bhadrachalam",
 		"country": "India",
 		"subcountry": "Telangana",
 		"geonameid": "1276328"
 	},
 	{
-		"name": "Bhādra",
+		"name": "Bhadra",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1276330"
@@ -65088,13 +65088,13 @@ const states = [
 		"geonameid": "1276353"
 	},
 	{
-		"name": "Bhādāsar",
+		"name": "Bhadasar",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1276355"
 	},
 	{
-		"name": "Bhachāu",
+		"name": "Bhachau",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1276370"
@@ -65118,7 +65118,7 @@ const states = [
 		"geonameid": "1276381"
 	},
 	{
-		"name": "Betūl",
+		"name": "Betul",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1276389"
@@ -65136,7 +65136,7 @@ const states = [
 		"geonameid": "1276416"
 	},
 	{
-		"name": "Beri Khās",
+		"name": "Beri Khas",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1276437"
@@ -65148,19 +65148,19 @@ const states = [
 		"geonameid": "1276449"
 	},
 	{
-		"name": "Beohāri",
+		"name": "Beohari",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1276455"
 	},
 	{
-		"name": "Bemetāra",
+		"name": "Bemetara",
 		"country": "India",
 		"subcountry": "Chhattisgarh",
 		"geonameid": "1276478"
 	},
 	{
-		"name": "Belūr",
+		"name": "Belur",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1276486"
@@ -65190,7 +65190,7 @@ const states = [
 		"geonameid": "1276533"
 	},
 	{
-		"name": "Beldānga",
+		"name": "Beldanga",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1276548"
@@ -65220,7 +65220,7 @@ const states = [
 		"geonameid": "1276609"
 	},
 	{
-		"name": "Begūn",
+		"name": "Begun",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1276615"
@@ -65238,25 +65238,25 @@ const states = [
 		"geonameid": "1276627"
 	},
 	{
-		"name": "Beāwar",
+		"name": "Beawar",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1276634"
 	},
 	{
-		"name": "Bāzpur",
+		"name": "Bazpur",
 		"country": "India",
 		"subcountry": "Uttarakhand",
 		"geonameid": "1276642"
 	},
 	{
-		"name": "Bayāna",
+		"name": "Bayana",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1276652"
 	},
 	{
-		"name": "Bawāna",
+		"name": "Bawana",
 		"country": "India",
 		"subcountry": "NCT",
 		"geonameid": "1276663"
@@ -65268,7 +65268,7 @@ const states = [
 		"geonameid": "1276686"
 	},
 	{
-		"name": "Batāla",
+		"name": "Batala",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1276720"
@@ -65280,7 +65280,7 @@ const states = [
 		"geonameid": "1276724"
 	},
 	{
-		"name": "Bāsudebpur",
+		"name": "Basudebpur",
 		"country": "India",
 		"subcountry": "Odisha",
 		"geonameid": "1276731"
@@ -65292,7 +65292,7 @@ const states = [
 		"geonameid": "1276736"
 	},
 	{
-		"name": "Bāsoda",
+		"name": "Basoda",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1276752"
@@ -65328,43 +65328,43 @@ const states = [
 		"geonameid": "1276767"
 	},
 	{
-		"name": "Basavana Bāgevādi",
+		"name": "Basavana Bagevadi",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1276782"
 	},
 	{
-		"name": "Basavakalyān",
+		"name": "Basavakalyan",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1276783"
 	},
 	{
-		"name": "Barwāni",
+		"name": "Barwani",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1276810"
 	},
 	{
-		"name": "Barwāla",
+		"name": "Barwala",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1276815"
 	},
 	{
-		"name": "Bāruni",
+		"name": "Baruni",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1276829"
 	},
 	{
-		"name": "Bāruipur",
+		"name": "Baruipur",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1276832"
 	},
 	{
-		"name": "Bārsi",
+		"name": "Barsi",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1276856"
@@ -65376,19 +65376,19 @@ const states = [
 		"geonameid": "1276867"
 	},
 	{
-		"name": "Barpāli",
+		"name": "Barpali",
 		"country": "India",
 		"subcountry": "Odisha",
 		"geonameid": "1276870"
 	},
 	{
-		"name": "Barnāla",
+		"name": "Barnala",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1276895"
 	},
 	{
-		"name": "Bārmer",
+		"name": "Barmer",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1276901"
@@ -65400,7 +65400,7 @@ const states = [
 		"geonameid": "1276919"
 	},
 	{
-		"name": "Barka Kāna",
+		"name": "Barka Kana",
 		"country": "India",
 		"subcountry": "Jharkhand",
 		"geonameid": "1276927"
@@ -65412,13 +65412,13 @@ const states = [
 		"geonameid": "1276938"
 	},
 	{
-		"name": "Bari Sādri",
+		"name": "Bari Sadri",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1276939"
 	},
 	{
-		"name": "Bāri",
+		"name": "Bari",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1276948"
@@ -65430,7 +65430,7 @@ const states = [
 		"geonameid": "1276954"
 	},
 	{
-		"name": "Bārh",
+		"name": "Barh",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1276977"
@@ -65454,13 +65454,13 @@ const states = [
 		"geonameid": "1277013"
 	},
 	{
-		"name": "Bārdoli",
+		"name": "Bardoli",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1277022"
 	},
 	{
-		"name": "Barddhamān",
+		"name": "Barddhaman",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1277029"
@@ -65484,13 +65484,13 @@ const states = [
 		"geonameid": "1277053"
 	},
 	{
-		"name": "Bārāsat",
+		"name": "Barasat",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1277065"
 	},
 	{
-		"name": "Bārāsat",
+		"name": "Barasat",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1277066"
@@ -65502,85 +65502,85 @@ const states = [
 		"geonameid": "1277082"
 	},
 	{
-		"name": "Bārān",
+		"name": "Baran",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1277084"
 	},
 	{
-		"name": "Bāramūla",
+		"name": "Baramula",
 		"country": "India",
 		"subcountry": "Kashmir",
 		"geonameid": "1277085"
 	},
 	{
-		"name": "Bārāmati",
+		"name": "Baramati",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1277091"
 	},
 	{
-		"name": "Bārākpur",
+		"name": "Barakpur",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1277100"
 	},
 	{
-		"name": "Bāpatla",
+		"name": "Bapatla",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1277183"
 	},
 	{
-		"name": "Banūr",
+		"name": "Banur",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1277200"
 	},
 	{
-		"name": "Bantvāl",
+		"name": "Bantval",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1277201"
 	},
 	{
-		"name": "Bāntva",
+		"name": "Bantva",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1277202"
 	},
 	{
-		"name": "Bānswāra",
+		"name": "Banswara",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1277214"
 	},
 	{
-		"name": "Bānswāda",
+		"name": "Banswada",
 		"country": "India",
 		"subcountry": "Telangana",
 		"geonameid": "1277216"
 	},
 	{
-		"name": "Bānsi",
+		"name": "Bansi",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1277232"
 	},
 	{
-		"name": "Bānsdīh",
+		"name": "Bansdīh",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1277238"
 	},
 	{
-		"name": "Bānsbāria",
+		"name": "Bansbaria",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1277240"
 	},
 	{
-		"name": "Bannūr",
+		"name": "Bannur",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1277255"
@@ -65592,31 +65592,31 @@ const states = [
 		"geonameid": "1277263"
 	},
 	{
-		"name": "Bānkura",
+		"name": "Bankura",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1277264"
 	},
 	{
-		"name": "Bānki",
+		"name": "Banki",
 		"country": "India",
 		"subcountry": "Odisha",
 		"geonameid": "1277273"
 	},
 	{
-		"name": "Bānka",
+		"name": "Banka",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1277289"
 	},
 	{
-		"name": "Bāngarmau",
+		"name": "Bangarmau",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1277318"
 	},
 	{
-		"name": "Bangārapet",
+		"name": "Bangarapet",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1277320"
@@ -65658,13 +65658,13 @@ const states = [
 		"geonameid": "1277358"
 	},
 	{
-		"name": "Bāndīkūi",
+		"name": "Bandīkui",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1277362"
 	},
 	{
-		"name": "Bānda",
+		"name": "Banda",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1277397"
@@ -65682,43 +65682,43 @@ const states = [
 		"geonameid": "1277409"
 	},
 	{
-		"name": "Bānapur",
+		"name": "Banapur",
 		"country": "India",
 		"subcountry": "Odisha",
 		"geonameid": "1277426"
 	},
 	{
-		"name": "Bāmor Kalān",
+		"name": "Bamor Kalan",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1277442"
 	},
 	{
-		"name": "Bālurghāt",
+		"name": "Balurghat",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1277508"
 	},
 	{
-		"name": "Bālugaon",
+		"name": "Balugaon",
 		"country": "India",
 		"subcountry": "Odisha",
 		"geonameid": "1277514"
 	},
 	{
-		"name": "Balrāmpur",
+		"name": "Balrampur",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1277525"
 	},
 	{
-		"name": "Bālotra",
+		"name": "Balotra",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1277527"
 	},
 	{
-		"name": "Baloda Bāzār",
+		"name": "Baloda Bazar",
 		"country": "India",
 		"subcountry": "Chhattisgarh",
 		"geonameid": "1277530"
@@ -65730,19 +65730,19 @@ const states = [
 		"geonameid": "1277535"
 	},
 	{
-		"name": "Bāli",
+		"name": "Bali",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1277539"
 	},
 	{
-		"name": "Ballālpur",
+		"name": "Ballalpur",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1277557"
 	},
 	{
-		"name": "Bāli",
+		"name": "Bali",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1277590"
@@ -65754,37 +65754,37 @@ const states = [
 		"geonameid": "1277599"
 	},
 	{
-		"name": "Balarāmpur",
+		"name": "Balarampur",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1277634"
 	},
 	{
-		"name": "Bālāpur",
+		"name": "Balapur",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1277636"
 	},
 	{
-		"name": "Balāngīr",
+		"name": "Balangīr",
 		"country": "India",
 		"subcountry": "Odisha",
 		"geonameid": "1277643"
 	},
 	{
-		"name": "Bālāghāt",
+		"name": "Balaghat",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1277661"
 	},
 	{
-		"name": "Bālāchor",
+		"name": "Balachor",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1277666"
 	},
 	{
-		"name": "Bakhtiyārpur",
+		"name": "Bakhtiyarpur",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1277684"
@@ -65796,7 +65796,7 @@ const states = [
 		"geonameid": "1277723"
 	},
 	{
-		"name": "Bairāgnia",
+		"name": "Bairagnia",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1277748"
@@ -65820,7 +65820,7 @@ const states = [
 		"geonameid": "1277776"
 	},
 	{
-		"name": "Baidyabāti",
+		"name": "Baidyabati",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1277780"
@@ -65850,49 +65850,49 @@ const states = [
 		"geonameid": "1277820"
 	},
 	{
-		"name": "Bahādurgarh",
+		"name": "Bahadurgarh",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1277835"
 	},
 	{
-		"name": "Bahādurganj",
+		"name": "Bahadurganj",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1277836"
 	},
 	{
-		"name": "Bāh",
+		"name": "Bah",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1277841"
 	},
 	{
-		"name": "Bagulā",
+		"name": "Bagula",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1277844"
 	},
 	{
-		"name": "Bāghpat",
+		"name": "Baghpat",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1277882"
 	},
 	{
-		"name": "Bāghdogra",
+		"name": "Baghdogra",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1277897"
 	},
 	{
-		"name": "Bāgha Purāna",
+		"name": "Bagha Purana",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1277902"
 	},
 	{
-		"name": "Bāgepalli",
+		"name": "Bagepalli",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1277909"
@@ -65934,13 +65934,13 @@ const states = [
 		"geonameid": "1277949"
 	},
 	{
-		"name": "Badūria",
+		"name": "Baduria",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1277950"
 	},
 	{
-		"name": "Badnāwar",
+		"name": "Badnawar",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1277970"
@@ -65952,7 +65952,7 @@ const states = [
 		"geonameid": "1277976"
 	},
 	{
-		"name": "Bādāmi",
+		"name": "Badami",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1278017"
@@ -65976,13 +65976,13 @@ const states = [
 		"geonameid": "1278036"
 	},
 	{
-		"name": "Babrāla",
+		"name": "Babrala",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1278052"
 	},
 	{
-		"name": "Bābra",
+		"name": "Babra",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1278054"
@@ -66000,7 +66000,7 @@ const states = [
 		"geonameid": "1278064"
 	},
 	{
-		"name": "Bābai",
+		"name": "Babai",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1278073"
@@ -66036,7 +66036,7 @@ const states = [
 		"geonameid": "1278124"
 	},
 	{
-		"name": "Āvadi",
+		"name": "Avadi",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1278130"
@@ -66048,7 +66048,7 @@ const states = [
 		"geonameid": "1278139"
 	},
 	{
-		"name": "Aurangābād",
+		"name": "Aurangabad",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1278148"
@@ -66066,7 +66066,7 @@ const states = [
 		"geonameid": "1278152"
 	},
 	{
-		"name": "Aurād",
+		"name": "Aurad",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1278156"
@@ -66096,7 +66096,7 @@ const states = [
 		"geonameid": "1278190"
 	},
 	{
-		"name": "Atmakūr",
+		"name": "Atmakur",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1278201"
@@ -66114,7 +66114,7 @@ const states = [
 		"geonameid": "1278208"
 	},
 	{
-		"name": "Āthagarh",
+		"name": "Athagarh",
 		"country": "India",
 		"subcountry": "Odisha",
 		"geonameid": "1278216"
@@ -66126,19 +66126,19 @@ const states = [
 		"geonameid": "1278228"
 	},
 	{
-		"name": "Āsind",
+		"name": "Asind",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1278278"
 	},
 	{
-		"name": "Āsika",
+		"name": "Asika",
 		"country": "India",
 		"subcountry": "Odisha",
 		"geonameid": "1278279"
 	},
 	{
-		"name": "Asifābād",
+		"name": "Asifabad",
 		"country": "India",
 		"subcountry": "Telangana",
 		"geonameid": "1278282"
@@ -66162,19 +66162,19 @@ const states = [
 		"geonameid": "1278297"
 	},
 	{
-		"name": "Āsansol",
+		"name": "Asansol",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1278314"
 	},
 	{
-		"name": "Āsandh",
+		"name": "Asandh",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1278320"
 	},
 	{
-		"name": "Ārvi",
+		"name": "Arvi",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1278335"
@@ -66204,19 +66204,19 @@ const states = [
 		"geonameid": "1278354"
 	},
 	{
-		"name": "Āron",
+		"name": "Aron",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1278365"
 	},
 	{
-		"name": "Arkalgūd",
+		"name": "Arkalgud",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1278393"
 	},
 	{
-		"name": "Ariyalūr",
+		"name": "Ariyalur",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1278405"
@@ -66228,25 +66228,25 @@ const states = [
 		"geonameid": "1278432"
 	},
 	{
-		"name": "Arāria",
+		"name": "Araria",
 		"country": "India",
 		"subcountry": "Bihar",
 		"geonameid": "1278446"
 	},
 	{
-		"name": "Arantāngi",
+		"name": "Arantangi",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1278448"
 	},
 	{
-		"name": "Ārani",
+		"name": "Arani",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1278454"
 	},
 	{
-		"name": "Ārangaon",
+		"name": "Arangaon",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1278455"
@@ -66258,7 +66258,7 @@ const states = [
 		"geonameid": "1278458"
 	},
 	{
-		"name": "Arāmbāgh",
+		"name": "Arambagh",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1278466"
@@ -66282,19 +66282,19 @@ const states = [
 		"geonameid": "1278498"
 	},
 	{
-		"name": "Anūpshahr",
+		"name": "Anupshahr",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1278507"
 	},
 	{
-		"name": "Anūppur",
+		"name": "Anuppur",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1278508"
 	},
 	{
-		"name": "Anūpgarh",
+		"name": "Anupgarh",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1278510"
@@ -66330,7 +66330,7 @@ const states = [
 		"geonameid": "1278553"
 	},
 	{
-		"name": "Anjār",
+		"name": "Anjar",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1278573"
@@ -66354,7 +66354,7 @@ const states = [
 		"geonameid": "1278593"
 	},
 	{
-		"name": "Angamāli",
+		"name": "Angamali",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1278602"
@@ -66378,7 +66378,7 @@ const states = [
 		"geonameid": "1278622"
 	},
 	{
-		"name": "Āndippatti",
+		"name": "Andippatti",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1278625"
@@ -66402,13 +66402,13 @@ const states = [
 		"geonameid": "1278676"
 	},
 	{
-		"name": "Ānand",
+		"name": "Anand",
 		"country": "India",
 		"subcountry": "Gujarat",
 		"geonameid": "1278685"
 	},
 	{
-		"name": "Anakāpalle",
+		"name": "Anakapalle",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1278688"
@@ -66420,13 +66420,13 @@ const states = [
 		"geonameid": "1278692"
 	},
 	{
-		"name": "Amudālavalasa",
+		"name": "Amudalavalasa",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1278698"
 	},
 	{
-		"name": "Āmta",
+		"name": "Amta",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1278703"
@@ -66456,7 +66456,7 @@ const states = [
 		"geonameid": "1278715"
 	},
 	{
-		"name": "Amrāvati",
+		"name": "Amravati",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1278718"
@@ -66468,13 +66468,13 @@ const states = [
 		"geonameid": "1278742"
 	},
 	{
-		"name": "Āmli",
+		"name": "Amli",
 		"country": "India",
 		"subcountry": "Dadra and Nagar Haveli",
 		"geonameid": "1278768"
 	},
 	{
-		"name": "Āmlāgora",
+		"name": "Amlagora",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1278774"
@@ -66498,13 +66498,13 @@ const states = [
 		"geonameid": "1278815"
 	},
 	{
-		"name": "Ambikāpur",
+		"name": "Ambikapur",
 		"country": "India",
 		"subcountry": "Chhattisgarh",
 		"geonameid": "1278827"
 	},
 	{
-		"name": "Ambattūr",
+		"name": "Ambattur",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1278840"
@@ -66516,19 +66516,19 @@ const states = [
 		"geonameid": "1278841"
 	},
 	{
-		"name": "Ambāla",
+		"name": "Ambala",
 		"country": "India",
 		"subcountry": "Haryana",
 		"geonameid": "1278860"
 	},
 	{
-		"name": "Ambājogāi",
+		"name": "Ambajogai",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1278862"
 	},
 	{
-		"name": "Ambāh",
+		"name": "Ambah",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1278868"
@@ -66546,13 +66546,13 @@ const states = [
 		"geonameid": "1278895"
 	},
 	{
-		"name": "Amarpātan",
+		"name": "Amarpatan",
 		"country": "India",
 		"subcountry": "Madhya Pradesh",
 		"geonameid": "1278899"
 	},
 	{
-		"name": "Amarnāth",
+		"name": "Amarnath",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1278903"
@@ -66564,7 +66564,7 @@ const states = [
 		"geonameid": "1278931"
 	},
 	{
-		"name": "Amalāpuram",
+		"name": "Amalapuram",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1278935"
@@ -66594,7 +66594,7 @@ const states = [
 		"geonameid": "1278969"
 	},
 	{
-		"name": "Alnāvar",
+		"name": "Alnavar",
 		"country": "India",
 		"subcountry": "Karnataka",
 		"geonameid": "1278973"
@@ -66612,7 +66612,7 @@ const states = [
 		"geonameid": "1278985"
 	},
 	{
-		"name": "Allahābād",
+		"name": "Allahabad",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1278994"
@@ -66636,19 +66636,19 @@ const states = [
 		"geonameid": "1279023"
 	},
 	{
-		"name": "Alībāg",
+		"name": "Alībag",
 		"country": "India",
 		"subcountry": "Maharashtra",
 		"geonameid": "1279027"
 	},
 	{
-		"name": "Ālangulam",
+		"name": "Alangulam",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1279058"
 	},
 	{
-		"name": "Ālangāyam",
+		"name": "Alangayam",
 		"country": "India",
 		"subcountry": "Tamil Nadu",
 		"geonameid": "1279061"
@@ -66726,7 +66726,7 @@ const states = [
 		"geonameid": "1279154"
 	},
 	{
-		"name": "Ajnāla",
+		"name": "Ajnala",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1279158"
@@ -66768,7 +66768,7 @@ const states = [
 		"geonameid": "1279233"
 	},
 	{
-		"name": "Āgra",
+		"name": "Agra",
 		"country": "India",
 		"subcountry": "Uttar Pradesh",
 		"geonameid": "1279259"
@@ -66798,7 +66798,7 @@ const states = [
 		"geonameid": "1279307"
 	},
 	{
-		"name": "Adūr",
+		"name": "Adur",
 		"country": "India",
 		"subcountry": "Kerala",
 		"geonameid": "1279323"
@@ -66810,13 +66810,13 @@ const states = [
 		"geonameid": "1279334"
 	},
 	{
-		"name": "Ādoni",
+		"name": "Adoni",
 		"country": "India",
 		"subcountry": "Andhra Pradesh",
 		"geonameid": "1279335"
 	},
 	{
-		"name": "Ādilābād",
+		"name": "Adilabad",
 		"country": "India",
 		"subcountry": "Telangana",
 		"geonameid": "1279344"
@@ -66840,13 +66840,13 @@ const states = [
 		"geonameid": "1279390"
 	},
 	{
-		"name": "Ābu Road",
+		"name": "Abu Road",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1279394"
 	},
 	{
-		"name": "Ābu",
+		"name": "Abu",
 		"country": "India",
 		"subcountry": "Rajasthan",
 		"geonameid": "1279396"
@@ -66858,7 +66858,7 @@ const states = [
 		"geonameid": "1279403"
 	},
 	{
-		"name": "Abhayāpuri",
+		"name": "Abhayapuri",
 		"country": "India",
 		"subcountry": "Assam",
 		"geonameid": "1279407"
@@ -66876,7 +66876,7 @@ const states = [
 		"geonameid": "1344377"
 	},
 	{
-		"name": "Srirāmpur",
+		"name": "Srirampur",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1348562"
@@ -66912,7 +66912,7 @@ const states = [
 		"geonameid": "1348780"
 	},
 	{
-		"name": "Pānchla",
+		"name": "Panchla",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1348785"
@@ -66936,7 +66936,7 @@ const states = [
 		"geonameid": "1349041"
 	},
 	{
-		"name": "Nabagrām",
+		"name": "Nabagram",
 		"country": "India",
 		"subcountry": "West Bengal",
 		"geonameid": "1349357"
@@ -66948,7 +66948,7 @@ const states = [
 		"geonameid": "1430991"
 	},
 	{
-		"name": "Singāpur",
+		"name": "Singapur",
 		"country": "India",
 		"subcountry": "Telangana",
 		"geonameid": "1445156"
@@ -66966,7 +66966,7 @@ const states = [
 		"geonameid": "1462711"
 	},
 	{
-		"name": "Ādampur",
+		"name": "Adampur",
 		"country": "India",
 		"subcountry": "Punjab",
 		"geonameid": "1462733"
@@ -67400,7 +67400,7 @@ const states = [
 	{
 		"name": "Zaxo",
 		"country": "Iraq",
-		"subcountry": "Dahūk",
+		"subcountry": "Dahuk",
 		"geonameid": "89570"
 	},
 	{
@@ -67430,29 +67430,29 @@ const states = [
 	{
 		"name": "Sīnah",
 		"country": "Iraq",
-		"subcountry": "Dahūk",
+		"subcountry": "Dahuk",
 		"geonameid": "90708"
 	},
 	{
-		"name": "Sāmarrā’",
+		"name": "Samarra’",
 		"country": "Iraq",
 		"subcountry": "Salah ad Din Governorate",
 		"geonameid": "91597"
 	},
 	{
-		"name": "Nāḩīyat Saddat al Hindīyah",
+		"name": "Naḩīyat Saddat al Hindīyah",
 		"country": "Iraq",
-		"subcountry": "Bābil",
+		"subcountry": "Babil",
 		"geonameid": "91812"
 	},
 	{
-		"name": "Ruwāndiz",
+		"name": "Ruwandiz",
 		"country": "Iraq",
 		"subcountry": "Arbīl",
 		"geonameid": "92002"
 	},
 	{
-		"name": "Rāwah",
+		"name": "Rawah",
 		"country": "Iraq",
 		"subcountry": "Anbar",
 		"geonameid": "92004"
@@ -67466,7 +67466,7 @@ const states = [
 	{
 		"name": "Mandalī",
 		"country": "Iraq",
-		"subcountry": "Diyālá",
+		"subcountry": "Diyalá",
 		"geonameid": "93709"
 	},
 	{
@@ -67478,7 +67478,7 @@ const states = [
 	{
 		"name": "Kifrī",
 		"country": "Iraq",
-		"subcountry": "Diyālá",
+		"subcountry": "Diyalá",
 		"geonameid": "94298"
 	},
 	{
@@ -67490,7 +67490,7 @@ const states = [
 	{
 		"name": "Karbala",
 		"country": "Iraq",
-		"subcountry": "Karbalāʼ",
+		"subcountry": "Karbalaʼ",
 		"geonameid": "94824"
 	},
 	{
@@ -67508,7 +67508,7 @@ const states = [
 	{
 		"name": "Ḩalabjah",
 		"country": "Iraq",
-		"subcountry": "As Sulaymānīyah",
+		"subcountry": "As Sulaymanīyah",
 		"geonameid": "96205"
 	},
 	{
@@ -67520,13 +67520,13 @@ const states = [
 	{
 		"name": "Dihok",
 		"country": "Iraq",
-		"subcountry": "Dahūk",
+		"subcountry": "Dahuk",
 		"geonameid": "96994"
 	},
 	{
-		"name": "Jamjamāl",
+		"name": "Jamjamal",
 		"country": "Iraq",
-		"subcountry": "As Sulaymānīyah",
+		"subcountry": "As Sulaymanīyah",
 		"geonameid": "97417"
 	},
 	{
@@ -67538,13 +67538,13 @@ const states = [
 	{
 		"name": "Baqubah",
 		"country": "Iraq",
-		"subcountry": "Diyālá",
+		"subcountry": "Diyalá",
 		"geonameid": "97990"
 	},
 	{
 		"name": "Baynjiwayn",
 		"country": "Iraq",
-		"subcountry": "As Sulaymānīyah",
+		"subcountry": "As Sulaymanīyah",
 		"geonameid": "98012"
 	},
 	{
@@ -67568,13 +67568,13 @@ const states = [
 	{
 		"name": "Aş Şuwayrah",
 		"country": "Iraq",
-		"subcountry": "Wāsiţ",
+		"subcountry": "Wasiţ",
 		"geonameid": "98459"
 	},
 	{
-		"name": "As Sulaymānīyah",
+		"name": "As Sulaymanīyah",
 		"country": "Iraq",
-		"subcountry": "As Sulaymānīyah",
+		"subcountry": "As Sulaymanīyah",
 		"geonameid": "98463"
 	},
 	{
@@ -67584,9 +67584,9 @@ const states = [
 		"geonameid": "98530"
 	},
 	{
-		"name": "Nāḩiyat ash Shināfīyah",
+		"name": "Naḩiyat ash Shinafīyah",
 		"country": "Iraq",
-		"subcountry": "Al Qādisīyah",
+		"subcountry": "Al Qadisīyah",
 		"geonameid": "98589"
 	},
 	{
@@ -67596,9 +67596,9 @@ const states = [
 		"geonameid": "98622"
 	},
 	{
-		"name": "Ash Shāmīyah",
+		"name": "Ash Shamīyah",
 		"country": "Iraq",
-		"subcountry": "Al Qādisīyah",
+		"subcountry": "Al Qadisīyah",
 		"geonameid": "98629"
 	},
 	{
@@ -67626,7 +67626,7 @@ const states = [
 		"geonameid": "98822"
 	},
 	{
-		"name": "An Nāşirīyah",
+		"name": "An Naşirīyah",
 		"country": "Iraq",
 		"subcountry": "Dhi Qar",
 		"geonameid": "98854"
@@ -67646,25 +67646,25 @@ const states = [
 	{
 		"name": "Imam Qasim",
 		"country": "Iraq",
-		"subcountry": "Bābil",
+		"subcountry": "Babil",
 		"geonameid": "99010"
 	},
 	{
 		"name": "Al Musayyib",
 		"country": "Iraq",
-		"subcountry": "Bābil",
+		"subcountry": "Babil",
 		"geonameid": "99039"
 	},
 	{
-		"name": "Al Mishkhāb",
+		"name": "Al Mishkhab",
 		"country": "Iraq",
 		"subcountry": "An Najaf",
 		"geonameid": "99060"
 	},
 	{
-		"name": "Al Miqdādīyah",
+		"name": "Al Miqdadīyah",
 		"country": "Iraq",
-		"subcountry": "Diyālá",
+		"subcountry": "Diyalá",
 		"geonameid": "99062"
 	},
 	{
@@ -67680,9 +67680,9 @@ const states = [
 		"geonameid": "99072"
 	},
 	{
-		"name": "Al Kūt",
+		"name": "Al Kut",
 		"country": "Iraq",
-		"subcountry": "Wāsiţ",
+		"subcountry": "Wasiţ",
 		"geonameid": "99131"
 	},
 	{
@@ -67692,9 +67692,9 @@ const states = [
 		"geonameid": "99135"
 	},
 	{
-		"name": "Khāliş",
+		"name": "Khaliş",
 		"country": "Iraq",
-		"subcountry": "Diyālá",
+		"subcountry": "Diyalá",
 		"geonameid": "99169"
 	},
 	{
@@ -67706,23 +67706,23 @@ const states = [
 	{
 		"name": "Al Hindīyah",
 		"country": "Iraq",
-		"subcountry": "Karbalāʼ",
+		"subcountry": "Karbalaʼ",
 		"geonameid": "99344"
 	},
 	{
 		"name": "Al Ḩillah",
 		"country": "Iraq",
-		"subcountry": "Bābil",
+		"subcountry": "Babil",
 		"geonameid": "99347"
 	},
 	{
 		"name": "Al Ḩayy",
 		"country": "Iraq",
-		"subcountry": "Wāsiţ",
+		"subcountry": "Wasiţ",
 		"geonameid": "99350"
 	},
 	{
-		"name": "Al Hārithah",
+		"name": "Al Harithah",
 		"country": "Iraq",
 		"subcountry": "Basra Governorate",
 		"geonameid": "99369"
@@ -67730,23 +67730,23 @@ const states = [
 	{
 		"name": "Nahiyat Ghammas",
 		"country": "Iraq",
-		"subcountry": "Al Qādisīyah",
+		"subcountry": "Al Qadisīyah",
 		"geonameid": "99434"
 	},
 	{
-		"name": "Nāḩiyat al Fuhūd",
+		"name": "Naḩiyat al Fuhud",
 		"country": "Iraq",
 		"subcountry": "Dhi Qar",
 		"geonameid": "99439"
 	},
 	{
-		"name": "Al Fāw",
+		"name": "Al Faw",
 		"country": "Iraq",
 		"subcountry": "Basra Governorate",
 		"geonameid": "99446"
 	},
 	{
-		"name": "Al Fallūjah",
+		"name": "Al Fallujah",
 		"country": "Iraq",
 		"subcountry": "Anbar",
 		"geonameid": "99454"
@@ -67760,11 +67760,11 @@ const states = [
 	{
 		"name": "Al ‘Azīzīyah",
 		"country": "Iraq",
-		"subcountry": "Wāsiţ",
+		"subcountry": "Wasiţ",
 		"geonameid": "99548"
 	},
 	{
-		"name": "Al ‘Amārah",
+		"name": "Al ‘Amarah",
 		"country": "Iraq",
 		"subcountry": "Maysan",
 		"geonameid": "99608"
@@ -67772,7 +67772,7 @@ const states = [
 	{
 		"name": "‘Afak",
 		"country": "Iraq",
-		"subcountry": "Al Qādisīyah",
+		"subcountry": "Al Qadisīyah",
 		"geonameid": "99738"
 	},
 	{
@@ -67782,13 +67782,13 @@ const states = [
 		"geonameid": "99759"
 	},
 	{
-		"name": "Ad Dīwānīyah",
+		"name": "Ad Dīwanīyah",
 		"country": "Iraq",
-		"subcountry": "Al Qādisīyah",
+		"subcountry": "Al Qadisīyah",
 		"geonameid": "99762"
 	},
 	{
-		"name": "Abū Ghurayb",
+		"name": "Abu Ghurayb",
 		"country": "Iraq",
 		"subcountry": "Mayorality of Baghdad",
 		"geonameid": "100077"
@@ -67800,45 +67800,45 @@ const states = [
 		"geonameid": "388349"
 	},
 	{
-		"name": "Sinjār",
+		"name": "Sinjar",
 		"country": "Iraq",
 		"subcountry": "Nīnawá",
 		"geonameid": "448149"
 	},
 	{
-		"name": "Āzādshahr",
+		"name": "Azadshahr",
 		"country": "Iran",
-		"subcountry": "Hamadān",
+		"subcountry": "Hamadan",
 		"geonameid": "14256"
 	},
 	{
 		"name": "Kahrīz",
 		"country": "Iran",
-		"subcountry": "Kermānshāh",
+		"subcountry": "Kermanshah",
 		"geonameid": "23814"
 	},
 	{
-		"name": "Nūrābād",
+		"name": "Nurabad",
 		"country": "Iran",
-		"subcountry": "Lorestān",
+		"subcountry": "Lorestan",
 		"geonameid": "24851"
 	},
 	{
-		"name": "Īstgāh-e Rāh Āhan-e Garmsār",
+		"name": "Īstgah-e Rah Ahan-e Garmsar",
 		"country": "Iran",
-		"subcountry": "Semnān",
+		"subcountry": "Semnan",
 		"geonameid": "32723"
 	},
 	{
 		"name": "Qarchak",
 		"country": "Iran",
-		"subcountry": "Tehrān",
+		"subcountry": "Tehran",
 		"geonameid": "32767"
 	},
 	{
 		"name": "Shahre Jadide Andisheh",
 		"country": "Iran",
-		"subcountry": "Tehrān",
+		"subcountry": "Tehran",
 		"geonameid": "32909"
 	},
 	{
@@ -67850,13 +67850,13 @@ const states = [
 	{
 		"name": "Yasuj",
 		"country": "Iran",
-		"subcountry": "Kohgīlūyeh va Būyer Aḩmad",
+		"subcountry": "Kohgīluyeh va Buyer Aḩmad",
 		"geonameid": "66093"
 	},
 	{
-		"name": "Āzādshahr",
+		"name": "Azadshahr",
 		"country": "Iran",
-		"subcountry": "Golestān",
+		"subcountry": "Golestan",
 		"geonameid": "110831"
 	},
 	{
@@ -67866,7 +67866,7 @@ const states = [
 		"geonameid": "111421"
 	},
 	{
-		"name": "Zanjān",
+		"name": "Zanjan",
 		"country": "Iran",
 		"subcountry": "Zanjan",
 		"geonameid": "111453"
@@ -67878,9 +67878,9 @@ const states = [
 		"geonameid": "111822"
 	},
 	{
-		"name": "Varāmīn",
+		"name": "Varamīn",
 		"country": "Iran",
-		"subcountry": "Tehrān",
+		"subcountry": "Tehran",
 		"geonameid": "112214"
 	},
 	{
@@ -67890,33 +67890,33 @@ const states = [
 		"geonameid": "112646"
 	},
 	{
-		"name": "Tonekābon",
+		"name": "Tonekabon",
 		"country": "Iran",
-		"subcountry": "Māzandarān",
+		"subcountry": "Mazandaran",
 		"geonameid": "112656"
 	},
 	{
 		"name": "Tehran",
 		"country": "Iran",
-		"subcountry": "Tehrān",
+		"subcountry": "Tehran",
 		"geonameid": "112931"
 	},
 	{
 		"name": "Hashtpar",
 		"country": "Iran",
-		"subcountry": "Gīlān",
+		"subcountry": "Gīlan",
 		"geonameid": "113343"
 	},
 	{
-		"name": "Tākestān",
+		"name": "Takestan",
 		"country": "Iran",
 		"subcountry": "Qazvīn",
 		"geonameid": "113491"
 	},
 	{
-		"name": "Takāb",
+		"name": "Takab",
 		"country": "Iran",
-		"subcountry": "Āz̄ārbāyjān-e Gharbī",
+		"subcountry": "Az̄arbayjan-e Gharbī",
 		"geonameid": "113508"
 	},
 	{
@@ -67940,7 +67940,7 @@ const states = [
 	{
 		"name": "Sonqor",
 		"country": "Iran",
-		"subcountry": "Kermānshāh",
+		"subcountry": "Kermanshah",
 		"geonameid": "114049"
 	},
 	{
@@ -67950,21 +67950,21 @@ const states = [
 		"geonameid": "114259"
 	},
 	{
-		"name": "Shūshtar",
+		"name": "Shushtar",
 		"country": "Iran",
 		"subcountry": "Khuzestan",
 		"geonameid": "114584"
 	},
 	{
-		"name": "Shūsh",
+		"name": "Shush",
 		"country": "Iran",
 		"subcountry": "Khuzestan",
 		"geonameid": "114593"
 	},
 	{
-		"name": "Shīrvān",
+		"name": "Shīrvan",
 		"country": "Iran",
-		"subcountry": "Khorāsān-e Shomālī",
+		"subcountry": "Khorasan-e Shomalī",
 		"geonameid": "114930"
 	},
 	{
@@ -67976,25 +67976,25 @@ const states = [
 	{
 		"name": "Shahr-e Kord",
 		"country": "Iran",
-		"subcountry": "Chahār Maḩāll va Bakhtīārī",
+		"subcountry": "Chahar Maḩall va Bakhtīarī",
 		"geonameid": "115770"
 	},
 	{
-		"name": "Shahr-e Bābak",
+		"name": "Shahr-e Babak",
 		"country": "Iran",
 		"subcountry": "Kerman",
 		"geonameid": "115781"
 	},
 	{
-		"name": "Shādegān",
+		"name": "Shadegan",
 		"country": "Iran",
 		"subcountry": "Khuzestan",
 		"geonameid": "116102"
 	},
 	{
-		"name": "Semnān",
+		"name": "Semnan",
 		"country": "Iran",
-		"subcountry": "Semnān",
+		"subcountry": "Semnan",
 		"geonameid": "116402"
 	},
 	{
@@ -68004,7 +68004,7 @@ const states = [
 		"geonameid": "116406"
 	},
 	{
-		"name": "Sāveh",
+		"name": "Saveh",
 		"country": "Iran",
 		"subcountry": "Markazi",
 		"geonameid": "116667"
@@ -68012,31 +68012,31 @@ const states = [
 	{
 		"name": "Sari",
 		"country": "Iran",
-		"subcountry": "Māzandarān",
+		"subcountry": "Mazandaran",
 		"geonameid": "116996"
 	},
 	{
 		"name": "Saqqez",
 		"country": "Iran",
-		"subcountry": "Kordestān",
+		"subcountry": "Kordestan",
 		"geonameid": "117392"
 	},
 	{
 		"name": "Sanandaj",
 		"country": "Iran",
-		"subcountry": "Kordestān",
+		"subcountry": "Kordestan",
 		"geonameid": "117574"
 	},
 	{
-		"name": "Salmās",
+		"name": "Salmas",
 		"country": "Iran",
-		"subcountry": "Āz̄ārbāyjān-e Gharbī",
+		"subcountry": "Az̄arbayjan-e Gharbī",
 		"geonameid": "117656"
 	},
 	{
-		"name": "Shāhīn Dezh",
+		"name": "Shahīn Dezh",
 		"country": "Iran",
-		"subcountry": "Āz̄ārbāyjān-e Gharbī",
+		"subcountry": "Az̄arbayjan-e Gharbī",
 		"geonameid": "117793"
 	},
 	{
@@ -68046,19 +68046,19 @@ const states = [
 		"geonameid": "118063"
 	},
 	{
-		"name": "Rūdsar",
+		"name": "Rudsar",
 		"country": "Iran",
-		"subcountry": "Gīlān",
+		"subcountry": "Gīlan",
 		"geonameid": "118191"
 	},
 	{
-		"name": "Robāţ Karīm",
+		"name": "Robaţ Karīm",
 		"country": "Iran",
-		"subcountry": "Tehrān",
+		"subcountry": "Tehran",
 		"geonameid": "118367"
 	},
 	{
-		"name": "Rāvar",
+		"name": "Ravar",
 		"country": "Iran",
 		"subcountry": "Kerman",
 		"geonameid": "118704"
@@ -68066,29 +68066,29 @@ const states = [
 	{
 		"name": "Rasht",
 		"country": "Iran",
-		"subcountry": "Gīlān",
+		"subcountry": "Gīlan",
 		"geonameid": "118743"
 	},
 	{
-		"name": "Rāmshīr",
+		"name": "Ramshīr",
 		"country": "Iran",
 		"subcountry": "Khuzestan",
 		"geonameid": "118805"
 	},
 	{
-		"name": "Rāmhormoz",
+		"name": "Ramhormoz",
 		"country": "Iran",
 		"subcountry": "Khuzestan",
 		"geonameid": "118826"
 	},
 	{
-		"name": "Rafsanjān",
+		"name": "Rafsanjan",
 		"country": "Iran",
 		"subcountry": "Kerman",
 		"geonameid": "118994"
 	},
 	{
-		"name": "Qūchān",
+		"name": "Quchan",
 		"country": "Iran",
 		"subcountry": "Razavi Khorasan",
 		"geonameid": "119115"
@@ -68096,7 +68096,7 @@ const states = [
 	{
 		"name": "Qorveh",
 		"country": "Iran",
-		"subcountry": "Kordestān",
+		"subcountry": "Kordestan",
 		"geonameid": "119161"
 	},
 	{
@@ -68118,49 +68118,49 @@ const states = [
 		"geonameid": "119505"
 	},
 	{
-		"name": "Qarah Ẕīā’ od Dīn",
+		"name": "Qarah Ẕīa’ od Dīn",
 		"country": "Iran",
-		"subcountry": "Āz̄ārbāyjān-e Gharbī",
+		"subcountry": "Az̄arbayjan-e Gharbī",
 		"geonameid": "119730"
 	},
 	{
 		"name": "Farrokh Shahr",
 		"country": "Iran",
-		"subcountry": "Chahār Maḩāll va Bakhtīārī",
+		"subcountry": "Chahar Maḩall va Bakhtīarī",
 		"geonameid": "120678"
 	},
 	{
-		"name": "Qā’en",
+		"name": "Qa’en",
 		"country": "Iran",
-		"subcountry": "Khorāsān-e Jonūbī",
+		"subcountry": "Khorasan-e Jonubī",
 		"geonameid": "120694"
 	},
 	{
-		"name": "Sarpol-e Z̄ahāb",
+		"name": "Sarpol-e Z̄ahab",
 		"country": "Iran",
-		"subcountry": "Kermānshāh",
+		"subcountry": "Kermanshah",
 		"geonameid": "120931"
 	},
 	{
-		"name": "Pīshvā",
+		"name": "Pīshva",
 		"country": "Iran",
-		"subcountry": "Tehrān",
+		"subcountry": "Tehran",
 		"geonameid": "120972"
 	},
 	{
 		"name": "Piranshahr",
 		"country": "Iran",
-		"subcountry": "Āz̄ārbāyjān-e Gharbī",
+		"subcountry": "Az̄arbayjan-e Gharbī",
 		"geonameid": "121110"
 	},
 	{
-		"name": "Pāveh",
+		"name": "Paveh",
 		"country": "Iran",
-		"subcountry": "Kermānshāh",
+		"subcountry": "Kermanshah",
 		"geonameid": "121240"
 	},
 	{
-		"name": "Pārsābād",
+		"name": "Parsabad",
 		"country": "Iran",
 		"subcountry": "Ardabīl",
 		"geonameid": "121380"
@@ -68168,13 +68168,13 @@ const states = [
 	{
 		"name": "Oshnavīyeh",
 		"country": "Iran",
-		"subcountry": "Āz̄ārbāyjān-e Gharbī",
+		"subcountry": "Az̄arbayjan-e Gharbī",
 		"geonameid": "121795"
 	},
 	{
-		"name": "Orūmīyeh",
+		"name": "Orumīyeh",
 		"country": "Iran",
-		"subcountry": "Āz̄ārbāyjān-e Gharbī",
+		"subcountry": "Az̄arbayjan-e Gharbī",
 		"geonameid": "121801"
 	},
 	{
@@ -68184,7 +68184,7 @@ const states = [
 		"geonameid": "121861"
 	},
 	{
-		"name": "Nūrābād",
+		"name": "Nurabad",
 		"country": "Iran",
 		"subcountry": "Fars",
 		"geonameid": "121925"
@@ -68192,11 +68192,11 @@ const states = [
 	{
 		"name": "Nowshahr",
 		"country": "Iran",
-		"subcountry": "Māzandarān",
+		"subcountry": "Mazandaran",
 		"geonameid": "121959"
 	},
 	{
-		"name": "Nīshābūr",
+		"name": "Nīshabur",
 		"country": "Iran",
 		"subcountry": "Razavi Khorasan",
 		"geonameid": "122285"
@@ -68208,13 +68208,13 @@ const states = [
 		"geonameid": "122289"
 	},
 	{
-		"name": "Nekā",
+		"name": "Neka",
 		"country": "Iran",
-		"subcountry": "Māzandarān",
+		"subcountry": "Mazandaran",
 		"geonameid": "122397"
 	},
 	{
-		"name": "Naz̧arābād",
+		"name": "Naz̧arabad",
 		"country": "Iran",
 		"subcountry": "Alborz",
 		"geonameid": "122438"
@@ -68222,25 +68222,25 @@ const states = [
 	{
 		"name": "Naqadeh",
 		"country": "Iran",
-		"subcountry": "Āz̄ārbāyjān-e Gharbī",
+		"subcountry": "Az̄arbayjan-e Gharbī",
 		"geonameid": "122698"
 	},
 	{
-		"name": "Nahāvand",
+		"name": "Nahavand",
 		"country": "Iran",
-		"subcountry": "Hamadān",
+		"subcountry": "Hamadan",
 		"geonameid": "122915"
 	},
 	{
-		"name": "Mīnāb",
+		"name": "Mīnab",
 		"country": "Iran",
 		"subcountry": "Hormozgan",
 		"geonameid": "123941"
 	},
 	{
-		"name": "Mīāndoāb",
+		"name": "Mīandoab",
 		"country": "Iran",
-		"subcountry": "Āz̄ārbāyjān-e Gharbī",
+		"subcountry": "Az̄arbayjan-e Gharbī",
 		"geonameid": "124085"
 	},
 	{
@@ -68256,7 +68256,7 @@ const states = [
 		"geonameid": "124274"
 	},
 	{
-		"name": "Masjed Soleymān",
+		"name": "Masjed Soleyman",
 		"country": "Iran",
 		"subcountry": "Khuzestan",
 		"geonameid": "124620"
@@ -68280,33 +68280,33 @@ const states = [
 		"geonameid": "124862"
 	},
 	{
-		"name": "Malāyer",
+		"name": "Malayer",
 		"country": "Iran",
-		"subcountry": "Hamadān",
+		"subcountry": "Hamadan",
 		"geonameid": "125185"
 	},
 	{
-		"name": "Malārd",
+		"name": "Malard",
 		"country": "Iran",
-		"subcountry": "Tehrān",
+		"subcountry": "Tehran",
 		"geonameid": "125188"
 	},
 	{
-		"name": "Mahābād",
+		"name": "Mahabad",
 		"country": "Iran",
-		"subcountry": "Āz̄ārbāyjān-e Gharbī",
+		"subcountry": "Az̄arbayjan-e Gharbī",
 		"geonameid": "125446"
 	},
 	{
-		"name": "Langarūd",
+		"name": "Langarud",
 		"country": "Iran",
-		"subcountry": "Gīlān",
+		"subcountry": "Gīlan",
 		"geonameid": "125897"
 	},
 	{
-		"name": "Kūhdasht",
+		"name": "Kuhdasht",
 		"country": "Iran",
-		"subcountry": "Lorestān",
+		"subcountry": "Lorestan",
 		"geonameid": "126409"
 	},
 	{
@@ -68318,11 +68318,11 @@ const states = [
 	{
 		"name": "Khvoy",
 		"country": "Iran",
-		"subcountry": "Āz̄ārbāyjān-e Gharbī",
+		"subcountry": "Az̄arbayjan-e Gharbī",
 		"geonameid": "126972"
 	},
 	{
-		"name": "Khvānsār",
+		"name": "Khvansar",
 		"country": "Iran",
 		"subcountry": "Isfahan",
 		"geonameid": "127033"
@@ -68336,7 +68336,7 @@ const states = [
 	{
 		"name": "Khorramabad",
 		"country": "Iran",
-		"subcountry": "Lorestān",
+		"subcountry": "Lorestan",
 		"geonameid": "127349"
 	},
 	{
@@ -68346,15 +68346,15 @@ const states = [
 		"geonameid": "127403"
 	},
 	{
-		"name": "Khalkhāl",
+		"name": "Khalkhal",
 		"country": "Iran",
 		"subcountry": "Ardabīl",
 		"geonameid": "128008"
 	},
 	{
-		"name": "Kermānshāh",
+		"name": "Kermanshah",
 		"country": "Iran",
-		"subcountry": "Kermānshāh",
+		"subcountry": "Kermanshah",
 		"geonameid": "128226"
 	},
 	{
@@ -68364,19 +68364,19 @@ const states = [
 		"geonameid": "128234"
 	},
 	{
-		"name": "Kāzerūn",
+		"name": "Kazerun",
 		"country": "Iran",
 		"subcountry": "Fars",
 		"geonameid": "128321"
 	},
 	{
-		"name": "Kāshmar",
+		"name": "Kashmar",
 		"country": "Iran",
 		"subcountry": "Razavi Khorasan",
 		"geonameid": "128447"
 	},
 	{
-		"name": "Kāshān",
+		"name": "Kashan",
 		"country": "Iran",
 		"subcountry": "Isfahan",
 		"geonameid": "128477"
@@ -68388,157 +68388,157 @@ const states = [
 		"geonameid": "128747"
 	},
 	{
-		"name": "Kangāvar",
+		"name": "Kangavar",
 		"country": "Iran",
-		"subcountry": "Kermānshāh",
+		"subcountry": "Kermanshah",
 		"geonameid": "128831"
 	},
 	{
-		"name": "Kāmyārān",
+		"name": "Kamyaran",
 		"country": "Iran",
-		"subcountry": "Kordestān",
+		"subcountry": "Kordestan",
 		"geonameid": "128905"
 	},
 	{
-		"name": "Kalāleh",
+		"name": "Kalaleh",
 		"country": "Iran",
-		"subcountry": "Golestān",
+		"subcountry": "Golestan",
 		"geonameid": "129512"
 	},
 	{
-		"name": "Jūybār",
+		"name": "Juybar",
 		"country": "Iran",
-		"subcountry": "Māzandarān",
+		"subcountry": "Mazandaran",
 		"geonameid": "129933"
 	},
 	{
-		"name": "Javānrūd",
+		"name": "Javanrud",
 		"country": "Iran",
-		"subcountry": "Kermānshāh",
+		"subcountry": "Kermanshah",
 		"geonameid": "130245"
 	},
 	{
-		"name": "Īlām",
+		"name": "Īlam",
 		"country": "Iran",
-		"subcountry": "Īlām",
+		"subcountry": "Īlam",
 		"geonameid": "130802"
 	},
 	{
 		"name": "Harsīn",
 		"country": "Iran",
-		"subcountry": "Kermānshāh",
+		"subcountry": "Kermanshah",
 		"geonameid": "131962"
 	},
 	{
-		"name": "Hamadān",
+		"name": "Hamadan",
 		"country": "Iran",
-		"subcountry": "Hamadān",
+		"subcountry": "Hamadan",
 		"geonameid": "132144"
 	},
 	{
-		"name": "Gorgān",
+		"name": "Gorgan",
 		"country": "Iran",
-		"subcountry": "Golestān",
+		"subcountry": "Golestan",
 		"geonameid": "132892"
 	},
 	{
-		"name": "Gonbad-e Kāvūs",
+		"name": "Gonbad-e Kavus",
 		"country": "Iran",
-		"subcountry": "Golestān",
+		"subcountry": "Golestan",
 		"geonameid": "132938"
 	},
 	{
-		"name": "Gonābād",
+		"name": "Gonabad",
 		"country": "Iran",
 		"subcountry": "Razavi Khorasan",
 		"geonameid": "132961"
 	},
 	{
-		"name": "Golpāyegān",
+		"name": "Golpayegan",
 		"country": "Iran",
 		"subcountry": "Isfahan",
 		"geonameid": "133037"
 	},
 	{
-		"name": "Gerāsh",
+		"name": "Gerash",
 		"country": "Iran",
 		"subcountry": "Fars",
 		"geonameid": "133595"
 	},
 	{
-		"name": "Bandar-e Ganāveh",
+		"name": "Bandar-e Ganaveh",
 		"country": "Iran",
 		"subcountry": "Bushehr",
 		"geonameid": "134217"
 	},
 	{
-		"name": "Fūman",
+		"name": "Fuman",
 		"country": "Iran",
-		"subcountry": "Gīlān",
+		"subcountry": "Gīlan",
 		"geonameid": "134441"
 	},
 	{
-		"name": "Fīrūzābād",
+		"name": "Fīruzabad",
 		"country": "Iran",
 		"subcountry": "Fars",
 		"geonameid": "134518"
 	},
 	{
-		"name": "Fereydūnkenār",
+		"name": "Fereydunkenar",
 		"country": "Iran",
-		"subcountry": "Māzandarān",
+		"subcountry": "Mazandaran",
 		"geonameid": "134602"
 	},
 	{
-		"name": "Fasā",
+		"name": "Fasa",
 		"country": "Iran",
 		"subcountry": "Fars",
 		"geonameid": "134721"
 	},
 	{
-		"name": "Fārsān",
+		"name": "Farsan",
 		"country": "Iran",
-		"subcountry": "Chahār Maḩāll va Bakhtīārī",
+		"subcountry": "Chahar Maḩall va Bakhtīarī",
 		"geonameid": "134762"
 	},
 	{
-		"name": "Esfarāyen",
+		"name": "Esfarayen",
 		"country": "Iran",
-		"subcountry": "Khorāsān-e Shomālī",
+		"subcountry": "Khorasan-e Shomalī",
 		"geonameid": "135298"
 	},
 	{
 		"name": "Shahrud",
 		"country": "Iran",
-		"subcountry": "Semnān",
+		"subcountry": "Semnan",
 		"geonameid": "135423"
 	},
 	{
 		"name": "Dogonbadan",
 		"country": "Iran",
-		"subcountry": "Kohgīlūyeh va Būyer Aḩmad",
+		"subcountry": "Kohgīluyeh va Buyer Aḩmad",
 		"geonameid": "136014"
 	},
 	{
-		"name": "Delījān",
+		"name": "Delījan",
 		"country": "Iran",
 		"subcountry": "Markazi",
 		"geonameid": "136399"
 	},
 	{
-		"name": "Dehlorān",
+		"name": "Dehloran",
 		"country": "Iran",
-		"subcountry": "Īlām",
+		"subcountry": "Īlam",
 		"geonameid": "136702"
 	},
 	{
 		"name": "Dehdasht",
 		"country": "Iran",
-		"subcountry": "Kohgīlūyeh va Būyer Aḩmad",
+		"subcountry": "Kohgīluyeh va Buyer Aḩmad",
 		"geonameid": "136987"
 	},
 	{
-		"name": "Sūsangerd",
+		"name": "Susangerd",
 		"country": "Iran",
 		"subcountry": "Khuzestan",
 		"geonameid": "137268"
@@ -68546,89 +68546,89 @@ const states = [
 	{
 		"name": "Darreh Shahr",
 		"country": "Iran",
-		"subcountry": "Īlām",
+		"subcountry": "Īlam",
 		"geonameid": "137436"
 	},
 	{
-		"name": "Dārāb",
+		"name": "Darab",
 		"country": "Iran",
 		"subcountry": "Fars",
 		"geonameid": "137956"
 	},
 	{
-		"name": "Dāmghān",
+		"name": "Damghan",
 		"country": "Iran",
-		"subcountry": "Semnān",
+		"subcountry": "Semnan",
 		"geonameid": "138025"
 	},
 	{
-		"name": "Damāvand",
+		"name": "Damavand",
 		"country": "Iran",
-		"subcountry": "Tehrān",
+		"subcountry": "Tehran",
 		"geonameid": "138042"
 	},
 	{
-		"name": "Chenārān",
+		"name": "Chenaran",
 		"country": "Iran",
 		"subcountry": "Razavi Khorasan",
 		"geonameid": "138742"
 	},
 	{
-		"name": "Chālūs",
+		"name": "Chalus",
 		"country": "Iran",
-		"subcountry": "Māzandarān",
+		"subcountry": "Mazandaran",
 		"geonameid": "139223"
 	},
 	{
-		"name": "Bandar-e Būshehr",
+		"name": "Bandar-e Bushehr",
 		"country": "Iran",
 		"subcountry": "Bushehr",
 		"geonameid": "139817"
 	},
 	{
-		"name": "Būkān",
+		"name": "Bukan",
 		"country": "Iran",
-		"subcountry": "Āz̄ārbāyjān-e Gharbī",
+		"subcountry": "Az̄arbayjan-e Gharbī",
 		"geonameid": "139889"
 	},
 	{
-		"name": "Borūjerd",
+		"name": "Borujerd",
 		"country": "Iran",
-		"subcountry": "Lorestān",
+		"subcountry": "Lorestan",
 		"geonameid": "140044"
 	},
 	{
-		"name": "Borūjen",
+		"name": "Borujen",
 		"country": "Iran",
-		"subcountry": "Chahār Maḩāll va Bakhtīārī",
+		"subcountry": "Chahar Maḩall va Bakhtīarī",
 		"geonameid": "140046"
 	},
 	{
-		"name": "Borāzjān",
+		"name": "Borazjan",
 		"country": "Iran",
 		"subcountry": "Bushehr",
 		"geonameid": "140097"
 	},
 	{
-		"name": "Bojnūrd",
+		"name": "Bojnurd",
 		"country": "Iran",
-		"subcountry": "Khorāsān-e Shomālī",
+		"subcountry": "Khorasan-e Shomalī",
 		"geonameid": "140380"
 	},
 	{
 		"name": "Bīrjand",
 		"country": "Iran",
-		"subcountry": "Khorāsān-e Jonūbī",
+		"subcountry": "Khorasan-e Jonubī",
 		"geonameid": "140463"
 	},
 	{
-		"name": "Bījār",
+		"name": "Bījar",
 		"country": "Iran",
-		"subcountry": "Kordestān",
+		"subcountry": "Kordestan",
 		"geonameid": "140521"
 	},
 	{
-		"name": "Bonāb",
+		"name": "Bonab",
 		"country": "Iran",
 		"subcountry": "East Azerbaijan",
 		"geonameid": "140889"
@@ -68636,19 +68636,19 @@ const states = [
 	{
 		"name": "Behshahr",
 		"country": "Iran",
-		"subcountry": "Māzandarān",
+		"subcountry": "Mazandaran",
 		"geonameid": "140918"
 	},
 	{
-		"name": "Behbahān",
+		"name": "Behbahan",
 		"country": "Iran",
 		"subcountry": "Khuzestan",
 		"geonameid": "140951"
 	},
 	{
-		"name": "Bāneh",
+		"name": "Baneh",
 		"country": "Iran",
-		"subcountry": "Kordestān",
+		"subcountry": "Kordestan",
 		"geonameid": "141584"
 	},
 	{
@@ -68660,11 +68660,11 @@ const states = [
 	{
 		"name": "Bandar-e Anzalī",
 		"country": "Iran",
-		"subcountry": "Gīlān",
+		"subcountry": "Gīlan",
 		"geonameid": "141679"
 	},
 	{
-		"name": "Bandar ‘Abbās",
+		"name": "Bandar ‘Abbas",
 		"country": "Iran",
 		"subcountry": "Hormozgan",
 		"geonameid": "141681"
@@ -68676,67 +68676,67 @@ const states = [
 		"geonameid": "141736"
 	},
 	{
-		"name": "Bahār",
+		"name": "Bahar",
 		"country": "Iran",
-		"subcountry": "Hamadān",
+		"subcountry": "Hamadan",
 		"geonameid": "142000"
 	},
 	{
-		"name": "Bāfq",
+		"name": "Bafq",
 		"country": "Iran",
 		"subcountry": "Yazd",
 		"geonameid": "142255"
 	},
 	{
-		"name": "Bābolsar",
+		"name": "Babolsar",
 		"country": "Iran",
-		"subcountry": "Māzandarān",
+		"subcountry": "Mazandaran",
 		"geonameid": "142358"
 	},
 	{
-		"name": "Bābol",
+		"name": "Babol",
 		"country": "Iran",
-		"subcountry": "Māzandarān",
+		"subcountry": "Mazandaran",
 		"geonameid": "142363"
 	},
 	{
-		"name": "Aznā",
+		"name": "Azna",
 		"country": "Iran",
-		"subcountry": "Lorestān",
+		"subcountry": "Lorestan",
 		"geonameid": "142496"
 	},
 	{
-		"name": "Hashtrūd",
+		"name": "Hashtrud",
 		"country": "Iran",
 		"subcountry": "East Azerbaijan",
 		"geonameid": "142554"
 	},
 	{
-		"name": "Āstārā",
+		"name": "Astara",
 		"country": "Iran",
-		"subcountry": "Gīlān",
+		"subcountry": "Gīlan",
 		"geonameid": "142676"
 	},
 	{
-		"name": "Āstāneh-ye Ashrafīyeh",
+		"name": "Astaneh-ye Ashrafīyeh",
 		"country": "Iran",
-		"subcountry": "Gīlān",
+		"subcountry": "Gīlan",
 		"geonameid": "142679"
 	},
 	{
-		"name": "Asadābād",
+		"name": "Asadabad",
 		"country": "Iran",
-		"subcountry": "Hamadān",
+		"subcountry": "Hamadan",
 		"geonameid": "142872"
 	},
 	{
-		"name": "Ardestān",
+		"name": "Ardestan",
 		"country": "Iran",
 		"subcountry": "Isfahan",
 		"geonameid": "143052"
 	},
 	{
-		"name": "Ardakān",
+		"name": "Ardakan",
 		"country": "Iran",
 		"subcountry": "Yazd",
 		"geonameid": "143073"
@@ -68748,15 +68748,15 @@ const states = [
 		"geonameid": "143083"
 	},
 	{
-		"name": "Arāk",
+		"name": "Arak",
 		"country": "Iran",
 		"subcountry": "Markazi",
 		"geonameid": "143127"
 	},
 	{
-		"name": "Āmol",
+		"name": "Amol",
 		"country": "Iran",
-		"subcountry": "Māzandarān",
+		"subcountry": "Mazandaran",
 		"geonameid": "143534"
 	},
 	{
@@ -68766,25 +68766,25 @@ const states = [
 		"geonameid": "143748"
 	},
 	{
-		"name": "Shahrīār",
+		"name": "Shahrīar",
 		"country": "Iran",
-		"subcountry": "Tehrān",
+		"subcountry": "Tehran",
 		"geonameid": "143860"
 	},
 	{
-		"name": "Alīgūdarz",
+		"name": "Alīgudarz",
 		"country": "Iran",
-		"subcountry": "Lorestān",
+		"subcountry": "Lorestan",
 		"geonameid": "143921"
 	},
 	{
 		"name": "Aleshtar",
 		"country": "Iran",
-		"subcountry": "Lorestān",
+		"subcountry": "Lorestan",
 		"geonameid": "144269"
 	},
 	{
-		"name": "Akbarābād",
+		"name": "Akbarabad",
 		"country": "Iran",
 		"subcountry": "Fars",
 		"geonameid": "144410"
@@ -68814,7 +68814,7 @@ const states = [
 		"geonameid": "144696"
 	},
 	{
-		"name": "Ābyek",
+		"name": "Abyek",
 		"country": "Iran",
 		"subcountry": "Markazi",
 		"geonameid": "144794"
@@ -68826,13 +68826,13 @@ const states = [
 		"geonameid": "145034"
 	},
 	{
-		"name": "Ābdānān",
+		"name": "Abdanan",
 		"country": "Iran",
-		"subcountry": "Īlām",
+		"subcountry": "Īlam",
 		"geonameid": "145233"
 	},
 	{
-		"name": "Ābādeh",
+		"name": "Abadeh",
 		"country": "Iran",
 		"subcountry": "Fars",
 		"geonameid": "145449"
@@ -68844,31 +68844,31 @@ const states = [
 		"geonameid": "145459"
 	},
 	{
-		"name": "Eqbālīyeh",
+		"name": "Eqbalīyeh",
 		"country": "Iran",
-		"subcountry": "Tehrān",
+		"subcountry": "Tehran",
 		"geonameid": "406993"
 	},
 	{
-		"name": "Shāhreẕā",
+		"name": "Shahreẕa",
 		"country": "Iran",
 		"subcountry": "Isfahan",
 		"geonameid": "417594"
 	},
 	{
-		"name": "Rehnān",
+		"name": "Rehnan",
 		"country": "Iran",
 		"subcountry": "Isfahan",
 		"geonameid": "418521"
 	},
 	{
-		"name": "Qahderījān",
+		"name": "Qahderījan",
 		"country": "Iran",
 		"subcountry": "Isfahan",
 		"geonameid": "418571"
 	},
 	{
-		"name": "Najafābād",
+		"name": "Najafabad",
 		"country": "Iran",
 		"subcountry": "Isfahan",
 		"geonameid": "418606"
@@ -68880,13 +68880,13 @@ const states = [
 		"geonameid": "418710"
 	},
 	{
-		"name": "Kelīshād va Sūdarjān",
+		"name": "Kelīshad va Sudarjan",
 		"country": "Iran",
 		"subcountry": "Isfahan",
 		"geonameid": "418723"
 	},
 	{
-		"name": "Falāvarjān",
+		"name": "Falavarjan",
 		"country": "Iran",
 		"subcountry": "Isfahan",
 		"geonameid": "418851"
@@ -68898,19 +68898,19 @@ const states = [
 		"geonameid": "418863"
 	},
 	{
-		"name": "Dowlatābād",
+		"name": "Dowlatabad",
 		"country": "Iran",
 		"subcountry": "Isfahan",
 		"geonameid": "418868"
 	},
 	{
-		"name": "Dorcheh Pīāz",
+		"name": "Dorcheh Pīaz",
 		"country": "Iran",
 		"subcountry": "Isfahan",
 		"geonameid": "418896"
 	},
 	{
-		"name": "Zābol",
+		"name": "Zabol",
 		"country": "Iran",
 		"subcountry": "Sistan and Baluchestan",
 		"geonameid": "1113217"
@@ -68922,13 +68922,13 @@ const states = [
 		"geonameid": "1159301"
 	},
 	{
-		"name": "Torbat-e Jām",
+		"name": "Torbat-e Jam",
 		"country": "Iran",
 		"subcountry": "Razavi Khorasan",
 		"geonameid": "1159362"
 	},
 	{
-		"name": "Tāybād",
+		"name": "Taybad",
 		"country": "Iran",
 		"subcountry": "Razavi Khorasan",
 		"geonameid": "1159384"
@@ -68946,13 +68946,13 @@ const states = [
 		"geonameid": "1159877"
 	},
 	{
-		"name": "Khāsh",
+		"name": "Khash",
 		"country": "Iran",
 		"subcountry": "Sistan and Baluchestan",
 		"geonameid": "1160571"
 	},
 	{
-		"name": "Īrānshahr",
+		"name": "Īranshahr",
 		"country": "Iran",
 		"subcountry": "Sistan and Baluchestan",
 		"geonameid": "1160939"
@@ -68966,13 +68966,13 @@ const states = [
 	{
 		"name": "Mahdishahr",
 		"country": "Iran",
-		"subcountry": "Semnān",
+		"subcountry": "Semnan",
 		"geonameid": "7100777"
 	},
 	{
 		"name": "Pasragad Branch",
 		"country": "Iran",
-		"subcountry": "Hamadān",
+		"subcountry": "Hamadan",
 		"geonameid": "10630176"
 	},
 	{
@@ -68994,7 +68994,7 @@ const states = [
 		"geonameid": "3415212"
 	},
 	{
-		"name": "Hafnarfjörður",
+		"name": "Hafnarfjorður",
 		"country": "Iceland",
 		"subcountry": "Capital Region",
 		"geonameid": "3416706"
@@ -72498,25 +72498,25 @@ const states = [
 		"geonameid": "3490165"
 	},
 	{
-		"name": "Wādī as Sīr",
+		"name": "Wadī as Sīr",
 		"country": "Jordan",
 		"subcountry": "Amman",
 		"geonameid": "246013"
 	},
 	{
-		"name": "Umm as Summāq",
+		"name": "Umm as Summaq",
 		"country": "Jordan",
 		"subcountry": "Amman",
 		"geonameid": "246314"
 	},
 	{
-		"name": "Saḩāb",
+		"name": "Saḩab",
 		"country": "Jordan",
 		"subcountry": "Amman",
 		"geonameid": "247105"
 	},
 	{
-		"name": "Mādabā",
+		"name": "Madaba",
 		"country": "Jordan",
 		"subcountry": "Madaba",
 		"geonameid": "248370"
@@ -72546,7 +72546,7 @@ const states = [
 		"geonameid": "248875"
 	},
 	{
-		"name": "‘Izrā",
+		"name": "‘Izra",
 		"country": "Jordan",
 		"subcountry": "Karak",
 		"geonameid": "248923"
@@ -72564,7 +72564,7 @@ const states = [
 		"geonameid": "250090"
 	},
 	{
-		"name": "Aydūn",
+		"name": "Aydun",
 		"country": "Jordan",
 		"subcountry": "Irbid",
 		"geonameid": "250152"
@@ -72588,7 +72588,7 @@ const states = [
 		"geonameid": "250267"
 	},
 	{
-		"name": "Ar Ramthā",
+		"name": "Ar Ramtha",
 		"country": "Jordan",
 		"subcountry": "Irbid",
 		"geonameid": "250336"
@@ -72618,7 +72618,7 @@ const states = [
 		"geonameid": "250582"
 	},
 	{
-		"name": "Qīr Moāv",
+		"name": "Qīr Moav",
 		"country": "Jordan",
 		"subcountry": "Ma’an",
 		"geonameid": "250624"
@@ -72636,7 +72636,7 @@ const states = [
 		"geonameid": "250774"
 	},
 	{
-		"name": "‘Ajlūn",
+		"name": "‘Ajlun",
 		"country": "Jordan",
 		"subcountry": "Ajlun",
 		"geonameid": "250799"
@@ -72654,7 +72654,7 @@ const states = [
 		"geonameid": "7838895"
 	},
 	{
-		"name": "Shingū",
+		"name": "Shingu",
 		"country": "Japan",
 		"subcountry": "Wakayama",
 		"geonameid": "1847947"
@@ -72702,7 +72702,7 @@ const states = [
 		"geonameid": "1848087"
 	},
 	{
-		"name": "Yūki",
+		"name": "Yuki",
 		"country": "Japan",
 		"subcountry": "Ibaraki",
 		"geonameid": "1848096"
@@ -73542,7 +73542,7 @@ const states = [
 		"geonameid": "1852102"
 	},
 	{
-		"name": "Shingū",
+		"name": "Shingu",
 		"country": "Japan",
 		"subcountry": "Fukuoka",
 		"geonameid": "1852109"
@@ -73758,7 +73758,7 @@ const states = [
 		"geonameid": "1853338"
 	},
 	{
-		"name": "Ryūō",
+		"name": "Ryuō",
 		"country": "Japan",
 		"subcountry": "Yamanashi",
 		"geonameid": "1853354"
@@ -73992,7 +73992,7 @@ const states = [
 		"geonameid": "1854849"
 	},
 	{
-		"name": "Nyūzen",
+		"name": "Nyuzen",
 		"country": "Japan",
 		"subcountry": "Toyama",
 		"geonameid": "1854868"
@@ -74496,7 +74496,7 @@ const states = [
 		"geonameid": "1857843"
 	},
 	{
-		"name": "Maebaru-chūō",
+		"name": "Maebaru-chuō",
 		"country": "Japan",
 		"subcountry": "Fukuoka",
 		"geonameid": "1857844"
@@ -74574,7 +74574,7 @@ const states = [
 		"geonameid": "1858428"
 	},
 	{
-		"name": "Kukichūō",
+		"name": "Kukichuō",
 		"country": "Japan",
 		"subcountry": "Saitama",
 		"geonameid": "1858445"
@@ -74742,7 +74742,7 @@ const states = [
 		"geonameid": "1859400"
 	},
 	{
-		"name": "Kiryū",
+		"name": "Kiryu",
 		"country": "Japan",
 		"subcountry": "Gunma",
 		"geonameid": "1859405"
@@ -75252,7 +75252,7 @@ const states = [
 		"geonameid": "1861799"
 	},
 	{
-		"name": "Ijūin",
+		"name": "Ijuin",
 		"country": "Japan",
 		"subcountry": "Kagoshima",
 		"geonameid": "1861825"
@@ -75444,7 +75444,7 @@ const states = [
 		"geonameid": "1863082"
 	},
 	{
-		"name": "Hanyū",
+		"name": "Hanyu",
 		"country": "Japan",
 		"subcountry": "Saitama",
 		"geonameid": "1863173"
@@ -75714,7 +75714,7 @@ const states = [
 		"geonameid": "1864134"
 	},
 	{
-		"name": "Fuchūchō",
+		"name": "Fuchuchō",
 		"country": "Japan",
 		"subcountry": "Hiroshima",
 		"geonameid": "1864155"
@@ -75738,7 +75738,7 @@ const states = [
 		"geonameid": "1864518"
 	},
 	{
-		"name": "Chiryū",
+		"name": "Chiryu",
 		"country": "Japan",
 		"subcountry": "Aichi",
 		"geonameid": "1864549"
@@ -76200,7 +76200,7 @@ const states = [
 		"geonameid": "2111248"
 	},
 	{
-		"name": "Ryūgasaki",
+		"name": "Ryugasaki",
 		"country": "Japan",
 		"subcountry": "Ibaraki",
 		"geonameid": "2111258"
@@ -77396,7 +77396,7 @@ const states = [
 	{
 		"name": "Balykchy",
 		"country": "Kyrgyzstan",
-		"subcountry": "Ysyk-Köl",
+		"subcountry": "Ysyk-Kol",
 		"geonameid": "1527004"
 	},
 	{
@@ -77420,7 +77420,7 @@ const states = [
 	{
 		"name": "Kyzyl-Suu",
 		"country": "Kyrgyzstan",
-		"subcountry": "Ysyk-Köl",
+		"subcountry": "Ysyk-Kol",
 		"geonameid": "1527497"
 	},
 	{
@@ -77456,7 +77456,7 @@ const states = [
 	{
 		"name": "Karakol",
 		"country": "Kyrgyzstan",
-		"subcountry": "Ysyk-Köl",
+		"subcountry": "Ysyk-Kol",
 		"geonameid": "1528121"
 	},
 	{
@@ -77486,7 +77486,7 @@ const states = [
 	{
 		"name": "Cholpon-Ata",
 		"country": "Kyrgyzstan",
-		"subcountry": "Ysyk-Köl",
+		"subcountry": "Ysyk-Kol",
 		"geonameid": "1528512"
 	},
 	{
@@ -78756,7 +78756,7 @@ const states = [
 		"geonameid": "6903078"
 	},
 	{
-		"name": "Janūb as Surrah",
+		"name": "Janub as Surrah",
 		"country": "Kuwait",
 		"subcountry": "Al Farwaniyah",
 		"geonameid": "285603"
@@ -78764,25 +78764,25 @@ const states = [
 	{
 		"name": "Ḩawallī",
 		"country": "Kuwait",
-		"subcountry": "Muḩāfaz̧at Ḩawallī",
+		"subcountry": "Muḩafaz̧at Ḩawallī",
 		"geonameid": "285629"
 	},
 	{
-		"name": "Bayān",
+		"name": "Bayan",
 		"country": "Kuwait",
 		"subcountry": "N/A",
 		"geonameid": "285663"
 	},
 	{
-		"name": "As Sālimīyah",
+		"name": "As Salimīyah",
 		"country": "Kuwait",
-		"subcountry": "Muḩāfaz̧at Ḩawallī",
+		"subcountry": "Muḩafaz̧at Ḩawallī",
 		"geonameid": "285704"
 	},
 	{
 		"name": "Ar Rumaythīyah",
 		"country": "Kuwait",
-		"subcountry": "Muḩāfaz̧at Ḩawallī",
+		"subcountry": "Muḩafaz̧at Ḩawallī",
 		"geonameid": "285726"
 	},
 	{
@@ -78798,7 +78798,7 @@ const states = [
 		"geonameid": "285778"
 	},
 	{
-		"name": "Al Mahbūlah",
+		"name": "Al Mahbulah",
 		"country": "Kuwait",
 		"subcountry": "Al Aḩmadī",
 		"geonameid": "285782"
@@ -78810,25 +78810,25 @@ const states = [
 		"geonameid": "285787"
 	},
 	{
-		"name": "Al Jahrā’",
+		"name": "Al Jahra’",
 		"country": "Kuwait",
-		"subcountry": "Al Jahrāʼ",
+		"subcountry": "Al Jahraʼ",
 		"geonameid": "285799"
 	},
 	{
-		"name": "Al Faḩāḩīl",
+		"name": "Al Faḩaḩīl",
 		"country": "Kuwait",
 		"subcountry": "Al Aḩmadī",
 		"geonameid": "285811"
 	},
 	{
-		"name": "Al Finţās",
+		"name": "Al Finţas",
 		"country": "Kuwait",
 		"subcountry": "Al Aḩmadī",
 		"geonameid": "285812"
 	},
 	{
-		"name": "Al Farwānīyah",
+		"name": "Al Farwanīyah",
 		"country": "Kuwait",
 		"subcountry": "Al Farwaniyah",
 		"geonameid": "285815"
@@ -78848,19 +78848,19 @@ const states = [
 	{
 		"name": "Salwá",
 		"country": "Kuwait",
-		"subcountry": "Muḩāfaz̧at Ḩawallī",
+		"subcountry": "Muḩafaz̧at Ḩawallī",
 		"geonameid": "387958"
 	},
 	{
-		"name": "Ar Rābiyah",
+		"name": "Ar Rabiyah",
 		"country": "Kuwait",
 		"subcountry": "Al Asimah",
 		"geonameid": "388065"
 	},
 	{
-		"name": "Şabāḩ as Sālim",
+		"name": "Şabaḩ as Salim",
 		"country": "Kuwait",
-		"subcountry": "Mubārak al Kabīr",
+		"subcountry": "Mubarak al Kabīr",
 		"geonameid": "412800"
 	},
 	{
@@ -78872,19 +78872,19 @@ const states = [
 	{
 		"name": "Zhanaozen",
 		"country": "Kazakhstan",
-		"subcountry": "Mangghystaū",
+		"subcountry": "Mangghystau",
 		"geonameid": "607610"
 	},
 	{
 		"name": "Shalqar",
 		"country": "Kazakhstan",
-		"subcountry": "Aqtöbe",
+		"subcountry": "Aqtobe",
 		"geonameid": "608359"
 	},
 	{
 		"name": "Shalkar",
 		"country": "Kazakhstan",
-		"subcountry": "Atyraū",
+		"subcountry": "Atyrau",
 		"geonameid": "608362"
 	},
 	{
@@ -78896,19 +78896,19 @@ const states = [
 	{
 		"name": "Kandyagash",
 		"country": "Kazakhstan",
-		"subcountry": "Aqtöbe",
+		"subcountry": "Aqtobe",
 		"geonameid": "608679"
 	},
 	{
 		"name": "Qulsary",
 		"country": "Kazakhstan",
-		"subcountry": "Atyraū",
+		"subcountry": "Atyrau",
 		"geonameid": "609123"
 	},
 	{
 		"name": "Khromtau",
 		"country": "Kazakhstan",
-		"subcountry": "Aqtöbe",
+		"subcountry": "Aqtobe",
 		"geonameid": "609404"
 	},
 	{
@@ -78920,31 +78920,31 @@ const states = [
 	{
 		"name": "Embi",
 		"country": "Kazakhstan",
-		"subcountry": "Aqtöbe",
+		"subcountry": "Aqtobe",
 		"geonameid": "609924"
 	},
 	{
 		"name": "Balyqshy",
 		"country": "Kazakhstan",
-		"subcountry": "Atyraū",
+		"subcountry": "Atyrau",
 		"geonameid": "610445"
 	},
 	{
 		"name": "Atyrau",
 		"country": "Kazakhstan",
-		"subcountry": "Atyraū",
+		"subcountry": "Atyrau",
 		"geonameid": "610529"
 	},
 	{
-		"name": "Aqtöbe",
+		"name": "Aqtobe",
 		"country": "Kazakhstan",
-		"subcountry": "Aqtöbe",
+		"subcountry": "Aqtobe",
 		"geonameid": "610611"
 	},
 	{
 		"name": "Aktau",
 		"country": "Kazakhstan",
-		"subcountry": "Mangghystaū",
+		"subcountry": "Mangghystau",
 		"geonameid": "610612"
 	},
 	{
@@ -79038,7 +79038,7 @@ const states = [
 		"geonameid": "1518296"
 	},
 	{
-		"name": "Tasböget",
+		"name": "Tasboget",
 		"country": "Kazakhstan",
 		"subcountry": "Qyzylorda",
 		"geonameid": "1518431"
@@ -79080,7 +79080,7 @@ const states = [
 		"geonameid": "1519226"
 	},
 	{
-		"name": "Shchūchīnsk",
+		"name": "Shchuchīnsk",
 		"country": "Kazakhstan",
 		"subcountry": "Soltüstik Qazaqstan",
 		"geonameid": "1519244"
@@ -79440,7 +79440,7 @@ const states = [
 		"geonameid": "268064"
 	},
 	{
-		"name": "Ra’s Bayrūt",
+		"name": "Ra’s Bayrut",
 		"country": "Lebanon",
 		"subcountry": "Beyrouth",
 		"geonameid": "268743"
@@ -79460,7 +79460,7 @@ const states = [
 	{
 		"name": "Habboûch",
 		"country": "Lebanon",
-		"subcountry": "Nabatîyé",
+		"subcountry": "Nabatiyé",
 		"geonameid": "274874"
 	},
 	{
@@ -79488,9 +79488,9 @@ const states = [
 		"geonameid": "278832"
 	},
 	{
-		"name": "Nabatîyé et Tahta",
+		"name": "Nabatiyé et Tahta",
 		"country": "Lebanon",
-		"subcountry": "Nabatîyé",
+		"subcountry": "Nabatiyé",
 		"geonameid": "278913"
 	},
 	{
@@ -80166,9 +80166,9 @@ const states = [
 		"geonameid": "454310"
 	},
 	{
-		"name": "Vec-Liepāja",
+		"name": "Vec-Liepaja",
 		"country": "Latvia",
-		"subcountry": "Liepāja",
+		"subcountry": "Liepaja",
 		"geonameid": "454432"
 	},
 	{
@@ -80202,15 +80202,15 @@ const states = [
 		"geonameid": "457065"
 	},
 	{
-		"name": "Liepāja",
+		"name": "Liepaja",
 		"country": "Latvia",
-		"subcountry": "Liepāja",
+		"subcountry": "Liepaja",
 		"geonameid": "457954"
 	},
 	{
-		"name": "Jūrmala",
+		"name": "Jurmala",
 		"country": "Latvia",
-		"subcountry": "Jūrmala",
+		"subcountry": "Jurmala",
 		"geonameid": "459201"
 	},
 	{
@@ -80240,13 +80240,13 @@ const states = [
 	{
 		"name": "Tobruk",
 		"country": "Libya",
-		"subcountry": "Sha‘bīyat al Buţnān",
+		"subcountry": "Sha‘bīyat al Buţnan",
 		"geonameid": "81302"
 	},
 	{
-		"name": "Sulūq",
+		"name": "Suluq",
 		"country": "Libya",
-		"subcountry": "Banghāzī",
+		"subcountry": "Banghazī",
 		"geonameid": "81604"
 	},
 	{
@@ -80258,23 +80258,23 @@ const states = [
 	{
 		"name": "Benghazi",
 		"country": "Libya",
-		"subcountry": "Banghāzī",
+		"subcountry": "Banghazī",
 		"geonameid": "88319"
 	},
 	{
 		"name": "Az Zuwaytīnah",
 		"country": "Libya",
-		"subcountry": "Sha‘bīyat al Wāḩāt",
+		"subcountry": "Sha‘bīyat al Waḩat",
 		"geonameid": "88380"
 	},
 	{
-		"name": "At Tāj",
+		"name": "At Taj",
 		"country": "Libya",
 		"subcountry": "Al Kufrah",
 		"geonameid": "88562"
 	},
 	{
-		"name": "Tūkrah",
+		"name": "Tukrah",
 		"country": "Libya",
 		"subcountry": "Al Marj",
 		"geonameid": "88834"
@@ -80298,13 +80298,13 @@ const states = [
 		"geonameid": "88962"
 	},
 	{
-		"name": "Al Bayḑā’",
+		"name": "Al Bayḑa’",
 		"country": "Libya",
 		"subcountry": "Al Jabal al Akhḑar",
 		"geonameid": "89055"
 	},
 	{
-		"name": "Al Abyār",
+		"name": "Al Abyar",
 		"country": "Libya",
 		"subcountry": "Al Marj",
 		"geonameid": "89087"
@@ -80312,25 +80312,25 @@ const states = [
 	{
 		"name": "Ajdabiya",
 		"country": "Libya",
-		"subcountry": "Sha‘bīyat al Wāḩāt",
+		"subcountry": "Sha‘bīyat al Waḩat",
 		"geonameid": "89113"
 	},
 	{
-		"name": "Zuwārah",
+		"name": "Zuwarah",
 		"country": "Libya",
-		"subcountry": "An Nuqāţ al Khams",
+		"subcountry": "An Nuqaţ al Khams",
 		"geonameid": "2208425"
 	},
 	{
 		"name": "Zliten",
 		"country": "Libya",
-		"subcountry": "Mişrātah",
+		"subcountry": "Mişratah",
 		"geonameid": "2208485"
 	},
 	{
 		"name": "Zalţan",
 		"country": "Libya",
-		"subcountry": "An Nuqāţ al Khams",
+		"subcountry": "An Nuqaţ al Khams",
 		"geonameid": "2208655"
 	},
 	{
@@ -80340,7 +80340,7 @@ const states = [
 		"geonameid": "2208791"
 	},
 	{
-		"name": "Waddān",
+		"name": "Waddan",
 		"country": "Libya",
 		"subcountry": "Al Jufrah",
 		"geonameid": "2209055"
@@ -80370,27 +80370,27 @@ const states = [
 		"geonameid": "2210554"
 	},
 	{
-		"name": "Şurmān",
+		"name": "Şurman",
 		"country": "Libya",
-		"subcountry": "Az Zāwiyah",
+		"subcountry": "Az Zawiyah",
 		"geonameid": "2210560"
 	},
 	{
-		"name": "Şabrātah",
+		"name": "Şabratah",
 		"country": "Libya",
-		"subcountry": "Az Zāwiyah",
+		"subcountry": "Az Zawiyah",
 		"geonameid": "2212771"
 	},
 	{
-		"name": "Sabhā",
+		"name": "Sabha",
 		"country": "Libya",
-		"subcountry": "Sabhā",
+		"subcountry": "Sabha",
 		"geonameid": "2212775"
 	},
 	{
-		"name": "Nālūt",
+		"name": "Nalut",
 		"country": "Libya",
-		"subcountry": "Sha‘bīyat Nālūt",
+		"subcountry": "Sha‘bīyat Nalut",
 		"geonameid": "2214433"
 	},
 	{
@@ -80406,19 +80406,19 @@ const states = [
 		"geonameid": "2214827"
 	},
 	{
-		"name": "Mişrātah",
+		"name": "Mişratah",
 		"country": "Libya",
-		"subcountry": "Mişrātah",
+		"subcountry": "Mişratah",
 		"geonameid": "2214846"
 	},
 	{
-		"name": "Masallātah",
+		"name": "Masallatah",
 		"country": "Libya",
 		"subcountry": "Al Marqab",
 		"geonameid": "2215163"
 	},
 	{
-		"name": "Hūn",
+		"name": "Hun",
 		"country": "Libya",
 		"subcountry": "Al Jufrah",
 		"geonameid": "2216645"
@@ -80426,13 +80426,13 @@ const states = [
 	{
 		"name": "Zawiya",
 		"country": "Libya",
-		"subcountry": "Az Zāwiyah",
+		"subcountry": "Az Zawiyah",
 		"geonameid": "2216885"
 	},
 	{
 		"name": "Ghat",
 		"country": "Libya",
-		"subcountry": "Sha‘bīyat Ghāt",
+		"subcountry": "Sha‘bīyat Ghat",
 		"geonameid": "2217351"
 	},
 	{
@@ -80444,31 +80444,31 @@ const states = [
 	{
 		"name": "Brak",
 		"country": "Libya",
-		"subcountry": "Ash Shāţiʼ",
+		"subcountry": "Ash Shaţiʼ",
 		"geonameid": "2218478"
 	},
 	{
 		"name": "Banī Walīd",
 		"country": "Libya",
-		"subcountry": "Mişrātah",
+		"subcountry": "Mişratah",
 		"geonameid": "2218840"
 	},
 	{
-		"name": "Az Zintān",
+		"name": "Az Zintan",
 		"country": "Libya",
 		"subcountry": "Sha‘bīyat al Jabal al Gharbī",
 		"geonameid": "2218963"
 	},
 	{
-		"name": "Az Zāwīyah",
+		"name": "Az Zawīyah",
 		"country": "Libya",
-		"subcountry": "Az Zāwiyah",
+		"subcountry": "Az Zawiyah",
 		"geonameid": "2218970"
 	},
 	{
-		"name": "Awbārī",
+		"name": "Awbarī",
 		"country": "Libya",
-		"subcountry": "Sha‘bīyat Wādī al Ḩayāt",
+		"subcountry": "Sha‘bīyat Wadī al Ḩayat",
 		"geonameid": "2219235"
 	},
 	{
@@ -80480,7 +80480,7 @@ const states = [
 	{
 		"name": "Al Jadīd",
 		"country": "Libya",
-		"subcountry": "Sabhā",
+		"subcountry": "Sabha",
 		"geonameid": "2219960"
 	},
 	{
@@ -80508,7 +80508,7 @@ const states = [
 		"geonameid": "2527089"
 	},
 	{
-		"name": "Tirhanimîne",
+		"name": "Tirhanimine",
 		"country": "Morocco",
 		"subcountry": "Taza-Al Hoceima-Taounate",
 		"geonameid": "2527645"
@@ -80522,7 +80522,7 @@ const states = [
 	{
 		"name": "Tiflet",
 		"country": "Morocco",
-		"subcountry": "Rabat-Salé-Zemmour-Zaër",
+		"subcountry": "Rabat-Salé-Zemmour-Zaer",
 		"geonameid": "2528659"
 	},
 	{
@@ -80624,7 +80624,7 @@ const states = [
 	{
 		"name": "Sale",
 		"country": "Morocco",
-		"subcountry": "Rabat-Salé-Zemmour-Zaër",
+		"subcountry": "Rabat-Salé-Zemmour-Zaer",
 		"geonameid": "2537763"
 	},
 	{
@@ -80636,7 +80636,7 @@ const states = [
 	{
 		"name": "Rabat",
 		"country": "Morocco",
-		"subcountry": "Rabat-Salé-Zemmour-Zaër",
+		"subcountry": "Rabat-Salé-Zemmour-Zaer",
 		"geonameid": "2538475"
 	},
 	{
@@ -80870,7 +80870,7 @@ const states = [
 	{
 		"name": "Khemisset",
 		"country": "Morocco",
-		"subcountry": "Rabat-Salé-Zemmour-Zaër",
+		"subcountry": "Rabat-Salé-Zemmour-Zaer",
 		"geonameid": "2558470"
 	},
 	{
@@ -80894,7 +80894,7 @@ const states = [
 	{
 		"name": "Skhirate",
 		"country": "Morocco",
-		"subcountry": "Rabat-Salé-Zemmour-Zaër",
+		"subcountry": "Rabat-Salé-Zemmour-Zaer",
 		"geonameid": "2562055"
 	},
 	{
@@ -80936,7 +80936,7 @@ const states = [
 	{
 		"name": "Tiraspolul",
 		"country": "Moldova",
-		"subcountry": "Stînga Nistrului",
+		"subcountry": "Stinga Nistrului",
 		"geonameid": "617239"
 	},
 	{
@@ -80948,7 +80948,7 @@ const states = [
 	{
 		"name": "Bilicenii Vechi",
 		"country": "Moldova",
-		"subcountry": "Sîngerei",
+		"subcountry": "Singerei",
 		"geonameid": "617345"
 	},
 	{
@@ -80960,13 +80960,13 @@ const states = [
 	{
 		"name": "Slobozia",
 		"country": "Moldova",
-		"subcountry": "Stînga Nistrului",
+		"subcountry": "Stinga Nistrului",
 		"geonameid": "617381"
 	},
 	{
-		"name": "Rîbniţa",
+		"name": "Ribniţa",
 		"country": "Moldova",
-		"subcountry": "Stînga Nistrului",
+		"subcountry": "Stinga Nistrului",
 		"geonameid": "617486"
 	},
 	{
@@ -80976,9 +80976,9 @@ const states = [
 		"geonameid": "617638"
 	},
 	{
-		"name": "Hînceşti",
+		"name": "Hinceşti",
 		"country": "Moldova",
-		"subcountry": "Hînceşti",
+		"subcountry": "Hinceşti",
 		"geonameid": "617993"
 	},
 	{
@@ -81018,7 +81018,7 @@ const states = [
 		"geonameid": "618426"
 	},
 	{
-		"name": "Ceadîr-Lunga",
+		"name": "Ceadir-Lunga",
 		"country": "Moldova",
 		"subcountry": "Găgăuzia",
 		"geonameid": "618450"
@@ -82350,9 +82350,9 @@ const states = [
 		"geonameid": "1515029"
 	},
 	{
-		"name": "Ölgiy",
+		"name": "Olgiy",
 		"country": "Mongolia",
-		"subcountry": "Bayan-Ölgiy",
+		"subcountry": "Bayan-Olgiy",
 		"geonameid": "1515436"
 	},
 	{
@@ -82382,7 +82382,7 @@ const states = [
 	{
 		"name": "Murun-kuren",
 		"country": "Mongolia",
-		"subcountry": "Hövsgöl",
+		"subcountry": "Hovsgol",
 		"geonameid": "2029945"
 	},
 	{
@@ -82394,7 +82394,7 @@ const states = [
 	{
 		"name": "Hovd",
 		"country": "Mongolia",
-		"subcountry": "Övörhangay",
+		"subcountry": "Ovorhangay",
 		"geonameid": "2030474"
 	},
 	{
@@ -82418,7 +82418,7 @@ const states = [
 	{
 		"name": "Dalandzadgad",
 		"country": "Mongolia",
-		"subcountry": "Ömnögovĭ",
+		"subcountry": "Omnogovĭ",
 		"geonameid": "2032007"
 	},
 	{
@@ -82454,7 +82454,7 @@ const states = [
 	{
 		"name": "Arvayheer",
 		"country": "Mongolia",
-		"subcountry": "Övörhangay",
+		"subcountry": "Ovorhangay",
 		"geonameid": "2032814"
 	},
 	{
@@ -82506,7 +82506,7 @@ const states = [
 		"geonameid": "3570428"
 	},
 	{
-		"name": "Le François",
+		"name": "Le Francois",
 		"country": "Martinique",
 		"subcountry": "Martinique",
 		"geonameid": "3570429"
@@ -87072,7 +87072,7 @@ const states = [
 		"geonameid": "1037370"
 	},
 	{
-		"name": "Ilha de Moçambique",
+		"name": "Ilha de Mocambique",
 		"country": "Mozambique",
 		"subcountry": "Nampula",
 		"geonameid": "1037390"
@@ -90804,7 +90804,7 @@ const states = [
 		"geonameid": "3162955"
 	},
 	{
-		"name": "Ålesund",
+		"name": "Alesund",
 		"country": "Norway",
 		"subcountry": "Møre og Romsdal",
 		"geonameid": "3163392"
@@ -90822,7 +90822,7 @@ const states = [
 		"geonameid": "6697344"
 	},
 	{
-		"name": "Wāling",
+		"name": "Waling",
 		"country": "Nepal",
 		"subcountry": "Western Region",
 		"geonameid": "1282616"
@@ -90834,25 +90834,25 @@ const states = [
 		"geonameid": "1282635"
 	},
 	{
-		"name": "Tīkāpur",
+		"name": "Tīkapur",
 		"country": "Nepal",
 		"subcountry": "Far Western",
 		"geonameid": "1282666"
 	},
 	{
-		"name": "Tānsen",
+		"name": "Tansen",
 		"country": "Nepal",
 		"subcountry": "Western Region",
 		"geonameid": "1282714"
 	},
 	{
-		"name": "Sirāhā",
+		"name": "Siraha",
 		"country": "Nepal",
 		"subcountry": "Eastern Region",
 		"geonameid": "1282770"
 	},
 	{
-		"name": "Rājbirāj",
+		"name": "Rajbiraj",
 		"country": "Nepal",
 		"subcountry": "Eastern Region",
 		"geonameid": "1282884"
@@ -90864,7 +90864,7 @@ const states = [
 		"geonameid": "1282898"
 	},
 	{
-		"name": "Pātan",
+		"name": "Patan",
 		"country": "Nepal",
 		"subcountry": "Central Region",
 		"geonameid": "1282931"
@@ -90888,7 +90888,7 @@ const states = [
 		"geonameid": "1283095"
 	},
 	{
-		"name": "Lahān",
+		"name": "Lahan",
 		"country": "Nepal",
 		"subcountry": "Eastern Region",
 		"geonameid": "1283161"
@@ -90900,7 +90900,7 @@ const states = [
 		"geonameid": "1283190"
 	},
 	{
-		"name": "Khāndbāri",
+		"name": "Khandbari",
 		"country": "Nepal",
 		"subcountry": "Eastern Region",
 		"geonameid": "1283217"
@@ -90930,7 +90930,7 @@ const states = [
 		"geonameid": "1283329"
 	},
 	{
-		"name": "Ilām",
+		"name": "Ilam",
 		"country": "Nepal",
 		"subcountry": "Eastern Region",
 		"geonameid": "1283333"
@@ -90942,7 +90942,7 @@ const states = [
 		"geonameid": "1283339"
 	},
 	{
-		"name": "Gulariyā",
+		"name": "Gulariya",
 		"country": "Nepal",
 		"subcountry": "Mid Western",
 		"geonameid": "1283368"
@@ -90954,13 +90954,13 @@ const states = [
 		"geonameid": "1283401"
 	},
 	{
-		"name": "Dharān Bāzār",
+		"name": "Dharan Bazar",
 		"country": "Nepal",
 		"subcountry": "Eastern Region",
 		"geonameid": "1283460"
 	},
 	{
-		"name": "Dhankutā",
+		"name": "Dhankuta",
 		"country": "Nepal",
 		"subcountry": "Eastern Region",
 		"geonameid": "1283465"
@@ -90972,7 +90972,7 @@ const states = [
 		"geonameid": "1283467"
 	},
 	{
-		"name": "Dārchulā",
+		"name": "Darchula",
 		"country": "Nepal",
 		"subcountry": "Western Region",
 		"geonameid": "1283484"
@@ -90984,13 +90984,13 @@ const states = [
 		"geonameid": "1283496"
 	},
 	{
-		"name": "Dadeldhurā",
+		"name": "Dadeldhura",
 		"country": "Nepal",
 		"subcountry": "Far Western",
 		"geonameid": "1283499"
 	},
 	{
-		"name": "Butwāl",
+		"name": "Butwal",
 		"country": "Nepal",
 		"subcountry": "Western Region",
 		"geonameid": "1283562"
@@ -91002,7 +91002,7 @@ const states = [
 		"geonameid": "1283581"
 	},
 	{
-		"name": "Birātnagar",
+		"name": "Biratnagar",
 		"country": "Nepal",
 		"subcountry": "Eastern Region",
 		"geonameid": "1283582"
@@ -91014,7 +91014,7 @@ const states = [
 		"geonameid": "1283613"
 	},
 	{
-		"name": "Bhairāhawā",
+		"name": "Bhairahawa",
 		"country": "Nepal",
 		"subcountry": "Western Region",
 		"geonameid": "1283621"
@@ -91026,13 +91026,13 @@ const states = [
 		"geonameid": "1283628"
 	},
 	{
-		"name": "Banepā",
+		"name": "Banepa",
 		"country": "Nepal",
 		"subcountry": "Central Region",
 		"geonameid": "1283679"
 	},
 	{
-		"name": "Bāglung",
+		"name": "Baglung",
 		"country": "Nepal",
 		"subcountry": "Western Region",
 		"geonameid": "1283711"
@@ -91290,21 +91290,21 @@ const states = [
 		"geonameid": "286282"
 	},
 	{
-		"name": "Sufālat Samā’il",
+		"name": "Sufalat Sama’il",
 		"country": "Oman",
-		"subcountry": "Muḩāfaz̧at ad Dākhilīyah",
+		"subcountry": "Muḩafaz̧at ad Dakhilīyah",
 		"geonameid": "286293"
 	},
 	{
-		"name": "Shināş",
+		"name": "Shinaş",
 		"country": "Oman",
 		"subcountry": "Al Batinah North Governorate",
 		"geonameid": "286402"
 	},
 	{
-		"name": "Şalālah",
+		"name": "Şalalah",
 		"country": "Oman",
-		"subcountry": "Z̧ufār",
+		"subcountry": "Z̧ufar",
 		"geonameid": "286621"
 	},
 	{
@@ -91316,13 +91316,13 @@ const states = [
 	{
 		"name": "Nizwá",
 		"country": "Oman",
-		"subcountry": "Muḩāfaz̧at ad Dākhilīyah",
+		"subcountry": "Muḩafaz̧at ad Dakhilīyah",
 		"geonameid": "286987"
 	},
 	{
 		"name": "Muscat",
 		"country": "Oman",
-		"subcountry": "Muḩāfaz̧at Masqaţ",
+		"subcountry": "Muḩafaz̧at Masqaţ",
 		"geonameid": "287286"
 	},
 	{
@@ -91334,17 +91334,17 @@ const states = [
 	{
 		"name": "Izkī",
 		"country": "Oman",
-		"subcountry": "Muḩāfaz̧at ad Dākhilīyah",
+		"subcountry": "Muḩafaz̧at ad Dakhilīyah",
 		"geonameid": "287814"
 	},
 	{
 		"name": "‘Ibrī",
 		"country": "Oman",
-		"subcountry": "Az̧ Z̧āhirah",
+		"subcountry": "Az̧ Z̧ahirah",
 		"geonameid": "287830"
 	},
 	{
-		"name": "Ibrā’",
+		"name": "Ibra’",
 		"country": "Oman",
 		"subcountry": "Ash Sharqiyah North Governorate",
 		"geonameid": "287832"
@@ -91352,25 +91352,25 @@ const states = [
 	{
 		"name": "Bidbid",
 		"country": "Oman",
-		"subcountry": "Muḩāfaz̧at ad Dākhilīyah",
+		"subcountry": "Muḩafaz̧at ad Dakhilīyah",
 		"geonameid": "288721"
 	},
 	{
 		"name": "Bawshar",
 		"country": "Oman",
-		"subcountry": "Muḩāfaz̧at Masqaţ",
+		"subcountry": "Muḩafaz̧at Masqaţ",
 		"geonameid": "288764"
 	},
 	{
-		"name": "Barkā’",
+		"name": "Barka’",
 		"country": "Oman",
 		"subcountry": "Al Batinah South Governorate",
 		"geonameid": "288789"
 	},
 	{
-		"name": "Bahlā’",
+		"name": "Bahla’",
 		"country": "Oman",
-		"subcountry": "Muḩāfaz̧at ad Dākhilīyah",
+		"subcountry": "Muḩafaz̧at ad Dakhilīyah",
 		"geonameid": "288899"
 	},
 	{
@@ -91388,7 +91388,7 @@ const states = [
 	{
 		"name": "Seeb",
 		"country": "Oman",
-		"subcountry": "Muḩāfaz̧at Masqaţ",
+		"subcountry": "Muḩafaz̧at Masqaţ",
 		"geonameid": "288967"
 	},
 	{
@@ -91398,13 +91398,13 @@ const states = [
 		"geonameid": "289011"
 	},
 	{
-		"name": "Al Liwā’",
+		"name": "Al Liwa’",
 		"country": "Oman",
 		"subcountry": "Al Batinah North Governorate",
 		"geonameid": "289174"
 	},
 	{
-		"name": "Al Khābūrah",
+		"name": "Al Khaburah",
 		"country": "Oman",
 		"subcountry": "Al Batinah North Governorate",
 		"geonameid": "289199"
@@ -91416,15 +91416,15 @@ const states = [
 		"geonameid": "289317"
 	},
 	{
-		"name": "Ādam",
+		"name": "Adam",
 		"country": "Oman",
-		"subcountry": "Muḩāfaz̧at ad Dākhilīyah",
+		"subcountry": "Muḩafaz̧at ad Dakhilīyah",
 		"geonameid": "289433"
 	},
 	{
 		"name": "Yanqul",
 		"country": "Oman",
-		"subcountry": "Az̧ Z̧āhirah",
+		"subcountry": "Az̧ Z̧ahirah",
 		"geonameid": "411849"
 	},
 	{
@@ -92216,19 +92216,19 @@ const states = [
 	{
 		"name": "Punaauia",
 		"country": "French Polynesia",
-		"subcountry": "Îles du Vent",
+		"subcountry": "Iles du Vent",
 		"geonameid": "4033779"
 	},
 	{
 		"name": "Papeete",
 		"country": "French Polynesia",
-		"subcountry": "Îles du Vent",
+		"subcountry": "Iles du Vent",
 		"geonameid": "4033936"
 	},
 	{
 		"name": "Faaa",
 		"country": "French Polynesia",
-		"subcountry": "Îles du Vent",
+		"subcountry": "Iles du Vent",
 		"geonameid": "4034561"
 	},
 	{
@@ -94944,13 +94944,13 @@ const states = [
 		"geonameid": "10628881"
 	},
 	{
-		"name": "Chuhar Jamāli",
+		"name": "Chuhar Jamali",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1108161"
 	},
 	{
-		"name": "Rāwala Kot",
+		"name": "Rawala Kot",
 		"country": "Pakistan",
 		"subcountry": "Azad Kashmir",
 		"geonameid": "1161983"
@@ -94970,7 +94970,7 @@ const states = [
 	{
 		"name": "Zhob",
 		"country": "Pakistan",
-		"subcountry": "Balochistān",
+		"subcountry": "Balochistan",
 		"geonameid": "1162105"
 	},
 	{
@@ -94980,13 +94980,13 @@ const states = [
 		"geonameid": "1162261"
 	},
 	{
-		"name": "Zāhir Pīr",
+		"name": "Zahir Pīr",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1162275"
 	},
 	{
-		"name": "Zafarwāl",
+		"name": "Zafarwal",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1162285"
@@ -94998,7 +94998,7 @@ const states = [
 		"geonameid": "1162316"
 	},
 	{
-		"name": "Wazīrābād",
+		"name": "Wazīrabad",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1162456"
@@ -95010,19 +95010,19 @@ const states = [
 		"geonameid": "1162572"
 	},
 	{
-		"name": "Wārāh",
+		"name": "Warah",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1162589"
 	},
 	{
-		"name": "Vihāri",
+		"name": "Vihari",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1162813"
 	},
 	{
-		"name": "Utmānzai",
+		"name": "Utmanzai",
 		"country": "Pakistan",
 		"subcountry": "Khyber Pakhtunkhwa",
 		"geonameid": "1162855"
@@ -95030,13 +95030,13 @@ const states = [
 	{
 		"name": "Uthal",
 		"country": "Pakistan",
-		"subcountry": "Balochistān",
+		"subcountry": "Balochistan",
 		"geonameid": "1162862"
 	},
 	{
 		"name": "Usta Muhammad",
 		"country": "Pakistan",
-		"subcountry": "Balochistān",
+		"subcountry": "Balochistan",
 		"geonameid": "1162868"
 	},
 	{
@@ -95054,7 +95054,7 @@ const states = [
 	{
 		"name": "Turbat",
 		"country": "Pakistan",
-		"subcountry": "Balochistān",
+		"subcountry": "Balochistan",
 		"geonameid": "1163054"
 	},
 	{
@@ -95082,7 +95082,7 @@ const states = [
 		"geonameid": "1163582"
 	},
 	{
-		"name": "Thāru Shāh",
+		"name": "Tharu Shah",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1163595"
@@ -95094,7 +95094,7 @@ const states = [
 		"geonameid": "1163724"
 	},
 	{
-		"name": "Tānk",
+		"name": "Tank",
 		"country": "Pakistan",
 		"subcountry": "Khyber Pakhtunkhwa",
 		"geonameid": "1163905"
@@ -95106,37 +95106,37 @@ const states = [
 		"geonameid": "1163927"
 	},
 	{
-		"name": "Tando Muhammad Khān",
+		"name": "Tando Muhammad Khan",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1163952"
 	},
 	{
-		"name": "Tando Jām",
+		"name": "Tando Jam",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1163958"
 	},
 	{
-		"name": "Tando Allāhyār",
+		"name": "Tando Allahyar",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1163965"
 	},
 	{
-		"name": "Tando Ādam",
+		"name": "Tando Adam",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1163967"
 	},
 	{
-		"name": "Tāndliānwāla",
+		"name": "Tandlianwala",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1163968"
 	},
 	{
-		"name": "Talhār",
+		"name": "Talhar",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1164045"
@@ -95154,13 +95154,13 @@ const states = [
 		"geonameid": "1164069"
 	},
 	{
-		"name": "Tāl",
+		"name": "Tal",
 		"country": "Pakistan",
 		"subcountry": "Khyber Pakhtunkhwa",
 		"geonameid": "1164076"
 	},
 	{
-		"name": "Swābi",
+		"name": "Swabi",
 		"country": "Pakistan",
 		"subcountry": "Khyber Pakhtunkhwa",
 		"geonameid": "1164216"
@@ -95202,7 +95202,7 @@ const states = [
 		"geonameid": "1164776"
 	},
 	{
-		"name": "Sillānwāli",
+		"name": "Sillanwali",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1164825"
@@ -95210,7 +95210,7 @@ const states = [
 	{
 		"name": "Sibi",
 		"country": "Pakistan",
-		"subcountry": "Balochistān",
+		"subcountry": "Balochistan",
 		"geonameid": "1164896"
 	},
 	{
@@ -95220,7 +95220,7 @@ const states = [
 		"geonameid": "1164909"
 	},
 	{
-		"name": "Shujāābād",
+		"name": "Shujaabad",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1164970"
@@ -95232,7 +95232,7 @@ const states = [
 		"geonameid": "1164987"
 	},
 	{
-		"name": "Shikārpur",
+		"name": "Shikarpur",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1165108"
@@ -95256,13 +95256,13 @@ const states = [
 		"geonameid": "1165388"
 	},
 	{
-		"name": "Shahr Sultān",
+		"name": "Shahr Sultan",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1165486"
 	},
 	{
-		"name": "Shāhpur Chākar",
+		"name": "Shahpur Chakar",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1165507"
@@ -95274,13 +95274,13 @@ const states = [
 		"geonameid": "1165569"
 	},
 	{
-		"name": "Shāhdādpur",
+		"name": "Shahdadpur",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1165635"
 	},
 	{
-		"name": "Shāhdādkot",
+		"name": "Shahdadkot",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1165638"
@@ -95292,7 +95292,7 @@ const states = [
 		"geonameid": "1165744"
 	},
 	{
-		"name": "Sehwān",
+		"name": "Sehwan",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1165789"
@@ -95304,19 +95304,19 @@ const states = [
 		"geonameid": "1166000"
 	},
 	{
-		"name": "Sarāi Sidhu",
+		"name": "Sarai Sidhu",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1166062"
 	},
 	{
-		"name": "Sarāi Naurang",
+		"name": "Sarai Naurang",
 		"country": "Pakistan",
 		"subcountry": "Khyber Pakhtunkhwa",
 		"geonameid": "1166066"
 	},
 	{
-		"name": "Sarāi Ālamgīr",
+		"name": "Sarai Alamgīr",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1166073"
@@ -95328,13 +95328,13 @@ const states = [
 		"geonameid": "1166146"
 	},
 	{
-		"name": "Sānghar",
+		"name": "Sanghar",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1166164"
 	},
 	{
-		"name": "Sambriāl",
+		"name": "Sambrial",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1166265"
@@ -95346,7 +95346,7 @@ const states = [
 		"geonameid": "1166381"
 	},
 	{
-		"name": "Sāhīwāl",
+		"name": "Sahīwal",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1166547"
@@ -95358,7 +95358,7 @@ const states = [
 		"geonameid": "1166548"
 	},
 	{
-		"name": "Sādiqābād",
+		"name": "Sadiqabad",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1166652"
@@ -95370,7 +95370,7 @@ const states = [
 		"geonameid": "1166827"
 	},
 	{
-		"name": "Renāla Khurd",
+		"name": "Renala Khurd",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1166933"
@@ -95388,37 +95388,37 @@ const states = [
 		"geonameid": "1167031"
 	},
 	{
-		"name": "Rānīpur",
+		"name": "Ranīpur",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1167142"
 	},
 	{
-		"name": "Rājanpur",
+		"name": "Rajanpur",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1167380"
 	},
 	{
-		"name": "Rāja Jang",
+		"name": "Raja Jang",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1167386"
 	},
 	{
-		"name": "Rāiwind",
+		"name": "Raiwind",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1167398"
 	},
 	{
-		"name": "Rādhan",
+		"name": "Radhan",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1167501"
 	},
 	{
-		"name": "Rabwāh",
+		"name": "Rabwah",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1167507"
@@ -95426,7 +95426,7 @@ const states = [
 	{
 		"name": "Quetta",
 		"country": "Pakistan",
-		"subcountry": "Balochistān",
+		"subcountry": "Balochistan",
 		"geonameid": "1167528"
 	},
 	{
@@ -95436,7 +95436,7 @@ const states = [
 		"geonameid": "1167622"
 	},
 	{
-		"name": "Qādirpur Rān",
+		"name": "Qadirpur Ran",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1167648"
@@ -95444,7 +95444,7 @@ const states = [
 	{
 		"name": "Pishin",
 		"country": "Pakistan",
-		"subcountry": "Balochistān",
+		"subcountry": "Balochistan",
 		"geonameid": "1167821"
 	},
 	{
@@ -95460,19 +95460,19 @@ const states = [
 		"geonameid": "1168015"
 	},
 	{
-		"name": "Pindi Bhattiān",
+		"name": "Pindi Bhattian",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1168021"
 	},
 	{
-		"name": "Pind Dādan Khān",
+		"name": "Pind Dadan Khan",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1168036"
 	},
 	{
-		"name": "Phālia",
+		"name": "Phalia",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1168166"
@@ -95490,7 +95490,7 @@ const states = [
 		"geonameid": "1168226"
 	},
 	{
-		"name": "Pasrūr",
+		"name": "Pasrur",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1168307"
@@ -95498,23 +95498,23 @@ const states = [
 	{
 		"name": "Pasni",
 		"country": "Pakistan",
-		"subcountry": "Balochistān",
+		"subcountry": "Balochistan",
 		"geonameid": "1168312"
 	},
 	{
-		"name": "Pāno Āqil",
+		"name": "Pano Aqil",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1168412"
 	},
 	{
-		"name": "Pākpattan",
+		"name": "Pakpattan",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1168555"
 	},
 	{
-		"name": "Pahārpur",
+		"name": "Paharpur",
 		"country": "Pakistan",
 		"subcountry": "Khyber Pakhtunkhwa",
 		"geonameid": "1168633"
@@ -95532,7 +95532,7 @@ const states = [
 		"geonameid": "1168680"
 	},
 	{
-		"name": "Okāra",
+		"name": "Okara",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1168718"
@@ -95540,11 +95540,11 @@ const states = [
 	{
 		"name": "Nushki",
 		"country": "Pakistan",
-		"subcountry": "Balochistān",
+		"subcountry": "Balochistan",
 		"geonameid": "1168749"
 	},
 	{
-		"name": "Nawābshāh",
+		"name": "Nawabshah",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1169116"
@@ -95556,7 +95556,7 @@ const states = [
 		"geonameid": "1169143"
 	},
 	{
-		"name": "Naushahra Virkān",
+		"name": "Naushahra Virkan",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1169145"
@@ -95568,19 +95568,19 @@ const states = [
 		"geonameid": "1169187"
 	},
 	{
-		"name": "Nasīrābād",
+		"name": "Nasīrabad",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1169254"
 	},
 	{
-		"name": "Nārowāl",
+		"name": "Narowal",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1169278"
 	},
 	{
-		"name": "Nārang",
+		"name": "Narang",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1169334"
@@ -95592,7 +95592,7 @@ const states = [
 		"geonameid": "1169367"
 	},
 	{
-		"name": "Nankāna Sāhib",
+		"name": "Nankana Sahib",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1169372"
@@ -95604,13 +95604,13 @@ const states = [
 		"geonameid": "1169605"
 	},
 	{
-		"name": "Muzaffarābād",
+		"name": "Muzaffarabad",
 		"country": "Pakistan",
 		"subcountry": "Azad Kashmir",
 		"geonameid": "1169607"
 	},
 	{
-		"name": "Mustafābād",
+		"name": "Mustafabad",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1169620"
@@ -95628,7 +95628,7 @@ const states = [
 		"geonameid": "1169692"
 	},
 	{
-		"name": "Multān",
+		"name": "Multan",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1169825"
@@ -95646,13 +95646,13 @@ const states = [
 		"geonameid": "1170219"
 	},
 	{
-		"name": "Mitha Tiwāna",
+		"name": "Mitha Tiwana",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1170222"
 	},
 	{
-		"name": "Mīrpur Māthelo",
+		"name": "Mīrpur Mathelo",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1170294"
@@ -95670,27 +95670,27 @@ const states = [
 		"geonameid": "1170395"
 	},
 	{
-		"name": "Minchinābād",
+		"name": "Minchinabad",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1170398"
 	},
 	{
-		"name": "Miānwāli",
+		"name": "Mianwali",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1170425"
 	},
 	{
-		"name": "Miān Channūn",
+		"name": "Mian Channun",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1170486"
 	},
 	{
-		"name": "Mehrābpur",
+		"name": "Mehrabpur",
 		"country": "Pakistan",
-		"subcountry": "Balochistān",
+		"subcountry": "Balochistan",
 		"geonameid": "1170564"
 	},
 	{
@@ -95700,13 +95700,13 @@ const states = [
 		"geonameid": "1170584"
 	},
 	{
-		"name": "Mātli",
+		"name": "Matli",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1170667"
 	},
 	{
-		"name": "Matiāri",
+		"name": "Matiari",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1170677"
@@ -95714,7 +95714,7 @@ const states = [
 	{
 		"name": "Mastung",
 		"country": "Pakistan",
-		"subcountry": "Balochistān",
+		"subcountry": "Balochistan",
 		"geonameid": "1170706"
 	},
 	{
@@ -95724,7 +95724,7 @@ const states = [
 		"geonameid": "1170880"
 	},
 	{
-		"name": "Mānsehra",
+		"name": "Mansehra",
 		"country": "Pakistan",
 		"subcountry": "Khyber Pakhtunkhwa",
 		"geonameid": "1170951"
@@ -95736,19 +95736,19 @@ const states = [
 		"geonameid": "1171050"
 	},
 	{
-		"name": "Mandi Bahāuddīn",
+		"name": "Mandi Bahauddīn",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1171123"
 	},
 	{
-		"name": "Mānānwāla",
+		"name": "Mananwala",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1171165"
 	},
 	{
-		"name": "Māmu Kānjan",
+		"name": "Mamu Kanjan",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1171198"
@@ -95760,7 +95760,7 @@ const states = [
 		"geonameid": "1171305"
 	},
 	{
-		"name": "Malakwāl",
+		"name": "Malakwal",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1171376"
@@ -95774,17 +95774,17 @@ const states = [
 	{
 		"name": "Mach",
 		"country": "Pakistan",
-		"subcountry": "Balochistān",
+		"subcountry": "Balochistan",
 		"geonameid": "1171757"
 	},
 	{
 		"name": "Loralai",
 		"country": "Pakistan",
-		"subcountry": "Balochistān",
+		"subcountry": "Balochistan",
 		"geonameid": "1171868"
 	},
 	{
-		"name": "Lodhrān",
+		"name": "Lodhran",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1171965"
@@ -95796,19 +95796,19 @@ const states = [
 		"geonameid": "1172035"
 	},
 	{
-		"name": "Lārkāna",
+		"name": "Larkana",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1172128"
 	},
 	{
-		"name": "Lāliān",
+		"name": "Lalian",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1172295"
 	},
 	{
-		"name": "Lāla Mūsa",
+		"name": "Lala Musa",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1172318"
@@ -95826,13 +95826,13 @@ const states = [
 		"geonameid": "1172451"
 	},
 	{
-		"name": "Ladhewāla Warāich",
+		"name": "Ladhewala Waraich",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1172488"
 	},
 	{
-		"name": "Lāchi",
+		"name": "Lachi",
 		"country": "Pakistan",
 		"subcountry": "Khyber Pakhtunkhwa",
 		"geonameid": "1172513"
@@ -95844,25 +95844,25 @@ const states = [
 		"geonameid": "1172657"
 	},
 	{
-		"name": "Kunjāh",
+		"name": "Kunjah",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1172663"
 	},
 	{
-		"name": "Kundiān",
+		"name": "Kundian",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1172682"
 	},
 	{
-		"name": "Kulāchi",
+		"name": "Kulachi",
 		"country": "Pakistan",
 		"subcountry": "Khyber Pakhtunkhwa",
 		"geonameid": "1172779"
 	},
 	{
-		"name": "Kot Samāba",
+		"name": "Kot Samaba",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1172888"
@@ -95874,13 +95874,13 @@ const states = [
 		"geonameid": "1172904"
 	},
 	{
-		"name": "Kot Rādha Kishan",
+		"name": "Kot Radha Kishan",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1172915"
 	},
 	{
-		"name": "Kot Mūmin",
+		"name": "Kot Mumin",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1172964"
@@ -95888,11 +95888,11 @@ const states = [
 	{
 		"name": "Kot Malik",
 		"country": "Pakistan",
-		"subcountry": "Balochistān",
+		"subcountry": "Balochistan",
 		"geonameid": "1172993"
 	},
 	{
-		"name": "Kotli Lohārān",
+		"name": "Kotli Loharan",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1173025"
@@ -95904,7 +95904,7 @@ const states = [
 		"geonameid": "1173055"
 	},
 	{
-		"name": "Kot Ghulām Muhammad",
+		"name": "Kot Ghulam Muhammad",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1173272"
@@ -95922,19 +95922,19 @@ const states = [
 		"geonameid": "1173378"
 	},
 	{
-		"name": "Kohāt",
+		"name": "Kohat",
 		"country": "Pakistan",
 		"subcountry": "Khyber Pakhtunkhwa",
 		"geonameid": "1173491"
 	},
 	{
-		"name": "Khushāb",
+		"name": "Khushab",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1173687"
 	},
 	{
-		"name": "Khurriānwāla",
+		"name": "Khurrianwala",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1173692"
@@ -95946,49 +95946,49 @@ const states = [
 		"geonameid": "1173920"
 	},
 	{
-		"name": "Khāriān",
+		"name": "Kharian",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1174042"
 	},
 	{
-		"name": "Khārān",
+		"name": "Kharan",
 		"country": "Pakistan",
-		"subcountry": "Balochistān",
+		"subcountry": "Balochistan",
 		"geonameid": "1174062"
 	},
 	{
-		"name": "Khānpur",
+		"name": "Khanpur",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1174167"
 	},
 	{
-		"name": "Khānpur",
+		"name": "Khanpur",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1174171"
 	},
 	{
-		"name": "Khāngarh",
+		"name": "Khangarh",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1174211"
 	},
 	{
-		"name": "Khāngāh Dogrān",
+		"name": "Khangah Dogran",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1174217"
 	},
 	{
-		"name": "Khalābat",
+		"name": "Khalabat",
 		"country": "Pakistan",
 		"subcountry": "Khyber Pakhtunkhwa",
 		"geonameid": "1174301"
 	},
 	{
-		"name": "Khairpur Nathan Shāh",
+		"name": "Khairpur Nathan Shah",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1174344"
@@ -96006,7 +96006,7 @@ const states = [
 		"geonameid": "1174357"
 	},
 	{
-		"name": "Kasūr",
+		"name": "Kasur",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1174625"
@@ -96036,7 +96036,7 @@ const states = [
 		"geonameid": "1174984"
 	},
 	{
-		"name": "Kandiāro",
+		"name": "Kandiaro",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1175010"
@@ -96048,7 +96048,7 @@ const states = [
 		"geonameid": "1175021"
 	},
 	{
-		"name": "Kāmra",
+		"name": "Kamra",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1175082"
@@ -96066,49 +96066,49 @@ const states = [
 		"geonameid": "1175098"
 	},
 	{
-		"name": "Kamar Mushāni",
+		"name": "Kamar Mushani",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1175125"
 	},
 	{
-		"name": "Kamālia",
+		"name": "Kamalia",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1175156"
 	},
 	{
-		"name": "Kalūr Kot",
+		"name": "Kalur Kot",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1175180"
 	},
 	{
-		"name": "Kallar Kahār",
+		"name": "Kallar Kahar",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1175232"
 	},
 	{
-		"name": "Kāleke Mandi",
+		"name": "Kaleke Mandi",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1175283"
 	},
 	{
-		"name": "Kalāt",
+		"name": "Kalat",
 		"country": "Pakistan",
-		"subcountry": "Balochistān",
+		"subcountry": "Balochistan",
 		"geonameid": "1175296"
 	},
 	{
-		"name": "Kālābāgh",
+		"name": "Kalabagh",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1175365"
 	},
 	{
-		"name": "Kahūta",
+		"name": "Kahuta",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1175436"
@@ -96120,13 +96120,13 @@ const states = [
 		"geonameid": "1175446"
 	},
 	{
-		"name": "Kāhna",
+		"name": "Kahna",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1175453"
 	},
 	{
-		"name": "Kabīrwāla",
+		"name": "Kabīrwala",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1175560"
@@ -96140,7 +96140,7 @@ const states = [
 	{
 		"name": "Jīwani",
 		"country": "Pakistan",
-		"subcountry": "Balochistān",
+		"subcountry": "Balochistan",
 		"geonameid": "1175712"
 	},
 	{
@@ -96162,7 +96162,7 @@ const states = [
 		"geonameid": "1175864"
 	},
 	{
-		"name": "Jhawāriān",
+		"name": "Jhawarian",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1175870"
@@ -96174,19 +96174,19 @@ const states = [
 		"geonameid": "1175892"
 	},
 	{
-		"name": "Jauharābād",
+		"name": "Jauharabad",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1176022"
 	},
 	{
-		"name": "Jatoi Shimāli",
+		"name": "Jatoi Shimali",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1176035"
 	},
 	{
-		"name": "Jarānwāla",
+		"name": "Jaranwala",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1176106"
@@ -96198,31 +96198,31 @@ const states = [
 		"geonameid": "1176218"
 	},
 	{
-		"name": "Jāmpur",
+		"name": "Jampur",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1176241"
 	},
 	{
-		"name": "Jalālpur Pīrwāla",
+		"name": "Jalalpur Pīrwala",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1176358"
 	},
 	{
-		"name": "Jalālpur",
+		"name": "Jalalpur",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1176368"
 	},
 	{
-		"name": "Jahāniān Shāh",
+		"name": "Jahanian Shah",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1176444"
 	},
 	{
-		"name": "Jacobābād",
+		"name": "Jacobabad",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1176515"
@@ -96230,7 +96230,7 @@ const states = [
 	{
 		"name": "Islamabad",
 		"country": "Pakistan",
-		"subcountry": "Islāmābād",
+		"subcountry": "Islamabad",
 		"geonameid": "1176615"
 	},
 	{
@@ -96258,7 +96258,7 @@ const states = [
 		"geonameid": "1176948"
 	},
 	{
-		"name": "Haveliān",
+		"name": "Havelian",
 		"country": "Pakistan",
 		"subcountry": "Khyber Pakhtunkhwa",
 		"geonameid": "1176995"
@@ -96270,13 +96270,13 @@ const states = [
 		"geonameid": "1176997"
 	},
 	{
-		"name": "Hāsilpur",
+		"name": "Hasilpur",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1177042"
 	},
 	{
-		"name": "Hasan Abdāl",
+		"name": "Hasan Abdal",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1177064"
@@ -96306,19 +96306,19 @@ const states = [
 		"geonameid": "1177203"
 	},
 	{
-		"name": "Hāla",
+		"name": "Hala",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1177278"
 	},
 	{
-		"name": "Hāfizābād",
+		"name": "Hafizabad",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1177384"
 	},
 	{
-		"name": "Hadāli",
+		"name": "Hadali",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1177397"
@@ -96326,23 +96326,23 @@ const states = [
 	{
 		"name": "Gwadar",
 		"country": "Pakistan",
-		"subcountry": "Balochistān",
+		"subcountry": "Balochistan",
 		"geonameid": "1177446"
 	},
 	{
-		"name": "Gujrāt",
+		"name": "Gujrat",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1177654"
 	},
 	{
-		"name": "Gujrānwāla",
+		"name": "Gujranwala",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1177662"
 	},
 	{
-		"name": "Gūjar Khān",
+		"name": "Gujar Khan",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1177682"
@@ -96366,13 +96366,13 @@ const states = [
 		"geonameid": "1178560"
 	},
 	{
-		"name": "Ghāro",
+		"name": "Gharo",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1178587"
 	},
 	{
-		"name": "Garh Mahārāja",
+		"name": "Garh Maharaja",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1178841"
@@ -96384,7 +96384,7 @@ const states = [
 		"geonameid": "1179061"
 	},
 	{
-		"name": "Fort Abbās",
+		"name": "Fort Abbas",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1179223"
@@ -96408,25 +96408,25 @@ const states = [
 		"geonameid": "1179346"
 	},
 	{
-		"name": "Faqīrwāli",
+		"name": "Faqīrwali",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1179377"
 	},
 	{
-		"name": "Faisalābād",
+		"name": "Faisalabad",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1179400"
 	},
 	{
-		"name": "Eminābād",
+		"name": "Eminabad",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1179406"
 	},
 	{
-		"name": "Dunyāpur",
+		"name": "Dunyapur",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1179450"
@@ -96438,7 +96438,7 @@ const states = [
 		"geonameid": "1179463"
 	},
 	{
-		"name": "Dullewāla",
+		"name": "Dullewala",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1179496"
@@ -96450,7 +96450,7 @@ const states = [
 		"geonameid": "1179757"
 	},
 	{
-		"name": "Dīpālpur",
+		"name": "Dīpalpur",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1179760"
@@ -96486,7 +96486,7 @@ const states = [
 		"geonameid": "1180133"
 	},
 	{
-		"name": "Dera Ismāīl Khān",
+		"name": "Dera Ismaīl Khan",
 		"country": "Pakistan",
 		"subcountry": "Khyber Pakhtunkhwa",
 		"geonameid": "1180281"
@@ -96500,7 +96500,7 @@ const states = [
 	{
 		"name": "Dera Bugti",
 		"country": "Pakistan",
-		"subcountry": "Balochistān",
+		"subcountry": "Balochistan",
 		"geonameid": "1180295"
 	},
 	{
@@ -96510,7 +96510,7 @@ const states = [
 		"geonameid": "1180374"
 	},
 	{
-		"name": "Dāūd Khel",
+		"name": "Daud Khel",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1180419"
@@ -96522,13 +96522,13 @@ const states = [
 		"geonameid": "1180436"
 	},
 	{
-		"name": "Darya Khān",
+		"name": "Darya Khan",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1180454"
 	},
 	{
-		"name": "Dājal",
+		"name": "Dajal",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1180752"
@@ -96540,19 +96540,19 @@ const states = [
 		"geonameid": "1180809"
 	},
 	{
-		"name": "Dādhar",
+		"name": "Dadhar",
 		"country": "Pakistan",
-		"subcountry": "Balochistān",
+		"subcountry": "Balochistan",
 		"geonameid": "1180825"
 	},
 	{
-		"name": "Chūniān",
+		"name": "Chunian",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1180942"
 	},
 	{
-		"name": "Chūhar Kāna",
+		"name": "Chuhar Kana",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1180983"
@@ -96564,13 +96564,13 @@ const states = [
 		"geonameid": "1181022"
 	},
 	{
-		"name": "Choa Saidān Shāh",
+		"name": "Choa Saidan Shah",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1181053"
 	},
 	{
-		"name": "Chishtiān Mandi",
+		"name": "Chishtian Mandi",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1181073"
@@ -96582,7 +96582,7 @@ const states = [
 		"geonameid": "1181096"
 	},
 	{
-		"name": "Chīchāwatni",
+		"name": "Chīchawatni",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1181163"
@@ -96602,35 +96602,35 @@ const states = [
 	{
 		"name": "Chaman",
 		"country": "Pakistan",
-		"subcountry": "Balochistān",
+		"subcountry": "Balochistan",
 		"geonameid": "1181611"
 	},
 	{
-		"name": "Chakwāl",
+		"name": "Chakwal",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1181636"
 	},
 	{
-		"name": "Chak Āzam Saffo",
+		"name": "Chak Azam Saffo",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1181887"
 	},
 	{
-		"name": "Būrewāla",
+		"name": "Burewala",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1182092"
 	},
 	{
-		"name": "Bhopālwāla",
+		"name": "Bhopalwala",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1182577"
 	},
 	{
-		"name": "Bhit Shāh",
+		"name": "Bhit Shah",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1182607"
@@ -96648,19 +96648,19 @@ const states = [
 		"geonameid": "1182665"
 	},
 	{
-		"name": "Bhawāna",
+		"name": "Bhawana",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1182682"
 	},
 	{
-		"name": "Bhān",
+		"name": "Bhan",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1182775"
 	},
 	{
-		"name": "Bhalwāl",
+		"name": "Bhalwal",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1182787"
@@ -96672,7 +96672,7 @@ const states = [
 		"geonameid": "1182815"
 	},
 	{
-		"name": "Bhāi Pheru",
+		"name": "Bhai Pheru",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1182829"
@@ -96680,7 +96680,7 @@ const states = [
 	{
 		"name": "Bela",
 		"country": "Pakistan",
-		"subcountry": "Balochistān",
+		"subcountry": "Balochistan",
 		"geonameid": "1182998"
 	},
 	{
@@ -96702,13 +96702,13 @@ const states = [
 		"geonameid": "1183460"
 	},
 	{
-		"name": "Bahāwalpur",
+		"name": "Bahawalpur",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1183880"
 	},
 	{
-		"name": "Bahāwalnagar",
+		"name": "Bahawalnagar",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1183883"
@@ -96732,7 +96732,7 @@ const states = [
 		"geonameid": "1184249"
 	},
 	{
-		"name": "Ārifwāla",
+		"name": "Arifwala",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1184370"
@@ -96762,13 +96762,13 @@ const states = [
 		"geonameid": "1184845"
 	},
 	{
-		"name": "Abbottābād",
+		"name": "Abbottabad",
 		"country": "Pakistan",
 		"subcountry": "Khyber Pakhtunkhwa",
 		"geonameid": "1185056"
 	},
 	{
-		"name": "Bahāwalnagar",
+		"name": "Bahawalnagar",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1332083"
@@ -96780,31 +96780,31 @@ const states = [
 		"geonameid": "1341204"
 	},
 	{
-		"name": "Ahmadpur Siāl",
+		"name": "Ahmadpur Sial",
 		"country": "Pakistan",
 		"subcountry": "Punjab",
 		"geonameid": "1356491"
 	},
 	{
-		"name": "New Bādāh",
+		"name": "New Badah",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1357699"
 	},
 	{
-		"name": "Tando Ghulām Ali",
+		"name": "Tando Ghulam Ali",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1360491"
 	},
 	{
-		"name": "Sethārja Old",
+		"name": "Setharja Old",
 		"country": "Pakistan",
 		"subcountry": "Sindh",
 		"geonameid": "1412008"
 	},
 	{
-		"name": "Risālpur",
+		"name": "Risalpur",
 		"country": "Pakistan",
 		"subcountry": "Khyber Pakhtunkhwa",
 		"geonameid": "1448637"
@@ -98922,19 +98922,19 @@ const states = [
 		"geonameid": "281102"
 	},
 	{
-		"name": "An Nuşayrāt",
+		"name": "An Nuşayrat",
 		"country": "Palestinian Territory",
 		"subcountry": "Gaza Strip",
 		"geonameid": "281109"
 	},
 	{
-		"name": "Khān Yūnis",
+		"name": "Khan Yunis",
 		"country": "Palestinian Territory",
 		"subcountry": "Gaza Strip",
 		"geonameid": "281124"
 	},
 	{
-		"name": "Jabālyā",
+		"name": "Jabalya",
 		"country": "Palestinian Territory",
 		"subcountry": "Gaza Strip",
 		"geonameid": "281129"
@@ -98952,19 +98952,19 @@ const states = [
 		"geonameid": "281141"
 	},
 	{
-		"name": "Bayt Lāhyā",
+		"name": "Bayt Lahya",
 		"country": "Palestinian Territory",
 		"subcountry": "Gaza Strip",
 		"geonameid": "281145"
 	},
 	{
-		"name": "Bayt Ḩānūn",
+		"name": "Bayt Ḩanun",
 		"country": "Palestinian Territory",
 		"subcountry": "Gaza Strip",
 		"geonameid": "281146"
 	},
 	{
-		"name": "Banī Suhaylā",
+		"name": "Banī Suhayla",
 		"country": "Palestinian Territory",
 		"subcountry": "Gaza Strip",
 		"geonameid": "281148"
@@ -98976,7 +98976,7 @@ const states = [
 		"geonameid": "281161"
 	},
 	{
-		"name": "‘Abasān al Kabīrah",
+		"name": "‘Abasan al Kabīrah",
 		"country": "Palestinian Territory",
 		"subcountry": "Gaza Strip",
 		"geonameid": "281165"
@@ -98988,13 +98988,13 @@ const states = [
 		"geonameid": "281292"
 	},
 	{
-		"name": "Ţūlkarm",
+		"name": "Ţulkarm",
 		"country": "Palestinian Territory",
 		"subcountry": "West Bank",
 		"geonameid": "281577"
 	},
 	{
-		"name": "Ţūbās",
+		"name": "Ţubas",
 		"country": "Palestinian Territory",
 		"subcountry": "West Bank",
 		"geonameid": "281581"
@@ -99018,7 +99018,7 @@ const states = [
 		"geonameid": "282457"
 	},
 	{
-		"name": "Qabāţīyah",
+		"name": "Qabaţīyah",
 		"country": "Palestinian Territory",
 		"subcountry": "West Bank",
 		"geonameid": "282476"
@@ -99036,19 +99036,19 @@ const states = [
 		"geonameid": "283506"
 	},
 	{
-		"name": "Idhnā",
+		"name": "Idhna",
 		"country": "Palestinian Territory",
 		"subcountry": "West Bank",
 		"geonameid": "283621"
 	},
 	{
-		"name": "Ḩalḩūl",
+		"name": "Ḩalḩul",
 		"country": "Palestinian Territory",
 		"subcountry": "West Bank",
 		"geonameid": "283806"
 	},
 	{
-		"name": "Dūrā",
+		"name": "Dura",
 		"country": "Palestinian Territory",
 		"subcountry": "West Bank",
 		"geonameid": "284011"
@@ -99060,7 +99060,7 @@ const states = [
 		"geonameid": "284315"
 	},
 	{
-		"name": "Bayt Jālā",
+		"name": "Bayt Jala",
 		"country": "Palestinian Territory",
 		"subcountry": "West Bank",
 		"geonameid": "284324"
@@ -99072,25 +99072,25 @@ const states = [
 		"geonameid": "284431"
 	},
 	{
-		"name": "Balāţah",
+		"name": "Balaţah",
 		"country": "Palestinian Territory",
 		"subcountry": "West Bank",
 		"geonameid": "284446"
 	},
 	{
-		"name": "Az̧ Z̧āhirīyah",
+		"name": "Az̧ Z̧ahirīyah",
 		"country": "Palestinian Territory",
 		"subcountry": "West Bank",
 		"geonameid": "284486"
 	},
 	{
-		"name": "As Samū‘",
+		"name": "As Samu‘",
 		"country": "Palestinian Territory",
 		"subcountry": "West Bank",
 		"geonameid": "284583"
 	},
 	{
-		"name": "Ar Rām wa Ḑāḩiyat al Barīd",
+		"name": "Ar Ram wa Ḑaḩiyat al Barīd",
 		"country": "Palestinian Territory",
 		"subcountry": "West Bank",
 		"geonameid": "284890"
@@ -99102,7 +99102,7 @@ const states = [
 		"geonameid": "284899"
 	},
 	{
-		"name": "Al Yāmūn",
+		"name": "Al Yamun",
 		"country": "Palestinian Territory",
 		"subcountry": "West Bank",
 		"geonameid": "284999"
@@ -99132,13 +99132,13 @@ const states = [
 		"geonameid": "6945291"
 	},
 	{
-		"name": "Al Qarārah",
+		"name": "Al Qararah",
 		"country": "Palestinian Territory",
 		"subcountry": "Gaza Strip",
 		"geonameid": "6967865"
 	},
 	{
-		"name": "Az Zuwāydah",
+		"name": "Az Zuwaydah",
 		"country": "Palestinian Territory",
 		"subcountry": "Gaza Strip",
 		"geonameid": "6967990"
@@ -99306,7 +99306,7 @@ const states = [
 		"geonameid": "2265223"
 	},
 	{
-		"name": "Paço de Arcos",
+		"name": "Paco de Arcos",
 		"country": "Portugal",
 		"subcountry": "Lisbon",
 		"geonameid": "2265326"
@@ -99408,9 +99408,9 @@ const states = [
 		"geonameid": "2268339"
 	},
 	{
-		"name": "Évora",
+		"name": "Evora",
 		"country": "Portugal",
-		"subcountry": "Évora",
+		"subcountry": "Evora",
 		"geonameid": "2268406"
 	},
 	{
@@ -99666,7 +99666,7 @@ const states = [
 		"geonameid": "2737039"
 	},
 	{
-		"name": "Monção",
+		"name": "Moncão",
 		"country": "Portugal",
 		"subcountry": "Viana do Castelo",
 		"geonameid": "2737523"
@@ -99684,13 +99684,13 @@ const states = [
 		"geonameid": "2738014"
 	},
 	{
-		"name": "Leça do Bailio",
+		"name": "Leca do Bailio",
 		"country": "Portugal",
 		"subcountry": "Porto",
 		"geonameid": "2738347"
 	},
 	{
-		"name": "Leça da Palmeira",
+		"name": "Leca da Palmeira",
 		"country": "Portugal",
 		"subcountry": "Porto",
 		"geonameid": "2738348"
@@ -99780,9 +99780,9 @@ const states = [
 		"geonameid": "2741551"
 	},
 	{
-		"name": "Bragança",
+		"name": "Braganca",
 		"country": "Portugal",
-		"subcountry": "Bragança",
+		"subcountry": "Braganca",
 		"geonameid": "2742027"
 	},
 	{
@@ -99984,15 +99984,15 @@ const states = [
 		"geonameid": "3439389"
 	},
 	{
-		"name": "Umm Şalāl Muḩammad",
+		"name": "Umm Şalal Muḩammad",
 		"country": "Qatar",
-		"subcountry": "Baladīyat Umm Şalāl",
+		"subcountry": "Baladīyat Umm Şalal",
 		"geonameid": "289523"
 	},
 	{
-		"name": "Ar Rayyān",
+		"name": "Ar Rayyan",
 		"country": "Qatar",
-		"subcountry": "Baladīyat ar Rayyān",
+		"subcountry": "Baladīyat ar Rayyan",
 		"geonameid": "289888"
 	},
 	{
@@ -100062,7 +100062,7 @@ const states = [
 		"geonameid": "935264"
 	},
 	{
-		"name": "Saint-Benoît",
+		"name": "Saint-Benoit",
 		"country": "Reunion",
 		"subcountry": "Réunion",
 		"geonameid": "935267"
@@ -101508,7 +101508,7 @@ const states = [
 		"geonameid": "469844"
 	},
 	{
-		"name": "Vyshniy Volochëk",
+		"name": "Vyshniy Volochek",
 		"country": "Russia",
 		"subcountry": "Tverskaya",
 		"geonameid": "470252"
@@ -101712,7 +101712,7 @@ const states = [
 		"geonameid": "475777"
 	},
 	{
-		"name": "Venëv",
+		"name": "Venev",
 		"country": "Russia",
 		"subcountry": "Tula",
 		"geonameid": "475881"
@@ -101922,7 +101922,7 @@ const states = [
 		"geonameid": "481350"
 	},
 	{
-		"name": "Troparëvo",
+		"name": "Troparevo",
 		"country": "Russia",
 		"subcountry": "Moscow",
 		"geonameid": "481453"
@@ -101964,7 +101964,7 @@ const states = [
 		"geonameid": "482283"
 	},
 	{
-		"name": "Timashëvsk",
+		"name": "Timashevsk",
 		"country": "Russia",
 		"subcountry": "Krasnodarskiy",
 		"geonameid": "482965"
@@ -102414,7 +102414,7 @@ const states = [
 		"geonameid": "495344"
 	},
 	{
-		"name": "Shchëkino",
+		"name": "Shchekino",
 		"country": "Russia",
 		"subcountry": "Tula",
 		"geonameid": "495394"
@@ -102540,13 +102540,13 @@ const states = [
 		"geonameid": "497218"
 	},
 	{
-		"name": "Semënovskoye",
+		"name": "Semenovskoye",
 		"country": "Russia",
 		"subcountry": "MO",
 		"geonameid": "497271"
 	},
 	{
-		"name": "Semënov",
+		"name": "Semenov",
 		"country": "Russia",
 		"subcountry": "Nizjnij Novgorod",
 		"geonameid": "497450"
@@ -102672,7 +102672,7 @@ const states = [
 		"geonameid": "500299"
 	},
 	{
-		"name": "Rublëvo",
+		"name": "Rublevo",
 		"country": "Russia",
 		"subcountry": "Moscow",
 		"geonameid": "500843"
@@ -102840,7 +102840,7 @@ const states = [
 		"geonameid": "505060"
 	},
 	{
-		"name": "Priozërsk",
+		"name": "Priozersk",
 		"country": "Russia",
 		"subcountry": "Leningrad",
 		"geonameid": "505230"
@@ -102888,7 +102888,7 @@ const states = [
 		"geonameid": "506763"
 	},
 	{
-		"name": "Pokrovskoye-Streshnëvo",
+		"name": "Pokrovskoye-Streshnevo",
 		"country": "Russia",
 		"subcountry": "Moscow",
 		"geonameid": "507338"
@@ -102936,7 +102936,7 @@ const states = [
 		"geonameid": "509052"
 	},
 	{
-		"name": "Pikalëvo",
+		"name": "Pikalevo",
 		"country": "Russia",
 		"subcountry": "Leningrad",
 		"geonameid": "509598"
@@ -103062,7 +103062,7 @@ const states = [
 		"geonameid": "513042"
 	},
 	{
-		"name": "Ozëry",
+		"name": "Ozery",
 		"country": "Russia",
 		"subcountry": "MO",
 		"geonameid": "513378"
@@ -103146,7 +103146,7 @@ const states = [
 		"geonameid": "515003"
 	},
 	{
-		"name": "Orël",
+		"name": "Orel",
 		"country": "Russia",
 		"subcountry": "Orjol",
 		"geonameid": "515012"
@@ -103206,7 +103206,7 @@ const states = [
 		"geonameid": "516215"
 	},
 	{
-		"name": "Ochër",
+		"name": "Ocher",
 		"country": "Russia",
 		"subcountry": "Perm",
 		"geonameid": "516256"
@@ -103254,7 +103254,7 @@ const states = [
 		"geonameid": "517121"
 	},
 	{
-		"name": "Novyye Cherëmushki",
+		"name": "Novyye Cheremushki",
 		"country": "Russia",
 		"subcountry": "Moscow",
 		"geonameid": "517161"
@@ -104064,7 +104064,7 @@ const states = [
 		"geonameid": "538340"
 	},
 	{
-		"name": "Kushchëvskaya",
+		"name": "Kushchevskaya",
 		"country": "Russia",
 		"subcountry": "Krasnodarskiy",
 		"geonameid": "538416"
@@ -104190,7 +104190,7 @@ const states = [
 		"geonameid": "541404"
 	},
 	{
-		"name": "Biryulëvo Zapadnoye",
+		"name": "Biryulevo Zapadnoye",
 		"country": "Russia",
 		"subcountry": "MO",
 		"geonameid": "541406"
@@ -104580,7 +104580,7 @@ const states = [
 		"geonameid": "549424"
 	},
 	{
-		"name": "Khoroshëvo-Mnevniki",
+		"name": "Khoroshevo-Mnevniki",
 		"country": "Russia",
 		"subcountry": "MO",
 		"geonameid": "549479"
@@ -105330,7 +105330,7 @@ const states = [
 		"geonameid": "569223"
 	},
 	{
-		"name": "Cherëmushki",
+		"name": "Cheremushki",
 		"country": "Russia",
 		"subcountry": "MO",
 		"geonameid": "569273"
@@ -105414,7 +105414,7 @@ const states = [
 		"geonameid": "571170"
 	},
 	{
-		"name": "Budënnovsk",
+		"name": "Budennovsk",
 		"country": "Russia",
 		"subcountry": "Stavropol'skiy",
 		"geonameid": "571306"
@@ -105522,7 +105522,7 @@ const states = [
 		"geonameid": "576172"
 	},
 	{
-		"name": "Biryulëvo",
+		"name": "Biryulevo",
 		"country": "Russia",
 		"subcountry": "Moscow",
 		"geonameid": "576279"
@@ -105576,7 +105576,7 @@ const states = [
 		"geonameid": "577893"
 	},
 	{
-		"name": "Beloozërskiy",
+		"name": "Beloozerskiy",
 		"country": "Russia",
 		"subcountry": "MO",
 		"geonameid": "577901"
@@ -105588,7 +105588,7 @@ const states = [
 		"geonameid": "578072"
 	},
 	{
-		"name": "Belëv",
+		"name": "Belev",
 		"country": "Russia",
 		"subcountry": "Tula",
 		"geonameid": "578091"
@@ -105984,7 +105984,7 @@ const states = [
 		"geonameid": "829005"
 	},
 	{
-		"name": "Trëkhgornyy",
+		"name": "Trekhgornyy",
 		"country": "Russia",
 		"subcountry": "Chelyabinsk",
 		"geonameid": "830844"
@@ -106572,7 +106572,7 @@ const states = [
 		"geonameid": "1499350"
 	},
 	{
-		"name": "Linëvo",
+		"name": "Linevo",
 		"country": "Russia",
 		"subcountry": "Novosibirsk",
 		"geonameid": "1500532"
@@ -106692,13 +106692,13 @@ const states = [
 		"geonameid": "1503037"
 	},
 	{
-		"name": "Kochenëvo",
+		"name": "Kochenevo",
 		"country": "Russia",
 		"subcountry": "Novosibirsk",
 		"geonameid": "1503082"
 	},
 	{
-		"name": "Kiselëvsk",
+		"name": "Kiselevsk",
 		"country": "Russia",
 		"subcountry": "Kemerovo",
 		"geonameid": "1503277"
@@ -106944,13 +106944,13 @@ const states = [
 		"geonameid": "1510203"
 	},
 	{
-		"name": "Berëzovskiy",
+		"name": "Berezovskiy",
 		"country": "Russia",
 		"subcountry": "Kemerovo",
 		"geonameid": "1510205"
 	},
 	{
-		"name": "Berëzovka",
+		"name": "Berezovka",
 		"country": "Russia",
 		"subcountry": "Krasnoyarskiy",
 		"geonameid": "1510255"
@@ -106998,7 +106998,7 @@ const states = [
 		"geonameid": "1511330"
 	},
 	{
-		"name": "Artëmovskiy",
+		"name": "Artemovskiy",
 		"country": "Russia",
 		"subcountry": "Sverdlovsk",
 		"geonameid": "1511368"
@@ -107424,7 +107424,7 @@ const states = [
 		"geonameid": "2027296"
 	},
 	{
-		"name": "Artëm",
+		"name": "Artem",
 		"country": "Russia",
 		"subcountry": "Primorskiy",
 		"geonameid": "2027456"
@@ -107828,7 +107828,7 @@ const states = [
 	{
 		"name": "Umm Lajj",
 		"country": "Saudi Arabia",
-		"subcountry": "Minţaqat Tabūk",
+		"subcountry": "Minţaqat Tabuk",
 		"geonameid": "100926"
 	},
 	{
@@ -107844,7 +107844,7 @@ const states = [
 		"geonameid": "101322"
 	},
 	{
-		"name": "Tārūt",
+		"name": "Tarut",
 		"country": "Saudi Arabia",
 		"subcountry": "Eastern Province",
 		"geonameid": "101554"
@@ -107852,7 +107852,7 @@ const states = [
 	{
 		"name": "Tabuk",
 		"country": "Saudi Arabia",
-		"subcountry": "Minţaqat Tabūk",
+		"subcountry": "Minţaqat Tabuk",
 		"geonameid": "101628"
 	},
 	{
@@ -107862,19 +107862,19 @@ const states = [
 		"geonameid": "101631"
 	},
 	{
-		"name": "Sulţānah",
+		"name": "Sulţanah",
 		"country": "Saudi Arabia",
 		"subcountry": "Al Madīnah al Munawwarah",
 		"geonameid": "101760"
 	},
 	{
-		"name": "Sayhāt",
+		"name": "Sayhat",
 		"country": "Saudi Arabia",
 		"subcountry": "Eastern Province",
 		"geonameid": "102318"
 	},
 	{
-		"name": "Şāmitah",
+		"name": "Şamitah",
 		"country": "Saudi Arabia",
 		"subcountry": "Jizan",
 		"geonameid": "102451"
@@ -107892,7 +107892,7 @@ const states = [
 		"geonameid": "102585"
 	},
 	{
-		"name": "Şabyā",
+		"name": "Şabya",
 		"country": "Saudi Arabia",
 		"subcountry": "Jizan",
 		"geonameid": "102651"
@@ -107904,7 +107904,7 @@ const states = [
 		"geonameid": "102985"
 	},
 	{
-		"name": "Rābigh",
+		"name": "Rabigh",
 		"country": "Saudi Arabia",
 		"subcountry": "Makkah",
 		"geonameid": "103035"
@@ -107916,9 +107916,9 @@ const states = [
 		"geonameid": "103369"
 	},
 	{
-		"name": "Najrān",
+		"name": "Najran",
 		"country": "Saudi Arabia",
-		"subcountry": "Najrān",
+		"subcountry": "Najran",
 		"geonameid": "103630"
 	},
 	{
@@ -107948,13 +107948,13 @@ const states = [
 	{
 		"name": "Ha'il",
 		"country": "Saudi Arabia",
-		"subcountry": "Ḩāʼil",
+		"subcountry": "Ḩaʼil",
 		"geonameid": "106281"
 	},
 	{
 		"name": "Duba",
 		"country": "Saudi Arabia",
-		"subcountry": "Minţaqat Tabūk",
+		"subcountry": "Minţaqat Tabuk",
 		"geonameid": "106909"
 	},
 	{
@@ -107978,7 +107978,7 @@ const states = [
 	{
 		"name": "Az Zulfi",
 		"country": "Saudi Arabia",
-		"subcountry": "Ar Riyāḑ",
+		"subcountry": "Ar Riyaḑ",
 		"geonameid": "107781"
 	},
 	{
@@ -108002,13 +108002,13 @@ const states = [
 	{
 		"name": "As Sulayyil",
 		"country": "Saudi Arabia",
-		"subcountry": "Ar Riyāḑ",
+		"subcountry": "Ar Riyaḑ",
 		"geonameid": "108048"
 	},
 	{
 		"name": "Riyadh",
 		"country": "Saudi Arabia",
-		"subcountry": "Ar Riyāḑ",
+		"subcountry": "Ar Riyaḑ",
 		"geonameid": "108410"
 	},
 	{
@@ -108024,7 +108024,7 @@ const states = [
 		"geonameid": "108512"
 	},
 	{
-		"name": "An Nimāş",
+		"name": "An Nimaş",
 		"country": "Saudi Arabia",
 		"subcountry": "Minţaqat ‘Asīr",
 		"geonameid": "108617"
@@ -108038,7 +108038,7 @@ const states = [
 	{
 		"name": "Al Wajh",
 		"country": "Saudi Arabia",
-		"subcountry": "Minţaqat Tabūk",
+		"subcountry": "Minţaqat Tabuk",
 		"geonameid": "108773"
 	},
 	{
@@ -108048,7 +108048,7 @@ const states = [
 		"geonameid": "108841"
 	},
 	{
-		"name": "Al Qayşūmah",
+		"name": "Al Qayşumah",
 		"country": "Saudi Arabia",
 		"subcountry": "Eastern Province",
 		"geonameid": "108918"
@@ -108096,7 +108096,7 @@ const states = [
 		"geonameid": "109380"
 	},
 	{
-		"name": "Al Jumūm",
+		"name": "Al Jumum",
 		"country": "Saudi Arabia",
 		"subcountry": "Makkah",
 		"geonameid": "109417"
@@ -108108,7 +108108,7 @@ const states = [
 		"geonameid": "109435"
 	},
 	{
-		"name": "Al Hufūf",
+		"name": "Al Hufuf",
 		"country": "Saudi Arabia",
 		"subcountry": "Eastern Province",
 		"geonameid": "109571"
@@ -108120,33 +108120,33 @@ const states = [
 		"geonameid": "109878"
 	},
 	{
-		"name": "Al Baţţālīyah",
+		"name": "Al Baţţalīyah",
 		"country": "Saudi Arabia",
 		"subcountry": "Eastern Province",
 		"geonameid": "109915"
 	},
 	{
-		"name": "Al Bāḩah",
+		"name": "Al Baḩah",
 		"country": "Saudi Arabia",
-		"subcountry": "Minţaqat al Bāḩah",
+		"subcountry": "Minţaqat al Baḩah",
 		"geonameid": "109953"
 	},
 	{
 		"name": "‘Afīf",
 		"country": "Saudi Arabia",
-		"subcountry": "Ar Riyāḑ",
+		"subcountry": "Ar Riyaḑ",
 		"geonameid": "110250"
 	},
 	{
 		"name": "Ad Dilam",
 		"country": "Saudi Arabia",
-		"subcountry": "Ar Riyāḑ",
+		"subcountry": "Ar Riyaḑ",
 		"geonameid": "110314"
 	},
 	{
-		"name": "Ad Dawādimī",
+		"name": "Ad Dawadimī",
 		"country": "Saudi Arabia",
-		"subcountry": "Ar Riyāḑ",
+		"subcountry": "Ar Riyaḑ",
 		"geonameid": "110325"
 	},
 	{
@@ -108156,7 +108156,7 @@ const states = [
 		"geonameid": "110336"
 	},
 	{
-		"name": "Abū ‘Arīsh",
+		"name": "Abu ‘Arīsh",
 		"country": "Saudi Arabia",
 		"subcountry": "Jizan",
 		"geonameid": "110619"
@@ -108168,7 +108168,7 @@ const states = [
 		"geonameid": "110690"
 	},
 	{
-		"name": "Ash Shafā",
+		"name": "Ash Shafa",
 		"country": "Saudi Arabia",
 		"subcountry": "Makkah",
 		"geonameid": "410096"
@@ -108206,7 +108206,7 @@ const states = [
 	{
 		"name": "Umm Ruwaba",
 		"country": "Sudan",
-		"subcountry": "Shamāl Kurdufān",
+		"subcountry": "Shamal Kurdufan",
 		"geonameid": "364706"
 	},
 	{
@@ -108216,7 +108216,7 @@ const states = [
 		"geonameid": "365137"
 	},
 	{
-		"name": "Tokār",
+		"name": "Tokar",
 		"country": "Sudan",
 		"subcountry": "Red Sea",
 		"geonameid": "366323"
@@ -108230,7 +108230,7 @@ const states = [
 	{
 		"name": "Singa",
 		"country": "Sudan",
-		"subcountry": "Sinnār",
+		"subcountry": "Sinnar",
 		"geonameid": "366847"
 	},
 	{
@@ -108240,7 +108240,7 @@ const states = [
 		"geonameid": "367308"
 	},
 	{
-		"name": "Sawākin",
+		"name": "Sawakin",
 		"country": "Sudan",
 		"subcountry": "Red Sea",
 		"geonameid": "367544"
@@ -108248,7 +108248,7 @@ const states = [
 	{
 		"name": "Sinnar",
 		"country": "Sudan",
-		"subcountry": "Sinnār",
+		"subcountry": "Sinnar",
 		"geonameid": "367644"
 	},
 	{
@@ -108260,7 +108260,7 @@ const states = [
 	{
 		"name": "Maiurno",
 		"country": "Sudan",
-		"subcountry": "Sinnār",
+		"subcountry": "Sinnar",
 		"geonameid": "370838"
 	},
 	{
@@ -108276,9 +108276,9 @@ const states = [
 		"geonameid": "371870"
 	},
 	{
-		"name": "Kināna",
+		"name": "Kinana",
 		"country": "Sudan",
-		"subcountry": "Sinnār",
+		"subcountry": "Sinnar",
 		"geonameid": "372386"
 	},
 	{
@@ -108296,7 +108296,7 @@ const states = [
 	{
 		"name": "Doka",
 		"country": "Sudan",
-		"subcountry": "Al Qaḑārif",
+		"subcountry": "Al Qaḑarif",
 		"geonameid": "376332"
 	},
 	{
@@ -108318,9 +108318,9 @@ const states = [
 		"geonameid": "377690"
 	},
 	{
-		"name": "Bārah",
+		"name": "Barah",
 		"country": "Sudan",
-		"subcountry": "Shamāl Kurdufān",
+		"subcountry": "Shamal Kurdufan",
 		"geonameid": "377724"
 	},
 	{
@@ -108330,9 +108330,9 @@ const states = [
 		"geonameid": "378231"
 	},
 	{
-		"name": "As Sūkī",
+		"name": "As Sukī",
 		"country": "Sudan",
-		"subcountry": "Sinnār",
+		"subcountry": "Sinnar",
 		"geonameid": "378271"
 	},
 	{
@@ -108344,11 +108344,11 @@ const states = [
 	{
 		"name": "Ar Rahad",
 		"country": "Sudan",
-		"subcountry": "Shamāl Kurdufān",
+		"subcountry": "Shamal Kurdufan",
 		"geonameid": "378493"
 	},
 	{
-		"name": "An Nuhūd",
+		"name": "An Nuhud",
 		"country": "Sudan",
 		"subcountry": "West Kordofan State",
 		"geonameid": "378699"
@@ -108356,7 +108356,7 @@ const states = [
 	{
 		"name": "El Obeid",
 		"country": "Sudan",
-		"subcountry": "Shamāl Kurdufān",
+		"subcountry": "Shamal Kurdufan",
 		"geonameid": "379003"
 	},
 	{
@@ -108368,7 +108368,7 @@ const states = [
 	{
 		"name": "Al Qadarif",
 		"country": "Sudan",
-		"subcountry": "Al Qaḑārif",
+		"subcountry": "Al Qaḑarif",
 		"geonameid": "379062"
 	},
 	{
@@ -108378,7 +108378,7 @@ const states = [
 		"geonameid": "379102"
 	},
 	{
-		"name": "Al Manāqil",
+		"name": "Al Manaqil",
 		"country": "Sudan",
 		"subcountry": "Al Jazīrah",
 		"geonameid": "379149"
@@ -108396,15 +108396,15 @@ const states = [
 		"geonameid": "379303"
 	},
 	{
-		"name": "Al Hilāliyya",
+		"name": "Al Hilaliyya",
 		"country": "Sudan",
 		"subcountry": "Al Jazīrah",
 		"geonameid": "379406"
 	},
 	{
-		"name": "Al Ḩawātah",
+		"name": "Al Ḩawatah",
 		"country": "Sudan",
-		"subcountry": "Al Qaḑārif",
+		"subcountry": "Al Qaḑarif",
 		"geonameid": "379416"
 	},
 	{
@@ -108440,7 +108440,7 @@ const states = [
 	{
 		"name": "Ad Dindar",
 		"country": "Sudan",
-		"subcountry": "Sinnār",
+		"subcountry": "Sinnar",
 		"geonameid": "380151"
 	},
 	{
@@ -108456,7 +108456,7 @@ const states = [
 		"geonameid": "380174"
 	},
 	{
-		"name": "Abū Zabad",
+		"name": "Abu Zabad",
 		"country": "Sudan",
 		"subcountry": "West Kordofan State",
 		"geonameid": "380348"
@@ -108468,25 +108468,25 @@ const states = [
 		"geonameid": "380757"
 	},
 	{
-		"name": "Umeå",
+		"name": "Umea",
 		"country": "Sweden",
-		"subcountry": "Västerbotten",
+		"subcountry": "Vasterbotten",
 		"geonameid": "602150"
 	},
 	{
-		"name": "Skellefteå",
+		"name": "Skelleftea",
 		"country": "Sweden",
-		"subcountry": "Västerbotten",
+		"subcountry": "Vasterbotten",
 		"geonameid": "602913"
 	},
 	{
-		"name": "Piteå",
+		"name": "Pitea",
 		"country": "Sweden",
 		"subcountry": "Norrbotten",
 		"geonameid": "603570"
 	},
 	{
-		"name": "Luleå",
+		"name": "Lulea",
 		"country": "Sweden",
 		"subcountry": "Norrbotten",
 		"geonameid": "604490"
@@ -108506,7 +108506,7 @@ const states = [
 	{
 		"name": "Ystad",
 		"country": "Sweden",
-		"subcountry": "Skåne",
+		"subcountry": "Skane",
 		"geonameid": "2662149"
 	},
 	{
@@ -108516,27 +108516,27 @@ const states = [
 		"geonameid": "2662689"
 	},
 	{
-		"name": "Växjö",
+		"name": "Vaxjo",
 		"country": "Sweden",
 		"subcountry": "Kronoberg",
 		"geonameid": "2663536"
 	},
 	{
-		"name": "Västervik",
+		"name": "Vastervik",
 		"country": "Sweden",
 		"subcountry": "Kalmar",
 		"geonameid": "2664203"
 	},
 	{
-		"name": "Västerås",
+		"name": "Vasteras",
 		"country": "Sweden",
-		"subcountry": "Västmanland",
+		"subcountry": "Vastmanland",
 		"geonameid": "2664454"
 	},
 	{
-		"name": "Värnamo",
+		"name": "Varnamo",
 		"country": "Sweden",
-		"subcountry": "Jönköping",
+		"subcountry": "Jonkoping",
 		"geonameid": "2664855"
 	},
 	{
@@ -108546,9 +108546,9 @@ const states = [
 		"geonameid": "2664996"
 	},
 	{
-		"name": "Vänersborg",
+		"name": "Vanersborg",
 		"country": "Sweden",
-		"subcountry": "Västra Götaland",
+		"subcountry": "Vastra Gotaland",
 		"geonameid": "2665171"
 	},
 	{
@@ -108564,7 +108564,7 @@ const states = [
 		"geonameid": "2666199"
 	},
 	{
-		"name": "Upplands Väsby",
+		"name": "Upplands Vasby",
 		"country": "Sweden",
 		"subcountry": "Stockholm",
 		"geonameid": "2666238"
@@ -108572,7 +108572,7 @@ const states = [
 	{
 		"name": "Uddevalla",
 		"country": "Sweden",
-		"subcountry": "Västra Götaland",
+		"subcountry": "Vastra Gotaland",
 		"geonameid": "2666670"
 	},
 	{
@@ -108588,19 +108588,19 @@ const states = [
 		"geonameid": "2667109"
 	},
 	{
-		"name": "Trollhättan",
+		"name": "Trollhattan",
 		"country": "Sweden",
-		"subcountry": "Västra Götaland",
+		"subcountry": "Vastra Gotaland",
 		"geonameid": "2667303"
 	},
 	{
 		"name": "Trelleborg",
 		"country": "Sweden",
-		"subcountry": "Skåne",
+		"subcountry": "Skane",
 		"geonameid": "2667402"
 	},
 	{
-		"name": "Täby",
+		"name": "Taby",
 		"country": "Sweden",
 		"subcountry": "Stockholm",
 		"geonameid": "2669772"
@@ -108608,7 +108608,7 @@ const states = [
 	{
 		"name": "Sundsvall",
 		"country": "Sweden",
-		"subcountry": "Västernorrland",
+		"subcountry": "Vasternorrland",
 		"geonameid": "2670781"
 	},
 	{
@@ -108636,31 +108636,31 @@ const states = [
 		"geonameid": "2675408"
 	},
 	{
-		"name": "Södertälje",
+		"name": "Sodertalje",
 		"country": "Sweden",
 		"subcountry": "Stockholm",
 		"geonameid": "2676176"
 	},
 	{
-		"name": "Skövde",
+		"name": "Skovde",
 		"country": "Sweden",
-		"subcountry": "Västra Götaland",
+		"subcountry": "Vastra Gotaland",
 		"geonameid": "2677234"
 	},
 	{
 		"name": "Skara",
 		"country": "Sweden",
-		"subcountry": "Västra Götaland",
+		"subcountry": "Vastra Gotaland",
 		"geonameid": "2678210"
 	},
 	{
 		"name": "Sandviken",
 		"country": "Sweden",
-		"subcountry": "Gävleborg",
+		"subcountry": "Gavleborg",
 		"geonameid": "2680075"
 	},
 	{
-		"name": "Råsunda",
+		"name": "Rasunda",
 		"country": "Sweden",
 		"subcountry": "Stockholm",
 		"geonameid": "2683034"
@@ -108668,17 +108668,17 @@ const states = [
 	{
 		"name": "Partille",
 		"country": "Sweden",
-		"subcountry": "Västra Götaland",
+		"subcountry": "Vastra Gotaland",
 		"geonameid": "2684395"
 	},
 	{
-		"name": "Östersund",
+		"name": "Ostersund",
 		"country": "Sweden",
-		"subcountry": "Jämtland",
+		"subcountry": "Jamtland",
 		"geonameid": "2685750"
 	},
 	{
-		"name": "Östermalm",
+		"name": "Ostermalm",
 		"country": "Sweden",
 		"subcountry": "Stockholm",
 		"geonameid": "2685828"
@@ -108690,39 +108690,39 @@ const states = [
 		"geonameid": "2686162"
 	},
 	{
-		"name": "Örnsköldsvik",
+		"name": "Ornskoldsvik",
 		"country": "Sweden",
-		"subcountry": "Västernorrland",
+		"subcountry": "Vasternorrland",
 		"geonameid": "2686469"
 	},
 	{
-		"name": "Örebro",
+		"name": "Orebro",
 		"country": "Sweden",
-		"subcountry": "Örebro",
+		"subcountry": "Orebro",
 		"geonameid": "2686657"
 	},
 	{
-		"name": "Nyköping",
+		"name": "Nykoping",
 		"country": "Sweden",
-		"subcountry": "Södermanland",
+		"subcountry": "Sodermanland",
 		"geonameid": "2687700"
 	},
 	{
-		"name": "Norrtälje",
+		"name": "Norrtalje",
 		"country": "Sweden",
 		"subcountry": "Stockholm",
 		"geonameid": "2688250"
 	},
 	{
-		"name": "Norrköping",
+		"name": "Norrkoping",
 		"country": "Sweden",
-		"subcountry": "Östergötland",
+		"subcountry": "Ostergotland",
 		"geonameid": "2688368"
 	},
 	{
-		"name": "Nässjö",
+		"name": "Nassjo",
 		"country": "Sweden",
-		"subcountry": "Jönköping",
+		"subcountry": "Jonkoping",
 		"geonameid": "2690170"
 	},
 	{
@@ -108734,47 +108734,47 @@ const states = [
 	{
 		"name": "Motala",
 		"country": "Sweden",
-		"subcountry": "Östergötland",
+		"subcountry": "Ostergotland",
 		"geonameid": "2690960"
 	},
 	{
-		"name": "Mölndal",
+		"name": "Molndal",
 		"country": "Sweden",
-		"subcountry": "Västra Götaland",
+		"subcountry": "Vastra Gotaland",
 		"geonameid": "2691459"
 	},
 	{
-		"name": "Märsta",
+		"name": "Marsta",
 		"country": "Sweden",
 		"subcountry": "Stockholm",
 		"geonameid": "2692475"
 	},
 	{
-		"name": "Malmö",
+		"name": "Malmo",
 		"country": "Sweden",
-		"subcountry": "Skåne",
+		"subcountry": "Skane",
 		"geonameid": "2692969"
 	},
 	{
 		"name": "Lund",
 		"country": "Sweden",
-		"subcountry": "Skåne",
+		"subcountry": "Skane",
 		"geonameid": "2693678"
 	},
 	{
-		"name": "Linköping",
+		"name": "Linkoping",
 		"country": "Sweden",
-		"subcountry": "Östergötland",
+		"subcountry": "Ostergotland",
 		"geonameid": "2694762"
 	},
 	{
-		"name": "Lidköping",
+		"name": "Lidkoping",
 		"country": "Sweden",
-		"subcountry": "Västra Götaland",
+		"subcountry": "Vastra Gotaland",
 		"geonameid": "2696329"
 	},
 	{
-		"name": "Lidingö",
+		"name": "Lidingo",
 		"country": "Sweden",
 		"subcountry": "Stockholm",
 		"geonameid": "2696334"
@@ -108782,13 +108782,13 @@ const states = [
 	{
 		"name": "Lerum",
 		"country": "Sweden",
-		"subcountry": "Västra Götaland",
+		"subcountry": "Vastra Gotaland",
 		"geonameid": "2696503"
 	},
 	{
 		"name": "Landskrona",
 		"country": "Sweden",
-		"subcountry": "Skåne",
+		"subcountry": "Skane",
 		"geonameid": "2697720"
 	},
 	{
@@ -108798,39 +108798,39 @@ const states = [
 		"geonameid": "2698729"
 	},
 	{
-		"name": "Kungälv",
+		"name": "Kungalv",
 		"country": "Sweden",
-		"subcountry": "Västra Götaland",
+		"subcountry": "Vastra Gotaland",
 		"geonameid": "2698739"
 	},
 	{
 		"name": "Kristinehamn",
 		"country": "Sweden",
-		"subcountry": "Värmland",
+		"subcountry": "Varmland",
 		"geonameid": "2699282"
 	},
 	{
 		"name": "Kristianstad",
 		"country": "Sweden",
-		"subcountry": "Skåne",
+		"subcountry": "Skane",
 		"geonameid": "2699310"
 	},
 	{
-		"name": "Köping",
+		"name": "Koping",
 		"country": "Sweden",
-		"subcountry": "Västmanland",
+		"subcountry": "Vastmanland",
 		"geonameid": "2699791"
 	},
 	{
 		"name": "Katrineholm",
 		"country": "Sweden",
-		"subcountry": "Södermanland",
+		"subcountry": "Sodermanland",
 		"geonameid": "2701223"
 	},
 	{
 		"name": "Karlstad",
 		"country": "Sweden",
-		"subcountry": "Värmland",
+		"subcountry": "Varmland",
 		"geonameid": "2701680"
 	},
 	{
@@ -108842,7 +108842,7 @@ const states = [
 	{
 		"name": "Karlskoga",
 		"country": "Sweden",
-		"subcountry": "Örebro",
+		"subcountry": "Orebro",
 		"geonameid": "2701715"
 	},
 	{
@@ -108858,9 +108858,9 @@ const states = [
 		"geonameid": "2702261"
 	},
 	{
-		"name": "Jönköping",
+		"name": "Jonkoping",
 		"country": "Sweden",
-		"subcountry": "Jönköping",
+		"subcountry": "Jonkoping",
 		"geonameid": "2702979"
 	},
 	{
@@ -108872,7 +108872,7 @@ const states = [
 	{
 		"name": "Huskvarna",
 		"country": "Sweden",
-		"subcountry": "Jönköping",
+		"subcountry": "Jonkoping",
 		"geonameid": "2704136"
 	},
 	{
@@ -108884,19 +108884,19 @@ const states = [
 	{
 		"name": "Helsingborg",
 		"country": "Sweden",
-		"subcountry": "Skåne",
+		"subcountry": "Skane",
 		"geonameid": "2706767"
 	},
 	{
-		"name": "Hässleholm",
+		"name": "Hassleholm",
 		"country": "Sweden",
-		"subcountry": "Skåne",
+		"subcountry": "Skane",
 		"geonameid": "2707399"
 	},
 	{
-		"name": "Härnösand",
+		"name": "Harnosand",
 		"country": "Sweden",
-		"subcountry": "Västernorrland",
+		"subcountry": "Vasternorrland",
 		"geonameid": "2707684"
 	},
 	{
@@ -108912,15 +108912,15 @@ const states = [
 		"geonameid": "2708365"
 	},
 	{
-		"name": "Göteborg",
+		"name": "Goteborg",
 		"country": "Sweden",
-		"subcountry": "Västra Götaland",
+		"subcountry": "Vastra Gotaland",
 		"geonameid": "2711537"
 	},
 	{
-		"name": "Gävle",
+		"name": "Gavle",
 		"country": "Sweden",
-		"subcountry": "Gävleborg",
+		"subcountry": "Gavleborg",
 		"geonameid": "2712414"
 	},
 	{
@@ -108936,9 +108936,9 @@ const states = [
 		"geonameid": "2715459"
 	},
 	{
-		"name": "Falköping",
+		"name": "Falkoping",
 		"country": "Sweden",
-		"subcountry": "Västra Götaland",
+		"subcountry": "Vastra Gotaland",
 		"geonameid": "2715568"
 	},
 	{
@@ -108948,19 +108948,19 @@ const states = [
 		"geonameid": "2715573"
 	},
 	{
-		"name": "Eslöv",
+		"name": "Eslov",
 		"country": "Sweden",
-		"subcountry": "Skåne",
+		"subcountry": "Skane",
 		"geonameid": "2715946"
 	},
 	{
 		"name": "Eskilstuna",
 		"country": "Sweden",
-		"subcountry": "Södermanland",
+		"subcountry": "Sodermanland",
 		"geonameid": "2715953"
 	},
 	{
-		"name": "Enköping",
+		"name": "Enkoping",
 		"country": "Sweden",
 		"subcountry": "Uppsala",
 		"geonameid": "2716166"
@@ -108972,15 +108972,15 @@ const states = [
 		"geonameid": "2719111"
 	},
 	{
-		"name": "Borlänge",
+		"name": "Borlange",
 		"country": "Sweden",
 		"subcountry": "Dalarna",
 		"geonameid": "2720383"
 	},
 	{
-		"name": "Borås",
+		"name": "Boras",
 		"country": "Sweden",
-		"subcountry": "Västra Götaland",
+		"subcountry": "Vastra Gotaland",
 		"geonameid": "2720501"
 	},
 	{
@@ -108990,25 +108990,25 @@ const states = [
 		"geonameid": "2721259"
 	},
 	{
-		"name": "Årsta",
+		"name": "Arsta",
 		"country": "Sweden",
 		"subcountry": "Stockholm",
 		"geonameid": "2725201"
 	},
 	{
-		"name": "Ängelholm",
+		"name": "Angelholm",
 		"country": "Sweden",
-		"subcountry": "Skåne",
+		"subcountry": "Skane",
 		"geonameid": "2725901"
 	},
 	{
-		"name": "Alingsås",
+		"name": "Alingsas",
 		"country": "Sweden",
-		"subcountry": "Västra Götaland",
+		"subcountry": "Vastra Gotaland",
 		"geonameid": "2726756"
 	},
 	{
-		"name": "Åkersberga",
+		"name": "Akersberga",
 		"country": "Sweden",
 		"subcountry": "Stockholm",
 		"geonameid": "2727234"
@@ -109016,7 +109016,7 @@ const states = [
 	{
 		"name": "Majorna",
 		"country": "Sweden",
-		"subcountry": "Västra Götaland",
+		"subcountry": "Vastra Gotaland",
 		"geonameid": "6619708"
 	},
 	{
@@ -110112,13 +110112,13 @@ const states = [
 		"geonameid": "3513392"
 	},
 	{
-		"name": "Yabrūd",
+		"name": "Yabrud",
 		"country": "Syria",
 		"subcountry": "Rif-dimashq",
 		"geonameid": "162627"
 	},
 	{
-		"name": "Ţayyibat al Imām",
+		"name": "Ţayyibat al Imam",
 		"country": "Syria",
 		"subcountry": "Hama",
 		"geonameid": "163270"
@@ -110160,7 +110160,7 @@ const states = [
 		"geonameid": "163808"
 	},
 	{
-		"name": "Tādif",
+		"name": "Tadif",
 		"country": "Syria",
 		"subcountry": "Aleppo",
 		"geonameid": "163811"
@@ -110172,7 +110172,7 @@ const states = [
 		"geonameid": "163915"
 	},
 	{
-		"name": "Subaykhān",
+		"name": "Subaykhan",
 		"country": "Syria",
 		"subcountry": "Deir ez-Zor",
 		"geonameid": "164025"
@@ -110184,7 +110184,7 @@ const states = [
 		"geonameid": "164328"
 	},
 	{
-		"name": "Sarāqib",
+		"name": "Saraqib",
 		"country": "Syria",
 		"subcountry": "Idlib",
 		"geonameid": "164816"
@@ -110208,19 +110208,19 @@ const states = [
 		"geonameid": "165060"
 	},
 	{
-		"name": "Qaţanā",
+		"name": "Qaţana",
 		"country": "Syria",
 		"subcountry": "Rif-dimashq",
 		"geonameid": "165929"
 	},
 	{
-		"name": "Jāsim",
+		"name": "Jasim",
 		"country": "Syria",
 		"subcountry": "Daraa",
 		"geonameid": "165997"
 	},
 	{
-		"name": "Qārah",
+		"name": "Qarah",
 		"country": "Syria",
 		"subcountry": "Rif-dimashq",
 		"geonameid": "166111"
@@ -110232,7 +110232,7 @@ const states = [
 		"geonameid": "166331"
 	},
 	{
-		"name": "Maşyāf",
+		"name": "Maşyaf",
 		"country": "Syria",
 		"subcountry": "Hama",
 		"geonameid": "167046"
@@ -110250,19 +110250,19 @@ const states = [
 		"geonameid": "167605"
 	},
 	{
-		"name": "Khān Shaykhūn",
+		"name": "Khan Shaykhun",
 		"country": "Syria",
 		"subcountry": "Idlib",
 		"geonameid": "168325"
 	},
 	{
-		"name": "Kafr Zaytā",
+		"name": "Kafr Zayta",
 		"country": "Syria",
 		"subcountry": "Hama",
 		"geonameid": "168620"
 	},
 	{
-		"name": "Kafr Takhārīm",
+		"name": "Kafr Takharīm",
 		"country": "Syria",
 		"subcountry": "Idlib",
 		"geonameid": "168629"
@@ -110274,25 +110274,25 @@ const states = [
 		"geonameid": "168661"
 	},
 	{
-		"name": "Kafr Lāhā",
+		"name": "Kafr Laha",
 		"country": "Syria",
 		"subcountry": "Homs",
 		"geonameid": "168668"
 	},
 	{
-		"name": "Jisr ash Shughūr",
+		"name": "Jisr ash Shughur",
 		"country": "Syria",
 		"subcountry": "Idlib",
 		"geonameid": "169023"
 	},
 	{
-		"name": "Jayrūd",
+		"name": "Jayrud",
 		"country": "Syria",
 		"subcountry": "Rif-dimashq",
 		"geonameid": "169113"
 	},
 	{
-		"name": "Jarābulus",
+		"name": "Jarabulus",
 		"country": "Syria",
 		"subcountry": "Aleppo",
 		"geonameid": "169179"
@@ -110328,19 +110328,19 @@ const states = [
 		"geonameid": "169577"
 	},
 	{
-		"name": "Ḩarastā",
+		"name": "Ḩarasta",
 		"country": "Syria",
 		"subcountry": "Rif-dimashq",
 		"geonameid": "169897"
 	},
 	{
-		"name": "Ḩamāh",
+		"name": "Ḩamah",
 		"country": "Syria",
 		"subcountry": "Hama",
 		"geonameid": "170017"
 	},
 	{
-		"name": "Ḩalfāyā",
+		"name": "Ḩalfaya",
 		"country": "Syria",
 		"subcountry": "Hama",
 		"geonameid": "170044"
@@ -110364,7 +110364,7 @@ const states = [
 		"geonameid": "170654"
 	},
 	{
-		"name": "Dayr Ḩāfir",
+		"name": "Dayr Ḩafir",
 		"country": "Syria",
 		"subcountry": "Aleppo",
 		"geonameid": "170785"
@@ -110376,19 +110376,19 @@ const states = [
 		"geonameid": "170794"
 	},
 	{
-		"name": "Ad Darbāsīyah",
+		"name": "Ad Darbasīyah",
 		"country": "Syria",
 		"subcountry": "Al-Hasakah",
 		"geonameid": "170887"
 	},
 	{
-		"name": "Dārayyā",
+		"name": "Darayya",
 		"country": "Syria",
 		"subcountry": "Rif-dimashq",
 		"geonameid": "170892"
 	},
 	{
-		"name": "Dar‘ā",
+		"name": "Dar‘a",
 		"country": "Syria",
 		"subcountry": "Daraa",
 		"geonameid": "170905"
@@ -110400,19 +110400,19 @@ const states = [
 		"geonameid": "171451"
 	},
 	{
-		"name": "Bāniyās",
+		"name": "Baniyas",
 		"country": "Syria",
 		"subcountry": "Tartus",
 		"geonameid": "171830"
 	},
 	{
-		"name": "Az Zabadānī",
+		"name": "Az Zabadanī",
 		"country": "Syria",
 		"subcountry": "Rif-dimashq",
 		"geonameid": "172059"
 	},
 	{
-		"name": "I‘zāz",
+		"name": "I‘zaz",
 		"country": "Syria",
 		"subcountry": "Aleppo",
 		"geonameid": "172082"
@@ -110436,7 +110436,7 @@ const states = [
 		"geonameid": "172374"
 	},
 	{
-		"name": "As Suwaydā’",
+		"name": "As Suwayda’",
 		"country": "Syria",
 		"subcountry": "As-Suwayda",
 		"geonameid": "172408"
@@ -110496,7 +110496,7 @@ const states = [
 		"geonameid": "173361"
 	},
 	{
-		"name": "Al Mayādīn",
+		"name": "Al Mayadīn",
 		"country": "Syria",
 		"subcountry": "Deir ez-Zor",
 		"geonameid": "173480"
@@ -110520,13 +110520,13 @@ const states = [
 		"geonameid": "173811"
 	},
 	{
-		"name": "Al Ḩarāk",
+		"name": "Al Ḩarak",
 		"country": "Syria",
 		"subcountry": "Daraa",
 		"geonameid": "173819"
 	},
 	{
-		"name": "Al Bāb",
+		"name": "Al Bab",
 		"country": "Syria",
 		"subcountry": "Aleppo",
 		"geonameid": "174018"
@@ -110538,13 +110538,13 @@ const states = [
 		"geonameid": "174186"
 	},
 	{
-		"name": "Ad Dānā",
+		"name": "Ad Dana",
 		"country": "Syria",
 		"subcountry": "Idlib",
 		"geonameid": "174259"
 	},
 	{
-		"name": "Ālbū Kamāl",
+		"name": "Albu Kamal",
 		"country": "Syria",
 		"subcountry": "Deir ez-Zor",
 		"geonameid": "174448"
@@ -110724,7 +110724,7 @@ const states = [
 		"geonameid": "2436400"
 	},
 	{
-		"name": "Port-aux-Français",
+		"name": "Port-aux-Francais",
 		"country": "French Southern Territories",
 		"subcountry": "Kerguelen",
 		"geonameid": "1546102"
@@ -112310,7 +112310,7 @@ const states = [
 	{
 		"name": "Maubara",
 		"country": "East Timor",
-		"subcountry": "Liquiçá",
+		"subcountry": "Liquicá",
 		"geonameid": "1635826"
 	},
 	{
@@ -112322,7 +112322,7 @@ const states = [
 	{
 		"name": "Liquica",
 		"country": "East Timor",
-		"subcountry": "Liquiçá",
+		"subcountry": "Liquicá",
 		"geonameid": "1637730"
 	},
 	{
@@ -112428,7 +112428,7 @@ const states = [
 		"geonameid": "601594"
 	},
 	{
-		"name": "Köneürgench",
+		"name": "Koneürgench",
 		"country": "Turkmenistan",
 		"subcountry": "Daşoguz",
 		"geonameid": "601608"
@@ -112446,7 +112446,7 @@ const states = [
 		"geonameid": "601734"
 	},
 	{
-		"name": "Yolöten",
+		"name": "Yoloten",
 		"country": "Turkmenistan",
 		"subcountry": "Mary",
 		"geonameid": "1218021"
@@ -112508,19 +112508,19 @@ const states = [
 	{
 		"name": "Zaghouan",
 		"country": "Tunisia",
-		"subcountry": "Zaghwān",
+		"subcountry": "Zaghwan",
 		"geonameid": "2464041"
 	},
 	{
 		"name": "Oued Lill",
 		"country": "Tunisia",
-		"subcountry": "Tūnis",
+		"subcountry": "Tunis",
 		"geonameid": "2464168"
 	},
 	{
 		"name": "Tunis",
 		"country": "Tunisia",
-		"subcountry": "Tūnis",
+		"subcountry": "Tunis",
 		"geonameid": "2464470"
 	},
 	{
@@ -112544,7 +112544,7 @@ const states = [
 	{
 		"name": "Takelsa",
 		"country": "Tunisia",
-		"subcountry": "Nābul",
+		"subcountry": "Nabul",
 		"geonameid": "2464804"
 	},
 	{
@@ -112556,19 +112556,19 @@ const states = [
 	{
 		"name": "Sousse",
 		"country": "Tunisia",
-		"subcountry": "Sūsah",
+		"subcountry": "Susah",
 		"geonameid": "2464915"
 	},
 	{
 		"name": "Siliana",
 		"country": "Tunisia",
-		"subcountry": "Silyānah",
+		"subcountry": "Silyanah",
 		"geonameid": "2465030"
 	},
 	{
 		"name": "Sidi Bouzid",
 		"country": "Tunisia",
-		"subcountry": "Sīdī Bū Zayd",
+		"subcountry": "Sīdī Bu Zayd",
 		"geonameid": "2465840"
 	},
 	{
@@ -112580,19 +112580,19 @@ const states = [
 	{
 		"name": "Sfax",
 		"country": "Tunisia",
-		"subcountry": "Şafāqis",
+		"subcountry": "Şafaqis",
 		"geonameid": "2467454"
 	},
 	{
 		"name": "La Sebala du Mornag",
 		"country": "Tunisia",
-		"subcountry": "Tūnis",
+		"subcountry": "Tunis",
 		"geonameid": "2467521"
 	},
 	{
 		"name": "Radès",
 		"country": "Tunisia",
-		"subcountry": "Tūnis",
+		"subcountry": "Tunis",
 		"geonameid": "2467815"
 	},
 	{
@@ -112604,13 +112604,13 @@ const states = [
 	{
 		"name": "Korba",
 		"country": "Tunisia",
-		"subcountry": "Nābul",
+		"subcountry": "Nabul",
 		"geonameid": "2467920"
 	},
 	{
 		"name": "Kélibia",
 		"country": "Tunisia",
-		"subcountry": "Nābul",
+		"subcountry": "Nabul",
 		"geonameid": "2467959"
 	},
 	{
@@ -112628,13 +112628,13 @@ const states = [
 	{
 		"name": "Carthage",
 		"country": "Tunisia",
-		"subcountry": "Tūnis",
+		"subcountry": "Tunis",
 		"geonameid": "2468245"
 	},
 	{
 		"name": "El Fahs",
 		"country": "Tunisia",
-		"subcountry": "Zaghwān",
+		"subcountry": "Zaghwan",
 		"geonameid": "2468285"
 	},
 	{
@@ -112652,7 +112652,7 @@ const states = [
 	{
 		"name": "Gabès",
 		"country": "Tunisia",
-		"subcountry": "Qābis",
+		"subcountry": "Qabis",
 		"geonameid": "2468369"
 	},
 	{
@@ -112664,7 +112664,7 @@ const states = [
 	{
 		"name": "Nabeul",
 		"country": "Tunisia",
-		"subcountry": "Nābul",
+		"subcountry": "Nabul",
 		"geonameid": "2468579"
 	},
 	{
@@ -112682,7 +112682,7 @@ const states = [
 	{
 		"name": "Msaken",
 		"country": "Tunisia",
-		"subcountry": "Sūsah",
+		"subcountry": "Susah",
 		"geonameid": "2469140"
 	},
 	{
@@ -112694,7 +112694,7 @@ const states = [
 	{
 		"name": "Mennzel Bou Zelfa",
 		"country": "Tunisia",
-		"subcountry": "Nābul",
+		"subcountry": "Nabul",
 		"geonameid": "2469262"
 	},
 	{
@@ -112718,7 +112718,7 @@ const states = [
 	{
 		"name": "Medjez el Bab",
 		"country": "Tunisia",
-		"subcountry": "Bājah",
+		"subcountry": "Bajah",
 		"geonameid": "2469386"
 	},
 	{
@@ -112730,7 +112730,7 @@ const states = [
 	{
 		"name": "Jendouba",
 		"country": "Tunisia",
-		"subcountry": "Jundūbah",
+		"subcountry": "Jundubah",
 		"geonameid": "2470088"
 	},
 	{
@@ -112754,19 +112754,19 @@ const states = [
 	{
 		"name": "Hammam Sousse",
 		"country": "Tunisia",
-		"subcountry": "Sūsah",
+		"subcountry": "Susah",
 		"geonameid": "2470579"
 	},
 	{
 		"name": "Hammam-Lif",
 		"country": "Tunisia",
-		"subcountry": "Tūnis",
+		"subcountry": "Tunis",
 		"geonameid": "2470588"
 	},
 	{
 		"name": "La Goulette",
 		"country": "Tunisia",
-		"subcountry": "Tūnis",
+		"subcountry": "Tunis",
 		"geonameid": "2470656"
 	},
 	{
@@ -112784,13 +112784,13 @@ const states = [
 	{
 		"name": "Dar Chabanne",
 		"country": "Tunisia",
-		"subcountry": "Nābul",
+		"subcountry": "Nabul",
 		"geonameid": "2471637"
 	},
 	{
 		"name": "Ben Arous",
 		"country": "Tunisia",
-		"subcountry": "Bin ‘Arūs",
+		"subcountry": "Bin ‘Arus",
 		"geonameid": "2472479"
 	},
 	{
@@ -112802,13 +112802,13 @@ const states = [
 	{
 		"name": "Beni Khiar",
 		"country": "Tunisia",
-		"subcountry": "Nābul",
+		"subcountry": "Nabul",
 		"geonameid": "2472722"
 	},
 	{
 		"name": "Béja",
 		"country": "Tunisia",
-		"subcountry": "Bājah",
+		"subcountry": "Bajah",
 		"geonameid": "2472774"
 	},
 	{
@@ -112844,7 +112844,7 @@ const states = [
 	{
 		"name": "Kairouan",
 		"country": "Tunisia",
-		"subcountry": "Al Qayrawān",
+		"subcountry": "Al Qayrawan",
 		"geonameid": "2473449"
 	},
 	{
@@ -112856,7 +112856,7 @@ const states = [
 	{
 		"name": "Gremda",
 		"country": "Tunisia",
-		"subcountry": "Şafāqis",
+		"subcountry": "Şafaqis",
 		"geonameid": "2473470"
 	},
 	{
@@ -112868,7 +112868,7 @@ const states = [
 	{
 		"name": "La Mohammedia",
 		"country": "Tunisia",
-		"subcountry": "Tūnis",
+		"subcountry": "Tunis",
 		"geonameid": "2473499"
 	},
 	{
@@ -112880,7 +112880,7 @@ const states = [
 	{
 		"name": "Al Marsá",
 		"country": "Tunisia",
-		"subcountry": "Tūnis",
+		"subcountry": "Tunis",
 		"geonameid": "2473540"
 	},
 	{
@@ -112904,13 +112904,13 @@ const states = [
 	{
 		"name": "Hammamet",
 		"country": "Tunisia",
-		"subcountry": "Nābul",
+		"subcountry": "Nabul",
 		"geonameid": "2473744"
 	},
 	{
 		"name": "El Hamma",
 		"country": "Tunisia",
-		"subcountry": "Qābis",
+		"subcountry": "Qabis",
 		"geonameid": "2473747"
 	},
 	{
@@ -112928,13 +112928,13 @@ const states = [
 	{
 		"name": "Akouda",
 		"country": "Tunisia",
-		"subcountry": "Sūsah",
+		"subcountry": "Susah",
 		"geonameid": "2473913"
 	},
 	{
 		"name": "Douane",
 		"country": "Tunisia",
-		"subcountry": "Nābul",
+		"subcountry": "Nabul",
 		"geonameid": "2581754"
 	},
 	{
@@ -112968,7 +112968,7 @@ const states = [
 		"geonameid": "296852"
 	},
 	{
-		"name": "Yerköy",
+		"name": "Yerkoy",
 		"country": "Turkey",
 		"subcountry": "Yozgat",
 		"geonameid": "296895"
@@ -112986,7 +112986,7 @@ const states = [
 		"geonameid": "297564"
 	},
 	{
-		"name": "Yalvaç",
+		"name": "Yalvac",
 		"country": "Turkey",
 		"subcountry": "Isparta",
 		"geonameid": "297789"
@@ -113106,7 +113106,7 @@ const states = [
 		"geonameid": "300058"
 	},
 	{
-		"name": "Suruç",
+		"name": "Suruc",
 		"country": "Turkey",
 		"subcountry": "Şanlıurfa",
 		"geonameid": "300075"
@@ -113126,11 +113126,11 @@ const states = [
 	{
 		"name": "Solhan",
 		"country": "Turkey",
-		"subcountry": "Bingöl",
+		"subcountry": "Bingol",
 		"geonameid": "300377"
 	},
 	{
-		"name": "Söke",
+		"name": "Soke",
 		"country": "Turkey",
 		"subcountry": "Aydın",
 		"geonameid": "300399"
@@ -113202,7 +113202,7 @@ const states = [
 		"geonameid": "301101"
 	},
 	{
-		"name": "Şereflikoçhisar",
+		"name": "Şereflikochisar",
 		"country": "Turkey",
 		"subcountry": "Ankara",
 		"geonameid": "301116"
@@ -113220,7 +113220,7 @@ const states = [
 		"geonameid": "301209"
 	},
 	{
-		"name": "Selçuk",
+		"name": "Selcuk",
 		"country": "Turkey",
 		"subcountry": "İzmir",
 		"geonameid": "301256"
@@ -113238,13 +113238,13 @@ const states = [
 		"geonameid": "301537"
 	},
 	{
-		"name": "Şarkîkaraağaç",
+		"name": "Şarkikaraağac",
 		"country": "Turkey",
 		"subcountry": "Isparta",
 		"geonameid": "301539"
 	},
 	{
-		"name": "Sarayköy",
+		"name": "Saraykoy",
 		"country": "Turkey",
 		"subcountry": "Denizli",
 		"geonameid": "301827"
@@ -113298,7 +113298,7 @@ const states = [
 		"geonameid": "303195"
 	},
 	{
-		"name": "Ortaköy",
+		"name": "Ortakoy",
 		"country": "Turkey",
 		"subcountry": "Aksaray",
 		"geonameid": "303290"
@@ -113310,7 +113310,7 @@ const states = [
 		"geonameid": "303354"
 	},
 	{
-		"name": "Ödemiş",
+		"name": "Odemiş",
 		"country": "Turkey",
 		"subcountry": "İzmir",
 		"geonameid": "303700"
@@ -113532,7 +113532,7 @@ const states = [
 		"geonameid": "307515"
 	},
 	{
-		"name": "Kırkağaç",
+		"name": "Kırkağac",
 		"country": "Turkey",
 		"subcountry": "Manisa",
 		"geonameid": "307623"
@@ -113598,13 +113598,13 @@ const states = [
 		"geonameid": "309647"
 	},
 	{
-		"name": "Karakoçan",
+		"name": "Karakocan",
 		"country": "Turkey",
 		"subcountry": "Elazığ",
 		"geonameid": "309663"
 	},
 	{
-		"name": "Karaçoban",
+		"name": "Karacoban",
 		"country": "Turkey",
 		"subcountry": "Erzurum",
 		"geonameid": "310004"
@@ -113694,21 +113694,21 @@ const states = [
 		"geonameid": "313331"
 	},
 	{
-		"name": "Gölbaşı",
+		"name": "Golbaşı",
 		"country": "Turkey",
 		"subcountry": "Adıyaman",
 		"geonameid": "314136"
 	},
 	{
-		"name": "Göksun",
+		"name": "Goksun",
 		"country": "Turkey",
 		"subcountry": "Kahramanmaraş",
 		"geonameid": "314188"
 	},
 	{
-		"name": "Genç",
+		"name": "Genc",
 		"country": "Turkey",
-		"subcountry": "Bingöl",
+		"subcountry": "Bingol",
 		"geonameid": "314648"
 	},
 	{
@@ -113736,7 +113736,7 @@ const states = [
 		"geonameid": "314830"
 	},
 	{
-		"name": "Foça",
+		"name": "Foca",
 		"country": "Turkey",
 		"subcountry": "İzmir",
 		"geonameid": "314903"
@@ -113750,7 +113750,7 @@ const states = [
 	{
 		"name": "Ezine",
 		"country": "Turkey",
-		"subcountry": "Çanakkale Province",
+		"subcountry": "Canakkale Province",
 		"geonameid": "315061"
 	},
 	{
@@ -113862,7 +113862,7 @@ const states = [
 		"geonameid": "316102"
 	},
 	{
-		"name": "Dörtyol",
+		"name": "Dortyol",
 		"country": "Turkey",
 		"subcountry": "Hatay",
 		"geonameid": "316284"
@@ -113910,7 +113910,7 @@ const states = [
 		"geonameid": "317241"
 	},
 	{
-		"name": "Dargeçit",
+		"name": "Dargecit",
 		"country": "Turkey",
 		"subcountry": "Mardin",
 		"geonameid": "317587"
@@ -113922,7 +113922,7 @@ const states = [
 		"geonameid": "317588"
 	},
 	{
-		"name": "Çumra",
+		"name": "Cumra",
 		"country": "Turkey",
 		"subcountry": "Konya",
 		"geonameid": "317844"
@@ -113946,7 +113946,7 @@ const states = [
 		"geonameid": "318253"
 	},
 	{
-		"name": "Çine",
+		"name": "Cine",
 		"country": "Turkey",
 		"subcountry": "Aydın",
 		"geonameid": "318372"
@@ -113964,25 +113964,25 @@ const states = [
 		"geonameid": "318675"
 	},
 	{
-		"name": "Çeşme",
+		"name": "Ceşme",
 		"country": "Turkey",
 		"subcountry": "İzmir",
 		"geonameid": "318755"
 	},
 	{
-		"name": "Çermik",
+		"name": "Cermik",
 		"country": "Turkey",
 		"subcountry": "Diyarbakır",
 		"geonameid": "318766"
 	},
 	{
-		"name": "Çay",
+		"name": "Cay",
 		"country": "Turkey",
 		"subcountry": "Afyonkarahisar",
 		"geonameid": "319104"
 	},
 	{
-		"name": "Çağlayancerit",
+		"name": "Cağlayancerit",
 		"country": "Turkey",
 		"subcountry": "Kahramanmaraş",
 		"geonameid": "320004"
@@ -114066,13 +114066,13 @@ const states = [
 		"geonameid": "321062"
 	},
 	{
-		"name": "Bingöl",
+		"name": "Bingol",
 		"country": "Turkey",
-		"subcountry": "Bingöl",
+		"subcountry": "Bingol",
 		"geonameid": "321082"
 	},
 	{
-		"name": "Bigadiç",
+		"name": "Bigadic",
 		"country": "Turkey",
 		"subcountry": "Balıkesir",
 		"geonameid": "321136"
@@ -114138,7 +114138,7 @@ const states = [
 		"geonameid": "322165"
 	},
 	{
-		"name": "Bahçe",
+		"name": "Bahce",
 		"country": "Turkey",
 		"subcountry": "Adana",
 		"geonameid": "322391"
@@ -114228,7 +114228,7 @@ const states = [
 		"geonameid": "324768"
 	},
 	{
-		"name": "Akçakale",
+		"name": "Akcakale",
 		"country": "Turkey",
 		"subcountry": "Şanlıurfa",
 		"geonameid": "324944"
@@ -114318,7 +114318,7 @@ const states = [
 		"geonameid": "737611"
 	},
 	{
-		"name": "Körfez",
+		"name": "Korfez",
 		"country": "Turkey",
 		"subcountry": "Kocaeli",
 		"geonameid": "737961"
@@ -114336,7 +114336,7 @@ const states = [
 		"geonameid": "738064"
 	},
 	{
-		"name": "Vezirköprü",
+		"name": "Vezirkoprü",
 		"country": "Turkey",
 		"subcountry": "Samsun",
 		"geonameid": "738167"
@@ -114348,7 +114348,7 @@ const states = [
 		"geonameid": "738228"
 	},
 	{
-		"name": "Uzunköprü",
+		"name": "Uzunkoprü",
 		"country": "Turkey",
 		"subcountry": "Edirne",
 		"geonameid": "738251"
@@ -114414,7 +114414,7 @@ const states = [
 		"geonameid": "738858"
 	},
 	{
-		"name": "Tekkeköy",
+		"name": "Tekkekoy",
 		"country": "Turkey",
 		"subcountry": "Samsun",
 		"geonameid": "738907"
@@ -114432,7 +114432,7 @@ const states = [
 		"geonameid": "739015"
 	},
 	{
-		"name": "Taşköprü",
+		"name": "Taşkoprü",
 		"country": "Turkey",
 		"subcountry": "Kastamonu",
 		"geonameid": "739061"
@@ -114452,7 +114452,7 @@ const states = [
 	{
 		"name": "Sungurlu",
 		"country": "Turkey",
-		"subcountry": "Çorum",
+		"subcountry": "Corum",
 		"geonameid": "739236"
 	},
 	{
@@ -114524,7 +114524,7 @@ const states = [
 	{
 		"name": "Osmancık",
 		"country": "Turkey",
-		"subcountry": "Çorum",
+		"subcountry": "Corum",
 		"geonameid": "740883"
 	},
 	{
@@ -114728,7 +114728,7 @@ const states = [
 	{
 		"name": "İskilip",
 		"country": "Turkey",
-		"subcountry": "Çorum",
+		"subcountry": "Corum",
 		"geonameid": "745076"
 	},
 	{
@@ -114792,19 +114792,19 @@ const states = [
 		"geonameid": "746425"
 	},
 	{
-		"name": "Görele",
+		"name": "Gorele",
 		"country": "Turkey",
 		"subcountry": "Giresun",
 		"geonameid": "746565"
 	},
 	{
-		"name": "Gönen",
+		"name": "Gonen",
 		"country": "Turkey",
 		"subcountry": "Balıkesir",
 		"geonameid": "746574"
 	},
 	{
-		"name": "Gölcük",
+		"name": "Golcük",
 		"country": "Turkey",
 		"subcountry": "Kocaeli",
 		"geonameid": "746666"
@@ -114836,7 +114836,7 @@ const states = [
 	{
 		"name": "Gelibolu",
 		"country": "Turkey",
-		"subcountry": "Çanakkale Province",
+		"subcountry": "Canakkale Province",
 		"geonameid": "746983"
 	},
 	{
@@ -114888,7 +114888,7 @@ const states = [
 		"geonameid": "747489"
 	},
 	{
-		"name": "Eminönü",
+		"name": "Eminonü",
 		"country": "Turkey",
 		"subcountry": "Istanbul",
 		"geonameid": "747538"
@@ -114912,55 +114912,55 @@ const states = [
 		"geonameid": "748167"
 	},
 	{
-		"name": "Çubuk",
+		"name": "Cubuk",
 		"country": "Turkey",
 		"subcountry": "Ankara",
 		"geonameid": "748870"
 	},
 	{
-		"name": "Çorum",
+		"name": "Corum",
 		"country": "Turkey",
-		"subcountry": "Çorum",
+		"subcountry": "Corum",
 		"geonameid": "748879"
 	},
 	{
-		"name": "Çorlu",
+		"name": "Corlu",
 		"country": "Turkey",
 		"subcountry": "Tekirdağ",
 		"geonameid": "748893"
 	},
 	{
-		"name": "Çerkezköy",
+		"name": "Cerkezkoy",
 		"country": "Turkey",
 		"subcountry": "Tekirdağ",
 		"geonameid": "749274"
 	},
 	{
-		"name": "Çerkeş",
+		"name": "Cerkeş",
 		"country": "Turkey",
-		"subcountry": "Çankırı",
+		"subcountry": "Cankırı",
 		"geonameid": "749279"
 	},
 	{
-		"name": "Çayeli",
+		"name": "Cayeli",
 		"country": "Turkey",
 		"subcountry": "Rize",
 		"geonameid": "749502"
 	},
 	{
-		"name": "Çaycuma",
+		"name": "Caycuma",
 		"country": "Turkey",
 		"subcountry": "Zonguldak",
 		"geonameid": "749508"
 	},
 	{
-		"name": "Çatalca",
+		"name": "Catalca",
 		"country": "Turkey",
 		"subcountry": "Istanbul",
 		"geonameid": "749644"
 	},
 	{
-		"name": "Çarşamba",
+		"name": "Carşamba",
 		"country": "Turkey",
 		"subcountry": "Samsun",
 		"geonameid": "749704"
@@ -114968,19 +114968,19 @@ const states = [
 	{
 		"name": "Khanjarah",
 		"country": "Turkey",
-		"subcountry": "Çankırı",
+		"subcountry": "Cankırı",
 		"geonameid": "749748"
 	},
 	{
-		"name": "Çanakkale",
+		"name": "Canakkale",
 		"country": "Turkey",
-		"subcountry": "Çanakkale Province",
+		"subcountry": "Canakkale Province",
 		"geonameid": "749780"
 	},
 	{
-		"name": "Çan",
+		"name": "Can",
 		"country": "Turkey",
-		"subcountry": "Çanakkale Province",
+		"subcountry": "Canakkale Province",
 		"geonameid": "749795"
 	},
 	{
@@ -115016,7 +115016,7 @@ const states = [
 	{
 		"name": "Biga",
 		"country": "Turkey",
-		"subcountry": "Çanakkale Province",
+		"subcountry": "Canakkale Province",
 		"geonameid": "750605"
 	},
 	{
@@ -115118,7 +115118,7 @@ const states = [
 	{
 		"name": "Alaca",
 		"country": "Turkey",
-		"subcountry": "Çorum",
+		"subcountry": "Corum",
 		"geonameid": "752278"
 	},
 	{
@@ -115128,13 +115128,13 @@ const states = [
 		"geonameid": "752288"
 	},
 	{
-		"name": "Akçakoca",
+		"name": "Akcakoca",
 		"country": "Turkey",
 		"subcountry": "Düzce",
 		"geonameid": "752584"
 	},
 	{
-		"name": "Akçaabat",
+		"name": "Akcaabat",
 		"country": "Turkey",
 		"subcountry": "Trabzon",
 		"geonameid": "752627"
@@ -115158,7 +115158,7 @@ const states = [
 		"geonameid": "6354984"
 	},
 	{
-		"name": "güngören merter",
+		"name": "güngoren merter",
 		"country": "Turkey",
 		"subcountry": "Istanbul",
 		"geonameid": "6354985"
@@ -115194,19 +115194,19 @@ const states = [
 		"geonameid": "6947640"
 	},
 	{
-		"name": "Büyükçekmece",
+		"name": "Büyükcekmece",
 		"country": "Turkey",
 		"subcountry": "Istanbul",
 		"geonameid": "6947641"
 	},
 	{
-		"name": "Çankaya",
+		"name": "Cankaya",
 		"country": "Turkey",
 		"subcountry": "Ankara",
 		"geonameid": "6955677"
 	},
 	{
-		"name": "Bahçelievler",
+		"name": "Bahcelievler",
 		"country": "Turkey",
 		"subcountry": "Istanbul",
 		"geonameid": "7627067"
@@ -134178,7 +134178,7 @@ const states = [
 		"geonameid": "5847486"
 	},
 	{
-		"name": "Kāne‘ohe",
+		"name": "Kane‘ohe",
 		"country": "United States",
 		"subcountry": "Hawaii",
 		"geonameid": "5848189"
@@ -134208,7 +134208,7 @@ const states = [
 		"geonameid": "5852275"
 	},
 	{
-		"name": "Wahiawā",
+		"name": "Wahiawa",
 		"country": "United States",
 		"subcountry": "Hawaii",
 		"geonameid": "5853992"
@@ -136590,7 +136590,7 @@ const states = [
 		"geonameid": "786950"
 	},
 	{
-		"name": "Pejë",
+		"name": "Peje",
 		"country": "Kosovo",
 		"subcountry": "Pec",
 		"geonameid": "787157"
@@ -136602,7 +136602,7 @@ const states = [
 		"geonameid": "787456"
 	},
 	{
-		"name": "Llazicë",
+		"name": "Llazice",
 		"country": "Kosovo",
 		"subcountry": "Prizren",
 		"geonameid": "788470"
@@ -136614,7 +136614,7 @@ const states = [
 		"geonameid": "788731"
 	},
 	{
-		"name": "Mitrovicë",
+		"name": "Mitrovice",
 		"country": "Kosovo",
 		"subcountry": "Mitrovica",
 		"geonameid": "789225"
@@ -136650,19 +136650,19 @@ const states = [
 		"geonameid": "791122"
 	},
 	{
-		"name": "Deçan",
+		"name": "Decan",
 		"country": "Kosovo",
 		"subcountry": "Gjakova",
 		"geonameid": "791580"
 	},
 	{
-		"name": "Gjakovë",
+		"name": "Gjakove",
 		"country": "Kosovo",
 		"subcountry": "Gjakova",
 		"geonameid": "791646"
 	},
 	{
-		"name": "Zinjibār",
+		"name": "Zinjibar",
 		"country": "Yemen",
 		"subcountry": "Abyan",
 		"geonameid": "69426"
@@ -136670,7 +136670,7 @@ const states = [
 	{
 		"name": "Zabīd",
 		"country": "Yemen",
-		"subcountry": "Muḩāfaz̧at al Ḩudaydah",
+		"subcountry": "Muḩafaz̧at al Ḩudaydah",
 		"geonameid": "69500"
 	},
 	{
@@ -136686,7 +136686,7 @@ const states = [
 		"geonameid": "70225"
 	},
 	{
-		"name": "Sayyān",
+		"name": "Sayyan",
 		"country": "Yemen",
 		"subcountry": "Sanaa",
 		"geonameid": "70979"
@@ -136734,27 +136734,27 @@ const states = [
 		"geonameid": "75337"
 	},
 	{
-		"name": "Dhī as Sufāl",
+		"name": "Dhī as Sufal",
 		"country": "Yemen",
 		"subcountry": "Ibb",
 		"geonameid": "76154"
 	},
 	{
-		"name": "Dhamār",
+		"name": "Dhamar",
 		"country": "Yemen",
-		"subcountry": "Dhamār",
+		"subcountry": "Dhamar",
 		"geonameid": "76184"
 	},
 	{
 		"name": "Bayt al Faqīh",
 		"country": "Yemen",
-		"subcountry": "Muḩāfaz̧at al Ḩudaydah",
+		"subcountry": "Muḩafaz̧at al Ḩudaydah",
 		"geonameid": "76991"
 	},
 	{
-		"name": "Bājil",
+		"name": "Bajil",
 		"country": "Yemen",
-		"subcountry": "Muḩāfaz̧at al Ḩudaydah",
+		"subcountry": "Muḩafaz̧at al Ḩudaydah",
 		"geonameid": "77408"
 	},
 	{
@@ -136764,21 +136764,21 @@ const states = [
 		"geonameid": "77726"
 	},
 	{
-		"name": "‘Amrān",
+		"name": "‘Amran",
 		"country": "Yemen",
 		"subcountry": "Omran",
 		"geonameid": "78428"
 	},
 	{
-		"name": "Al Mukallā",
+		"name": "Al Mukalla",
 		"country": "Yemen",
-		"subcountry": "Muḩāfaz̧at Ḩaḑramawt",
+		"subcountry": "Muḩafaz̧at Ḩaḑramawt",
 		"geonameid": "78754"
 	},
 	{
 		"name": "Al Ḩudaydah",
 		"country": "Yemen",
-		"subcountry": "Muḩāfaz̧at al Ḩudaydah",
+		"subcountry": "Muḩafaz̧at al Ḩudaydah",
 		"geonameid": "79415"
 	},
 	{
@@ -136788,9 +136788,9 @@ const states = [
 		"geonameid": "79455"
 	},
 	{
-		"name": "Al Bayḑā’",
+		"name": "Al Bayḑa’",
 		"country": "Yemen",
-		"subcountry": "Al Bayḑāʼ",
+		"subcountry": "Al Bayḑaʼ",
 		"geonameid": "79836"
 	},
 	{
