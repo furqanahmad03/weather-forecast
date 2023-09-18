@@ -149,15 +149,7 @@ window.addEventListener('keypress',(e)=>{
 })
 
 
-const states = [
-  "Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut",
-  "Delaware", "Florida", "Georgia", "Hawaii", "Idaho", "Illinois", "Indiana", "Iowa",
-  "Kansas", "Kentucky", "Louisiana", "Maine", "Maryland", "Massachusetts", "Michigan",
-  "Minnesota", "Mississippi", "Missouri", "Montana", "Nebraska", "Nevada", "New Hampshire",
-  "New Jersey", "New Mexico", "New York", "North Carolina", "North Dakota", "Ohio", "Oklahoma",
-  "Oregon", "Pennsylvania", "Rhode Island", "South Carolina", "South Dakota", "Tennessee", "Texas",
-  "Utah", "Vermont", "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming","Lahore","Faisalabad","Rawalpindi","Gujranwala","Peshawar","Multan","Saidu Sharif","Hyderabad","Islamabad","Quetta","Bahawalpur","Sargodha","Sialkot","Sukkur","Larkana","Chiniot","Shekhupura","Rahimyar Khan","Jhang City","Dera Ghazi Khan","Gujrat","Cantonment","Bhawana","Mardan","Sarai Alamgir","Shah Latif Town","Kasur","Chakwal","Mingaora","Nawabshah","Kotri","Sahiwal","Hafizabad","Mirpur Khas","Okara","Khanewal","Chilas","Burewala","Jacobabad","Jhelum","Saddiqabad","Kohat","Muridke","Muzaffargarh","Khanpur","Gojra","Mandi Bahauddin","Jaranwala","Lalian","Chauk Azam","Abbottabad","Turbat","Dadu","Khairpur Mir's","Bahawalnagar","Khuzdar","Pakpattan","Zafarwal","Tando Allahyar","Ahmadpur East","Vihari","New Mirpur","Kamalia","Kot Addu","Nowshera","Swabi","Parachinar","Goth Tando Sumro","Khushab","Dera Ismail Khan","Bagu Na Mohra","Chaman","Charsadda","Kandhkot","Bahrain","Chishtian","Wahga","Masho Khel","Saidpur","Hasilpur","Attock Khurd","Kambar","Arifwala","Muzaffarabad","Mianwali","Jauharabad","Jalalpur Jattan","Gwadar","Bhakkar","Zhob","Dipalpur","Kharian","Mian Channun","Pir Mahal","Bhalwal","Jamshoro","Kathri","Pattoki","Harunabad","Kahror Pakka","Toba Tek Singh","Samundri","Shakargarh","Sambrial","Shujaabad","Hujra Shah Muqim","Kabirwala","Rohri","Mansehra","Lala Musa","Chunian","Nankana Sahib","Bannu","Pasrur","Timargara","Rangewala","Chenab Nagar","Abdul Hakim","Hassan Abdal","Haripur","Tank","Hangu","Jalalabad","Naushahro Firoz","Bat Khela","Risalpur Cantonment","Karak","Kundian","Umarkot","Chitral","Batgram","Dainyor","Kulachi","Kalat","Kotli","Murree","Akora","Mithi","Mian Sahib","Nurkot","Basla","Gakuch","Gilgit","Bunji","Karachi"
-];
+import states from './worldcities.js';
 
 const inputElement = document.getElementById('country');
 const suggestionsList = document.getElementById('suggestions-list');
@@ -165,16 +157,16 @@ const suggestionsList = document.getElementById('suggestions-list');
 inputElement.addEventListener('input', ()=>{
   const inputText = inputElement.value.trim().toLowerCase();
   const filteredStates = states.filter((state)=>{
-    return state.toLowerCase().includes(inputText);
+    return state.name.toLowerCase().includes(inputText);
   });
   suggestionsList.innerHTML = "";
   if(filteredStates.length > 0) {
     filteredStates.forEach((state)=>{
       const litElement = document.createElement('li');
       litElement.classList.add("py-2","px-3","cursor-pointer","border-transparent","rounded-md","transition","dark:hover:bg-[#2d2d2d]","hover:bg-gray-400");
-      litElement.textContent = state;
+      litElement.textContent = state.name;
       litElement.addEventListener('click', ()=>{
-        inputElement.value = state;
+        inputElement.value = state.name;
         suggestionsList.innerHTML = "";
         document.getElementById('search').click();
       })
