@@ -6396,7 +6396,7 @@ const states = [
 		"geonameid": "2395317"
 	},
 	{
-		"name": "Aplahoué",
+		"name": "Aplahoue",
 		"country": "Benin",
 		"subcountry": "Kouffo",
 		"geonameid": "2395568"
