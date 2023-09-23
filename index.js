@@ -32,7 +32,12 @@ let populateData = function (url, city_name) {
       $(".wind-direction").html(response["wind"]["deg"] + "&deg;");
       {
         let riseTime = new Date(parseInt(response["sys"]["sunrise"]) * 1000);
-        $(".sunrise").html(`${riseTime.getHours()}:${riseTime.getMinutes()} AM`);
+        if(riseTime.getMinutes()<10){
+          $(".sunrise").html(`${riseTime.getHours()}:0${riseTime.getMinutes()} AM`);
+        }
+        else{
+          $(".sunrise").html(`${riseTime.getHours()}:${riseTime.getMinutes()} AM`);
+        }
       }
       {
         let setTime = new Date(parseInt(response["sys"]["sunset"]) * 1000);
@@ -40,7 +45,12 @@ let populateData = function (url, city_name) {
         if (hours > 12) {
           hours -= 12;
         }
-        $(".sunset").html(`${hours}:${setTime.getMinutes()} PM`);
+        if(setTime.getMinutes()<10){
+          $(".sunset").html(`${hours}:0${setTime.getMinutes()} PM`);
+        }
+        else{
+          $(".sunset").html(`${hours}:${setTime.getMinutes()} PM`);
+        }
       }
       $(".visibility").html(response["visibility"]);
       $(".pressure").html(response["main"]["pressure"] + " hpa");
