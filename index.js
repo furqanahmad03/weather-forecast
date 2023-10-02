@@ -264,7 +264,7 @@ let populatingHistory = async ()=> {
         else {
           SunSetTime = `${hours}:${setTime.getMinutes()}`;
         }
-        let cloudImage="images/weather-app.png";
+        let cloudImage="/images/weather-app.png";
 
         // MAKING ROWS TO SHOW
         str += `
