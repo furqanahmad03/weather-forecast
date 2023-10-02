@@ -7,217 +7,118 @@
   <link rel="stylesheet" href="/style.css">
   <title>Weather Forcasting</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="shortcut icon" href="images/weather-app.png" type="image/x-icon">
+  <!-- <link rel="shortcut icon" href="images/weather-app.png" type="image/x-icon"> -->
 </head>
 
 <body class="h-screen dark:bg-dark">
   <div id="preloader"
     class="bg-black bg-[url('/images/loader.gif')] bg-no-repeat bg-center h-screen w-screen md:bg-[length:15%_auto] xsm:bg-[length:30%_auto] fixed z-50">
   </div>
-  <div class="sm:container sm:px-7 xsm:px-5 m-auto">
-    <header class="py-4 flex">
-      <div class="grow-[1] relative">
-        <label for="country"></label>
-        <input
-          class="bg-gray-300 dark:bg-gray-700 text-black rounded-3xl px-6 py-2 w-full placeholder-gray-500 dark:placeholder-gray-400 dark:text-white"
-          type="text" id="country" placeholder="Search here">
-        <button class="absolute px-3.5 py-2 right-1 top-1/2 transform -translate-y-1/2" type="button" id="search"><img
-            class="h-4" src="images/glass.png" alt="search"></button>
-        <ul
-          class="dark:bg-gray-700 bg-gray-300 mt-1 p-1 rounded-lg absolute w-full z-10 max-h-[40vh] text-black dark:text-white font-semibold overflow-scroll hidden"
-          id="suggestions-list">
-        </ul>
-      </div>
-      <div class="ml-2 px-3.5 py-2 bg-gray-300 dark:bg-gray-700 rounded-full">
-        <a href="https://linktr.ee/furqanahmad03" target="_blank"><i class="fa fa-cog h-3 w-3 dark:text-white"
-            aria-hidden="true"></i></a>
-      </div>
-      <div class="sm:ml-3 mt-2 sm:w-fit  xsm:w-[90px] xsm:text-center xsm:ml-0">
-        <input type="checkbox" class="checkbox absolute opacity-0" id="themeChange">
-        <label for="themeChange" class="checkbox-label bg-black px-2 py-1 rounded-3xl cursor-pointer">
-          <i class="fa fa-sun-o text-yellow-500 mr-1.5" aria-hidden="true"></i>
-          <i class="fa fa-moon-o text-yellow-400" aria-hidden="true"></i>
-          <span
-            class="w-5 h-5 rounded-full bg-white absolute -translate-x-11 translate-y-0.5 transform transition"></span>
-        </label>
-      </div>
-    </header>
-    <div class="px-12 my-4 flex justify-between">
-      <div class="flex gap-3">
-        <div><i class="fa fa-map-marker dark:text-white" aria-hidden="true"></i></div>
-        <h2 class="font-semibold location-name dark:text-white"> <!--Mian Channu--> </h2>
-      </div>
-      <div class="flex gap-16">
-        <div class="font-semibold text-gray-600 dark:text-gray-300 hide">Longitude: <span
-            class="text-red-700 dark:text-blue-400 underline longitude">
-            <!-- 23.444 --> </span></div>
-        <div class="font-semibold text-gray-600 dark:text-gray-300 hide">Latitude: <span
-            class="text-red-700 dark:text-blue-400 underline latitude">
-            <!-- 54.54 --> </span></div>
-      </div>
+  <header class="py-4 flex sm:container sm:px-7 xsm:px-5 m-auto mb-4">
+    <div class="grow-[1] relative">
+      <label for="country"></label>
+      <input
+        class="bg-gray-300 dark:bg-gray-700 text-black rounded-3xl px-6 py-2 w-full placeholder-gray-500 dark:placeholder-gray-400 dark:text-white"
+        type="text" id="country" placeholder="Search here">
+      <button class="absolute px-3.5 py-2 right-1 top-1/2 transform -translate-y-1/2" type="button" id="search"><img
+          class="h-4" src="images/glass.png" alt="search"></button>
+      <ul
+        class="dark:bg-gray-700 bg-gray-300 mt-1 p-1 rounded-lg absolute w-full z-10 max-h-[40vh] text-black dark:text-white font-semibold overflow-scroll hidden"
+        id="suggestions-list">
+      </ul>
     </div>
-    <div
-      class="my-5 sm:px-12 flex xl:justify-between xl:flex-row xsm:justify-center xsm:flex-col flex-wrap items-center pb-7 border-b-2">
-      <div class="flex items-center">
-        <img id="sun" class="h-44 hide" src="images/sun.png" alt="sun">
-        <img id="moon" class="h-44 hide" src="images/mooon.png" alt="moon">
-        <div class="ml-5">
-          <div class="flex items-end">
-            <h1 class="text-black font-extrabold sm:text-9xl xsm:text-8xl"><span class="temp-deg dark:text-white">
-                <!-- 26 -->
-              </span></h1>
-            <p class="font-semibold sm:mb-3 -ml-5 text-gray-500 dark:text-gray-300"><span class="temp-fh">
-                <!-- 123 -->
-              </span><!--&deg;F--></p>
-          </div>
-          <p class="capitalize description dark:text-white lg:text-start md:text-start  xsm:text-center">
-            <!-- Clear Skies, possible
-            cyclone -->
-          </p>
-        </div>
-      </div>
-      <div class="flex flex-col items-end">
-        <div class="flex gap-12 sm:h-24 xsm:h-16 xl:items-start xsm:items-end">
-          <div class="flex items-center">
-            <a href="#" class="px-2.5 py-1 rounded-full bg-gray-400 dark:bg-gray-700 text-white mr-2">&darr;</a>
-            <div>
-              <h4 class="text-base text-gray-500 dark:text-gray-300 -mb-2 sm:mb-0">Min</h4>
-              <p class="font-extrabold md:text-5xl dark:text-white sm:text-xl"><span class="min-temp">
-                  <!-- 23 -->
-                </span></p>
-            </div>
-          </div>
-          <div class="flex items-center">
-            <a href="#" class="px-2.5 py-1 rounded-full bg-gray-400 dark:bg-gray-700 text-white mr-2">&uarr;</a>
-            <div>
-              <h4 class="text-base text-gray-500 dark:text-gray-300 -mb-2 sm:mb-0">Max</h4>
-              <p class="font-extrabold md:text-5xl dark:text-white sm:text-xl"><span class="max-temp">
-                  <!-- 30 -->
-                </span></p>
-            </div>
-          </div>
-        </div>
-        <h3 class="text-red-500 font-semibold xsm:mt-3">Feels Like <span class="feels-like">
-            <!-- 25&deg; -->
-          </span></h3>
-      </div>
+    <div class="ml-2 px-3.5 py-2 bg-gray-300 dark:bg-gray-700 rounded-full">
+      <a href="https://linktr.ee/furqanahmad03" target="_blank"><i class="fa fa-cog h-3 w-3 dark:text-white"
+          aria-hidden="true"></i></a>
     </div>
-    <div
-      class="lg:mt-5 sm:mt-5 lg:pl-12 lg:pr-28 lg:px-12 md:px-12 sm:px-5 sm:pt-5 flex flex-col lg:gap-12 md:gap-0 sm:gap-0 lg:pb-12 sm:pb-8">
-      <div class="flex justify-between lg:flex-row xsm:flex-col">
-        <div class="flex items-center lg:w-36 lg:border-none xsm:w-full xsm:py-3 xsm:border-b-[1px]">
-          <i
-            class="px-1.5 py-0.5 bg-gray-400 text-gray-50 dark:bg-gray-700 dark:text-white rounded-full mr-4 text-xs">&nwarr;</i>
-          <div class="lg:block xsm:flex xsm:justify-between xsm:flex-grow">
-            <h6
-              class="lg:text-xs lg:text-gray-600 md:text-base md:text-black md:font-semibold sm:text-base sm:text-black sm:font-semibold lg:-mb-1 dark:text-gray-200">
-              Wind Speed</h6>
-            <p class="text-lg font-bold wind-speed dark:text-white">311 km/h</p>
-          </div>
-        </div>
-        <div class="flex items-center lg:w-36 lg:border-none xsm:w-full xsm:py-3 xsm:border-b-[1px]">
-          <img class="w-5 h-5 mr-4" src="images/compass.png" alt="cloud">
-          <div class="lg:block xsm:flex xsm:justify-between xsm:flex-grow">
-            <h6
-              class="lg:text-xs lg:text-gray-600 md:text-base md:text-black md:font-semibold sm:text-base sm:text-black sm:font-semibold lg:-mb-1 dark:text-gray-200">
-              Wind Direction</h6>
-            <p class="text-lg font-bold wind-direction dark:text-white"><!--45&deg;--></p>
-          </div>
-        </div>
-        <div class="flex items-center lg:w-36 lg:border-none xsm:w-full xsm:py-3 xsm:border-b-[1px]">
-          <img class="w-5 h-5 mr-4" src="images/sunrise.png" alt="sunrise">
-          <div class="lg:block xsm:flex xsm:justify-between xsm:flex-grow">
-            <h6
-              class="lg:text-xs lg:text-gray-600 md:text-base md:text-black md:font-semibold sm:text-base sm:text-black sm:font-semibold lg:-mb-1 dark:text-gray-200">
-              Sunrise</h6>
-            <p class="text-lg font-bold sunrise dark:text-white"><!--5:47 PM--></p>
-          </div>
-        </div>
-        <div class="flex items-center lg:w-36 lg:border-none xsm:w-full xsm:py-3 xsm:border-b-[1px]">
-          <img class="w-5 h-5 mr-4" src="images/sunset.png" alt="sunset">
-          <div class="lg:block xsm:flex xsm:justify-between xsm:flex-grow">
-            <h6
-              class="lg:text-xs lg:text-gray-600 md:text-base md:text-black md:font-semibold sm:text-base sm:text-black sm:font-semibold lg:-mb-1 dark:text-gray-200">
-              Sunset</h6>
-            <p class="text-lg font-bold sunset dark:text-white"><!--8:16 AM--></p>
-          </div>
-        </div>
-      </div>
-      <div class="flex justify-between lg:flex-row xsm:flex-col">
-        <div class="flex items-center lg:w-36 lg:border-none xsm:w-full xsm:py-3 xsm:border-b-[1px]">
-          <!-- <img class="w-5 h-5 mr-4" src="images/visibility.svg" alt="cloud"> -->
-          <i class="fa fa-eye w-5 h-5 mr-4 dark:text-white" aria-hidden="true"></i>
-          <div class="lg:block xsm:flex xsm:justify-between xsm:flex-grow">
-            <h6
-              class="lg:text-xs lg:text-gray-600 md:text-base md:text-black md:font-semibold sm:text-base sm:text-black sm:font-semibold lg:-mb-1 dark:text-gray-200">
-              Visibility</h6>
-            <p class="text-lg font-bold visibility dark:text-white"><!--5728--></p>
-          </div>
-        </div>
-        <div class="flex items-center lg:w-36 lg:border-none xsm:w-full xsm:py-3 xsm:border-b-[1px]">
-          <img class="w-5 h-5 mr-4" src="images/arrowzigzag.png" alt="cloud">
-          <div class="lg:block xsm:flex xsm:justify-between xsm:flex-grow">
-            <h6
-              class="lg:text-xs lg:text-gray-600 md:text-base md:text-black md:font-semibold sm:text-base sm:text-black sm:font-semibold lg:-mb-1 dark:text-gray-200">
-              Pressure</h6>
-            <p class="text-lg font-bold pressure dark:text-white"><!--953 hPa--></p>
-          </div>
-        </div>
-        <div class="flex items-center lg:w-36 lg:border-none xsm:w-full xsm:py-3">
-          <img class="w-5 h-5 mr-4" src="images/droplet.png" alt="sunrise">
-          <div class="lg:block xsm:flex xsm:justify-between xsm:flex-grow">
-            <h6
-              class="lg:text-xs lg:text-gray-600 md:text-base md:text-black md:font-semibold sm:text-base sm:text-black sm:font-semibold lg:-mb-1 dark:text-gray-200">
-              Humidity</h6>
-            <p class="text-lg font-bold humidity dark:text-white"><!--98%--></p>
-          </div>
-        </div>
-        <div class="flex items-center lg:w-36 lg:border-none xsm:w-full xsm:py-3 xsm:border-t-[1px] GUST">
-          <img class="w-5 h-5 mr-4" src="images/gusts.png" alt="sunset">
-          <div class="lg:block xsm:flex xsm:justify-between xsm:flex-grow">
-            <h6
-              class="lg:text-xs lg:text-gray-600 md:text-base md:text-black md:font-semibold sm:text-base sm:text-black sm:font-semibold lg:-mb-1 dark:text-gray-200">
-              Gusts</h6>
-            <p class="text-lg font-bold gusts dark:text-white"><!--434 km/h--></p>
-          </div>
-        </div>
-      </div>
+    <div class="sm:ml-3 mt-2 sm:w-fit  xsm:w-[90px] xsm:text-center xsm:ml-0">
+      <input type="checkbox" class="checkbox absolute opacity-0" id="themeChange">
+      <label for="themeChange" class="checkbox-label bg-black px-2 py-1 rounded-3xl cursor-pointer">
+        <i class="fa fa-sun-o text-yellow-500 mr-1.5" aria-hidden="true"></i>
+        <i class="fa fa-moon-o text-yellow-400" aria-hidden="true"></i>
+        <span
+          class="w-5 h-5 rounded-full bg-white absolute -translate-x-11 translate-y-0.5 transform transition"></span>
+      </label>
     </div>
-  </div>
+  </header>
   <div class="history m-auto sm:mx-7 xsm:mx-1 pb-8">
-    <table class="xsm:container sm:px-7 md:min-w-fit xsm:min-w-full xsm:px-5 m-auto">
-      <thead class="text-lg text-black bg-gray-200 dark:text-white dark:bg-[#232b2b]">
-        <tr>
-          <th class="border border-collapse p-1">
-            <div class="flex gap-3 justify-center">
-              <div class="hide-element"><i class="fa fa-map-marker dark:text-white" aria-hidden="true"></i></div>
-              <h2 class="font-extrabold dark:text-white md:text-lg xsm:text-[11px] xsm:font-semibold">Cities</h2>
+    <!-- <div
+      class=" sm:container sm:mx-auto xsm:mb-8 xsm:mx-3 border-gray-800 sm:px-8 xsm:px-2 py-3 flex sm:flex-row xsm:flex-col sm:items-center xsm:items-start sm:justify-between xsm:justify-around bg-gradient-to-r from-[#e4e4e4] to-gray-200 dark:bg-gradient-to-r dark:from-[#1f1d1d] dark:via-[#252525] dark:to-[#1c1919]">
+      <div class="flex">
+        <div class="w-10 flex flex-col items-center sm:mb-0 sm:ml-0 xsm:mb-3 xsm:ml-4">
+          <img src="images/weather-app.png" alt="Cloud Icon">
+          <h2 class="sm:text-base xsm:text-sm text-black dark:text-white">Lahore</h2>
+        </div>
+        <div class="sm:ml-7 xsm:ml-4">
+          <h6 class="text-4xl text-black dark:text-white font-extrabold">21&deg;<span
+              class="sm:text-base xsm:text-[12px] font-semibold"> /
+              80&deg;F</span>
+          </h6>
+          <p class="text-black sm:text-base xsm:text-[10px] dark:text-white sm:mt-0 xsm:-mt-2">Clear Sky</p>
+        </div>
+      </div>
+      <div class="flex sm:flex-row sm:justify-around xsm:flex-col xsm:gap-2 sm:grow-[1] sm:w-auto xsm:w-full">
+        <div class="flex sm:flex-col xsm:flex-row gap-2 sm:w-auto xsm:w-full">
+          <div class="flex items-center sm:justify-start xsm:justify-between border border-gray-500 rounded-full px-4 py-1 sm:w-auto xsm:w-1/2">
+            <div>
+              <h6 class="text-gray-500 text-[10px] -mb-2 dark:text-gray-300">
+                Wind Speed</h6>
+              <p class="text-base font-semibold dark:text-white">311 km/h</p>
             </div>
-          </th>
-          <th class="border border-collapse p-1 md:text-lg xsm:text-[11px] xsm:font-semibold">Weather</th>
-          <th class="border border-collapse p-1 md:text-lg xsm:text-[11px] xsm:font-semibold hide-element">Wind Speed</th>
-          <th class="border border-collapse p-1 md:text-lg xsm:text-[11px] xsm:font-semibold hide-element">Wind Direction</th>
-          <th class="border border-collapse p-1 md:text-lg xsm:text-[11px] xsm:font-semibold">Sunrise</th>
-          <th class="border border-collapse p-1 md:text-lg xsm:text-[11px] xsm:font-semibold">Sunset</th>
-          <th class="border border-collapse p-1 md:text-lg xsm:text-[11px] xsm:font-semibold">Min <span class="hide-element">Temp</span></th>
-          <th class="border border-collapse p-1 md:text-lg xsm:text-[11px] xsm:font-semibold">Max <span class="hide-element">Temp</span></th>
-          <th class="border border-collapse p-1 md:text-lg xsm:text-[11px] xsm:font-semibold">Action</th>
-        </tr>
-      </thead>
-      <tbody class="search-history">
-        <!-- <tr class="text-center dark:text-white">
-          <td class="border border-collapse p-1">Mian Channu</td>
-          <td class="border border-collapse p-1">Clear, Clear Sky</td>
-          <td class="border border-collapse p-1">120 mph</td>
-          <td class="border border-collapse p-1">54deg</td>
-          <td class="border border-collapse p-1">5:45AM</td>
-          <td class="border border-collapse p-1">2:34PM</td>
-          <td class="border border-collapse p-1">45deg</td>
-          <td class="border border-collapse p-1">78deg</td>
-          <td class="border border-collapse p-1"><button class="bg-red-800 hover:bg-red-900 transition-all px-4 py-1 rounded-lg text-xs font-bold"><i class="fa fa-trash text-white" aria-hidden="true"></i></button></td>
-        </tr> -->
-      </tbody>
-    </table>
+            <img class=" h-6 sm:ml-5 xsm:ml-2 -mr-1.5" src="images/wind.png" alt="cloud">
+          </div>
+          <div class="flex items-center sm:justify-start xsm:justify-between border border-gray-500 rounded-full px-4 py-1 sm:w-auto xsm:w-1/2">
+            <div>
+              <h6 class="text-gray-500 text-[10px] -mb-2 dark:text-gray-300">
+                Wind Direction</h6>
+              <p class="text-base font-semibold dark:text-white">330&deg;</p>
+            </div>
+            <img class="w-6 h-6 sm:ml-5 xsm:ml-2 -mr-1.5" src="images/compass.png" alt="cloud">
+          </div>
+        </div>
+        <div class="hidden md:flex flex-col gap-2">
+          <div class="flex items-center border border-gray-500 rounded-full px-4 py-1">
+            <div>
+              <h6 class="text-gray-500 text-[10px] -mb-2 dark:text-gray-300">
+                Sunrise</h6>
+              <p class="text-base font-semibold dark:text-white">5:00 AM</p>
+            </div>
+            <img class="w-6 h-6 ml-5 -mr-1.5" src="images/sunrise.png" alt="sunrise">
+          </div>
+          <div class="flex items-center border border-gray-500 rounded-full px-4 py-1">
+            <div>
+              <h6 class="text-gray-500 text-[10px] -mb-2 dark:text-gray-300">
+                Sunset</h6>
+              <p class="text-base font-semibold dark:text-white">6:00 PM</p>
+            </div>
+            <img class="w-7 h-7 ml-5 -mr-1.5" src="images/sunset.png" alt="sunset">
+          </div>
+        </div>
+        <div class="flex sm:flex-col xsm:flex-row gap-2 sm:w-auto xsm:w-full">
+          <div class="flex items-center sm:justify-start xsm:justify-between border border-gray-500 rounded-full px-4 py-1 sm:w-auto xsm:w-1/2">
+            <div>
+              <h6 class="text-gray-500 text-[10px] -mb-2 dark:text-gray-300">
+                Min Temp</h6>
+              <p class="text-base font-semibold dark:text-white">40&deg;</p>
+            </div>
+            <i
+              class="px-2 py-[3px] bg-gray-400 text-gray-50 dark:bg-gray-700 dark:text-white rounded-full sm:ml-6 xsm:ml-2 -mr-1.5 text-xs">&darr;</i>
+          </div>
+          <div class="flex items-center border sm:justify-start xsm:justify-between border-gray-500 rounded-full px-4 py-1 sm:w-auto xsm:w-1/2">
+            <div>
+              <h6 class="text-gray-500 text-[10px] -mb-2 dark:text-gray-300">
+                Max Temp</h6>
+              <p class="text-base font-semibold dark:text-white">40&deg;</p>
+            </div>
+            <i
+              class="px-2 py-[3px] bg-gray-400 text-gray-50 dark:bg-gray-700 dark:text-white rounded-full sm:ml-6 xsm:ml-2 -mr-1.5 text-xs">&uarr;</i>
+          </div>
+        </div>
+      </div>
+      <button
+        class="bg-red-800 hover:bg-red-900 transition-all px-3 py-2 rounded-full text-xs font-bold sm:relative sm:left-0 sm:-translate-y-0 xsm:absolute xsm:right-3 xsm:-translate-y-20"><i
+          class="fa fa-trash text-white" aria-hidden="true"></i></button>
+    </div> -->
   </div>
 </body>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
