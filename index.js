@@ -290,7 +290,7 @@ let populatingHistory = async ()=> {
                       Wind Speed</h6>
                     <p class="text-base font-semibold dark:text-white">${response["wind"]["speed"]} km/h</p>
                   </div>
-                  <img class="h-6 sm:ml-5 xsm:ml-2 -mr-1.5" src="wind-5ca57b1b.png" alt="cloud">
+                  <img class="h-6 sm:ml-5 xsm:ml-2 -mr-1.5" src="wind.png" alt="cloud">
                 </div>
                 <div class="flex items-center justify-between border border-gray-500 rounded-full px-4 py-1 sm:w-auto xsm:w-1/2">
                   <div>
