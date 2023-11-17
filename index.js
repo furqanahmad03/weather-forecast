@@ -18,7 +18,7 @@ $(document).ready(function () {
         let latitude = position.coords.latitude;
         let url = `https://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&appid=6618b265c24f3e0e2f3821f553b1a57e`;
         await fetch(url)
-          .then(async(response) => await response.json())
+          .then(async (response) => await response.json())
           .then((response) => {
             if (response["cod"] !== "400") {
               // IF API SUCCESSFULLY DETECTS THE LOCATION
@@ -117,7 +117,7 @@ $(document).on('click', function (e) {
 // POPULATING DATA FROM THE FETCHED API
 let populateData = async function (url, city_name) {
   let response = await fetch(url)
-    .then(async(response) => {
+    .then(async (response) => {
       return await response.json();
     })
     .then((response) => {
@@ -149,44 +149,41 @@ let populateData = async function (url, city_name) {
 
       // TIME SETTING
       let riseTime = new Date(parseInt(response["sys"]["sunrise"]) * 1000);
-        let SunRiseTime;
-        if (riseTime.getMinutes() < 10) {
-          SunRiseTime = `${riseTime.getHours()}:0${riseTime.getMinutes()}`;
-        }
-        else {
-          SunRiseTime = `${riseTime.getHours()}:${riseTime.getMinutes()}`;
-        }
+      let SunRiseTime;
+      if (riseTime.getMinutes() < 10) {
+        SunRiseTime = `${riseTime.getHours()}:0${riseTime.getMinutes()}`;
+      }
+      else {
+        SunRiseTime = `${riseTime.getHours()}:${riseTime.getMinutes()}`;
+      }
 
-        let setTime = new Date(parseInt(response["sys"]["sunset"]) * 1000);
-        let SunSetTime;
-        let hours = setTime.getHours();
-        if (hours > 12) {
-          hours -= 12;
-        }
-        if (setTime.getMinutes() < 10) {
-          SunSetTime = `${hours}:0${setTime.getMinutes()}`;
-        }
-        else {
-          SunSetTime = `${hours}:${setTime.getMinutes()}`;
-        }
+      let setTime = new Date(parseInt(response["sys"]["sunset"]) * 1000);
+      let SunSetTime;
+      let hours = setTime.getHours();
+      if (hours > 12) {
+        hours -= 12;
+      }
+      if (setTime.getMinutes() < 10) {
+        SunSetTime = `${hours}:0${setTime.getMinutes()}`;
+      }
+      else {
+        SunSetTime = `${hours}:${setTime.getMinutes()}`;
+      }
 
 
       // PUSHING DATA TO MASTER ARRAY
-      let subArr = 
-        {
-          // "city": city,
-          "temp": response["weather"]["0"]["description"],
-          "windSpeed": response["wind"]["speed"] + " mph",
-          "windDirection": response["wind"]["deg"] + "&deg;",
-          "sunRise": SunRiseTime,
-          "sunSet": SunSetTime,
-          "minTemp": (((parseFloat(response["main"]["temp_min"]) - 273.15)).toFixed(1)),
-          "maxTemp": (((parseFloat(response["main"]["temp_max"]) - 273.15)).toFixed(1))
-        }
+      let subArr =
+      {
+        // "city": city,
+        "temp": response["weather"]["0"]["description"],
+        "windSpeed": response["wind"]["speed"] + " mph",
+        "windDirection": response["wind"]["deg"] + "&deg;",
+        "sunRise": SunRiseTime,
+        "sunSet": SunSetTime,
+        "minTemp": (((parseFloat(response["main"]["temp_min"]) - 273.15)).toFixed(1)),
+        "maxTemp": (((parseFloat(response["main"]["temp_max"]) - 273.15)).toFixed(1))
+      }
       MasterArr.push(subArr);
-      console.log(MasterArr);
-
-
 
       $('#country').val("");
       $('#country').blur();
@@ -215,14 +212,14 @@ function update(city_name) {
     }
     else {
       localStorage.setItem('searchedCities', JSON.stringify(searchedCitiesArr));
-      $('#placeholder').css('display','none');
+      $('#placeholder').css('display', 'none');
       populatingHistory();
     }
   }
 }
 
 // UPDATING SEARCHED HISTORY
-let populatingHistory = async ()=> {
+let populatingHistory = async () => {
   let searchedCitiesArr = localStorage.getItem('searchedCities');
   searchedCitiesArr = JSON.parse(searchedCitiesArr);
   if (searchedCitiesArr.length < 1) {
@@ -233,11 +230,11 @@ let populatingHistory = async ()=> {
     $('.history').css('display', 'block');
   }
 
-  let str="";
-  searchedCitiesArr.forEach(async(city, index) => {
+  let str = "";
+  searchedCitiesArr.forEach(async (city, index) => {
     let url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=6618b265c24f3e0e2f3821f553b1a57e`;
     let response = await fetch(url)
-      .then(async(response) => {
+      .then(async (response) => {
         return await response.json();
       })
       .then((response) => {
@@ -267,83 +264,81 @@ let populatingHistory = async ()=> {
 
         // MAKING ROWS TO SHOW
         str += `
-              <div
-            class=" sm:container sm:mx-auto xsm:mb-8 xsm:mx-3 border-gray-800 sm:px-8 xsm:px-2 py-3 flex sm:flex-row xsm:flex-col sm:items-center xsm:items-start sm:justify-between xsm:justify-around bg-gradient-to-r from-[#e4e4e4] to-gray-200 dark:bg-gradient-to-r dark:from-[#1f1d1d] dark:via-[#252525] dark:to-[#1c1919]">
-            <div class="flex">
-              <div class="sm:w-10 xsm:w-24 flex flex-col sm:items-center xsm:items-start sm:mb-0 sm:ml-0 xsm:mb-3 xsm:ml-4">
-                <img class="w-10 mb-2" src="/weatherapp.png" alt="Cloud Icon">
-                <h2 class="sm:text-base xsm:text-sm text-black dark:text-white !leading-4 capitalize">${city}</h2>
-              </div>
-              <div class="sm:ml-7 xsm:ml-5">
-                <h6 class="text-4xl text-black dark:text-white font-extrabold">${(parseInt(response["main"]["temp"]) - 273.15).toFixed(0)}&deg;<span
-                    class="sm:text-base xsm:text-[12px] font-semibold lg:inline-block md:hidden xsm:inline-block"> /
-                    ${((parseFloat(response["main"]["temp"]) - 273.15) * 9 / 5 + 32).toFixed(1)}&deg;F</span>
-                </h6>
-                <p class="text-black sm:text-base xsm:text-[10px] dark:text-white sm:mt-0 xsm:-mt-2 capitalize">${response["weather"]["0"]["description"]}</p>
-              </div>
+          <div
+      class=" sm:container sm:mx-auto xsm:mb-8 xsm:mx-3 border-gray-800 lg:px-8 sm:px-6 xsm:px-2 py-3 flex sm:flex-row xsm:flex-col sm:items-center xsm:items-start sm:justify-between xsm:justify-around bg-gradient-to-r from-[#e4e4e4] to-gray-200 dark:bg-gradient-to-r dark:from-[#1f1d1d] dark:via-[#252525] dark:to-[#1c1919]">
+      <div class="flex">
+        <div class="w-20 xl:w-32 flex flex-col items-start sm:mb-0 sm:ml-0 xsm:mb-3 xsm:ml-4">
+          <img src="images/weather-icon.svg" alt="Cloud Icon">
+          <h2 class="sm:text-base xsm:text-sm text-black dark:text-white !leading-4 capitalize">${city}</h2>
+        </div>
+        <div class="sm:ml-7 xsm:ml-4 flex justify-center flex-col align-middle">
+          <h6 class="text-4xl text-black dark:text-white font-extrabold">${(parseInt(response["main"]["temp"]) - 273.15).toFixed(0)}&deg;<span
+              class="sm:text-base xsm:text-[12px] font-semibold"> /
+              ${((parseFloat(response["main"]["temp"]) - 273.15) * 9 / 5 + 32).toFixed(1)}&deg;F</span>
+          </h6>
+          <p class="text-black sm:text-base xsm:text-[10px] dark:text-white sm:mt-0 xsm:-mt-2 capitalize">${response["weather"]["0"]["description"]}</p>
+        </div>
+      </div>
+      <div class="flex sm:flex-row sm:justify-around xsm:flex-col xsm:gap-2 sm:grow-[1] sm:w-auto xsm:w-full">
+        <div class="flex sm:flex-col xsm:flex-row gap-2 sm:w-auto xsm:w-full">
+          <div class="flex items-center justify-between border border-gray-500 rounded-full px-4 py-1 sm:w-auto xsm:w-1/2">
+            <div>
+              <h6 class="text-gray-500 text-[10px] -mb-2 dark:text-gray-300">
+                Wind Speed</h6>
+              <p class="text-base font-semibold dark:text-white">${response["wind"]["speed"]} km/h</p>
             </div>
-            <div class="flex sm:flex-row sm:justify-around xsm:flex-col xsm:gap-2 sm:grow-[1] sm:w-auto xsm:w-full">
-              <div class="flex sm:flex-col xsm:flex-row gap-2 sm:w-auto xsm:w-full">
-                <div class="flex items-center justify-between border border-gray-500 rounded-full px-4 py-1 sm:w-auto xsm:w-1/2">
-                  <div>
-                    <h6 class="text-gray-500 text-[10px] -mb-2 dark:text-gray-300">
-                      Wind Speed</h6>
-                    <p class="text-base font-semibold dark:text-white">${response["wind"]["speed"]} km/h</p>
-                  </div>
-                  <img class="h-6 sm:ml-5 xsm:ml-2 -mr-1.5" src="/wind.png" alt="cloud">
-                </div>
-                <div class="flex items-center justify-between border border-gray-500 rounded-full px-4 py-1 sm:w-auto xsm:w-1/2">
-                  <div>
-                    <h6 class="text-gray-500 text-[10px] -mb-2 dark:text-gray-300">
-                      Wind Direction</h6>
-                    <p class="text-base font-semibold dark:text-white">${response["wind"]["deg"]}&deg;</p>
-                  </div>
-                  <img class="w-6 h-6 sm:ml-5 xsm:ml-2 -mr-1.5" src="/compass.png" alt="cloud">
-                </div>
-              </div>
-              <div class="hidden md:flex flex-col gap-2">
-                <div class="flex items-center border border-gray-500 rounded-full px-4 py-1">
-                  <div>
-                    <h6 class="text-gray-500 text-[10px] -mb-2 dark:text-gray-300">
-                      Sunrise</h6>
-                    <p class="text-base font-semibold dark:text-white">${SunRiseTime} AM</p>
-                  </div>
-                  <img class="w-6 h-6 ml-5 -mr-1.5" src="sunrise.png" alt="sunrise">
-                </div>
-                <div class="flex items-center border border-gray-500 rounded-full px-4 py-1">
-                  <div>
-                    <h6 class="text-gray-500 text-[10px] -mb-2 dark:text-gray-300">
-                      Sunset</h6>
-                    <p class="text-base font-semibold dark:text-white">${SunSetTime} PM</p>
-                  </div>
-                  <img class="w-7 h-7 ml-5 -mr-1.5" src="/sunset.png" alt="sunset">
-                </div>
-              </div>
-              <div class="flex sm:flex-col xsm:flex-row gap-2 sm:w-auto xsm:w-full">
-                <div class="flex items-center sm:justify-start xsm:justify-between border border-gray-500 rounded-full px-4 py-1 sm:w-auto xsm:w-1/2">
-                  <div>
-                    <h6 class="text-gray-500 text-[10px] -mb-2 dark:text-gray-300">
-                      Min Temp</h6>
-                    <p class="text-base font-semibold dark:text-white">${(((parseFloat(response["main"]["temp_min"]) - 273.15)).toFixed(1))}&deg;</p>
-                  </div>
-                  <i
-                    class="px-2 py-[3px] bg-gray-400 text-gray-50 dark:bg-gray-700 dark:text-white rounded-full sm:ml-6 xsm:ml-2 -mr-1.5 text-xs">&darr;</i>
-                </div>
-                <div class="flex items-center border sm:justify-start xsm:justify-between border-gray-500 rounded-full px-4 py-1 sm:w-auto xsm:w-1/2">
-                  <div>
-                    <h6 class="text-gray-500 text-[10px] -mb-2 dark:text-gray-300">
-                      Max Temp</h6>
-                    <p class="text-base font-semibold dark:text-white">${(((parseFloat(response["main"]["temp_max"]) - 273.15)).toFixed(1))}&deg;</p>
-                  </div>
-                  <i
-                    class="px-2 py-[3px] bg-gray-400 text-gray-50 dark:bg-gray-700 dark:text-white rounded-full sm:ml-6 xsm:ml-2 -mr-1.5 text-xs">&uarr;</i>
-                </div>
-              </div>
-            </div>
-            <button data-index="${index}"
-              class="deleteItem bg-red-800 hover:bg-red-900 transition-all px-3 py-2 rounded-full text-xs font-bold sm:relative sm:left-0 sm:-translate-y-0 xsm:absolute xsm:right-3 xsm:-translate-y-20"><i
-                class="fa fa-trash text-white" aria-hidden="true"></i></button>
+            <img class="w-6 h-6 lg:ml-5 -mr-1.5 zoom" src="images/wind.svg" alt="sunrise">
           </div>
+          <div class="flex items-center justify-between border border-gray-500 rounded-full px-4 py-1 sm:w-auto xsm:w-1/2">
+            <div>
+              <h6 class="text-gray-500 text-[10px] -mb-2 dark:text-gray-300">
+                Wind Direction</h6>
+              <p class="text-base font-semibold dark:text-white">${response["wind"]["deg"]}&deg;</p>
+            </div>
+            <img class="w-6 h-6 lg:ml-5 -mr-1.5 zoom" src="images/compass.svg" alt="sunrise">
+          </div>
+        </div>
+        <div class="hidden md:flex flex-col gap-2">
+          <div class="flex items-center justify-between border border-gray-500 rounded-full px-4 py-1">
+            <div>
+              <h6 class="text-gray-500 text-[10px] -mb-2 dark:text-gray-300">
+                Sunrise</h6>
+              <p class="text-base font-semibold dark:text-white">${SunRiseTime} AM</p>
+            </div>
+            <img class="w-6 h-6 lg:ml-5 -mr-1.5 zoom" src="images/day.svg" alt="sunrise">
+          </div>
+          <div class="flex items-center justify-between border border-gray-500 rounded-full px-4 py-1">
+            <div>
+              <h6 class="text-gray-500 text-[10px] -mb-2 dark:text-gray-300">
+                Sunset</h6>
+              <p class="text-base font-semibold dark:text-white">${SunSetTime} PM</p>
+            </div>
+            <img class="w-6 h-6 lg:ml-5 -mr-1.5 zoom" src="images/night.svg" alt="sunrise">
+          </div>
+        </div>
+        <div class="flex sm:flex-col xsm:flex-row gap-2 sm:w-auto xsm:w-full">
+          <div class="flex items-center justify-between border border-gray-500 rounded-full px-4 py-1 sm:w-auto xsm:w-1/2">
+            <div>
+              <h6 class="text-gray-500 text-[10px] -mb-2 dark:text-gray-300">
+                Min Temp</h6>
+              <p class="text-base font-semibold dark:text-white">${(((parseFloat(response["main"]["temp_min"]) - 273.15)).toFixed(1))}&deg;</p>
+            </div>
+              <img class="w-6 h-6 lg:ml-5 -mr-1.5 zoom" src="images/temp-low.svg" alt="sunrise">
+          </div>
+          <div class="flex items-center border justify-between border-gray-500 rounded-full px-4 py-1 sm:w-auto xsm:w-1/2">
+            <div>
+              <h6 class="text-gray-500 text-[10px] -mb-2 dark:text-gray-300">
+                Max Temp</h6>
+              <p class="text-base font-semibold dark:text-white">${(((parseFloat(response["main"]["temp_max"]) - 273.15)).toFixed(1))}&deg;</p>
+            </div>
+              <img class="w-6 h-6 lg:ml-5 -mr-1.5 zoom" src="images/temp-high.svg" alt="sunrise">
+          </div>
+        </div>
+      </div>
+      <button data-index="${index}"
+        class="deleteItem bg-red-800 hover:bg-red-900 transition-all px-3 py-2 rounded-full text-xs font-bold sm:relative sm:left-0 sm:-translate-y-0 xsm:absolute xsm:right-3 xsm:-translate-y-24"><i
+          class="fa fa-trash text-white" aria-hidden="true"></i></button>
+    </div>
         `;
 
 
