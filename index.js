@@ -269,7 +269,7 @@ let populatingHistory = async () => {
       class=" sm:container sm:mx-auto xsm:mb-8 xsm:mx-3 border-gray-800 lg:px-8 sm:px-6 xsm:px-2 py-3 flex sm:flex-row xsm:flex-col sm:items-center xsm:items-start sm:justify-between xsm:justify-around bg-gradient-to-r from-[#e4e4e4] to-gray-200 dark:bg-gradient-to-r dark:from-[#1f1d1d] dark:via-[#252525] dark:to-[#1c1919]">
       <div class="flex">
         <div class="w-20 xl:w-32 flex flex-col items-start sm:mb-0 sm:ml-0 xsm:mb-3 xsm:ml-4">
-          <img src="/${imageAddresses[0]}" alt="Cloud Icon">
+          <img src="./${imageAddresses[0]}" alt="Cloud Icon">
           <h2 class="sm:text-base xsm:text-sm text-black dark:text-white !leading-4 capitalize">${city}</h2>
         </div>
         <div class="sm:ml-7 xsm:ml-4 flex justify-center flex-col align-middle">
@@ -288,7 +288,7 @@ let populatingHistory = async () => {
                 Wind Speed</h6>
               <p class="text-base font-semibold dark:text-white">${response["wind"]["speed"]} km/h</p>
             </div>
-            <img class="w-6 h-6 lg:ml-5 -mr-1.5 zoom" src="/${imageAddresses[1]}" alt="sunrise">
+            <img class="w-6 h-6 lg:ml-5 -mr-1.5 zoom" src="./${imageAddresses[1]}" alt="sunrise">
           </div>
           <div class="flex items-center justify-between border border-gray-500 rounded-full px-4 py-1 sm:w-auto xsm:w-1/2">
             <div>
@@ -296,7 +296,7 @@ let populatingHistory = async () => {
                 Wind Direction</h6>
               <p class="text-base font-semibold dark:text-white">${response["wind"]["deg"]}&deg;</p>
             </div>
-            <img class="w-6 h-6 lg:ml-5 -mr-1.5 zoom" src="/${imageAddresses[2]}" alt="sunrise">
+            <img class="w-6 h-6 lg:ml-5 -mr-1.5 zoom" src="./${imageAddresses[2]}" alt="sunrise">
           </div>
         </div>
         <div class="hidden md:flex flex-col gap-2">
@@ -306,7 +306,7 @@ let populatingHistory = async () => {
                 Sunrise</h6>
               <p class="text-base font-semibold dark:text-white">${SunRiseTime} AM</p>
             </div>
-            <img class="w-6 h-6 lg:ml-5 -mr-1.5 zoom" src="/${imageAddresses[3]}" alt="sunrise">
+            <img class="w-6 h-6 lg:ml-5 -mr-1.5 zoom" src="./${imageAddresses[3]}" alt="sunrise">
           </div>
           <div class="flex items-center justify-between border border-gray-500 rounded-full px-4 py-1">
             <div>
@@ -314,7 +314,7 @@ let populatingHistory = async () => {
                 Sunset</h6>
               <p class="text-base font-semibold dark:text-white">${SunSetTime} PM</p>
             </div>
-            <img class="w-6 h-6 lg:ml-5 -mr-1.5 zoom" src="/${imageAddresses[4]}" alt="sunrise">
+            <img class="w-6 h-6 lg:ml-5 -mr-1.5 zoom" src="./${imageAddresses[4]}" alt="sunrise">
           </div>
         </div>
         <div class="flex sm:flex-col xsm:flex-row gap-2 sm:w-auto xsm:w-full">
@@ -324,7 +324,7 @@ let populatingHistory = async () => {
                 Min Temp</h6>
               <p class="text-base font-semibold dark:text-white">${(((parseFloat(response["main"]["temp_min"]) - 273.15)).toFixed(1))}&deg;</p>
             </div>
-              <img class="w-6 h-6 lg:ml-5 -mr-1.5 zoom" src="/${imageAddresses[5]}" alt="sunrise">
+              <img class="w-6 h-6 lg:ml-5 -mr-1.5 zoom" src="./${imageAddresses[5]}" alt="sunrise">
           </div>
           <div class="flex items-center border justify-between border-gray-500 rounded-full px-4 py-1 sm:w-auto xsm:w-1/2">
             <div>
@@ -332,7 +332,7 @@ let populatingHistory = async () => {
                 Max Temp</h6>
               <p class="text-base font-semibold dark:text-white">${(((parseFloat(response["main"]["temp_max"]) - 273.15)).toFixed(1))}&deg;</p>
             </div>
-              <img class="w-6 h-6 lg:ml-5 -mr-1.5 zoom" src="/${imageAddresses[6]}" alt="sunrise">
+              <img class="w-6 h-6 lg:ml-5 -mr-1.5 zoom" src="./${imageAddresses[6]}" alt="sunrise">
           </div>
         </div>
       </div>
