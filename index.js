@@ -269,7 +269,7 @@ let populatingHistory = async () => {
       class=" sm:container sm:mx-auto xsm:mb-8 xsm:mx-3 border-gray-800 lg:px-8 sm:px-6 xsm:px-2 py-3 flex sm:flex-row xsm:flex-col sm:items-center xsm:items-start sm:justify-between xsm:justify-around bg-gradient-to-r from-[#e4e4e4] to-gray-200 dark:bg-gradient-to-r dark:from-[#1f1d1d] dark:via-[#252525] dark:to-[#1c1919]">
       <div class="flex">
         <div class="w-20 xl:w-32 flex flex-col items-start sm:mb-0 sm:ml-0 xsm:mb-3 xsm:ml-4">
-          <img src="/images/weather-icon.svg" alt="Cloud Icon">
+          <img src="./images/weather-icon.svg" alt="Cloud Icon">
           <h2 class="sm:text-base xsm:text-sm text-black dark:text-white !leading-4 capitalize">${city}</h2>
         </div>
         <div class="sm:ml-7 xsm:ml-4 flex justify-center flex-col align-middle">
