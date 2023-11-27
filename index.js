@@ -268,7 +268,7 @@ let populatingHistory = async () => {
       class=" sm:container sm:mx-auto xsm:mb-8 xsm:mx-3 border-gray-800 lg:px-8 sm:px-6 xsm:px-2 py-3 flex sm:flex-row xsm:flex-col sm:items-center xsm:items-start sm:justify-between xsm:justify-around bg-gradient-to-r from-[#e4e4e4] to-gray-200 dark:bg-gradient-to-r dark:from-[#1f1d1d] dark:via-[#252525] dark:to-[#1c1919]">
       <div class="flex">
         <div class="w-20 xl:w-32 flex flex-col items-start sm:mb-0 sm:ml-0 xsm:mb-3 xsm:ml-4">
-          <img class="w-10 mb-2" src="https://imgur.com/tKkSzo1" alt="Cloud Icon">
+          <img class="w-10 mb-2" src="https://i.imgur.com/tKkSzo1.png" alt="Cloud Icon">
           <h2 class="sm:text-base xsm:text-sm text-black dark:text-white !leading-4 capitalize">${city}</h2>
         </div>
         <div class="ml-0 sm:ml-3 flex justify-center flex-col align-middle">
@@ -287,7 +287,7 @@ let populatingHistory = async () => {
                 Wind Speed</h6>
               <p class="text-base font-semibold dark:text-white">${response["wind"]["speed"]} km/h</p>
             </div>
-            <img class="h-6 sm:ml-5 xsm:ml-2 -mr-1.5" src="/images/wind.png" alt="cloud">
+            <img class="h-6 sm:ml-5 xsm:ml-2 -mr-1.5" src="https://i.imgur.com/ntEcWuo.png" alt="cloud">
           </div>
           <div class="flex items-center justify-between border border-gray-500 rounded-full px-4 py-1 sm:w-auto xsm:w-1/2">
             <div>
@@ -295,7 +295,7 @@ let populatingHistory = async () => {
                 Wind Direction</h6>
               <p class="text-base font-semibold dark:text-white">${response["wind"]["deg"]}&deg;</p>
             </div>
-            <img class="w-6 h-6 sm:ml-5 xsm:ml-2 -mr-1.5" src="/images/compass.png" alt="cloud">
+            <img class="w-6 h-6 sm:ml-5 xsm:ml-2 -mr-1.5" src="https://i.imgur.com/1CnxJAL.png" alt="cloud">
           </div>
         </div>
         <div class="hidden md:flex flex-col gap-2">
@@ -305,7 +305,7 @@ let populatingHistory = async () => {
                 Sunrise</h6>
               <p class="text-base font-semibold dark:text-white">${SunRiseTime} AM</p>
             </div>
-            <img class="w-6 h-6 ml-5 -mr-1.5" src="/images/sunrise.png" alt="sunrise">
+            <img class="w-6 h-6 ml-5 -mr-1.5" src="https://i.imgur.com/PTQRnsa.png" alt="sunrise">
           </div>
           <div class="flex items-center justify-between border border-gray-500 rounded-full px-4 py-1">
             <div>
@@ -313,7 +313,7 @@ let populatingHistory = async () => {
                 Sunset</h6>
               <p class="text-base font-semibold dark:text-white">${SunSetTime} PM</p>
             </div>
-            <img class="w-7 h-7 ml-5 -mr-1.5" src="/images/sunset.png" alt="sunset">
+            <img class="w-7 h-7 ml-5 -mr-1.5" src="https://i.imgur.com/DIHZs9v.png" alt="sunset">
           </div>
         </div>
         <div class="flex sm:flex-col xsm:flex-row gap-2 sm:w-auto xsm:w-full">
