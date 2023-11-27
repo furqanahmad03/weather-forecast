@@ -59,7 +59,7 @@ $('#country').on('input', () => {
   // DISPLAYING SUGGESTION LIST
   $('#suggestions-list').html("");
   if (filteredStates.length > 0) {
-    filteredStates.forEach((state) => {
+    filteredStates.slice(0,6).forEach((state) => {
       const litElement = $('<li>');
       litElement.addClass("py-2 px-3 cursor-pointer border-transparent rounded-md transition dark:hover:bg-[#2d2d2d] hover:bg-gray-400");
       litElement.text(state.name);
