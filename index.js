@@ -271,7 +271,7 @@ let populatingHistory = async () => {
           <img class="w-10 mb-2" src="https://i.imgur.com/tKkSzo1.png" alt="Cloud Icon">
           <h2 class="sm:text-base xsm:text-sm text-black dark:text-white !leading-4 capitalize">${city}</h2>
         </div>
-        <div class="ml-0 sm:ml-3 flex justify-center flex-col align-middle">
+        <div class="ml-2 sm:ml-3 flex justify-center flex-col align-middle">
           <h6 class="text-4xl text-black dark:text-white font-extrabold">${(parseInt(response["main"]["temp"]) - 273.15).toFixed(0)}&deg;<span
               class="sm:text-base xsm:text-[12px] font-semibold"> /
               ${((parseFloat(response["main"]["temp"]) - 273.15) * 9 / 5 + 32).toFixed(1)}&deg;F</span>
