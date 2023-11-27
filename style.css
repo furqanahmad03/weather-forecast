@@ -7,8 +7,6 @@
 .dark{
   background-color: #2d2d2d;
 }
-.zoom{
-  zoom: 1.5;
-}
+
 
 @tailwind utilities;
